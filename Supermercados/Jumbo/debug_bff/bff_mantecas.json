@@ -1,0 +1,372 @@
+{
+  "products": [
+    {
+      "productId": "148",
+      "reference": "330635",
+      "sponsoredId": null,
+      "slug": "manteca-astra-pan-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "14"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantecas"
+      ],
+      "collections": [
+        "21672",
+        "23175",
+        "24281",
+        "24533"
+      ],
+      "brand": "Astra",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 2260,
+          "listPrice": 2260,
+          "ppumPrice": 11300,
+          "ppumListPrice": 11300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/297674-250-250/Manteca-200-g.jpg?v=638775742048000000"
+          ],
+          "name": "Manteca Astra 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6775",
+      "reference": "302938",
+      "sponsoredId": null,
+      "slug": "manteca-crucina-pan-200-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "14"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantecas"
+      ],
+      "collections": [
+        "21672"
+      ],
+      "brand": "Crucina",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6863",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 2060,
+          "listPrice": 2060,
+          "ppumPrice": 10300,
+          "ppumListPrice": 10300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348613-250-250/Manteca-200-g.jpg?v=638776486505800000"
+          ],
+          "name": "Manteca Crucina 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "56995",
+      "reference": "1710700",
+      "sponsoredId": null,
+      "slug": "manteca-crucina-panadera-vegetal-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "14"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantecas"
+      ],
+      "collections": [
+        "24282",
+        "24284"
+      ],
+      "brand": "Crucina",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "57310",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3650,
+          "listPrice": 3650,
+          "ppumPrice": 3650,
+          "ppumListPrice": 3650,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360185-250-250/Manteca-Crucina-panadera-vegetal-1-kg-1-435878.jpg?v=638776731522700000"
+          ],
+          "name": "Manteca Crucina Panadera Vegetal 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Mantecas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/mantecas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Mantecas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/mantecas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Mantecas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/mantecas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Astra",
+          "value": "Astra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crucina",
+          "value": "Crucina",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2060,
+          "maxValue": 3650
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Manteca",
+          "value": "Manteca",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 3,
+  "metaTag": {
+    "title": "Mantecas | Jumbo.cl",
+    "description": "Cocina y hornea con las mantecas disponibles en nuestro sitio web para obtener excelentes resultados. Selecciona tus marcas favoritas en el catálogo online."
+  }
+}

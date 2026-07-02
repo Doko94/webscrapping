@@ -1,0 +1,1969 @@
+{
+  "products": [
+    {
+      "productId": "119111",
+      "reference": "1938760",
+      "sponsoredId": null,
+      "slug": "hamburguesa-vegetal-not-burger-95g-1938760",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27174"
+      ],
+      "brand": "NotCo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "119412",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.095,
+          "price": 1690,
+          "listPrice": 1690,
+          "ppumPrice": 17789,
+          "ppumListPrice": 17789,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/579195-250-250/Hamburguesa-Vegetal-NotBurger-95-g.jpg?v=639071561692470000"
+          ],
+          "name": "Hamburguesa Vegetal NotBurger 95 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "17422",
+      "reference": "1662330",
+      "sponsoredId": null,
+      "slug": "hamburguesa-de-soya-la-crianza-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "23175",
+        "25354",
+        "25601",
+        "27209",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "14752",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 890,
+          "listPrice": 1150,
+          "ppumPrice": 8900,
+          "ppumListPrice": 11500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303413-250-250/Hamburguesa-de-soya-100-g.jpg?v=638776377280730000"
+          ],
+          "name": "Hamburguesa Soya La Crianza 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 890 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 890,
+              "ppumPrice": 8900,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1073",
+      "reference": "1495035",
+      "sponsoredId": null,
+      "slug": "hamburguesa-de-soya-mr-veggie-bolsa-100-g-1-unid-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [],
+      "brand": "Mister Veggie",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1076",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 900,
+          "listPrice": 900,
+          "ppumPrice": 9000,
+          "ppumListPrice": 9000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298380-250-250/Hamburguesa-de-soya-100-g.jpg?v=638775751696130000"
+          ],
+          "name": "Hamburguesa Soya Mister Veggie 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103799",
+      "reference": "1891489",
+      "sponsoredId": null,
+      "slug": "vegan-burger-receta-del-abuelo-100g-1891489",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "104067",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 11900,
+          "ppumListPrice": 11900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/374285-250-250/Vegan-Burger-100-g.jpg?v=638776799053530000"
+          ],
+          "name": "Hamburguesa Vegetal Receta del Abuelo Vegan Burger 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "105490",
+      "reference": "1894729",
+      "sponsoredId": null,
+      "slug": "hamburguesa-meat-free-la-crianza-100g-1894729",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "22523",
+        "25354",
+        "25601",
+        "27209"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "105754",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1250,
+          "listPrice": 1250,
+          "ppumPrice": 12500,
+          "ppumListPrice": 12500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/375146-250-250/Hamburguesa-Plant-based-100-g.jpg?v=638776802310200000"
+          ],
+          "name": "Hamburguesa Vegetal La Crianza Plant Based 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122666",
+      "reference": "1950909",
+      "sponsoredId": null,
+      "slug": "not-chicken-burger-95gr-1950909",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27174"
+      ],
+      "brand": "NotCo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122956",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.095,
+          "price": 1690,
+          "listPrice": 1690,
+          "ppumPrice": 17789,
+          "ppumListPrice": 17789,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/583929-250-250/Hamburguesa-Vegetal-NotChicken-Burger-95-g.jpg?v=639076275760200000"
+          ],
+          "name": "Hamburguesa Vegetal NotChicken Burger 95 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "106023",
+      "reference": "1897160",
+      "sponsoredId": null,
+      "slug": "hamburguesa-vegetal-not-burger-xl-150gr-1897160",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "27174"
+      ],
+      "brand": "NotCo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "106291",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 14600,
+          "ppumListPrice": 14600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/579015-250-250/Hamburguesa-Vegetal-NotBurger-XL-150-g.jpg?v=639071561464270000"
+          ],
+          "name": "Hamburguesa Vegetal NotBurger XL 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159884",
+      "reference": "1717037",
+      "sponsoredId": null,
+      "slug": "hamburguesa-vegetal-rikue-garbanzos-110-g-4-un-1717037",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [],
+      "brand": "Rikü",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160248",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.44,
+          "price": 4199,
+          "listPrice": 4199,
+          "ppumPrice": 9543,
+          "ppumListPrice": 9543,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/538169-250-250/Caja-de-hamburguesas-de-garbanzos-Riku-4-unid-110-g-c-u.jpg?v=638984753113100000"
+          ],
+          "name": "Hamburguesa Vegetal Rikü Garbanzos 110 g 4 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115391",
+      "reference": "1934634",
+      "sponsoredId": null,
+      "slug": "vegan-burger-sabor-pepinillos-rda-100g-1934634",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115656",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1150,
+          "listPrice": 1150,
+          "ppumPrice": 11500,
+          "ppumListPrice": 11500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/381546-250-250/Vegan-Burger-sabor-pepinillos-100-g.jpg?v=638776827448600000"
+          ],
+          "name": "Hamburguesa Vegetal Receta del Abuelo Vegan Burger Pepinillos 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127754",
+      "reference": "1964233",
+      "sponsoredId": null,
+      "slug": "hamburguesa-de-vegetales-beyond-85g-1964233",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Beyond Meat",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128048",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 2250,
+          "listPrice": 2250,
+          "ppumPrice": 26471,
+          "ppumListPrice": 26471,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/422114-250-250/Hamburguesa-Vegetal-Beyond-Meat-85-g.jpg?v=638809573117370000"
+          ],
+          "name": "Hamburguesa Vegetal Beyond Meat 85 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115393",
+      "reference": "1934636",
+      "sponsoredId": null,
+      "slug": "vegetal-burger-porotos-negros-rda-100g-1934636",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115660",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1150,
+          "listPrice": 1150,
+          "ppumPrice": 11500,
+          "ppumListPrice": 11500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/381552-250-250/Vegetal-Burger-porotos-negros-100-g.jpg?v=638776827472900000"
+          ],
+          "name": "Hamburguesa Vegetal Receta del Abuelo Porotos Negros 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122425",
+      "reference": "1950910",
+      "sponsoredId": null,
+      "slug": "hamburguesa-base-soya-vegmonkey-100g-1950910",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "1055",
+        "23984",
+        "23985"
+      ],
+      "brand": "Vegmonkey",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122709",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 800,
+          "listPrice": 800,
+          "ppumPrice": 8000,
+          "ppumListPrice": 8000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/417609-250-250/Hamburguesa-Vegetal-Vegmonkey-Base-Soya-100-g.jpg?v=638804971393800000"
+          ],
+          "name": "Hamburguesa Vegetal Vegmonkey Base Soya 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159840",
+      "reference": "1662064",
+      "sponsoredId": null,
+      "slug": "hamburguesa-vegetal-rikue-480-g-1662064",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [],
+      "brand": "Rikü",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160204",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.48,
+          "price": 5290,
+          "listPrice": 5290,
+          "ppumPrice": 11021,
+          "ppumListPrice": 11021,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/538165-250-250/Sucedaneo-de-hamburguesa-vegana-Riku-480-g.jpg?v=638984752093000000"
+          ],
+          "name": "Hamburguesa Vegetal Rikü 480 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "140729",
+      "reference": "2004273",
+      "sponsoredId": null,
+      "slug": "hamburguesa-garbanzos-vegmonkey-100g-2004273",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "23984",
+        "23985"
+      ],
+      "brand": "Vegmonkey",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "141023",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 800,
+          "listPrice": 800,
+          "ppumPrice": 8000,
+          "ppumListPrice": 8000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/417624-250-250/Hamburguesa-de-Garbanzos-VegMonkey-100-g.jpg?v=638804971483230000"
+          ],
+          "name": "Hamburguesa Vegetal Vegmonkey Garbanzos 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "131127",
+      "reference": "1975685",
+      "sponsoredId": null,
+      "slug": "hamburguesa-seitan-400-g-vegusta-1975685",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "23984",
+        "23985"
+      ],
+      "brand": "Vegusta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "131425",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 9975,
+          "ppumListPrice": 9975,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/320964-250-250/Hamburguesa-Seitan-400-g.jpg?v=638776422168100000"
+          ],
+          "name": "Hamburguesa Vegetal Vegusta Seitan 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "148933",
+      "reference": "2039557",
+      "sponsoredId": null,
+      "slug": "hamburguesa-90gr-2039557",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "23984"
+      ],
+      "brand": "Vegusta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149229",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.09,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 13222,
+          "ppumListPrice": 13222,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/438324-250-250/Hamburguesa-Vegusta-Dark-Side-90-g.jpg?v=638832715286930000"
+          ],
+          "name": "Hamburguesa Vegetal Vegusta Dark Side 90 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "140730",
+      "reference": "2004272",
+      "sponsoredId": null,
+      "slug": "hamburguesa-lentejas-vegmonkey-100g-2004272",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "23984",
+        "23985"
+      ],
+      "brand": "Vegmonkey",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "141024",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 800,
+          "listPrice": 800,
+          "ppumPrice": 8000,
+          "ppumListPrice": 8000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/417622-250-250/Hamburguesa-de-Lentejas-VegMonkey-100-g.jpg?v=638804971463500000"
+          ],
+          "name": "Hamburguesa Vegetal Vegmonkey Lentejas 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "147883",
+      "reference": "2029205",
+      "sponsoredId": null,
+      "slug": "hamburguesa-100gr-2029205",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [],
+      "brand": "Frutos de Lonquén",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "148179",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 18900,
+          "ppumListPrice": 18900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/488533-250-250/Hamburguesa-de-Champi%C3%B1on-Frutos-Lonquen-100-g.jpg?v=638894807681170000"
+          ],
+          "name": "Hamburguesa de Champiñón Frutos Lonquén 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "62872",
+      "reference": "1761220",
+      "sponsoredId": null,
+      "slug": "hamburguesa-beyond-meat-beast-sucedanea-vegana-227-g-2",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "1055",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Beyond Meat",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "62981",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.227,
+          "price": 5990,
+          "listPrice": 7290,
+          "ppumPrice": 26388,
+          "ppumListPrice": 32115,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309566-250-250/Hamburguesa-Vegetal-Beyond-Meat-227-g.jpg?v=638776389391730000"
+          ],
+          "name": "Hamburguesa Vegetal Beyond Meat 227 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5990,
+              "ppumPrice": 26388,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132266",
+      "reference": "1984064",
+      "sponsoredId": null,
+      "slug": "hamb-de-veget-beyond-cookout-5-un-1984064",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Beyond Meat",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132548",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 5,
+          "price": 15790,
+          "listPrice": 15790,
+          "ppumPrice": 3158,
+          "ppumListPrice": 3158,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/422054-250-250/Hamburguesa-Vegetal-Beyond-Meat-Cookout-5-un.jpg?v=638809571771270000"
+          ],
+          "name": "Hamburguesa Vegetal Beyond Meat Cookout 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "148932",
+      "reference": "2039556",
+      "sponsoredId": null,
+      "slug": "hamburguesa-100gr-2039556",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [
+        "23984"
+      ],
+      "brand": "Vegusta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149228",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 11900,
+          "ppumListPrice": 11900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/438320-250-250/Hamburguesa-Vegusta-Seitan-100-g.jpg?v=638832715275970000"
+          ],
+          "name": "Hamburguesa Vegetal Vegusta Seitán 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159841",
+      "reference": "1717039",
+      "sponsoredId": null,
+      "slug": "hamburguesas-de-lentejas-rikue-440-g-1717039",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [],
+      "brand": "Rikü",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160205",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.44,
+          "price": 4299,
+          "listPrice": 4299,
+          "ppumPrice": 9770,
+          "ppumListPrice": 9770,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/538167-250-250/Hamburguesas-de-lentejas-Riku-440-g.jpg?v=638984752241630000"
+          ],
+          "name": "Hamburguesas de lentejas Rikü 440 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "82534",
+      "reference": "1821139",
+      "sponsoredId": null,
+      "slug": "hamburguesa-de-garbanzos-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [],
+      "brand": "Rikü",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "82802",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 2090,
+          "listPrice": 2090,
+          "ppumPrice": 10450,
+          "ppumListPrice": 10450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365047-250-250/Hamburguesa-de-garbanzos-200-g-1-122950401.jpg?v=638776756996730000"
+          ],
+          "name": "Hamburguesa Vegetal Rikü Garbanzos 200 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122665",
+      "reference": "1821142",
+      "sponsoredId": null,
+      "slug": "hamburguesa-de-soya-riku-200g-1821142",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1142"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas Vegetales"
+      ],
+      "collections": [],
+      "brand": "Rikü",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122950",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 2090,
+          "listPrice": 2090,
+          "ppumPrice": 10450,
+          "ppumListPrice": 10450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/388379-250-250/Hamburguesa-de-soya-200-g.jpg?v=638776855638800000"
+          ],
+          "name": "Hamburguesa Vegetal Rikü Soya 200 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Hamburguesas Vegetales",
+          "value": "/lacteos-huevos-y-congelados/hamburguesas/hamburguesas-vegetales",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Hamburguesas Vegetales",
+          "value": "/lacteos-huevos-y-congelados/hamburguesas/hamburguesas-vegetales",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Hamburguesas Vegetales",
+          "value": "/lacteos-huevos-y-congelados/hamburguesas/hamburguesas-vegetales",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "NotCo",
+          "value": "NotCo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Crianza",
+          "value": "La Crianza",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mister Veggie",
+          "value": "Mister Veggie",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Receta del Abuelo",
+          "value": "Receta del Abuelo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rikü",
+          "value": "Rikü",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Beyond Meat",
+          "value": "Beyond Meat",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegmonkey",
+          "value": "Vegmonkey",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegusta",
+          "value": "Vegusta",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutos de Lonquén",
+          "value": "Frutos de Lonquén",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Halal",
+          "value": "Halal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 800,
+          "maxValue": 15790
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Hamburguesas de Legumbres",
+          "value": "Hamburguesas de Legumbres",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hamburguesas de Verduras",
+          "value": "Hamburguesas de Verduras",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hamburguesas de Soya",
+          "value": "Hamburguesas de Soya",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hamburguesa",
+          "value": "Hamburguesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sucedáneos de Carne",
+          "value": "Sucedáneos de Carne",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "100 g",
+          "value": "100 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "100g",
+          "value": "100g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "150 g",
+          "value": "150 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "227 g",
+          "value": "227 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Garbanzos",
+          "value": "Garbanzos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hamburguesa",
+          "value": "Hamburguesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lentejas",
+          "value": "Lentejas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sabor Ahumado",
+          "value": "Sabor Ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sabor Grillado",
+          "value": "Sabor Grillado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Verduras",
+          "value": "Verduras",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Artesanal",
+          "value": "Artesanal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "No Aplica",
+          "value": "No Aplica",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Premium",
+          "value": "Premium",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Congelados",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Envasado",
+          "value": "ENVASADO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "No Aplica",
+          "value": "No Aplica",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5 Unidades",
+          "value": "5 Piezas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bandeja",
+          "value": "Bandeja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sobre",
+          "value": "Sobre",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 24,
+  "metaTag": null
+}

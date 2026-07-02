@@ -1,0 +1,19 @@
+
+Subcategorías:
+- Vinos y Espumantes -> https://www.jumbo.cl/licores-bebidas-y-aguas/vinos/vinos-y-espumantes-destacados
+- Vinos Tintos -> https://www.jumbo.cl/licores-bebidas-y-aguas/vinos/vinos-tintos
+
+Scrape: Vinos y Espumantes
+
+--- XHR/Fetch candidatos (filtrado) ---
+⚠️ 0 productos (no se detectó JSON de productos): https://www.jumbo.cl/licores-bebidas-y-aguas/vinos/vinos-y-espumantes-destacados
+  productos: 0
+
+Scrape: Vinos Tintos
+
+--- XHR/Fetch candidatos (filtrado) ---
+⚠️ 0 productos (no se detectó JSON de productos): https://www.jumbo.cl/licores-bebidas-y-aguas/vinos/vinos-tintos
+  productos: 0
+
+Total filas: 0
+CSV generado: output\licores_bebidas_aguas\jumbo_licores_bebidas_y_aguas_20260303_134441.csv

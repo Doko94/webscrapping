@@ -1,0 +1,616 @@
+{
+  "products": [
+    {
+      "productId": "98093",
+      "reference": "1850676",
+      "sponsoredId": null,
+      "slug": "nuggets-de-pollo-ready-400-g-cuisine-and-co-1850676",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1152",
+        "1155"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Alitas de Pollo"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98362",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 6725,
+          "ppumListPrice": 6725,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/370582-250-250/Nuggets-de-pollo-Ready-400-g.jpg?v=638776783183330000"
+          ],
+          "name": "Nuggets de Pollo Cuisine & Co Ready 400 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "81053",
+      "reference": "1808005",
+      "sponsoredId": null,
+      "slug": "golden-chicken-picante-sadia-300g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1152",
+        "1155"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Alitas de Pollo"
+      ],
+      "collections": [
+        "27487",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sadia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81325",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 3390,
+          "listPrice": 4090,
+          "ppumPrice": 11300,
+          "ppumListPrice": 13633,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/364540-250-250/Golden-Chicken-sabor-picante-300-g.jpg?v=638776754620600000"
+          ],
+          "name": "Golden Chicken Sadia Sabor Picante 300 g",
+          "stock": false,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3390 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3390,
+              "ppumPrice": 11300,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Nuggets y Alitas de Pollo",
+          "value": "/lacteos-huevos-y-congelados/nuggets-apanados-y-embutidos/nuggets-y-alitas-de-pollo",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Nuggets y Alitas de Pollo",
+          "value": "/lacteos-huevos-y-congelados/nuggets-apanados-y-embutidos/nuggets-y-alitas-de-pollo",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Nuggets y Alitas de Pollo",
+          "value": "/lacteos-huevos-y-congelados/nuggets-apanados-y-embutidos/nuggets-y-alitas-de-pollo",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Super Pollo",
+          "value": "Super Pollo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Crianza",
+          "value": "La Crianza",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sadia",
+          "value": "Sadia",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Receta del Abuelo",
+          "value": "Receta del Abuelo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fundo Sur",
+          "value": "Fundo Sur",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "1 kg",
+          "value": "1 kg",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1672,
+          "maxValue": 16190
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Brasil",
+          "value": "Brasil",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "carne vacuno",
+          "value": "carne vacuno",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tradicional",
+          "value": "Tradicional",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "10 Unidades",
+          "value": "10 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Apanados",
+          "value": "Apanados",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Congelados",
+          "value": "Congelados",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Nuggets de Pollo",
+          "value": "Nuggets de Pollo",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Croquetas de Vacuno",
+          "value": "Croquetas de Vacuno",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alitas de Pollo",
+          "value": "Alitas de Pollo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pollo",
+          "value": "Pollo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Apanados",
+          "value": "Apanados",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Congelados",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Refrigerado",
+          "value": "Refrigerado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 18,
+  "metaTag": {
+    "title": "Nuggets y Alitas de Pollo | Jumbo.cl",
+    "description": "Si quieres una opción rápida y sabrosa para tu próxima comida, los nuggets de pollo son perfectos para ti. ¡Ingresa a Jumbo.cl y consíguelos con un clic!"
+  }
+}

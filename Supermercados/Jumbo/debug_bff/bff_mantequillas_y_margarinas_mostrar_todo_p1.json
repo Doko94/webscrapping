@@ -1,0 +1,2885 @@
+{
+  "products": [
+    {
+      "productId": "6782",
+      "reference": "302949",
+      "sponsoredId": null,
+      "slug": "mantequilla-con-sal-colun-250-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "19270",
+        "21575",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26919",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6870",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 2890,
+          "listPrice": 3520,
+          "ppumPrice": 11560,
+          "ppumListPrice": 14080,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348618-250-250/Mantequilla-con-sal-250-g.jpg?v=638776486573930000"
+          ],
+          "name": "Mantequilla Colun con Sal 250 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2890 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2890,
+              "ppumPrice": 11560,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6797",
+      "reference": "302978",
+      "sponsoredId": null,
+      "slug": "mantequilla-con-sal-soprole-250-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "21575",
+        "22523",
+        "25354",
+        "25400",
+        "25988",
+        "27309"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6885",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3270,
+          "listPrice": 3270,
+          "ppumPrice": 13080,
+          "ppumListPrice": 13080,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348628-250-250/Mantequilla-con-Sal-250-g.jpg?v=638776486720600000"
+          ],
+          "name": "Mantequilla Soprole con Sal 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146528",
+      "reference": "2028315",
+      "sponsoredId": null,
+      "slug": "mantequilla-con-sal-sin-lact-surlat-200g-2028315",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [],
+      "brand": "Surlat",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146822",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 2870,
+          "listPrice": 2870,
+          "ppumPrice": 14350,
+          "ppumListPrice": 14350,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/345854-250-250/Mantequilla-con-Sal-Sin-Lactosa-Surlat-200-g.jpg?v=638776445047830000"
+          ],
+          "name": "Mantequilla Sin Lactosa Surlat con Sal 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "87899",
+      "reference": "1801284",
+      "sponsoredId": null,
+      "slug": "mantequilla-de-campo-250-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Kümey",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "88170",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3190,
+          "listPrice": 3490,
+          "ppumPrice": 12760,
+          "ppumListPrice": 13960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311890-250-250/Mantequilla-Kumey-de-Campo-250-g.jpg?v=638776394924100000"
+          ],
+          "name": "Mantequilla Kumey de Campo 250 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3190 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3190,
+              "ppumPrice": 12760,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159504",
+      "reference": "2055144",
+      "sponsoredId": null,
+      "slug": "mantequilla-320gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159867",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.32,
+          "price": 6200,
+          "listPrice": 6200,
+          "ppumPrice": 19375,
+          "ppumListPrice": 19375,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/535091-250-250/MANTEQUILLA-320GR.jpg?v=638979453220300000"
+          ],
+          "name": "Mantequilla Soprole Untable Pote 320 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6784",
+      "reference": "597023",
+      "sponsoredId": null,
+      "slug": "mantequilla-colun-pote-200-g-con-sal",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25768"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6872",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 3790,
+          "listPrice": 3790,
+          "ppumPrice": 18950,
+          "ppumListPrice": 18950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348622-250-250/Mantequilla-200-g.jpg?v=638776486618630000"
+          ],
+          "name": "Mantequilla Colun 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6796",
+      "reference": "302977",
+      "sponsoredId": null,
+      "slug": "mantequilla-soprole-pan-125-g-con-sal",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "24283"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6884",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 1820,
+          "listPrice": 1820,
+          "ppumPrice": 14560,
+          "ppumListPrice": 14560,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300421-250-250/Mantequilla-con-Sal-125-g.jpg?v=638776373364570000"
+          ],
+          "name": "Mantequilla Soprole con Sal 125 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6781",
+      "reference": "302948",
+      "sponsoredId": null,
+      "slug": "mantequilla-colun-pan-125-g-con-sal",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6869",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 1850,
+          "listPrice": 1850,
+          "ppumPrice": 14800,
+          "ppumListPrice": 14800,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348616-250-250/Mantequilla-Colun-con-sal-125-g.jpg?v=638776486550170000"
+          ],
+          "name": "Mantequilla Colun con Sal 125 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146527",
+      "reference": "2028314",
+      "sponsoredId": null,
+      "slug": "mantequilla-con-sal-quillayes-200gr-2028314",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "22523",
+        "25354",
+        "25583",
+        "25584",
+        "25670",
+        "26917",
+        "27391",
+        "27461",
+        "27499",
+        "27501",
+        "27518",
+        "27521",
+        "27522",
+        "27553",
+        "27601"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146821",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 3040,
+          "listPrice": 3040,
+          "ppumPrice": 15200,
+          "ppumListPrice": 15200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/428305-250-250/Mantequilla-Quillayes-con-Sal-200-g.jpg?v=638811016422900000"
+          ],
+          "name": "Mantequilla Quillayes con Sal 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4X8990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 8990,
+              "unitPrice": 2248,
+              "ppumPrice": 11240,
+              "mQuantity": 4,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138477",
+      "reference": "1995545",
+      "sponsoredId": null,
+      "slug": "mantequilla-c-s-250g-cuisine-and-co-nbe-mp-1995545",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "23331",
+        "23432",
+        "23703",
+        "23857",
+        "23858",
+        "24285",
+        "24532",
+        "24534",
+        "24738",
+        "25222",
+        "26500",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27297",
+        "27499",
+        "27501",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138773",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 2690,
+          "listPrice": 2990,
+          "ppumPrice": 10760,
+          "ppumListPrice": 11960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/330464-250-250/Mantequilla-Cuisine---Co-Con-Sal-250-g.jpg?v=638776432453100000"
+          ],
+          "name": "Mantequilla Cuisine & Co con Sal 250 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 3",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2690,
+              "ppumPrice": 10760,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6798",
+      "reference": "302979",
+      "sponsoredId": null,
+      "slug": "mantequilla-soprole-pan-250-g-sin-sal",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "19270",
+        "24940"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6886",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3580,
+          "listPrice": 3580,
+          "ppumPrice": 14320,
+          "ppumListPrice": 14320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348629-250-250/Mantequilla-Sin-Sal-250-g.jpg?v=638776486730600000"
+          ],
+          "name": "Mantequilla Soprole Sin Sal 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6792",
+      "reference": "302966",
+      "sponsoredId": null,
+      "slug": "mantequillalos-alerces-con-sal-pan-250-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [],
+      "brand": "Fundo Los Alerces",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6880",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3190,
+          "listPrice": 3190,
+          "ppumPrice": 12760,
+          "ppumListPrice": 12760,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348624-250-250/Mantequilla-con-sal-250-g.jpg?v=638776486648170000"
+          ],
+          "name": "Mantequilla Los Alerces con Sal 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6830",
+      "reference": "596728",
+      "sponsoredId": null,
+      "slug": "margarina-soprole-pote-500-g-mix-con-mantequilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25988"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6918",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 7980,
+          "ppumListPrice": 7980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/483910-250-250/Margarina-Soprole-Mix-con-Mantequilla-Pote-500-g.jpg?v=638888080873270000"
+          ],
+          "name": "Margarina Soprole Mix con Mantequilla Pote 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6783",
+      "reference": "302950",
+      "sponsoredId": null,
+      "slug": "mantequilla-colun-pan-250-g-sin-sal",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6871",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3890,
+          "listPrice": 3890,
+          "ppumPrice": 15560,
+          "ppumListPrice": 15560,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348620-250-250/Mantequilla-sin-sal-250-g.jpg?v=638776486598000000"
+          ],
+          "name": "Mantequilla Colun Sin Sal 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150052",
+      "reference": "2037149",
+      "sponsoredId": null,
+      "slug": "mantequilla-125g-2037149",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517",
+        "27605"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150351",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 1690,
+          "listPrice": 1690,
+          "ppumPrice": 13520,
+          "ppumListPrice": 13520,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/512057-250-250/2037149-01_707321.jpg?v=638942641836000000"
+          ],
+          "name": "Mantequilla con Sal Cuisine & Co 125g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "149",
+      "reference": "1631230",
+      "sponsoredId": null,
+      "slug": "mantequilla-untable-soprole-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "25768"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "151",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 4270,
+          "listPrice": 4270,
+          "ppumPrice": 21350,
+          "ppumListPrice": 21350,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/417324-250-250/Mantequilla-Soprole-Untable-Pote-200-g.jpg?v=638804309390370000"
+          ],
+          "name": "Mantequilla Soprole Untable Pote 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "20127",
+      "reference": "1667025",
+      "sponsoredId": null,
+      "slug": "mantequilla-calo-350-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "19270",
+        "25768"
+      ],
+      "brand": "Calo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "20451",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 5380,
+          "listPrice": 5380,
+          "ppumPrice": 15371,
+          "ppumListPrice": 15371,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/432127-250-250/Mantequilla-Calo-Con-Sal-Untable-350-g.jpg?v=638822341791930000"
+          ],
+          "name": "Mantequilla Calo con Sal Untable 350 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6795",
+      "reference": "1447891",
+      "sponsoredId": null,
+      "slug": "mantequilla-soprole-con-sal-de-mar-envase-de-250-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "27599",
+        "27601"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6883",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3740,
+          "listPrice": 3740,
+          "ppumPrice": 14960,
+          "ppumListPrice": 14960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348627-250-250/Mantequilla-con-Sal-de-Mar-250-g.jpg?v=638776486706070000"
+          ],
+          "name": "Mantequilla Soprole con Sal de Mar 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "144139",
+      "reference": "2020059",
+      "sponsoredId": null,
+      "slug": "mantequilla-las-parcelas-de-valdiv-200gr-2020059",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "22523"
+      ],
+      "brand": "Las Parcelas de Valdivia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144433",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 3170,
+          "listPrice": 3170,
+          "ppumPrice": 15850,
+          "ppumListPrice": 15850,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/340966-250-250/Mantequilla-Las-Parcelas-de-Valdivia-200-g.jpg?v=638776441222700000"
+          ],
+          "name": "Mantequilla Las Parcelas de Valdivia 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "148435",
+      "reference": "2032693",
+      "sponsoredId": null,
+      "slug": "mantequilla-200gr-2032693",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "23175",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Loncoleche",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "148732",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 2000,
+          "listPrice": 2620,
+          "ppumPrice": 10000,
+          "ppumListPrice": 13100,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/419233-250-250/MANTEQUILLA-lonco-200GR.jpg?v=638809252024170000"
+          ],
+          "name": "Mantequilla Loncoleche 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2000 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2000,
+              "ppumPrice": 10000,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6823",
+      "reference": "749042",
+      "sponsoredId": null,
+      "slug": "margarina-con-sal-qualy-500g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [
+        "19270"
+      ],
+      "brand": "Qualy",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6911",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 5380,
+          "ppumListPrice": 5380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348641-250-250/Margarina-con-sal-500-g.jpg?v=638776486908070000"
+          ],
+          "name": "Margarina Qualy con Sal 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "106486",
+      "reference": "1893413",
+      "sponsoredId": null,
+      "slug": "mantequilla-artesanal-futaleufu-250gr-1893413",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [],
+      "brand": "Futaleufu",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "106754",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 13960,
+          "ppumListPrice": 13960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/376028-250-250/Mantequilla-artesanal-250-g.jpg?v=638776806020170000"
+          ],
+          "name": "Mantequilla Futaleufú Artesanal 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6780",
+      "reference": "302946",
+      "sponsoredId": null,
+      "slug": "mantequilla-calo-con-sal-pan-250-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [],
+      "brand": "Calo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6868",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 11960,
+          "ppumListPrice": 11960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348615-250-250/Mantequilla-con-sal-250-g.jpg?v=638776486533300000"
+          ],
+          "name": "Mantequilla Calo con Sal 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "125617",
+      "reference": "1957073",
+      "sponsoredId": null,
+      "slug": "mantequilla-surlat-con-sal-200gr-1957073",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [],
+      "brand": "Surlat",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "125910",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 2670,
+          "listPrice": 2670,
+          "ppumPrice": 13350,
+          "ppumListPrice": 13350,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/391431-250-250/Mantequilla-Surlat-con-Sal-200-g.jpg?v=638776867647700000"
+          ],
+          "name": "Mantequilla Surlat con Sal 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "39662",
+      "reference": "1668038",
+      "sponsoredId": null,
+      "slug": "mantequilla-quillayes-sin-lactosa-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "42678",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 3490,
+          "listPrice": 4070,
+          "ppumPrice": 17450,
+          "ppumListPrice": 20350,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/357220-250-250/Mantequilla-sin-lactosa-Quillayes-200-g.jpg?v=638776716527600000"
+          ],
+          "name": "Sucedáneo de Mantequilla Quillayes Sin Lactosa 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3490,
+              "ppumPrice": 17450,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "83252",
+      "reference": "1812254",
+      "sponsoredId": null,
+      "slug": "manteq-soprole-receta-de-campo-pan-250g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "83518",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3390,
+          "listPrice": 3390,
+          "ppumPrice": 13560,
+          "ppumListPrice": 13560,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365305-250-250/Mantequilla-Receta-de-Campo-250-g.jpg?v=638776758215100000"
+          ],
+          "name": "Mantequilla Soprole Receta de Campo 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127325",
+      "reference": "1965569",
+      "sponsoredId": null,
+      "slug": "mantequilla-kerrygold-c-sal-200-gr-1965569",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "14967",
+        "25338",
+        "25340"
+      ],
+      "brand": "Kerrygold",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127618",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 4890,
+          "listPrice": 4890,
+          "ppumPrice": 24450,
+          "ppumListPrice": 24450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319413-250-250/Mantequilla-con-Sal-Kerrygold-200-g.jpg?v=638776417472930000"
+          ],
+          "name": "Mantequilla con Sal Kerrygold 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "42881",
+      "reference": "1705384",
+      "sponsoredId": null,
+      "slug": "margarina-surena-mix-500-g",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sureña",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "32563",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 2890,
+          "listPrice": 3790,
+          "ppumPrice": 5780,
+          "ppumListPrice": 7580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306921-250-250/Margarina-Sure%C3%B1a-Mix-450-g.jpg?v=638776383433500000"
+          ],
+          "name": "Margarina Sureña Mix 450 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2890 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2890,
+              "ppumPrice": 5780,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "88015",
+      "reference": "1844681",
+      "sponsoredId": null,
+      "slug": "mantequilla-de-vacas-libres-de-pastoreo-250-g",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "1057"
+      ],
+      "brand": "Ecoterra",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "88286",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 4590,
+          "listPrice": 4590,
+          "ppumPrice": 18360,
+          "ppumListPrice": 18360,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311788-250-250/Mantequilla-de-vacas-libres-de-pastoreo-250-g.jpg?v=638776394653370000"
+          ],
+          "name": "Mantequilla Ecoterra con Sal Vacas Libre Pastoreo 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "158881",
+      "reference": "2054040",
+      "sponsoredId": null,
+      "slug": "margarina-qualy-sabor-mantequilla-500gr-2054040",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [],
+      "brand": "Qualy",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159212",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 2890,
+          "listPrice": 2890,
+          "ppumPrice": 5780,
+          "ppumListPrice": 5780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/533278-250-250/Margarina-Qualy-Sabor-Mantequilla-500-g.jpg?v=638979415233600000"
+          ],
+          "name": "Margarina Qualy Sabor Mantequilla 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132526",
+      "reference": "1982341",
+      "sponsoredId": null,
+      "slug": "mantequilla-sal-de-mar-san-ignacio-230gr-1982341",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [],
+      "brand": "San Ignacio",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132806",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.23,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 17348,
+          "ppumListPrice": 17348,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/400449-250-250/Mantequilla-Sal-de-Mar-San-Ignacio-230-g.jpg?v=638776901315130000"
+          ],
+          "name": "Mantequilla San Ignacio Sal de Mar 230 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "155980",
+      "reference": "2048540",
+      "sponsoredId": null,
+      "slug": "margarina-soprole-pan-mix-200gr-2048540",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [
+        "25988",
+        "27309",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156300",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1390,
+          "listPrice": 1690,
+          "ppumPrice": 6950,
+          "ppumListPrice": 8450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/502006-250-250/Margarina-Soprole-Mix-con-Mantequilla-200-g.jpg?v=638923745409170000"
+          ],
+          "name": "Margarina Soprole Mix con Mantequilla 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1390 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1390,
+              "ppumPrice": 6950,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "149252",
+      "reference": "1533039",
+      "sponsoredId": null,
+      "slug": "mantequilla-kerrygold-ajo-y-hierbas-100g-1533039",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "25338",
+        "25340"
+      ],
+      "brand": "Kerrygold",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149548",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 29900,
+          "ppumListPrice": 29900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/439304-250-250/Mantequilla-Kerrygold-ajo-y-hierbas-100g.jpg?v=638833161919730000"
+          ],
+          "name": "Mantequilla Kerrygold ajo y hierbas 100g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "147636",
+      "reference": "2025011",
+      "sponsoredId": null,
+      "slug": "mantequilla-225gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147932",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.225,
+          "price": 7200,
+          "listPrice": 7200,
+          "ppumPrice": 32000,
+          "ppumListPrice": 32000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/565496-250-250/MANTEQUILLA-225GR.jpg?v=639041060385870000"
+          ],
+          "name": "Mantequilla Ghee Quillayes 225 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156117",
+      "reference": "2049074",
+      "sponsoredId": null,
+      "slug": "sucedaneo-mantequilla-orasi-light-250gr-2049074",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [],
+      "brand": "OraSì",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156436",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 11960,
+          "ppumListPrice": 11960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/508445-250-250/Sucedaneo-de-Mantequilla-Orasi-Buttery-Light-250-g.jpg?v=638935566133630000"
+          ],
+          "name": "Sucedáneo de Mantequilla Orasi Buttery Light 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "101168",
+      "reference": "1863124",
+      "sponsoredId": null,
+      "slug": "mantequilla-kerrygold-s-sal-200-gr-1863124",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "15"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Mantequillas"
+      ],
+      "collections": [
+        "14967",
+        "25338",
+        "25340"
+      ],
+      "brand": "Kerrygold",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "101437",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 4890,
+          "listPrice": 4890,
+          "ppumPrice": 24450,
+          "ppumListPrice": 24450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313710-250-250/Mantequilla-irlandesa-sin-sal-200-g.jpg?v=638776400295070000"
+          ],
+          "name": "Mantequilla Kerrygold Irlandesa Sin Sal 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "74289",
+      "reference": "1784255",
+      "sponsoredId": null,
+      "slug": "margarina-mix-30-soprole-pote-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74545",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 4570,
+          "listPrice": 4570,
+          "ppumPrice": 9140,
+          "ppumListPrice": 9140,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/483328-250-250/Margarina-Soprole-Mix-30--Mantequilla-Pote-500-g.jpg?v=638888078252700000"
+          ],
+          "name": "Margarina Soprole Mix 30% Mantequilla Pote 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159476",
+      "reference": "2055143",
+      "sponsoredId": null,
+      "slug": "margarina-mix-250g-2055143",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159838",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 2590,
+          "listPrice": 2590,
+          "ppumPrice": 10360,
+          "ppumListPrice": 10360,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/535090-250-250/MARGARINA-MIX-250G.jpg?v=638979453215970000"
+          ],
+          "name": "Margarina Soprole Mix 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6827",
+      "reference": "303032",
+      "sponsoredId": null,
+      "slug": "margarina-soprole-cremosa-con-leche-pan-250-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6915",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 1550,
+          "listPrice": 1550,
+          "ppumPrice": 6200,
+          "ppumListPrice": 6200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348643-250-250/Margarina-250-g.jpg?v=638776486933830000"
+          ],
+          "name": "Margarina Soprole 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6833",
+      "reference": "303040",
+      "sponsoredId": null,
+      "slug": "margarina-surena-450-g-con-mantequilla-del-sur",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sureña",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6921",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.45,
+          "price": 2190,
+          "listPrice": 2900,
+          "ppumPrice": 4867,
+          "ppumListPrice": 6444,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300402-250-250/Margarina-Sure%C3%B1a-450-g.jpg?v=638776373331600000"
+          ],
+          "name": "Margarina Sureña 450 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2190 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2190,
+              "ppumPrice": 4867,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Mantequillas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/mantequillas",
+          "selected": false,
+          "quantity": 41,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Margarinas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/margarinas",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mantecas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/mantecas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Levadura Fresca",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/levadura-fresca",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Mantequillas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/mantequillas",
+          "selected": false,
+          "quantity": 41,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Margarinas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/margarinas",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mantecas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/mantecas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Levadura Fresca",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/levadura-fresca",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Mantequillas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/mantequillas",
+          "selected": false,
+          "quantity": 41,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Margarinas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/margarinas",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mantecas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/mantecas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Levadura Fresca",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/levadura-fresca",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Colun",
+          "value": "Colun",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Soprole",
+          "value": "Soprole",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Surlat",
+          "value": "Surlat",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kümey",
+          "value": "Kümey",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quillayes",
+          "value": "Quillayes",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fundo Los Alerces",
+          "value": "Fundo Los Alerces",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Calo",
+          "value": "Calo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Las Parcelas de Valdivia",
+          "value": "Las Parcelas de Valdivia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Loncoleche",
+          "value": "Loncoleche",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Qualy",
+          "value": "Qualy",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Futaleufu",
+          "value": "Futaleufu",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kerrygold",
+          "value": "Kerrygold",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sureña",
+          "value": "Sureña",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ecoterra",
+          "value": "Ecoterra",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Ignacio",
+          "value": "San Ignacio",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "OraSì",
+          "value": "OraSì",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crucina",
+          "value": "Crucina",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Astra",
+          "value": "Astra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Deline",
+          "value": "Deline",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Intremo",
+          "value": "Intremo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nutrileza",
+          "value": "Nutrileza",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Collico",
+          "value": "Collico",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lefersa",
+          "value": "Lefersa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 64,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 64,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 64,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 64,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 64,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 64,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 64,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 38,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 35,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Mantequilla",
+          "value": "Mantequilla",
+          "selected": false,
+          "quantity": 40,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Margarina",
+          "value": "Margarina",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mantequilla-Margarina",
+          "value": "Mantequilla-Margarina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manteca",
+          "value": "Manteca",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kéfir",
+          "value": "Kéfir",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Levadura Seca",
+          "value": "Levadura Seca",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 590,
+          "maxValue": 12490
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 56,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Refrigerado",
+          "value": "Refrigerado",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 66,
+  "metaTag": {
+    "title": "Mantequillas y Margarinas | Jumbo.cl",
+    "description": "¡Las mantequillas y margarinas son el complemento perfecto para tus tostadas matutinas! Ingresa a nuestro catálogo online y obtén marcas de excelencia."
+  }
+}

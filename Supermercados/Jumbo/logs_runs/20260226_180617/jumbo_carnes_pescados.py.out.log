@@ -1,0 +1,549 @@
+
+Subcategorías:
+- Carnes Premium -> https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-premium
+- Carnes Americana -> https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-americana
+- Carnes para Parrilla -> https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-para-parrilla
+- Carnes para Horno -> https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-para-horno
+- Trutros y Pechugas a Granel -> https://www.jumbo.cl/carnes-y-pescados/pollo/trutros-y-pechugas-a-granel
+- Filetes y Pechuga de Pollo -> https://www.jumbo.cl/carnes-y-pescados/pollo/filetes-y-pechugas-de-pollo
+- Alitas y Trutros de Pollo -> https://www.jumbo.cl/carnes-y-pescados/pollo/alitas-y-trutros-de-pollo
+- Pollo Entero -> https://www.jumbo.cl/carnes-y-pescados/pollo/pollo-entero
+- Costillar y Costillitas -> https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/costillar-y-costillitas
+- Chuletas y Filetes -> https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/chuletas-y-filetes
+- Pulpa y Lomo de Cerdo -> https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/pulpa-y-lomo-de-cerdo
+- Malaya y Otros Cortes -> https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/malaya-y-otros-cortes
+- Filetes y Pechugas de Pavo -> https://www.jumbo.cl/carnes-y-pescados/pavo/filetes-y-pechugas-de-pavo
+- Pavo Entero -> https://www.jumbo.cl/carnes-y-pescados/pavo/pavo-entero
+- Trutros y Bistec de Pavo -> https://www.jumbo.cl/carnes-y-pescados/pavo/trutros-y-bistec-de-pavo
+- Carne Molida y Albondigas de Pavo -> https://www.jumbo.cl/carnes-y-pescados/pavo/carne-molida-y-albondigas-de-pavo
+- Pescados Frescos -> https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-frescos
+- Pescados Congelados -> https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-congelados
+- Pescados Apanados -> https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-apanados
+- Pescados Frescos Envasados -> https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-frescos-envasados
+- Camarones Crudos -> https://www.jumbo.cl/carnes-y-pescados/camarones/camarones-crudos
+- Camarones Cocidos -> https://www.jumbo.cl/carnes-y-pescados/camarones/camarones-cocidos
+- Camarones Apanados -> https://www.jumbo.cl/carnes-y-pescados/camarones/camarones-apanados
+- Mariscos Frescos -> https://www.jumbo.cl/carnes-y-pescados/mariscos/mariscos-frescos
+- Mariscos Congelados -> https://www.jumbo.cl/carnes-y-pescados/mariscos/mariscos-congelados
+- Mariscos en Conserva -> https://www.jumbo.cl/carnes-y-pescados/mariscos/mariscos-en-conserva
+
+Scrape: Carnes Premium
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+02. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/carnes-premium.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/carnes-premium.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/carnes-premium.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 37
+  productos: 37
+
+Scrape: Carnes Americana
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/carnes-americana.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/carnes-americana.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/carnes-americana.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 26
+  productos: 26
+
+Scrape: Carnes para Parrilla
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/carnes-para-parrilla.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/carnes-para-parrilla.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/carnes-para-parrilla.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/carnes-para-parrilla.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 23
+  productos: 63
+
+Scrape: Carnes para Horno
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/carnes-para-horno.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/carnes-para-horno.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/carnes-para-horno.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 6
+  productos: 6
+
+Scrape: Trutros y Pechugas a Granel
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/trutros-y-pechugas-a-granel.json
+09. 200 https://assets.jumbo.cl/json/cms/trutros-y-pechugas-a-granel.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/trutros-y-pechugas-a-granel.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 5
+  productos: 5
+
+Scrape: Filetes y Pechuga de Pollo
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/filetes-y-pechugas-de-pollo.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/filetes-y-pechugas-de-pollo.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/filetes-y-pechugas-de-pollo.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 36
+  productos: 36
+
+Scrape: Alitas y Trutros de Pollo
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/alitas-y-trutros-de-pollo.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/alitas-y-trutros-de-pollo.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/alitas-y-trutros-de-pollo.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 30
+  productos: 30
+
+Scrape: Pollo Entero
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/pollo-entero.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/pollo-entero.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/pollo-entero.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 17
+  productos: 17
+
+Scrape: Costillar y Costillitas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/costillar-y-costillitas.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/costillar-y-costillitas.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/costillar-y-costillitas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 13
+  productos: 13
+
+Scrape: Chuletas y Filetes
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/chuletas-y-filetes.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/chuletas-y-filetes.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/chuletas-y-filetes.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 8
+  productos: 8
+
+Scrape: Pulpa y Lomo de Cerdo
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/pulpa-y-lomo-de-cerdo.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/pulpa-y-lomo-de-cerdo.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/pulpa-y-lomo-de-cerdo.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 16
+  productos: 16
+
+Scrape: Malaya y Otros Cortes
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/malaya-y-otros-cortes.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/malaya-y-otros-cortes.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/malaya-y-otros-cortes.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 12
+  productos: 12
+
+Scrape: Filetes y Pechugas de Pavo
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/filetes-y-pechugas-de-pavo.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/filetes-y-pechugas-de-pavo.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/filetes-y-pechugas-de-pavo.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 4
+  productos: 4
+
+Scrape: Pavo Entero
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/pavo-entero.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/pavo-entero.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-100823.json
+⚠️ 0 productos (no se detectó JSON de productos): https://www.jumbo.cl/carnes-y-pescados/pavo/pavo-entero
+  productos: 0
+
+Scrape: Trutros y Bistec de Pavo
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/trutros-y-bistec-de-pavo.json
+06. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+07. 200 https://assets.jumbo.cl/json/cms/list-category.json
+08. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+09. 200 https://assets.jumbo.cl/json/cms/trutros-y-bistec-de-pavo.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/trutros-y-bistec-de-pavo.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 3
+  productos: 3
+
+Scrape: Carne Molida y Albondigas de Pavo
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/carne-molida-y-albondigas-de-pavo.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/list-category.json
+09. 200 https://assets.jumbo.cl/json/cms/carne-molida-y-albondigas-de-pavo.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/carne-molida-y-albondigas-de-pavo.json
+⚠️ 0 productos (no se detectó JSON de productos): https://www.jumbo.cl/carnes-y-pescados/pavo/carne-molida-y-albondigas-de-pavo
+  productos: 0
+
+Scrape: Pescados Frescos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/pescados-frescos.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/pescados-frescos.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/pescados-frescos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 17
+  productos: 17
+
+Scrape: Pescados Congelados
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/pescados-congelados.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/pescados-congelados.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/pescados-congelados.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 28
+  productos: 28
+
+Scrape: Pescados Apanados
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/pescados-apanados.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/pescados-apanados.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/pescados-apanados.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 21
+  productos: 21
+
+Scrape: Pescados Frescos Envasados
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 404 https://assets.jumbo.cl/json/cms/pescados-frescos-envasados.json
+09. 200 https://bff.jumbo.cl/catalog/plp
+10. 200 https://assets.jumbo.cl/json/cms/page-100823.json
+⚠️ 0 productos (no se detectó JSON de productos): https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-frescos-envasados
+  productos: 0
+
+Scrape: Camarones Crudos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/camarones-crudos.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/camarones-crudos.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/camarones-crudos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 6
+  productos: 6
+
+Scrape: Camarones Cocidos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/camarones-cocidos.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/camarones-cocidos.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/camarones-cocidos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 17
+  productos: 17
+
+Scrape: Camarones Apanados
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/camarones-apanados.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/camarones-apanados.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/camarones-apanados.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 3
+  productos: 3
+
+Scrape: Mariscos Frescos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/mariscos-frescos.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/mariscos-frescos.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/mariscos-frescos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 15
+  productos: 15
+
+Scrape: Mariscos Congelados
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/mariscos-congelados.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/mariscos-congelados.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/mariscos-congelados.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 16
+  productos: 16
+
+Scrape: Mariscos en Conserva
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/mariscos-en-conserva.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+09. 200 https://assets.jumbo.cl/json/cms/mariscos-en-conserva.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/mariscos-en-conserva.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 14
+  productos: 14
+
+Total filas: 413
+CSV generado: output\carnes_pescados\jumbo_carnes_y_pescados_20260226_180904.csv

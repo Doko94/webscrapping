@@ -1,0 +1,3393 @@
+{
+  "products": [
+    {
+      "productId": "162809",
+      "reference": "2058939",
+      "sponsoredId": "yRl0bgoQBpnhBnWJfWqeBLfidTW8ORIQAZwzA9ZUfLKtGGhZYIjJpxoQBjxues0Ed1-QJGMZ8MU0HiIKCgYxNjMxODgQATCtsgFArQJIAVDLp8CLyTNgrQJyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "chocolates-bombone-2058939",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [],
+      "brand": "Sahne Nuss",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "163188",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.144,
+          "price": 15990,
+          "listPrice": 15990,
+          "ppumPrice": 111042,
+          "ppumListPrice": 111042,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/564966-250-250/Bombon-Sahne-Nuss-Praline-Pistacho-144-g.jpg?v=639040067818470000"
+          ],
+          "name": "Bombón Sahne Nuss Praliné Pistacho 144 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115521",
+      "reference": "1930985",
+      "sponsoredId": null,
+      "slug": "barras-cochoc-5un",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546",
+        "831",
+        "999",
+        "1002"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Azúcar Añadida"
+      ],
+      "collections": [
+        "1051",
+        "17155",
+        "17156",
+        "24498"
+      ],
+      "brand": "The Wild Foods",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115792",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 5,
+          "price": 5790,
+          "listPrice": 5790,
+          "ppumPrice": 1158,
+          "ppumListPrice": 1158,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/424287-250-250/Barra-Coco-Chocolate-Wild-Fit-Sin-Azucar-A%C3%B1adida-5-un-175-g.jpg?v=638810456984870000"
+          ],
+          "name": "Barra Coco Chocolate Wild Fit Sin Azúcar Añadida 5 un. 175 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "18871",
+      "reference": "1607070",
+      "sponsoredId": null,
+      "slug": "chocolate-menta-gottena-300-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17155",
+        "17156",
+        "17157",
+        "18357",
+        "27261",
+        "27305"
+      ],
+      "brand": "Gottena",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "19195",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 3990,
+          "listPrice": 6790,
+          "ppumPrice": 13300,
+          "ppumListPrice": 22633,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304139-250-250/Chocolate-Amargo-Gottena-Con-Menta-300-g.jpg?v=638776379179170000"
+          ],
+          "name": "Chocolate Amargo Gottena con Menta 300 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3990 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 24022026 AL 09032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 13300,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3643",
+      "reference": "1552288",
+      "sponsoredId": null,
+      "slug": "chocolate-en-ramas-costa-115-g-de-leche-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "17846",
+        "25333",
+        "25334",
+        "25354",
+        "25422",
+        "25670",
+        "25695",
+        "25969",
+        "25974",
+        "26816",
+        "26853",
+        "26912",
+        "26916",
+        "26917",
+        "26928",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27541"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3649",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.115,
+          "price": 2490,
+          "listPrice": 2850,
+          "ppumPrice": 21652,
+          "ppumListPrice": 24783,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346855-250-250/Chocolate-de-leche-en-ramas-115-g.jpg?v=638776464078930000"
+          ],
+          "name": "Chocolate de Leche Costa Rama 115 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2490,
+              "ppumPrice": 21652,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X4560 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 4560,
+              "unitPrice": 2280,
+              "ppumPrice": 19826,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "128077",
+      "reference": "1967989",
+      "sponsoredId": null,
+      "slug": "chocolate-con-leche-m-and-ms-pouch-141-8-gr-1967989",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "22523",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "26912",
+        "26954",
+        "26955",
+        "26956",
+        "27367",
+        "27445"
+      ],
+      "brand": "M&M's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128371",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.141,
+          "price": 3350,
+          "listPrice": 3350,
+          "ppumPrice": 23759,
+          "ppumListPrice": 23759,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/394198-250-250/CHOCOLATE-CON-LECHE-M-MS-POUCH-1418-GR.jpg?v=638776877852100000"
+          ],
+          "name": "Chocolate de Leche M&M 141.8 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "35835",
+      "reference": "1651248",
+      "sponsoredId": null,
+      "slug": "chocolate-snickers-funsize-300-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "19270",
+        "22523",
+        "26912",
+        "26954",
+        "26955",
+        "26956",
+        "27367",
+        "27445"
+      ],
+      "brand": "Snickers",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "39855",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 7190,
+          "listPrice": 7190,
+          "ppumPrice": 23967,
+          "ppumListPrice": 23967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/356837-250-250/Chocolate-Fun-Size-300-g.jpg?v=638776714570170000"
+          ],
+          "name": "Chocolate de Leche Snicker Mini con Mani 12 un. 300 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "18972",
+      "reference": "268921",
+      "sponsoredId": null,
+      "slug": "chocolate-after-eight-de-nestle-200-g-crema-de-menta-con-chocolate",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17154",
+        "17155",
+        "17156",
+        "25347",
+        "25519",
+        "25520",
+        "26777",
+        "26793",
+        "26794",
+        "26912",
+        "27105",
+        "27367",
+        "27507",
+        "27512"
+      ],
+      "brand": "After Eight",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "19296",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 8190,
+          "listPrice": 8190,
+          "ppumPrice": 40950,
+          "ppumListPrice": 40950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/353202-250-250/Chocolate-mint-chocolate-thins-200-g.jpg?v=638776696430700000"
+          ],
+          "name": "Chocolate Amargo After Eight Relleno Menta 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3636",
+      "reference": "1083962",
+      "sponsoredId": null,
+      "slug": "chocolate-rolls-costa-crocante-150-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "22523"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3642",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 2250,
+          "listPrice": 2250,
+          "ppumPrice": 15000,
+          "ppumListPrice": 15000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346847-250-250/Chocolate-Rolls-crocante-150-g.jpg?v=638776463998570000"
+          ],
+          "name": "Chocolate de Leche Rolls Crocante 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3633",
+      "reference": "1358570",
+      "sponsoredId": null,
+      "slug": "chocolate-costa-130-g-rolls-crispy-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "17846",
+        "22523"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3639",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.13,
+          "price": 2490,
+          "listPrice": 2490,
+          "ppumPrice": 19154,
+          "ppumListPrice": 19154,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346844-250-250/Chocolate-Rolls-Crispy-130-g.jpg?v=638776463966400000"
+          ],
+          "name": "Chocolate de Leche Rolls Crispy 130 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "132436",
+      "reference": "1984102",
+      "sponsoredId": null,
+      "slug": "barra-choco-almendra-low-carb-wfit-5u-1984102",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546",
+        "831",
+        "999",
+        "1004"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Low Carb"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "26912",
+        "27367"
+      ],
+      "brand": "The Wild Foods",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132718",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 5,
+          "price": 6750,
+          "listPrice": 6750,
+          "ppumPrice": 1350,
+          "ppumListPrice": 1350,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/544456-250-250/Barra-Almendra-Chocolate-Wild-Fit--Low-Carb-5-un-175-g.jpg?v=638993684694600000"
+          ],
+          "name": "Barra Almendra Chocolate Wild Fit Low Carb 5 un. 175 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "128408",
+      "reference": "1972792",
+      "sponsoredId": null,
+      "slug": "chocolate-con-mani-m-and-ms-pouch-141-8g-1972792",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "22523",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "26912",
+        "26954",
+        "26955",
+        "26956",
+        "27367",
+        "27445"
+      ],
+      "brand": "M&M's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128701",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.141,
+          "price": 3430,
+          "listPrice": 3430,
+          "ppumPrice": 24326,
+          "ppumListPrice": 24326,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/495199-250-250/CHOCOLATE-CON-MANI-M-MS-POUCH-1418G.jpg?v=638911557068200000"
+          ],
+          "name": "Chocolate de Leche M&M con Mani 141.8 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "113197",
+      "reference": "1926389",
+      "sponsoredId": null,
+      "slug": "rolls-nuts-costa-100-gr-1926389",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "113462",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1490,
+          "listPrice": 1990,
+          "ppumPrice": 14900,
+          "ppumListPrice": 19900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/380434-250-250/Chocolates-Rolls-Nuts-100-g.jpg?v=638776823223430000"
+          ],
+          "name": "Chocolates Rolls Nuts 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1490 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 21012026 AL 02052026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1490,
+              "ppumPrice": 14900,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "134263",
+      "reference": "1987588",
+      "sponsoredId": null,
+      "slug": "trencito-balls-105gr-1987588",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "23175",
+        "25347",
+        "25519",
+        "25520",
+        "27105",
+        "27507"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134555",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.105,
+          "price": 1590,
+          "listPrice": 1590,
+          "ppumPrice": 15143,
+          "ppumListPrice": 15143,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/322704-250-250/Trencito-Balls-105-g.jpg?v=638776426342600000"
+          ],
+          "name": "Trencito Balls 105 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3631",
+      "reference": "1073755",
+      "sponsoredId": null,
+      "slug": "chocolate-blanco-en-ramas-costa-115-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "17846",
+        "25333",
+        "25334",
+        "25354",
+        "25422",
+        "25670",
+        "25695",
+        "25969",
+        "25974",
+        "26816",
+        "26853",
+        "26912",
+        "26916",
+        "26917",
+        "26928",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27541"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3637",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.115,
+          "price": 2490,
+          "listPrice": 2850,
+          "ppumPrice": 21652,
+          "ppumListPrice": 24783,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346843-250-250/Chocolate-blanco-en-ramas-115-g.jpg?v=638776463953830000"
+          ],
+          "name": "Chocolate Blanco Costa Rama 115 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2490,
+              "ppumPrice": 21652,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X4560 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 4560,
+              "unitPrice": 2280,
+              "ppumPrice": 19826,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "19058",
+      "reference": "1098050",
+      "sponsoredId": null,
+      "slug": "lenguas-de-gato-costa-120-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "17846",
+        "19270",
+        "25333",
+        "25334",
+        "25354",
+        "25422",
+        "25695",
+        "26816",
+        "26853",
+        "26916",
+        "27092",
+        "27280",
+        "27296",
+        "27309",
+        "27367",
+        "27455"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "19382",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 4590,
+          "listPrice": 4590,
+          "ppumPrice": 38250,
+          "ppumListPrice": 38250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/353238-250-250/Lenguas-de-gato-120-g.jpg?v=638776696559300000"
+          ],
+          "name": "Chocolate de Leche Lenguas de Gato 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "105732",
+      "reference": "1896346",
+      "sponsoredId": null,
+      "slug": "cup-resses-milk-hershey-s-42-g-1896346",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [],
+      "brand": "Hershey's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "105998",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.042,
+          "price": 1450,
+          "listPrice": 1450,
+          "ppumPrice": 34524,
+          "ppumListPrice": 34524,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/375303-250-250/Cup-Resses-Milk-42-g.jpg?v=638776803019230000"
+          ],
+          "name": "Cup Reese's Milk Hershey's 42 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "127784",
+      "reference": "1967783",
+      "sponsoredId": null,
+      "slug": "barra-choco-menta-low-carb-wfit-5u-1967783",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546",
+        "831",
+        "999",
+        "1004"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Low Carb"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "26912",
+        "27367"
+      ],
+      "brand": "The Wild Foods",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128078",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 5,
+          "price": 6750,
+          "listPrice": 6750,
+          "ppumPrice": 1350,
+          "ppumListPrice": 1350,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/544452-250-250/Barra-Menta-Chocolate-Wild-Fit-Low-Carb-5-un-175-g.jpg?v=638993684670530000"
+          ],
+          "name": "Barra Menta Chocolate Wild Fit Low Carb 5 un. 175 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "97667",
+      "reference": "1858628",
+      "sponsoredId": null,
+      "slug": "rolls-en-linea-90-gr-1858628",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "112",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates sin Azúcar",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "6471",
+        "17155",
+        "19270"
+      ],
+      "brand": "En Línea",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "97935",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.09,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 38778,
+          "ppumListPrice": 38778,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/370140-250-250/Rolls-en-linea-90-g.jpg?v=638776780752930000"
+          ],
+          "name": "Rolls En Línea Sin Azúcar Añadida 90 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "55091",
+      "reference": "1690681",
+      "sponsoredId": null,
+      "slug": "chocolate-m-m-peanut-butter-pouch-198-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "22523",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "26912",
+        "26954",
+        "26955",
+        "26956",
+        "27367",
+        "27445"
+      ],
+      "brand": "M&M's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55381",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.198,
+          "price": 3450,
+          "listPrice": 3450,
+          "ppumPrice": 17424,
+          "ppumListPrice": 17424,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/359589-250-250/Chocolate-con-leche-y-mantequilla-de-mani-142-g.jpg?v=638776728930070000"
+          ],
+          "name": "Chocolate de Leche M&M con Mantequilla de Mani 141.8 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "113183",
+      "reference": "1926388",
+      "sponsoredId": null,
+      "slug": "rolls-crispy-costa-100-gr-1926388",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27541"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "113449",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1490,
+          "listPrice": 1990,
+          "ppumPrice": 14900,
+          "ppumListPrice": 19900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/380413-250-250/ROLLS-CRISPY-COSTA-100-GR.jpg?v=638776823133530000"
+          ],
+          "name": "Chocolates Rolls Crispy 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1490 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 21012026 AL 02052026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1490,
+              "ppumPrice": 14900,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "127766",
+      "reference": "1967782",
+      "sponsoredId": null,
+      "slug": "barra-choco-avellana-low-carb-wfit-5u-1967782",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546",
+        "831",
+        "999",
+        "1004"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Low Carb"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "26912",
+        "27367"
+      ],
+      "brand": "The Wild Foods",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128057",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 5,
+          "price": 6750,
+          "listPrice": 6750,
+          "ppumPrice": 1350,
+          "ppumListPrice": 1350,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/544929-250-250/Barra-Avellana-Chocolate-Wild-Fit-Low-Carb-5-un-175-g.jpg?v=638995851344970000"
+          ],
+          "name": "Barra Avellana Chocolate Wild Fit Low Carb 5 un. 175 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3615",
+      "reference": "1565337",
+      "sponsoredId": null,
+      "slug": "chocolate-arcor-150-g-rocklets-envase-doypack-zipper",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156"
+      ],
+      "brand": "Arcor",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3621",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 2550,
+          "listPrice": 2550,
+          "ppumPrice": 17000,
+          "ppumListPrice": 17000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346836-250-250/Chocolate-Rocklets-envase-doypack-zipper-150-g.jpg?v=638776463884230000"
+          ],
+          "name": "Chocolate Confitados Rocklets 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3634",
+      "reference": "1125045",
+      "sponsoredId": null,
+      "slug": "chocolate-costa-140-g-rolls-blanco-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "17846",
+        "22523"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3640",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 2490,
+          "listPrice": 2490,
+          "ppumPrice": 17786,
+          "ppumListPrice": 17786,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346845-250-250/Chocolate-Rolls-Blanco-140-g.jpg?v=638776463976830000"
+          ],
+          "name": "Chocolate Blanco Rolls 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "136985",
+      "reference": "1997625",
+      "sponsoredId": null,
+      "slug": "gragea-almendra-bitter-203grs-1997625",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17154",
+        "17155",
+        "17156",
+        "17846",
+        "22523",
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27541"
+      ],
+      "brand": "Salzburgo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137276",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.203,
+          "price": 6368,
+          "listPrice": 8490,
+          "ppumPrice": 31369,
+          "ppumListPrice": 41823,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/328068-250-250/Almendras-Ba%C3%B1adas-Con-Chocolate-Bitter-Salzburgo-203-g.jpg?v=638776430521230000"
+          ],
+          "name": "Almendras Bañadas con Chocolate Bitter Salzburgo 203 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 6368,
+              "ppumPrice": 31369,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "55043",
+      "reference": "1656333",
+      "sponsoredId": null,
+      "slug": "barra-dulce-snickers-singles-53-g-c-u",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [],
+      "brand": "Snickers",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55333",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 1390,
+          "ppumListPrice": 1390,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/359561-250-250/Chocolate-Peanut-53-g.jpg?v=638776728829530000"
+          ],
+          "name": "Chocolate Snickers con Leche y Maní 53 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3638",
+      "reference": "1083961",
+      "sponsoredId": null,
+      "slug": "chocolate-costa-170-g-rolls-nuts-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "17846",
+        "22523"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3644",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 2490,
+          "listPrice": 2490,
+          "ppumPrice": 16600,
+          "ppumListPrice": 16600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346849-250-250/Chocolates-Rolls-Nuts-150-g.jpg?v=638776464022330000"
+          ],
+          "name": "Chocolate de Leche Rolls Nuts 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "55030",
+      "reference": "1652674",
+      "sponsoredId": null,
+      "slug": "nutella-go-52-g-24-unidades",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [],
+      "brand": "Nutella",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55320",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.052,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 51731,
+          "ppumListPrice": 51731,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/359567-250-250/Principal-413179.jpg?v=638776728844700000"
+          ],
+          "name": "Crema de Avellana Nutella Go 52 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "108496",
+      "reference": "1904119",
+      "sponsoredId": null,
+      "slug": "barra-coco-cubier-cacao-en-linea-170-gr-1904119",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155"
+      ],
+      "brand": "En Línea",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "108763",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.17,
+          "price": 4990,
+          "listPrice": 4990,
+          "ppumPrice": 29353,
+          "ppumListPrice": 29353,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/377015-250-250/BARRA-COCO-CUBIER-CACAO-EN-LINEA-170-GR.jpg?v=638776810024130000"
+          ],
+          "name": "Barra Coco Cacao En Línea Sin Azúcar Añadida 170 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3720",
+      "reference": "981753",
+      "sponsoredId": null,
+      "slug": "barra-de-chocolate-rellena-snickers-bolsa-1247-g-minis-con-caramelo-mani-y-nougat",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156"
+      ],
+      "brand": "Snickers",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3726",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 3250,
+          "listPrice": 3250,
+          "ppumPrice": 26000,
+          "ppumListPrice": 26000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346885-250-250/Chocolate-Mini-1247-g.jpg?v=638776464470070000"
+          ],
+          "name": "Chocolate de Leche Snickers Mini con Mani 9 un. 125 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "137010",
+      "reference": "1997627",
+      "sponsoredId": null,
+      "slug": "gragea-almendra-leche-203grs-1997627",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17154",
+        "17155",
+        "17156",
+        "17846",
+        "22523",
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27541"
+      ],
+      "brand": "Salzburgo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137302",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.203,
+          "price": 6368,
+          "listPrice": 8490,
+          "ppumPrice": 31369,
+          "ppumListPrice": 41823,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/327454-250-250/Almendras-Ba%C3%B1adas-Con-Chocolate-De-Leche-Salzburgo-203-g.jpg?v=638776430027770000"
+          ],
+          "name": "Almendras Bañadas con Chocolate de Leche Salzburgo 203 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 6368,
+              "ppumPrice": 31369,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "121395",
+      "reference": "1952059",
+      "sponsoredId": null,
+      "slug": "chocolate-coco-berries-wild-fit-5u-1952059",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546",
+        "831",
+        "999",
+        "1002"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Azúcar Añadida"
+      ],
+      "collections": [
+        "1051",
+        "17155",
+        "17156"
+      ],
+      "brand": "The Wild Foods",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "121674",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 5,
+          "price": 5790,
+          "listPrice": 5790,
+          "ppumPrice": 1158,
+          "ppumListPrice": 1158,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/429178-250-250/Barra-Coco-Berries-Wild-Fit--5-un-175-g.jpg?v=638812786929530000"
+          ],
+          "name": "Barra Coco Berries Wild Fit 5 un. 175 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "133425",
+      "reference": "1971925",
+      "sponsoredId": null,
+      "slug": "avellanas-c-chocolate-amargo-picks-90g-1971925",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "14967",
+        "17155",
+        "17157",
+        "19270",
+        "25610",
+        "25969",
+        "25974"
+      ],
+      "brand": "Picks",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "133708",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.09,
+          "price": 3190,
+          "listPrice": 3190,
+          "ppumPrice": 35444,
+          "ppumListPrice": 35444,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/322055-250-250/Avellanas-Picks-Con-Chocolate-Amargo-90-g.jpg?v=638776424879670000"
+          ],
+          "name": "Avellanas Picks con Chocolate Amargo 90 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "145270",
+      "reference": "2017476",
+      "sponsoredId": null,
+      "slug": "chocolate-m-and-ms-fun-size-bolsa-mix-302gr-2017476",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "25969",
+        "25974",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27541"
+      ],
+      "brand": "M&M's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "145564",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.302,
+          "price": 7992,
+          "listPrice": 9990,
+          "ppumPrice": 26464,
+          "ppumListPrice": 33079,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/343599-250-250/Chocolate-M-M-Fun-Size-Mix-302-g.jpg?v=638776442998830000"
+          ],
+          "name": "Chocolate M&M Fun Size Mix 302 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 8",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 7992,
+              "ppumPrice": 26464,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 3",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 6993,
+              "ppumPrice": 23156,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "127364",
+      "reference": "1961106",
+      "sponsoredId": null,
+      "slug": "nutella-b-ready-t1-1961106",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "19662"
+      ],
+      "brand": "Nutella",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127658",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1490,
+          "listPrice": 1490,
+          "ppumPrice": 1490,
+          "ppumListPrice": 1490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393456-250-250/Nutella-B-ready.jpg?v=638776874634200000"
+          ],
+          "name": "Galleta Rellena Nutella B-Ready",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "126317",
+      "reference": "1960963",
+      "sponsoredId": null,
+      "slug": "m-and-ms-peanut-sup-512g-1960963",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "17846",
+        "19270",
+        "25969",
+        "25974"
+      ],
+      "brand": "M&M's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126611",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.512,
+          "price": 13590,
+          "listPrice": 13590,
+          "ppumPrice": 26543,
+          "ppumListPrice": 26543,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/391989-250-250/M-MS-PEANUT-SUP-512G.jpg?v=638776869817570000"
+          ],
+          "name": "Chocolate de Leche M&M con Mani 512 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "73504",
+      "reference": "1782456",
+      "sponsoredId": null,
+      "slug": "chocolate-kit-kat-nestle-41-5-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "25638",
+        "27105",
+        "27507"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "73757",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.041,
+          "price": 1350,
+          "listPrice": 1350,
+          "ppumPrice": 32927,
+          "ppumListPrice": 32927,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310206-250-250/Chocolate-Kit-Kat-4-Fingers-Milk-415-g.jpg?v=638776391100030000"
+          ],
+          "name": "Chocolate de Leche Kit Kat 4 Fingers 41.5 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3635",
+      "reference": "1358571",
+      "sponsoredId": null,
+      "slug": "chocolate-costa-140-g-rolls-crispy-berries-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "17155",
+        "17156",
+        "17846",
+        "22523"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3641",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 2490,
+          "listPrice": 2490,
+          "ppumPrice": 20750,
+          "ppumListPrice": 20750,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346846-250-250/Chocolate-120-g-Rolls-Crispy-Berries.jpg?v=638776463987070000"
+          ],
+          "name": "Chocolate de Leche Rolls Crispy Berries 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "154354",
+      "reference": "2039032",
+      "sponsoredId": null,
+      "slug": "chocolate-de-monedas-fantasia-ambro-120-g-2039032",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [],
+      "brand": "Ambrosoli",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154669",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 2590,
+          "listPrice": 2590,
+          "ppumPrice": 21583,
+          "ppumListPrice": 21583,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/491923-250-250/CHOCOLATE-DE-MONEDAS-FANTASIA-AMBRO-120G.jpg?v=638905693628370000"
+          ],
+          "name": "Moneda de Chocolate 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "153996",
+      "reference": "541053",
+      "sponsoredId": null,
+      "slug": "chocolate-kinder-bueno-132-g-541053",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [],
+      "brand": "Kinder",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154307",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.132,
+          "price": 6390,
+          "listPrice": 6390,
+          "ppumPrice": 48409,
+          "ppumListPrice": 48409,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/501114-250-250/Chocolate-Kinder-Bueno-132-g.jpg?v=638920078885100000"
+          ],
+          "name": "Chocolate Kinder Bueno 129 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "47671",
+      "reference": "996710",
+      "sponsoredId": null,
+      "slug": "chocolate-nestl-prestigio-barra-35-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "546"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates y Tentaciones"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "27105",
+        "27507"
+      ],
+      "brand": "Prestigio",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "47955",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.035,
+          "price": 1090,
+          "listPrice": 1090,
+          "ppumPrice": 31143,
+          "ppumListPrice": 31143,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307944-250-250/Chocolate-Prestigio-35-g.jpg?v=638776385712370000"
+          ],
+          "name": "Chocolate Prestigio Barra Coco 35 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Chocolates y Tentaciones",
+          "value": "/chocolates-galletas-y-snacks/chocolates/chocolates-y-tentaciones",
+          "selected": false,
+          "quantity": 99,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Chocolates y Tentaciones",
+          "value": "/chocolates-galletas-y-snacks/chocolates/chocolates-y-tentaciones",
+          "selected": false,
+          "quantity": 99,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Chocolates y Tentaciones",
+          "value": "/chocolates-galletas-y-snacks/chocolates/chocolates-y-tentaciones",
+          "selected": false,
+          "quantity": 99,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Nestlé",
+          "value": "Nestlé",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sahne Nuss",
+          "value": "Sahne Nuss",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salzburgo",
+          "value": "Salzburgo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "M&M's",
+          "value": "M&M's",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "The Wild Foods",
+          "value": "The Wild Foods",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Snickers",
+          "value": "Snickers",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "After Eight",
+          "value": "After Eight",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Picks",
+          "value": "Picks",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Costa",
+          "value": "Costa",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gottena",
+          "value": "Gottena",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "En Línea",
+          "value": "En Línea",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hershey's",
+          "value": "Hershey's",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arcor",
+          "value": "Arcor",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nutella",
+          "value": "Nutella",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kinder",
+          "value": "Kinder",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ambrosoli",
+          "value": "Ambrosoli",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Milka",
+          "value": "Milka",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entrelagos",
+          "value": "Entrelagos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Prestigio",
+          "value": "Prestigio",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Baronie",
+          "value": "Baronie",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Twix",
+          "value": "Twix",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bon O Bon",
+          "value": "Bon O Bon",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Milky Way",
+          "value": "Milky Way",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Calaf",
+          "value": "Calaf",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trencito",
+          "value": "Trencito",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Rango Porcentaje de Cacao",
+      "key": "Rango Porcentaje de Cacao",
+      "values": [
+        {
+          "displayName": "Entre 51% y 70%",
+          "value": "Entre 51% y 70% Cacao",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Menos de 50%",
+          "value": "Menos de 50%",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "América Latina",
+          "value": "América Latina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brasil",
+          "value": "Brasil",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bélgica",
+          "value": "Bélgica",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Canadá",
+          "value": "Canadá",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 48,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lituania",
+          "value": "Lituania",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Polonia",
+          "value": "Polonia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Balls Chocolate",
+          "value": "Balls Chocolate",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bombones",
+          "value": "Bombones",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Almendras",
+          "value": "Almendras",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate en Barra",
+          "value": "Chocolate en Barra",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate Relleno",
+          "value": "Chocolate Relleno",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate en Ramas",
+          "value": "Chocolate en Ramas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frambuesas",
+          "value": "Frambuesas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Bañadas y Rellenas",
+          "value": "Galletas Bañadas y Rellenas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate Macizo",
+          "value": "Chocolate Macizo",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Oblea",
+          "value": "Galletas Oblea",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huevos de Chocolate Grande",
+          "value": "Huevos de Chocolate Grande",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "105 g",
+          "value": "105 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "105.6 g",
+          "value": "105.6 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "115 g",
+          "value": "115 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "120 g",
+          "value": "120 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "130 g",
+          "value": "130 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "140 g",
+          "value": "140 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "150 g",
+          "value": "150 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "302g",
+          "value": "302g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "42 g",
+          "value": "42 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "45 g",
+          "value": "45 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "48 g",
+          "value": "48g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "604 g",
+          "value": "604g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "73 g",
+          "value": "73g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "unitario",
+          "value": "Unitario",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 59,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 40,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 92,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 92,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 65,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 56,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Chocolate Amargo",
+          "value": "Chocolate Amargo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate Blanco",
+          "value": "Chocolate Blanco",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate blanco de leche",
+          "value": "Chocolate blanco de leche",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate de Leche",
+          "value": "Chocolate de Leche",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate de leche",
+          "value": "Chocolate de leche",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate De Leche",
+          "value": "Chocolate De Leche",
+          "selected": false,
+          "quantity": 56,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate Mixto",
+          "value": "Chocolate Mixto",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate Negro",
+          "value": "Chocolate Negro",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate Super8",
+          "value": "Chocolate Super8",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crema de Avellana",
+          "value": "Crema de Avellana",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack Sabores Surtidos",
+          "value": "Pack Sabores Surtidos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Orgánico",
+      "key": "Orgánico",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "NO",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "No Aplica",
+          "value": "No Aplica",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contiene Alcohol",
+      "key": "containsAlcohol",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "No",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 990,
+          "maxValue": 27600
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 99,
+  "metaTag": {
+    "title": "Chocolates y Tentaciones | Jumbo.cl",
+    "description": "Balls, chocolates pequeños, y mucho más en Jumbo.cl"
+  }
+}

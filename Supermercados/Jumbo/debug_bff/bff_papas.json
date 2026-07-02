@@ -1,0 +1,2234 @@
+{
+  "products": [
+    {
+      "productId": "1282",
+      "reference": "993929",
+      "sponsoredId": null,
+      "slug": "papas-duquesas-frutos-del-maipo-bolsa-1-kg-congelado",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "26048",
+        "27477",
+        "27487",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1285",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3990,
+          "listPrice": 5090,
+          "ppumPrice": 3990,
+          "ppumListPrice": 5090,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298534-250-250/Papas-Duquesas-Frutos-del-Maipo-1-kg.jpg?v=638775753564230000"
+          ],
+          "name": "Papas Duquesas Frutos del Maipo 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 3990,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 3490 - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB  24022026 AL 02032026",
+              "description": "JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3490,
+              "ppumPrice": 3490,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1283",
+      "reference": "764300",
+      "sponsoredId": null,
+      "slug": "papas-prefritas-frutos-del-maipo-bolsa-1-kg-congelado",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "27477",
+        "27487",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1286",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3990,
+          "listPrice": 4890,
+          "ppumPrice": 3990,
+          "ppumListPrice": 4890,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298535-250-250/Papas-Prefritas-Frutos-del-Maipo-1-kg.jpg?v=638775753575830000"
+          ],
+          "name": "Papas Prefritas Frutos del Maipo 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 3990,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 3490 - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB  24022026 AL 02032026",
+              "description": "JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3490,
+              "ppumPrice": 3490,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "98088",
+      "reference": "1861054",
+      "sponsoredId": null,
+      "slug": "papas-pre-fritas-1-kg-cuisine-and-co-1861054",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98355",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3890,
+          "listPrice": 3890,
+          "ppumPrice": 3890,
+          "ppumListPrice": 3890,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/370576-250-250/Papas-pre-fritas-1-kg.jpg?v=638776783134800000"
+          ],
+          "name": "Papas Pre Fritas 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122615",
+      "reference": "1928736",
+      "sponsoredId": null,
+      "slug": "camote-prefrito-cuisine-and-co-400g-1928736",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122902",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2890,
+          "listPrice": 2890,
+          "ppumPrice": 7225,
+          "ppumListPrice": 7225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/388330-250-250/CAMOTE-PREFRITO-CUISINE---CO-400G.jpg?v=638776855397830000"
+          ],
+          "name": "Camote Prefrito 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "42575",
+      "reference": "1700731",
+      "sponsoredId": null,
+      "slug": "papa-en-cubos-frutos-del-maipo-pre-frita-750-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "19270"
+      ],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "26749",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.75,
+          "price": 4990,
+          "listPrice": 4990,
+          "ppumPrice": 6653,
+          "ppumListPrice": 6653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306581-250-250/Papas-prefritas-en-cubos-750-g.jpg?v=638776382612370000"
+          ],
+          "name": "Papas Prefritas Frutos del Maipo en Cubos 750 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "98087",
+      "reference": "1861055",
+      "sponsoredId": null,
+      "slug": "papas-duquesas-1-kg-cuisine-and-co-1861055",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98358",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 3990,
+          "ppumListPrice": 3990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/370584-250-250/Papas-duquesas-1-kg.jpg?v=638776783185200000"
+          ],
+          "name": "Papas Duquesas 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "17292",
+      "reference": "1699306",
+      "sponsoredId": null,
+      "slug": "papas-gajo-minuto-verde-700-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "17846",
+        "25333",
+        "25334",
+        "25354",
+        "25404",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25470",
+        "25662",
+        "25671",
+        "25695",
+        "25719",
+        "26696"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "14622",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.7,
+          "price": 3790,
+          "listPrice": 3790,
+          "ppumPrice": 5414,
+          "ppumListPrice": 5414,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/351871-250-250/Papas-Gajo-Minuto-Verde-700-g.jpg?v=638776687409430000"
+          ],
+          "name": "Papas Gajo Minuto Verde 700 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "124156",
+      "reference": "1938270",
+      "sponsoredId": null,
+      "slug": "papas-fritas-extrafina-cong-1kg-c-and-co-nbe-1938270",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "124422",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 4050,
+          "listPrice": 4050,
+          "ppumPrice": 4050,
+          "ppumListPrice": 4050,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/390413-250-250/Papas-fritas-extra-fina-congeladas-1-kg.jpg?v=638776863019830000"
+          ],
+          "name": "Papas Fritas Extra Fina Congeladas 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1288",
+      "reference": "438965",
+      "sponsoredId": null,
+      "slug": "papas-prefritas-minuto-verde-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25354",
+        "25404",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25470",
+        "25662",
+        "25671",
+        "25695",
+        "25719",
+        "26696"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1291",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 4990,
+          "listPrice": 4990,
+          "ppumPrice": 4990,
+          "ppumListPrice": 4990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298537-250-250/Papas-Pre-fritas-1-kg.jpg?v=638775753599970000"
+          ],
+          "name": "Papas Pre Fritas Minuto Verde 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "124128",
+      "reference": "1938269",
+      "sponsoredId": null,
+      "slug": "papas-crinkle-cong-1kg-cuisine-and-co-nbe-mp-1938269",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "124421",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 3990,
+          "ppumListPrice": 3990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/390411-250-250/Papas-Crinkle-congeladas-1-kg.jpg?v=638776863018800000"
+          ],
+          "name": "Papas Crinkle Congeladas 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1287",
+      "reference": "438964",
+      "sponsoredId": null,
+      "slug": "papas-duquesas-minuto-verde-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25333",
+        "25334",
+        "25354",
+        "25404",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25470",
+        "25662",
+        "25671",
+        "25695",
+        "25719",
+        "26696"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1290",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 5190,
+          "listPrice": 5190,
+          "ppumPrice": 5190,
+          "ppumListPrice": 5190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298536-250-250/Papas-Duquesas-1-kg.jpg?v=638775753583700000"
+          ],
+          "name": "Papas Duquesas Minuto Verde 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "144151",
+      "reference": "2020051",
+      "sponsoredId": null,
+      "slug": "papa-pre-frita-fina-minuto-verde-800gr-2020051",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25354",
+        "25404",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25470",
+        "25671",
+        "25695",
+        "26696",
+        "26816",
+        "26853",
+        "26916",
+        "27280",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144445",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 3490,
+          "listPrice": 4490,
+          "ppumPrice": 4363,
+          "ppumListPrice": 5613,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/340851-250-250/Papa-Pre-Frita-Fina-Minuto-Verde-800-g.jpg?v=638776441070070000"
+          ],
+          "name": "Papa Pre Frita Fina Minuto Verde 800 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3490 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3490,
+              "ppumPrice": 4363,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "144524",
+      "reference": "2018651",
+      "sponsoredId": null,
+      "slug": "papa-noissette-minuto-verde-800gr-2018651",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25354",
+        "25404",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25470",
+        "25662",
+        "25671",
+        "25695",
+        "25719",
+        "26696"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144817",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 4790,
+          "listPrice": 4790,
+          "ppumPrice": 5988,
+          "ppumListPrice": 5988,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/341672-250-250/Papa-Noissette-Minuto-Verde-800-g.jpg?v=638776441928730000"
+          ],
+          "name": "Papa Noissette Minuto Verde 800 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "147282",
+      "reference": "2029166",
+      "sponsoredId": null,
+      "slug": "pastelera-duquesas-frutos-del-maipo-350g-2029166",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147576",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 11400,
+          "ppumListPrice": 11400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/404979-250-250/PASTELERA-DUQUESAS-FRUTOS-DEL-MAIPO-350G.jpg?v=638779826971270000"
+          ],
+          "name": "Pastelera Duquesas Frutos del Maipo 350 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "108442",
+      "reference": "1861053",
+      "sponsoredId": null,
+      "slug": "papas-pre-fritas-cuisine-and-co-500g-1861053",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "108708",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 3980,
+          "ppumListPrice": 3980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/376969-250-250/1861053-01_579545.jpg?v=638776809800800000"
+          ],
+          "name": "Papas Pre Fritas 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "42353",
+      "reference": "1699307",
+      "sponsoredId": null,
+      "slug": "papa-en-rodaja-minuto-verde-700-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "17846",
+        "25333",
+        "25334",
+        "25354",
+        "25404",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25470",
+        "25662",
+        "25671",
+        "25695",
+        "25719",
+        "26696"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "26527",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.7,
+          "price": 3690,
+          "listPrice": 3690,
+          "ppumPrice": 5271,
+          "ppumListPrice": 5271,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/355440-250-250/Papa-en-rodaja-Minuto-Verde-700-g.jpg?v=638776706877400000"
+          ],
+          "name": "Papa en Rodaja Minuto Verde 700 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156662",
+      "reference": "2052540",
+      "sponsoredId": null,
+      "slug": "papas-prefritas-mccain-air-fryer-700gr-2052540",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "26048",
+        "26269"
+      ],
+      "brand": "McCain",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156986",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.7,
+          "price": 5490,
+          "listPrice": 5490,
+          "ppumPrice": 7843,
+          "ppumListPrice": 7843,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/518830-250-250/Papas-Prefritas-McCain-Air-Fryer-700-g.jpg?v=638950410710830000"
+          ],
+          "name": "Papas Prefritas McCain Air Fryer 700 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156661",
+      "reference": "2052541",
+      "sponsoredId": null,
+      "slug": "papas-prefritas-mccain-smiles-700gr-2052541",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "26048",
+        "26269"
+      ],
+      "brand": "McCain",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156984",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.7,
+          "price": 5490,
+          "listPrice": 5490,
+          "ppumPrice": 7843,
+          "ppumListPrice": 7843,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/518831-250-250/Papas-Prefritas-McCain-Smiles-700-g.jpg?v=638950410719000000"
+          ],
+          "name": "Papas Prefritas McCain Smiles 700 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "54784",
+      "reference": "1744728",
+      "sponsoredId": null,
+      "slug": "camote-trozos-minuto-verde-400g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "17846",
+        "25470",
+        "25662",
+        "25719",
+        "26696"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55123",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2890,
+          "listPrice": 2890,
+          "ppumPrice": 7225,
+          "ppumListPrice": 7225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/359480-250-250/princi-477507.jpg?v=638776728425730000"
+          ],
+          "name": "Camote En Trozos Minuto Verde 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "112130",
+      "reference": "1921269",
+      "sponsoredId": null,
+      "slug": "duquesas-veggie-fdm-350gr-1921269",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112397",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 3890,
+          "listPrice": 3890,
+          "ppumPrice": 11114,
+          "ppumListPrice": 11114,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/379297-250-250/Duquesas-veggie-350-g.jpg?v=638776818684830000"
+          ],
+          "name": "Duquesas Veggie Frutos del Maipo 350 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "144526",
+      "reference": "2019571",
+      "sponsoredId": null,
+      "slug": "papa-pre-frita-loop-minuto-verde-800gr-2019571",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25354",
+        "25404",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25470",
+        "25662",
+        "25671",
+        "25695",
+        "25719",
+        "26696"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144819",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 5490,
+          "listPrice": 5490,
+          "ppumPrice": 6863,
+          "ppumListPrice": 6863,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/341786-250-250/Papa-Loop-Minuto-Verde-800-g.jpg?v=638776441997670000"
+          ],
+          "name": "Papa Loop Minuto Verde 800 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "136870",
+      "reference": "1997600",
+      "sponsoredId": null,
+      "slug": "papa-rellena-queso-frutos-del-maipo-220g-1997600",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137161",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.22,
+          "price": 3550,
+          "listPrice": 3550,
+          "ppumPrice": 16136,
+          "ppumListPrice": 16136,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/327281-250-250/Papa-Rellena-Frutos-del-Maipo-Queso-220-g.jpg?v=638776429893500000"
+          ],
+          "name": "Papa Rellena Frutos del Maipo Queso 220 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "158405",
+      "reference": "255326",
+      "sponsoredId": null,
+      "slug": "papas-prefritas-mccain-bolsa-400gr-255326",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "26048",
+        "26269"
+      ],
+      "brand": "McCain",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "158731",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 7725,
+          "ppumListPrice": 7725,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/524692-250-250/Papas-Prefritas-McCain-Bolsa-400-g.jpg?v=638960673420800000"
+          ],
+          "name": "Papas Prefritas McCain Bolsa 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "143824",
+      "reference": "2017086",
+      "sponsoredId": null,
+      "slug": "papas-gajo-c-piel-frutos-del-maipo-500gr-2017086",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144118",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3550,
+          "listPrice": 3550,
+          "ppumPrice": 7100,
+          "ppumListPrice": 7100,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/340648-250-250/Papas-Gajo-con-Piel-Frutos-del-Maipo-500-g.jpg?v=638776440882700000"
+          ],
+          "name": "Papas Gajo con Piel Frutos del Maipo 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "144525",
+      "reference": "2019570",
+      "sponsoredId": null,
+      "slug": "papa-canoa-minuto-verde-800gr-2019570",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25354",
+        "25404",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25470",
+        "25662",
+        "25671",
+        "25695",
+        "25719",
+        "26696"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144818",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 4490,
+          "listPrice": 4490,
+          "ppumPrice": 5613,
+          "ppumListPrice": 5613,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/341729-250-250/Papa-Canao-Minuto-Verde-800-g.jpg?v=638776441961970000"
+          ],
+          "name": "Papas Canoa Minuto Verde 800 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "143823",
+      "reference": "2017085",
+      "sponsoredId": null,
+      "slug": "papas-rodaja-frutos-del-maipo-500gr-2017085",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1162"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Papas"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144117",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3550,
+          "listPrice": 3550,
+          "ppumPrice": 7100,
+          "ppumListPrice": 7100,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/340613-250-250/Papas-Rodaja-Frutos-del-Maipo-500-g.jpg?v=638776440848000000"
+          ],
+          "name": "Papas Rodaja Frutos del Maipo 500 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Papas",
+          "value": "/lacteos-huevos-y-congelados/verduras-congeladas/papas",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Papas",
+          "value": "/lacteos-huevos-y-congelados/verduras-congeladas/papas",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Papas",
+          "value": "/lacteos-huevos-y-congelados/verduras-congeladas/papas",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Papas Pre Fritas",
+          "value": "Papas Pre Fritas",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Papas Duquesas",
+          "value": "Papas Duquesas",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Zapallos Congelados",
+          "value": "Zapallos Congelados",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pastelera de Choclo",
+          "value": "Pastelera de Choclo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Papas Rellenas",
+          "value": "Papas Rellenas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Papas",
+          "value": "Papas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Minuto Verde",
+          "value": "Minuto Verde",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutos Del Maipo",
+          "value": "Frutos Del Maipo",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "McCain",
+          "value": "McCain",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "300 Unidades",
+          "value": "300 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mediano",
+          "value": "Mediano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Congelados",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bélgica",
+          "value": "Bélgica",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Perú",
+          "value": "Perú",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "1 kg",
+          "value": "1 kg",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "800 g",
+          "value": "800 g",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1990,
+          "maxValue": 5490
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Coliflor",
+          "value": "Coliflor",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Papas",
+          "value": "Papas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Artesanal - Papas Pre Fritas",
+          "value": "Artesanal - Papas Pre Fritas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Duquesas",
+          "value": "Duquesas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frita",
+          "value": "Frita",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Minuto Verde",
+          "value": "Minuto Verde",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Papas",
+          "value": "Papas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pre Frita Fina",
+          "value": "Pre Frita Fina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Familar",
+          "value": "Familar",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rodajas",
+          "value": "Rodajas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "Coliflor",
+          "value": "Coliflor",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 26,
+  "metaTag": {
+    "title": "Papas | Jumbo.cl",
+    "description": "En sus varias formas y texturas, las papas son el alimento por excelencia para acompañar tus comidas favoritas. ¡Pídelas online en Jumbo.cl!"
+  }
+}

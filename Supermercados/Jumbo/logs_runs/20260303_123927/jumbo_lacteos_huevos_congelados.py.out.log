@@ -1,0 +1,15 @@
+
+Subcategorías:
+- Leches (Mostrar todo) -> https://www.jumbo.cl/lacteos-huevos-y-congelados/leches
+- Leche Líquida -> https://www.jumbo.cl/lacteos-huevos-y-congelados/leches/leche-liquida
+
+Scrape: Leches (Mostrar todo)
+🧪 Dump BFF guardado: debug_bff\bff_leches_mostrar_todo_p1.json
+  productos: 40
+
+Scrape: Leche Líquida
+🧪 Dump BFF guardado: debug_bff\bff_leche_l_quida_p1.json
+  productos: 40
+
+Total filas: 80
+CSV generado: output\lacteos_huevos_congelados\jumbo_lacteos_huevos_y_congelados_20260303_124014.csv

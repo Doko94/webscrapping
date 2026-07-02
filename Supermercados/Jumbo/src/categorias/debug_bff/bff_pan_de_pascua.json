@@ -1,0 +1,322 @@
+{
+  "products": [
+    {
+      "productId": "95511",
+      "reference": "1843488",
+      "sponsoredId": null,
+      "slug": "stollen-kuchenmeister-marzipan-750g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "159",
+        "532"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pastelería",
+        "Pan de Pascua"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "18357",
+        "25638",
+        "25682",
+        "25695",
+        "25736"
+      ],
+      "brand": "Kuchenmeister",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "95776",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.75,
+          "price": 8290,
+          "listPrice": 8290,
+          "ppumPrice": 11053,
+          "ppumListPrice": 11053,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/538106-250-250/Stollen-Mazapan-750-g.jpg?v=638984627763230000"
+          ],
+          "name": "Stollen Kuchenmeister Mazapán 750 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Pan de Pascua",
+          "value": "/panaderia-y-pasteleria/pasteleria/pan-de-pascua",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Pan de Pascua",
+          "value": "/panaderia-y-pasteleria/pasteleria/pan-de-pascua",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Pan de Pascua",
+          "value": "/panaderia-y-pasteleria/pasteleria/pan-de-pascua",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Kuchenmeister",
+          "value": "Kuchenmeister",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 8290,
+          "maxValue": 8290
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "750 g",
+          "value": "750 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Stollen",
+          "value": "Stollen",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Mazapán",
+          "value": "Mazapán",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 1,
+  "metaTag": {
+    "title": "Pan de Pascua | Jumbo.cl",
+    "description": "Disfruta del auténtico sabor navideño con nuestro exquisito pan de pascua. ¡Encuentra gran variedad de opciones y celebra la temporada en Jumbo.cl!"
+  }
+}

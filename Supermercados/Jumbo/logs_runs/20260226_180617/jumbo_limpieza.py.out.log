@@ -1,0 +1,693 @@
+
+Subcategorías:
+- Papel Higiénico -> https://www.jumbo.cl/limpieza/papeles-hogar/papel-higienico
+- Pañuelos -> https://www.jumbo.cl/limpieza/papeles-hogar/panuelos
+- Servilletas -> https://www.jumbo.cl/limpieza/papeles-hogar/servilletas
+- Toallas de Papel -> https://www.jumbo.cl/limpieza/papeles-hogar/toallas-de-papel
+- Detergente Líquido -> https://www.jumbo.cl/limpieza/limpieza-de-ropa/detergente-liquido
+- Detergente en Polvo -> https://www.jumbo.cl/limpieza/limpieza-de-ropa/detergente-en-polvo
+- Suavizantes y Aromatizantes -> https://www.jumbo.cl/limpieza/limpieza-de-ropa/suavizantes-y-aromatizantes-tela
+- Limpiadores de Baño -> https://www.jumbo.cl/limpieza/bano/limpiadores-de-bano
+- Cloros y Cloro Gel (Baño) -> https://www.jumbo.cl/limpieza/bano/cloros-y-cloro-gel
+- Toallas Desinfectantes -> https://www.jumbo.cl/limpieza/bano/toallas-desinfectantes
+- Limpiavidrios (Baño) -> https://www.jumbo.cl/limpieza/bano/limpiavidrios
+- Limpiadores Cocina -> https://www.jumbo.cl/limpieza/cocina/limpiadores-cocina
+- Lavalozas -> https://www.jumbo.cl/limpieza/cocina/lavalozas
+- Bolsas de Basura y Bolsas Reutilizables -> https://www.jumbo.cl/limpieza/accesorios-de-limpieza/bolsas-de-basura-y-bolsas-reutilizables
+- Guantes, Esponjas y Paños -> https://www.jumbo.cl/limpieza/accesorios-de-limpieza/guantes-esponjas-y-panos
+- Escobas, Palas y Plumeros -> https://www.jumbo.cl/limpieza/accesorios-de-limpieza/escobas-palas-y-plumeros
+- Limpiadores de Calzado -> https://www.jumbo.cl/limpieza/accesorios-de-limpieza/limpiadores-de-calzado
+- Desinfectantes -> https://www.jumbo.cl/limpieza/aerosoles-y-aromatizantes/desinfectantes
+- Desodorantes Ambientales -> https://www.jumbo.cl/limpieza/aerosoles-y-aromatizantes/desodorantes-ambientales
+- Insecticidas -> https://www.jumbo.cl/limpieza/aerosoles-y-aromatizantes/insecticidas
+- Aromatizantes -> https://www.jumbo.cl/limpieza/aerosoles-y-aromatizantes/aromatizantes
+- Ceras y Virutillas -> https://www.jumbo.cl/limpieza/pisos-y-muebles/ceras-y-virutillas
+- Limpiadores Piso -> https://www.jumbo.cl/limpieza/pisos-y-muebles/limpiadores-piso
+- Lustramuebles y Limpiadores de Metales -> https://www.jumbo.cl/limpieza/pisos-y-muebles/lustramuebles-y-limpiadores-de-metales
+- Traperos y Mopas -> https://www.jumbo.cl/limpieza/pisos-y-muebles/traperos-y-mopas
+
+Scrape: Papel Higiénico
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+03. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/papel-higienico.json
+09. 200 https://assets.jumbo.cl/json/cms/papel-higienico.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/papel-higienico.json
+🧪 Dump BFF guardado: debug_bff\bff_papel_higi_nico.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/papel-higienico.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 14
+  productos: 51
+
+Scrape: Pañuelos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/panuelos.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/panuelos.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/panuelos.json
+🧪 Dump BFF guardado: debug_bff\bff_pa_uelos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 13
+  productos: 13
+
+Scrape: Servilletas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/servilletas.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/servilletas.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/servilletas.json
+🧪 Dump BFF guardado: debug_bff\bff_servilletas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/servilletas.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 19
+  productos: 59
+
+Scrape: Toallas de Papel
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/toallas-de-papel.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/toallas-de-papel.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/toallas-de-papel.json
+🧪 Dump BFF guardado: debug_bff\bff_toallas_de_papel.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 30
+  productos: 30
+
+Scrape: Detergente Líquido
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/detergente-liquido.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/detergente-liquido.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/detergente-liquido.json
+🧪 Dump BFF guardado: debug_bff\bff_detergente_l_quido.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/detergente-liquido.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 34
+  productos: 74
+
+Scrape: Detergente en Polvo
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/detergente-en-polvo.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/detergente-en-polvo.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/detergente-en-polvo.json
+🧪 Dump BFF guardado: debug_bff\bff_detergente_en_polvo.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 19
+  productos: 19
+
+Scrape: Suavizantes y Aromatizantes
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/suavizantes-y-aromatizantes-tela.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/suavizantes-y-aromatizantes-tela.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/suavizantes-y-aromatizantes-tela.json
+🧪 Dump BFF guardado: debug_bff\bff_suavizantes_y_aromatizantes.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/suavizantes-y-aromatizantes-tela.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 33
+  productos: 73
+
+Scrape: Limpiadores de Baño
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/limpiadores-de-bano.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/limpiadores-de-bano.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/limpiadores-de-bano.json
+🧪 Dump BFF guardado: debug_bff\bff_limpiadores_de_ba_o.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/limpiadores-de-bano.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/limpiadores-de-bano.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 3
+  productos: 83
+
+Scrape: Cloros y Cloro Gel (Baño)
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/cloros-y-cloro-gel.json
+09. 200 https://assets.jumbo.cl/json/cms/cloros-y-cloro-gel.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/cloros-y-cloro-gel.json
+🧪 Dump BFF guardado: debug_bff\bff_cloros_y_cloro_gel_ba_o.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/cloros-y-cloro-gel.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 19
+  productos: 59
+
+Scrape: Toallas Desinfectantes
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/toallas-desinfectantes.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/toallas-desinfectantes.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/toallas-desinfectantes.json
+🧪 Dump BFF guardado: debug_bff\bff_toallas_desinfectantes.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 21
+  productos: 21
+
+Scrape: Limpiavidrios (Baño)
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/limpiavidrios.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/limpiavidrios.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/limpiavidrios.json
+🧪 Dump BFF guardado: debug_bff\bff_limpiavidrios_ba_o.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 22
+  productos: 22
+
+Scrape: Limpiadores Cocina
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/limpiadores-cocina.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/limpiadores-cocina.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/limpiadores-cocina.json
+🧪 Dump BFF guardado: debug_bff\bff_limpiadores_cocina.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/limpiadores-cocina.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 25
+  productos: 65
+
+Scrape: Lavalozas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/lavalozas.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/lavalozas.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/lavalozas.json
+🧪 Dump BFF guardado: debug_bff\bff_lavalozas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/lavalozas.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 18
+  productos: 58
+
+Scrape: Bolsas de Basura y Bolsas Reutilizables
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/bolsas-de-basura-y-bolsas-reutilizables.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/bolsas-de-basura-y-bolsas-reutilizables.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/bolsas-de-basura-y-bolsas-reutilizables.json
+🧪 Dump BFF guardado: debug_bff\bff_bolsas_de_basura_y_bolsas_reutilizables.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/bolsas-de-basura-y-bolsas-reutilizables.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 27
+  productos: 67
+
+Scrape: Guantes, Esponjas y Paños
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/guantes-esponjas-y-panos.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/guantes-esponjas-y-panos.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/guantes-esponjas-y-panos.json
+🧪 Dump BFF guardado: debug_bff\bff_guantes_esponjas_y_pa_os.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/guantes-esponjas-y-panos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/guantes-esponjas-y-panos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/guantes-esponjas-y-panos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/guantes-esponjas-y-panos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 7
+  productos: 167
+
+Scrape: Escobas, Palas y Plumeros
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/escobas-palas-y-plumeros.json
+09. 200 https://assets.jumbo.cl/json/cms/escobas-palas-y-plumeros.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/escobas-palas-y-plumeros.json
+🧪 Dump BFF guardado: debug_bff\bff_escobas_palas_y_plumeros.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 39
+  productos: 39
+
+Scrape: Limpiadores de Calzado
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/limpiadores-de-calzado.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/limpiadores-de-calzado.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/limpiadores-de-calzado.json
+🧪 Dump BFF guardado: debug_bff\bff_limpiadores_de_calzado.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 35
+  productos: 35
+
+Scrape: Desinfectantes
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+03. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/desinfectantes.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/desinfectantes.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/desinfectantes.json
+🧪 Dump BFF guardado: debug_bff\bff_desinfectantes.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 15
+  productos: 15
+
+Scrape: Desodorantes Ambientales
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/desodorantes-ambientales.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/desodorantes-ambientales.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/desodorantes-ambientales.json
+🧪 Dump BFF guardado: debug_bff\bff_desodorantes_ambientales.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/desodorantes-ambientales.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/desodorantes-ambientales.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 34
+  productos: 114
+
+Scrape: Insecticidas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/insecticidas.json
+09. 200 https://assets.jumbo.cl/json/cms/insecticidas.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/insecticidas.json
+🧪 Dump BFF guardado: debug_bff\bff_insecticidas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/insecticidas.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 10
+  productos: 50
+
+Scrape: Aromatizantes
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 404 https://assets.jumbo.cl/json/cms/aromatizantes.json
+09. 200 https://bff.jumbo.cl/catalog/plp
+10. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+🧪 Dump BFF guardado: debug_bff\bff_aromatizantes.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 18
+  productos: 18
+
+Scrape: Ceras y Virutillas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/ceras-y-virutillas.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/ceras-y-virutillas.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/ceras-y-virutillas.json
+🧪 Dump BFF guardado: debug_bff\bff_ceras_y_virutillas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 29
+  productos: 29
+
+Scrape: Limpiadores Piso
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/limpiadores-piso.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/limpiadores-piso.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/limpiadores-piso.json
+🧪 Dump BFF guardado: debug_bff\bff_limpiadores_piso.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/limpiadores-piso.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/limpiadores-piso.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 26
+  productos: 106
+
+Scrape: Lustramuebles y Limpiadores de Metales
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/lustramuebles-y-limpiadores-de-metales.json
+09. 200 https://assets.jumbo.cl/json/cms/lustramuebles-y-limpiadores-de-metales.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/lustramuebles-y-limpiadores-de-metales.json
+🧪 Dump BFF guardado: debug_bff\bff_lustramuebles_y_limpiadores_de_metales.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 28
+  productos: 28
+
+Scrape: Traperos y Mopas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/traperos-y-mopas.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/list-category.json
+09. 200 https://assets.jumbo.cl/json/cms/traperos-y-mopas.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/traperos-y-mopas.json
+🧪 Dump BFF guardado: debug_bff\bff_traperos_y_mopas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/traperos-y-mopas.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 14
+  productos: 54
+
+Total filas: 1349
+CSV generado: output\limpieza\jumbo_limpieza_20260226_191636.csv

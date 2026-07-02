@@ -1,0 +1,1771 @@
+{
+  "products": [
+    {
+      "productId": "985",
+      "reference": "1617471",
+      "sponsoredId": null,
+      "slug": "pan-forno-de-minas-de-queso-400-g-tradicional-exclusivo-jumbo",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Forno de Minas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "987",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 5262,
+          "listPrice": 6190,
+          "ppumPrice": 13155,
+          "ppumListPrice": 15475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/556937-250-250/Pan-de-Queso-400-g.jpg?v=639026132230930000"
+          ],
+          "name": "Pan de Queso 400 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 5262,
+              "ppumPrice": 13155,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "95514",
+      "reference": "1843961",
+      "sponsoredId": null,
+      "slug": "mozzarella-sticks-congelados-270-g-cuisine-and-co-1843961",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "95779",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 12360,
+          "ppumListPrice": 12360,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/369009-250-250/Mozzarella-sticks-congelado-250-g-1-196039341.jpg?v=638776775229470000"
+          ],
+          "name": "Mozzarella Sticks Congelados 270 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127539",
+      "reference": "1964631",
+      "sponsoredId": null,
+      "slug": "mechada-fundo-sur-400g-1964631",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Fundo Sur",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127832",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 9790,
+          "listPrice": 9790,
+          "ppumPrice": 24475,
+          "ppumListPrice": 24475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/426814-250-250/MECHADA-FUNDO-SUR-400G.jpg?v=638810995638730000"
+          ],
+          "name": "Mechada Fundo Sur 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "71559",
+      "reference": "1772249",
+      "sponsoredId": null,
+      "slug": "mini-quiche-mix-congelado-618-g-cuisine-and-co-1772249",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "71814",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.618,
+          "price": 10290,
+          "listPrice": 10290,
+          "ppumPrice": 16650,
+          "ppumListPrice": 16650,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362412-250-250/Mini-quiche-mix-congelado-618-g.jpg?v=638776742894070000"
+          ],
+          "name": "Mini Quiche Mix Congelado 618 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75857",
+      "reference": "1798039",
+      "sponsoredId": null,
+      "slug": "sopaipillas-congeladas-400-g-cuisine-and-co-1798039",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "21672",
+        "23175",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "76112",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2290,
+          "listPrice": 2290,
+          "ppumPrice": 5725,
+          "ppumListPrice": 5725,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363575-250-250/Sopaipillas-congeladas-Cuisine---Co-400-g-Sopaipillas-congeladas-Cuisine---Co-400-g-1-81993927.jpg?v=638776748959500000"
+          ],
+          "name": "Sopaipillas Congeladas 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "95453",
+      "reference": "1822354",
+      "sponsoredId": null,
+      "slug": "anillos-de-cebolla-tempura-400-g-cuisine-and-co-1822354",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "95718",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 7475,
+          "ppumListPrice": 7475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/368982-250-250/Anillos-de-cebolla-tempura-400-g-1-130375852.jpg?v=638776775103400000"
+          ],
+          "name": "Anillos de Cebolla Tempura 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "56917",
+      "reference": "1705135",
+      "sponsoredId": null,
+      "slug": "hojas-de-parra-cuk-375g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "22523",
+        "23175"
+      ],
+      "brand": "Cuk",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "57232",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.375,
+          "price": 8390,
+          "listPrice": 8390,
+          "ppumPrice": 22373,
+          "ppumListPrice": 22373,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360168-250-250/Principal-434645.jpg?v=638776731446000000"
+          ],
+          "name": "Hojas de Parra 375 g 20 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127293",
+      "reference": "1955146",
+      "sponsoredId": null,
+      "slug": "sopaipilla-mixta-salvia-328-g-1955146",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "21672",
+        "23984",
+        "23985"
+      ],
+      "brand": "Salvia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127588",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.328,
+          "price": 3590,
+          "listPrice": 3590,
+          "ppumPrice": 10945,
+          "ppumListPrice": 10945,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393353-250-250/Sopaipilla-Mixta-Salvia-15-un.jpg?v=638776874296370000"
+          ],
+          "name": "Sopaipilla Mixta Salvia 328 g 15 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150887",
+      "reference": "2037972",
+      "sponsoredId": null,
+      "slug": "aros-cebolla-350g-2037972",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "151187",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 3650,
+          "listPrice": 3650,
+          "ppumPrice": 10429,
+          "ppumListPrice": 10429,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/458268-250-250/AROS-CEBOLLA-350G.jpg?v=638858928668300000"
+          ],
+          "name": "Aros de Cebolla Frutos del Maipo 350 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "152926",
+      "reference": "2040818",
+      "sponsoredId": null,
+      "slug": "pack-6-un-sopaipillas",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "21672"
+      ],
+      "brand": "Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153225",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 6,
+          "price": 3000,
+          "listPrice": 3000,
+          "ppumPrice": 500,
+          "ppumListPrice": 500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/477674-250-250/Pack-6-un-Sopaipillas.jpg?v=638877743762200000"
+          ],
+          "name": "Sopaipillas Pack 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "56919",
+      "reference": "1705143",
+      "sponsoredId": null,
+      "slug": "bolitas-carne-perejil-cuk-350g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "22523",
+        "23175"
+      ],
+      "brand": "Cuk",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "57234",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 8990,
+          "listPrice": 8990,
+          "ppumPrice": 25686,
+          "ppumListPrice": 25686,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360171-250-250/Principal-434661.jpg?v=638776731472600000"
+          ],
+          "name": "Bolitas de Carne Al Perejil 25 un. 330 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "125129",
+      "reference": "1951025",
+      "sponsoredId": null,
+      "slug": "arr-prott-mandarin-beef-plant-based-240g-1951025",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "1055",
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Protteina Foods",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "125394",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.24,
+          "price": 5590,
+          "listPrice": 5590,
+          "ppumPrice": 23292,
+          "ppumListPrice": 23292,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/390993-250-250/Mandarin-beef-plant-based-240-g.jpg?v=638776865784900000"
+          ],
+          "name": "Arrollado Protteina Food Mandarin Beef Plant Based 240 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "56918",
+      "reference": "1705139",
+      "sponsoredId": null,
+      "slug": "kubbe-cuk-350g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "22523",
+        "23175"
+      ],
+      "brand": "Cuk",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "57233",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 22829,
+          "ppumListPrice": 22829,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360166-250-250/1705139.jpg?v=638776731437470000"
+          ],
+          "name": "Kubbe 350 g 25 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127292",
+      "reference": "1955145",
+      "sponsoredId": null,
+      "slug": "sopaipilla-zapallo-salvia-328-g-1955145",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "21672",
+        "23984",
+        "23985"
+      ],
+      "brand": "Salvia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127584",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.328,
+          "price": 3590,
+          "listPrice": 3590,
+          "ppumPrice": 10945,
+          "ppumListPrice": 10945,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393352-250-250/SOPAIPILLA-ZAPALLO-SALVIA-328-G.jpg?v=638776874295600000"
+          ],
+          "name": "Sopaipilla Zapallo Salvia 328 g 15 un.",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "141929",
+      "reference": "2010126",
+      "sponsoredId": null,
+      "slug": "cerdo-mostaza-arroz-ara-takeabreak-350gr-2010126",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "23985"
+      ],
+      "brand": "Take a Break",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142224",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 11400,
+          "ppumListPrice": 11400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/336624-250-250/Cerdo-a-la-Mostaza-con-Arroz-Takeabreak-350-g.jpg?v=638776437784730000"
+          ],
+          "name": "Cerdo A La Mostaza con Arroz Takeabreak 350 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "141923",
+      "reference": "2009225",
+      "sponsoredId": null,
+      "slug": "aji-gallina-arroz-bla-take-a-break-350gr-2009225",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "23985"
+      ],
+      "brand": "Take a Break",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142218",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 11400,
+          "ppumListPrice": 11400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/336410-250-250/Aji-de-Gallina-con-Arroz-Take-A-Break-350-g.jpg?v=638776437572030000"
+          ],
+          "name": "Ají de Gallina con Arroz Take A Break 350 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "141920",
+      "reference": "2008224",
+      "sponsoredId": null,
+      "slug": "fusili-con-mechada-take-a-break-350gr-2008224",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "23985"
+      ],
+      "brand": "Take a Break",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142215",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 11400,
+          "ppumListPrice": 11400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/336299-250-250/Fusili-con-Mechada-Take-A-Break-350-g.jpg?v=638776437463370000"
+          ],
+          "name": "Fusili con Mechada Take A Break 350 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "71558",
+      "reference": "1772248",
+      "sponsoredId": null,
+      "slug": "mini-quiche-pollo-ciboulette-congelada-360-g-cuisine-and-co-1772248",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "71813",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.36,
+          "price": 6490,
+          "listPrice": 6490,
+          "ppumPrice": 18028,
+          "ppumListPrice": 18028,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362409-250-250/Mini-quiche-pollo-ciboulette-congelada-Cuisine---Co-360-g-1-48082484.jpg?v=638776742854070000"
+          ],
+          "name": "Mini Quiche Pollo Ciboulette Congelada 360 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "71557",
+      "reference": "1772247",
+      "sponsoredId": null,
+      "slug": "mini-quiche-espinaca-queso-congelada-310-g-cuisine-and-co-1772247",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "71812",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.31,
+          "price": 6490,
+          "listPrice": 6490,
+          "ppumPrice": 20935,
+          "ppumListPrice": 20935,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362406-250-250/Mini-quiche-espinaca-queso-congelada-Cuisine-Co-310-g-1-48082483.jpg?v=638776742827770000"
+          ],
+          "name": "Mini Quiche Espinaca Queso Congelada 310 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Quiches, Sopaipillas y Otros",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/quiches-sopaipillas-y-otros",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Quiches, Sopaipillas y Otros",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/quiches-sopaipillas-y-otros",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Quiches, Sopaipillas y Otros",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/quiches-sopaipillas-y-otros",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Protteina Foods",
+          "value": "Protteina Foods",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Forno de Minas",
+          "value": "Forno de Minas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salvia",
+          "value": "Salvia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fundo Sur",
+          "value": "Fundo Sur",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutos Del Maipo",
+          "value": "Frutos Del Maipo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cuk",
+          "value": "Cuk",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo",
+          "value": "Jumbo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Take a Break",
+          "value": "Take a Break",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "América Latina",
+          "value": "América Latina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brasil",
+          "value": "Brasil",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bandeja",
+          "value": "Bandeja",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sobre",
+          "value": "Sobre",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Queso Mozzarella",
+          "value": "Queso Mozzarella",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cebolla",
+          "value": "Cebolla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sopaipillas",
+          "value": "Sopaipillas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quiche Pollo",
+          "value": "Quiche Pollo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arrollado Primavera",
+          "value": "Arrollado Primavera",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan de Queso",
+          "value": "Pan de Queso",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas Sopaipillas",
+          "value": "Masas Sopaipillas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carne Mechada",
+          "value": "Carne Mechada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Platos Preparados",
+          "value": "Platos Preparados",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hojas de Parra",
+          "value": "Hojas de Parra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bolitas de Carne",
+          "value": "Bolitas de Carne",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kubbe",
+          "value": "Kubbe",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cerdo en Salsa",
+          "value": "Cerdo en Salsa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "carne vacuno",
+          "value": "carne vacuno",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mandarin",
+          "value": "Mandarin",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Al Jugo",
+          "value": "Al Jugo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Artesanal",
+          "value": "Artesanal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "15 Unidades",
+          "value": "15 colgadores",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "8 Unidades",
+          "value": "8 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2290,
+          "maxValue": 10290
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Congelados",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "Carne Vegana Beyond Beef",
+          "value": "Carne Vegana Beyond Beef",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "400 g",
+          "value": "400 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 19,
+  "metaTag": null
+}

@@ -1,0 +1,3961 @@
+{
+  "products": [
+    {
+      "productId": "160817",
+      "reference": "2055771",
+      "sponsoredId": "oDmAaAoQBpnggArxfkqcBDJ7kpNu4hIQAZyPsoWhe5Oy7gM8njIk3RoQBjxud-nEfTSuJFLZ8MU0HiIKCgYxNjExODAQATDXrgFAMkgBUN6FvYrJM2AychAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "agua-mas-1-6l-2055771",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [],
+      "brand": "Cachantun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "161180",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 869,
+          "ppumListPrice": 869,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/544805-250-250/Agua-Mas-Frutos-del-Bosque-Botella-PET-16-L.jpg?v=638995843647630000"
+          ],
+          "name": "Agua Más Frutos del Bosque Botella 1.6 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X3090 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3090,
+              "unitPrice": 1030,
+              "ppumPrice": 644,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16145",
+      "reference": "1660613",
+      "sponsoredId": null,
+      "slug": "agua-saborizada-cachant-n-m-s-1-6-l-manzana",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27427",
+        "27432",
+        "27499",
+        "27501",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17475",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 1310,
+          "listPrice": 1310,
+          "ppumPrice": 819,
+          "ppumListPrice": 819,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303820-250-250/Agua-Saborizada-Mas-Manzana-Sin-Gas-16-L.jpg?v=638776378195170000"
+          ],
+          "name": "Agua Saborizada Mas Manzana Sin Gas 1.6 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2990 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2 24022026 AL 09032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2",
+              "type": "mx",
+              "value": 2990,
+              "unitPrice": 997,
+              "ppumPrice": 623,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134919",
+      "reference": "1993238",
+      "sponsoredId": null,
+      "slug": "mas-limonada-frambuesa-con-gas-1600cc-1993238",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27427",
+        "27432",
+        "27499",
+        "27501",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135213",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 869,
+          "ppumListPrice": 869,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/324176-250-250/Agua-Saborizada-Mas-Limonada-Frambuesa-16-L.jpg?v=638776427392070000"
+          ],
+          "name": "Agua Saborizada Mas Limonada Frambuesa Gasificada 1.6 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2990 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2 24022026 AL 09032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2",
+              "type": "mx",
+              "value": 2990,
+              "unitPrice": 997,
+              "ppumPrice": 623,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16148",
+      "reference": "1660615",
+      "sponsoredId": null,
+      "slug": "agua-saborizada-cachant-n-m-s-1-6-l-pera",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27427",
+        "27432",
+        "27499",
+        "27501",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17478",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 1310,
+          "listPrice": 1310,
+          "ppumPrice": 819,
+          "ppumListPrice": 819,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303861-250-250/Agua-Saborizada-Mas-Pera-Sin-Gas-16-L.jpg?v=638776378276500000"
+          ],
+          "name": "Agua Saborizada Mas Pera Sin Gas 1.6 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2990 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2 24022026 AL 09032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2",
+              "type": "mx",
+              "value": 2990,
+              "unitPrice": 997,
+              "ppumPrice": 623,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16146",
+      "reference": "1660614",
+      "sponsoredId": null,
+      "slug": "agua-saborizada-cachant-n-m-s-1-6-l-granada",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27427",
+        "27432",
+        "27499",
+        "27501",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17476",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 1310,
+          "listPrice": 1310,
+          "ppumPrice": 819,
+          "ppumListPrice": 819,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303836-250-250/Agua-Saborizada-Mas-Granada-Sin-Gas-16-L.jpg?v=638776378220870000"
+          ],
+          "name": "Agua Saborizada Mas Granada Sin Gas 1.6 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2990 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2 24022026 AL 09032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2",
+              "type": "mx",
+              "value": 2990,
+              "unitPrice": 997,
+              "ppumPrice": 623,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16143",
+      "reference": "1660611",
+      "sponsoredId": null,
+      "slug": "agua-saborizada-cachant-n-m-s-1-6-l-citrus",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27427",
+        "27432",
+        "27499",
+        "27501",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17473",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 1310,
+          "listPrice": 1310,
+          "ppumPrice": 819,
+          "ppumListPrice": 819,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303806-250-250/Agua-Saborizada-Mas-Citrus-Gasificada-16-L.jpg?v=638776378168800000"
+          ],
+          "name": "Agua Saborizada Mas Citrus Gasificada 1.6 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2990 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2 24022026 AL 09032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2",
+              "type": "mx",
+              "value": 2990,
+              "unitPrice": 997,
+              "ppumPrice": 623,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122642",
+      "reference": "1950805",
+      "sponsoredId": null,
+      "slug": "agua-sab-mas-mango-maracuya-pet-1-6-l-1950805",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27427",
+        "27432",
+        "27499",
+        "27501",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122919",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 1350,
+          "listPrice": 1350,
+          "ppumPrice": 844,
+          "ppumListPrice": 844,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318229-250-250/Agua-Saborizada-Cachantun-Mas-Mango-Maracuya-16-L.jpg?v=638776413860100000"
+          ],
+          "name": "Agua Saborizada Mas Mango Maracuyá Sin Gas 1.6 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2990 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2 24022026 AL 09032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2",
+              "type": "mx",
+              "value": 2990,
+              "unitPrice": 997,
+              "ppumPrice": 623,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134524",
+      "reference": "1991087",
+      "sponsoredId": null,
+      "slug": "agua-benedictino-manzana-2l-1991087",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25532",
+        "25586",
+        "25695",
+        "26221",
+        "26912",
+        "27211",
+        "27367",
+        "27481",
+        "27499",
+        "27501"
+      ],
+      "brand": "Benedictino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134816",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 595,
+          "ppumListPrice": 595,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/496331-250-250/Agua-Benedictino-Manzana-2-L.jpg?v=638911647426400000"
+          ],
+          "name": "Agua Benedictino Manzana 2 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X2000 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 2000,
+              "unitPrice": 1000,
+              "ppumPrice": 500,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16147",
+      "reference": "1660616",
+      "sponsoredId": null,
+      "slug": "agua-saborizada-cachant-n-m-s-1-6-l-uva",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27427",
+        "27432",
+        "27499",
+        "27501"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17477",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 869,
+          "ppumListPrice": 869,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303853-250-250/Agua-Saborizada-Mas-Uva-Sin-Gas-16-L.jpg?v=638776378250400000"
+          ],
+          "name": "Agua Saborizada Mas Uva Sin Gas 1.6 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2990 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2 24022026 AL 09032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2",
+              "type": "mx",
+              "value": 2990,
+              "unitPrice": 997,
+              "ppumPrice": 623,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "81554",
+      "reference": "1819263",
+      "sponsoredId": null,
+      "slug": "agua-saborizada-mas-pina-1-6-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27427",
+        "27432",
+        "27499",
+        "27501"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81826",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 869,
+          "ppumListPrice": 869,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311213-250-250/Agua-Saborizada-Mas-Pi%C3%B1a-16-L.jpg?v=638776393151430000"
+          ],
+          "name": "Agua Saborizada Mas Piña Sin Gas 1.6 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2990 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2 24022026 AL 09032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2",
+              "type": "mx",
+              "value": 2990,
+              "unitPrice": 997,
+              "ppumPrice": 623,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134527",
+      "reference": "1991088",
+      "sponsoredId": null,
+      "slug": "agua-benedictino-pera-2l-1991088",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25532",
+        "25586",
+        "25695",
+        "26221",
+        "26912",
+        "27211",
+        "27367",
+        "27481",
+        "27499",
+        "27501"
+      ],
+      "brand": "Benedictino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134821",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 595,
+          "ppumListPrice": 595,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/496337-250-250/Agua-Saborizada-Benedictino-Pera-2-L.jpg?v=638911647440700000"
+          ],
+          "name": "Agua Saborizada Benedictino Pera 2 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X2000 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 2000,
+              "unitPrice": 1000,
+              "ppumPrice": 500,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134523",
+      "reference": "1991089",
+      "sponsoredId": null,
+      "slug": "agua-benedictino-pomelo-menta-2l-1991089",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25532",
+        "25586",
+        "25695",
+        "26221",
+        "26912",
+        "27211",
+        "27367",
+        "27481",
+        "27499",
+        "27501",
+        "27540"
+      ],
+      "brand": "Benedictino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134818",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 595,
+          "ppumListPrice": 595,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/496342-250-250/Agua-Saborizada-Benedictino-Pomelo-Menta-2-L.jpg?v=638911647459330000"
+          ],
+          "name": "Agua Saborizada Benedictino Pomelo Menta 2 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X2000 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 2000,
+              "unitPrice": 1000,
+              "ppumPrice": 500,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134508",
+      "reference": "1991091",
+      "sponsoredId": null,
+      "slug": "agua-benedictino-limon-jengibre-2l-1991091",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25532",
+        "25586",
+        "25695",
+        "26221",
+        "26912",
+        "27211",
+        "27367",
+        "27481",
+        "27499",
+        "27501",
+        "27540"
+      ],
+      "brand": "Benedictino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134817",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 595,
+          "ppumListPrice": 595,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/496352-250-250/Agua-Benedictino-Limon-Jengibre-2-L.jpg?v=638911647478130000"
+          ],
+          "name": "Agua Benedictino Limón Jengibre 2 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X2000 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 2000,
+              "unitPrice": 1000,
+              "ppumPrice": 500,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "81552",
+      "reference": "1819261",
+      "sponsoredId": null,
+      "slug": "agua-saborizada-mas-limonada-gengibre-1-6-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27427",
+        "27432",
+        "27499",
+        "27501",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81824",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 869,
+          "ppumListPrice": 869,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311189-250-250/Agua-Saborizada-Mas-Limonada-Jengibre-16-L.jpg?v=638776393116430000"
+          ],
+          "name": "Agua Saborizada Mas Limonada Jengibre Sin Gas 1.6 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2990 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2 24022026 AL 09032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2",
+              "type": "mx",
+              "value": 2990,
+              "unitPrice": 997,
+              "ppumPrice": 623,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "113919",
+      "reference": "1930971",
+      "sponsoredId": null,
+      "slug": "agua-mas-manzana-pet-600cc-1930971",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "25354",
+        "25381",
+        "25670",
+        "26816",
+        "26853",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "114184",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.6,
+          "price": 960,
+          "listPrice": 960,
+          "ppumPrice": 1600,
+          "ppumListPrice": 1600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/429154-250-250/Agua-Mas-Manzana-600-ml.jpg?v=638812786814630000"
+          ],
+          "name": "Agua Saborizada Mas Manzana Sin Gas 600 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 12X7990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 7990,
+              "unitPrice": 666,
+              "ppumPrice": 1110,
+              "mQuantity": 12,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "79870",
+      "reference": "1820045",
+      "sponsoredId": null,
+      "slug": "agua-saborizada-de-pera-1-5-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "23175",
+        "27211"
+      ],
+      "brand": "Benedictino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "80123",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 793,
+          "ppumListPrice": 793,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/496187-250-250/Agua-Saborizada-Benedictino-Pera-15-L.jpg?v=638911647131300000"
+          ],
+          "name": "Agua Saborizada Benedictino Pera 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "113929",
+      "reference": "1930973",
+      "sponsoredId": null,
+      "slug": "agua-mas-granada-pet-600cc-1930973",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "25354",
+        "25381",
+        "25670",
+        "26816",
+        "26853",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "114191",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.6,
+          "price": 960,
+          "listPrice": 960,
+          "ppumPrice": 1600,
+          "ppumListPrice": 1600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/429160-250-250/Agua-Cachantun-Mas-Granada-600-ml.jpg?v=638812786836000000"
+          ],
+          "name": "Agua Saborizada Mas Granada Sin Gas 600 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 12X7990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 7990,
+              "unitPrice": 666,
+              "ppumPrice": 1110,
+              "mQuantity": 12,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134903",
+      "reference": "1993233",
+      "sponsoredId": null,
+      "slug": "mas-limonada-frambuesa-con-gas-600cc-1993233",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "25354",
+        "25381",
+        "25670",
+        "26816",
+        "26853",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135197",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.6,
+          "price": 960,
+          "listPrice": 960,
+          "ppumPrice": 1600,
+          "ppumListPrice": 1600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/429191-250-250/Agua-Saborizada-Mas-Limonada-Frambuesa-600-ml.jpg?v=638812786982370000"
+          ],
+          "name": "Agua Saborizada Mas Limonada Frambuesa Gasificada 600 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 12X7990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 7990,
+              "unitPrice": 666,
+              "ppumPrice": 1110,
+              "mQuantity": 12,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "101752",
+      "reference": "1866538",
+      "sponsoredId": null,
+      "slug": "agua-rizola-limon-con-gas-1500-cc-1866538",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27540"
+      ],
+      "brand": "Rizola",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102020",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 1013,
+          "listPrice": 1350,
+          "ppumPrice": 675,
+          "ppumListPrice": 900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/372919-250-250/Agua-rizola-limon-con-gas-1500-cc.jpg?v=638776793280770000"
+          ],
+          "name": "Agua Rizola Limón Gasificada 1.5 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 1013,
+              "ppumPrice": 675,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "72186",
+      "reference": "1773432",
+      "sponsoredId": null,
+      "slug": "agua-sab-aquarius-pera-bot-1-6lt",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "19270"
+      ],
+      "brand": "Aquarius",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "72443",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 744,
+          "ppumListPrice": 744,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362486-250-250/Agua-saborizada-pera-botella-16-L.jpg?v=638776743248700000"
+          ],
+          "name": "Agua Saborizada Aquarius Pera Botella 1.6 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "101766",
+      "reference": "1866537",
+      "sponsoredId": null,
+      "slug": "agua-rizola-frambuesa-con-gas-1500-1866537",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27540"
+      ],
+      "brand": "Rizola",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102035",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 1013,
+          "listPrice": 1350,
+          "ppumPrice": 675,
+          "ppumListPrice": 900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/372933-250-250/Agua-rizola-frambuesa-con-gas-1500.jpg?v=638776793334100000"
+          ],
+          "name": "Agua Rizola Frambuesa Gasificada 1.5 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 1013,
+              "ppumPrice": 675,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "79868",
+      "reference": "1820043",
+      "sponsoredId": null,
+      "slug": "agua-saborizada-de-manzana-1-5-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "23175",
+        "27211"
+      ],
+      "brand": "Benedictino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "80121",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 793,
+          "ppumListPrice": 793,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/496168-250-250/Agua-Saborizada-Benedictino-Manzana-15-L.jpg?v=638911647094070000"
+          ],
+          "name": "Agua Saborizada Benedictino Manzana 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "72188",
+      "reference": "1773434",
+      "sponsoredId": null,
+      "slug": "agua-sab-aquarius-limonda-bot-1-6lt",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "19270"
+      ],
+      "brand": "Aquarius",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "72445",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 744,
+          "ppumListPrice": 744,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362490-250-250/Agua-saborizada-limonada-botella-16-L.jpg?v=638776743287670000"
+          ],
+          "name": "Agua Saborizada Aquarius Limonada 1.6 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "373",
+      "reference": "1421167",
+      "sponsoredId": null,
+      "slug": "agua-saborizada-vitamin-water-botella-500-ml-con-vitaminas-power-c-sabor-a-frutas",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25532",
+        "25695",
+        "26221",
+        "27499",
+        "27501",
+        "27540"
+      ],
+      "brand": "Vitamin Water",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "375",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1250,
+          "listPrice": 1250,
+          "ppumPrice": 2500,
+          "ppumListPrice": 2500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/297876-250-250/Agua-saborizada-Vitamin-Water-power-c-botella-500-ml.jpg?v=638775744514000000"
+          ],
+          "name": "Agua Saborizada Vitamin Water Powerc 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X1990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 1990,
+              "unitPrice": 995,
+              "ppumPrice": 1990,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "113924",
+      "reference": "1930972",
+      "sponsoredId": null,
+      "slug": "agua-mas-pera-pet-600cc-1930972",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "25354",
+        "25381",
+        "25670",
+        "26816",
+        "26853",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "114189",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.6,
+          "price": 960,
+          "listPrice": 960,
+          "ppumPrice": 1600,
+          "ppumListPrice": 1600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316084-250-250/Agua-Cachantun-Mas-Pera-600-ml.jpg?v=638776407345870000"
+          ],
+          "name": "Agua Saborizada Mas Pera Sin Gas 600 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 12X7990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 7990,
+              "unitPrice": 666,
+              "ppumPrice": 1110,
+              "mQuantity": 12,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "113912",
+      "reference": "1930974",
+      "sponsoredId": null,
+      "slug": "agua-mas-citrus-pet-600cc-1930974",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "25354",
+        "25381",
+        "25670",
+        "26816",
+        "26853",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "114166",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.6,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 1650,
+          "ppumListPrice": 1650,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316078-250-250/Agua-Cachantun-Mas-Citrus-600-ml.jpg?v=638776407334570000"
+          ],
+          "name": "Agua Saborizada Mas Citrus Gasificada 600 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 12X7990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 7990,
+              "unitPrice": 666,
+              "ppumPrice": 1110,
+              "mQuantity": 12,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156648",
+      "reference": "2052545",
+      "sponsoredId": null,
+      "slug": "agua-sab-benedictino-frut-rojos-1-5l-2052545",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "27211"
+      ],
+      "brand": "Benedictino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156972",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 793,
+          "ppumListPrice": 793,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/511509-250-250/AGUA-SAB-BENEDICTINO-FRUT-ROJOS-15L.jpg?v=638942452118730000"
+          ],
+          "name": "Agua Saborizada Benedictino Frutos Rojos 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16330",
+      "reference": "1565277",
+      "sponsoredId": null,
+      "slug": "jugo-san-pellegrino-330-ml-pompelmo-toronja",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "23175",
+        "26912",
+        "27367"
+      ],
+      "brand": "San Pellegrino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17660",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1790,
+          "listPrice": 1790,
+          "ppumPrice": 5424,
+          "ppumListPrice": 5424,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352651-250-250/Jugo-San-Pellegrino-toronja-330-cc.jpg?v=638776693806030000"
+          ],
+          "name": "Jugo San Pellegrino Toronja 330 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "89627",
+      "reference": "1820061",
+      "sponsoredId": null,
+      "slug": "agua-de-coco-con-pulpa-520-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "1054",
+        "23175"
+      ],
+      "brand": "Be Organics",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "89897",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.52,
+          "price": 2150,
+          "listPrice": 2150,
+          "ppumPrice": 4135,
+          "ppumListPrice": 4135,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312101-250-250/Agua-de-Coco-Be-Organics-Con-Pulpa-520-cc.jpg?v=638776395618600000"
+          ],
+          "name": "Agua de Coco Be Organics con Pulpa 520 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "72185",
+      "reference": "1773431",
+      "sponsoredId": null,
+      "slug": "agua-sab-aquarius-manzana-bot-1-6lt",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "19270"
+      ],
+      "brand": "Aquarius",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "72442",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 744,
+          "ppumListPrice": 744,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362484-250-250/Agua-saborizada-manzana-botella-16-L.jpg?v=638776743247600000"
+          ],
+          "name": "Agua Saborizada Aquarius Manzana Botella 1.6 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "160818",
+      "reference": "2054664",
+      "sponsoredId": null,
+      "slug": "agua-mas-600cc-2054664",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [],
+      "brand": "Cachantun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "161182",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.6,
+          "price": 960,
+          "listPrice": 960,
+          "ppumPrice": 1600,
+          "ppumListPrice": 1600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/544762-250-250/Agua-Mas-Frutos-del-Bosque-Botella-PET-600-cc.jpg?v=638995843468830000"
+          ],
+          "name": "Agua Más Frutos del Bosque Botella 600 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16329",
+      "reference": "1565275",
+      "sponsoredId": null,
+      "slug": "jugo-san-pellegrino-330-ml-aranciatta-rossa",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "23175",
+        "26912",
+        "27367"
+      ],
+      "brand": "San Pellegrino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17659",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1790,
+          "listPrice": 1790,
+          "ppumPrice": 5424,
+          "ppumListPrice": 5424,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352648-250-250/Jugo-San-Pellegrino-aranciatta-rossa-330-cc.jpg?v=638776693801970000"
+          ],
+          "name": "Jugo San Pellegrino Aranciatta Rossa 330 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146154",
+      "reference": "1930971-CS",
+      "sponsoredId": null,
+      "slug": "agua-mas-manz-600",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "25354",
+        "25381",
+        "25670",
+        "26816",
+        "26853",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27323",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146449",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 7990,
+          "listPrice": 10290,
+          "ppumPrice": 7990,
+          "ppumListPrice": 10290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/345091-250-250/AGUA-MAS-MANZ-600.jpg?v=638776444456300000"
+          ],
+          "name": "Caja 12 un. Agua Saborizada Mas Manzana Sin Gas 600 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 7990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 7990,
+              "ppumPrice": 7990,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "79871",
+      "reference": "1820046",
+      "sponsoredId": null,
+      "slug": "agua-saborizada-limonada-jengibre-1-5-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "23175",
+        "27211"
+      ],
+      "brand": "Benedictino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "80124",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 793,
+          "ppumListPrice": 793,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/496194-250-250/Agua-Saborizada-Benedictino-Limonada-Jengibre-15-L.jpg?v=638911647146770000"
+          ],
+          "name": "Agua Saborizada Benedictino Limonada Jengibre 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "149894",
+      "reference": "2037779",
+      "sponsoredId": null,
+      "slug": "agua-gas-pomelo-2037779",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25695",
+        "25724",
+        "26912",
+        "27367"
+      ],
+      "brand": "Sofruco",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150189",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.31,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 6419,
+          "ppumListPrice": 6419,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/472300-250-250/Agua-Gasificada-Sofruco-con-Jugo-de-Pomelo-310-ml.jpg?v=638870871777870000"
+          ],
+          "name": "Agua Gasificada Sofruco con Jugo de Pomelo 310 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "79872",
+      "reference": "1820047",
+      "sponsoredId": null,
+      "slug": "agua-saborizada-de-pomelo-menta-1-5-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "23175",
+        "27211"
+      ],
+      "brand": "Benedictino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "80125",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 793,
+          "ppumListPrice": 793,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/496201-250-250/Agua-Saborizada-Benedictino-Pomelo-Menta-15-L.jpg?v=638911647163400000"
+          ],
+          "name": "Agua Saborizada Benedictino Pomelo Menta 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "72187",
+      "reference": "1773433",
+      "sponsoredId": null,
+      "slug": "agua-sab-aquarius-uva-bot-1-6lt",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "19270"
+      ],
+      "brand": "Aquarius",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "72444",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 744,
+          "ppumListPrice": 744,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362491-250-250/Agua-saborizada-uva-botella-16-L.jpg?v=638776743291670000"
+          ],
+          "name": "Agua Saborizada Aquarius Uva Botella 1.6 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122636",
+      "reference": "1950806",
+      "sponsoredId": null,
+      "slug": "agua-sab-mas-mango-maracuya-pet-600cc-1950806",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "25354",
+        "25381",
+        "25670",
+        "26816",
+        "26853",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122910",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.6,
+          "price": 960,
+          "listPrice": 960,
+          "ppumPrice": 1600,
+          "ppumListPrice": 1600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318056-250-250/Agua-Saborizada-Cachantun-Mango-Maracuya-600-ml.jpg?v=638776413616100000"
+          ],
+          "name": "Agua Saborizada Mas Mango Maracuyá Sin Gas 600 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 12X7990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 7990,
+              "unitPrice": 666,
+              "ppumPrice": 1110,
+              "mQuantity": 12,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "79867",
+      "reference": "1820042",
+      "sponsoredId": null,
+      "slug": "agua-saborizada-de-manzana-500-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "27211"
+      ],
+      "brand": "Benedictino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "80120",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 1980,
+          "ppumListPrice": 1980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/496162-250-250/Agua-Saborizada-Benedictino-Manzana-500-ml.jpg?v=638911647079130000"
+          ],
+          "name": "Agua Saborizada Benedictino Manzana 500 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "140171",
+      "reference": "2005176",
+      "sponsoredId": null,
+      "slug": "agua-mas-citrus-lata-310cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "953",
+        "955"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Aguas",
+        "Aguas Saborizadas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27540"
+      ],
+      "brand": "Mas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "140464",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.31,
+          "price": 1090,
+          "listPrice": 1090,
+          "ppumPrice": 3516,
+          "ppumListPrice": 3516,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/333625-250-250/Agua-Mas-Citrus-Lata-310-cc.jpg?v=638776435043670000"
+          ],
+          "name": "Agua Saborizada Mas Citrus Gasificada Lata 310 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2x1150 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 1150,
+              "unitPrice": 575,
+              "ppumPrice": 1855,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Aguas Saborizadas",
+          "value": "/licores-bebidas-y-aguas/aguas/aguas-saborizadas",
+          "selected": false,
+          "quantity": 114,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Aguas Saborizadas",
+          "value": "/licores-bebidas-y-aguas/aguas/aguas-saborizadas",
+          "selected": false,
+          "quantity": 114,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Aguas Saborizadas",
+          "value": "/licores-bebidas-y-aguas/aguas/aguas-saborizadas",
+          "selected": false,
+          "quantity": 114,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mas",
+          "value": "Mas",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Benedictino",
+          "value": "Benedictino",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cachantun",
+          "value": "Cachantun",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rizola",
+          "value": "Rizola",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aquarius",
+          "value": "Aquarius",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vitamin Water",
+          "value": "Vitamin Water",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Pellegrino",
+          "value": "San Pellegrino",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Be Organics",
+          "value": "Be Organics",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sofruco",
+          "value": "Sofruco",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Guallarauco",
+          "value": "Guallarauco",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hola Hosan",
+          "value": "Hola Hosan",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "OKF",
+          "value": "OKF",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pfanner",
+          "value": "Pfanner",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Qlife",
+          "value": "Qlife",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Love water",
+          "value": "Love water",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vivo",
+          "value": "Vivo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mi Agüitta",
+          "value": "Mi Agüitta",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Revitta",
+          "value": "Revitta",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sappé",
+          "value": "Sappé",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Berrysur",
+          "value": "Berrysur",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Spartan",
+          "value": "Spartan",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "María Gracia KO",
+          "value": "María Gracia KO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Uni-Ko",
+          "value": "Uni-Ko",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Samui",
+          "value": "Samui",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Gasificado",
+      "key": "Gasificado",
+      "values": [
+        {
+          "displayName": "Con gas",
+          "value": "Con gas",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Gas",
+          "value": "Sin Gas",
+          "selected": false,
+          "quantity": 81,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "300 ml",
+          "value": "300 ml",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "600 cc x 12 un.",
+          "value": "600 cc x 12 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entre 1 y 2 lt",
+          "value": "Entre 1 y 2 lt",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Menor a 1 lt",
+          "value": "Menor a 1 lt",
+          "selected": false,
+          "quantity": 60,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 103,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 103,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 103,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 103,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 102,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 101,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 100,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 100,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 99,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 98,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 93,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 58,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 58,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Halal",
+          "value": "Halal",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 105,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1.6 L",
+          "value": "1.6 L",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "12 Unidades",
+          "value": "12 colores",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Aloe Vera Original",
+          "value": "Aloe Vera Original",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aloe Vera sin Azúcar",
+          "value": "Aloe Vera sin Azúcar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arándano",
+          "value": "Arándano",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Citrus",
+          "value": "Citrus",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Coco",
+          "value": "Coco",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Craberry Frambuesa",
+          "value": "Craberry Frambuesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Durazno",
+          "value": "Durazno",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frambuesa",
+          "value": "Frambuesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutos del bosque",
+          "value": "Frutos del bosque",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutos Rojos",
+          "value": "Frutos Rojos",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Granada",
+          "value": "Granada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limon",
+          "value": "Limon",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limonada",
+          "value": "Limonada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limonada Frambuesa",
+          "value": "Limonada Frambuesa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limonada jengibre",
+          "value": "Limonada jengibre",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limonada maracuya",
+          "value": "Limonada maracuya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limón",
+          "value": "Limón",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limón Jengibre",
+          "value": "Limón Jengibre",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mandarina",
+          "value": "Mandarina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mango Maracuyá",
+          "value": "Mango Maracuyá",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manzana",
+          "value": "Manzana",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "manzana 0% azúcar añadida",
+          "value": "manzana 0% azúcar añadida",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Maquí Arándano",
+          "value": "Maquí Arándano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Naranja",
+          "value": "Naranja",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pera",
+          "value": "Pera",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "pera 0% azúcar añadida",
+          "value": "pera 0% azúcar añadida",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Piña",
+          "value": "Piña",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pomelo",
+          "value": "Pomelo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pomelo Menta",
+          "value": "Pomelo Menta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Sabor",
+          "value": "Sin Sabor",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tutti Frutilla",
+          "value": "Tutti Frutilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Uva",
+          "value": "Uva",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Aguas Saborizadas",
+          "value": "Aguas Saborizadas",
+          "selected": false,
+          "quantity": 64,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aguas Minerales con Gas",
+          "value": "Aguas Minerales con Gas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bebidas Isotónicas",
+          "value": "Bebidas Isotónicas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jugos Frescos",
+          "value": "Jugos Frescos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aguas de Coco",
+          "value": "Aguas de Coco",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aguas de Aloe Vera",
+          "value": "Aguas de Aloe Vera",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limonadas",
+          "value": "Limonadas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aguas Minerales sin Gas",
+          "value": "Aguas Minerales sin Gas",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aguas Purificadas",
+          "value": "Aguas Purificadas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aceites Corporales",
+          "value": "Aceites Corporales",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella plástico desechable",
+          "value": "Botella plástico desechable (bebidas)",
+          "selected": false,
+          "quantity": 73,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lata",
+          "value": "Lata",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "PET",
+          "value": "PET",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tarro",
+          "value": "Tarro",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tetrapack",
+          "value": "Tetrapack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 75,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 82,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Austria",
+          "value": "Austria",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 70,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Corea del Sur",
+          "value": "Corea del Sur",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tailandia",
+          "value": "Tailandia",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vietnam",
+          "value": "Vietnam",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Familar",
+          "value": "Familar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Líquida",
+          "value": "Líquida",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 750,
+          "maxValue": 7990
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Aceites y Serums",
+          "value": "Aceites y Serums",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aguas Saborizadas",
+          "value": "Aguas Saborizadas",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manzana Sin Gas",
+          "value": "Manzana Sin Gas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Natural",
+          "value": "Natural",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin gas",
+          "value": "Sin gas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Líquido",
+          "value": "Líquido",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 114,
+  "metaTag": {
+    "title": "Aguas Saborizadas | Jumbo.cl",
+    "description": "Lleva contigo siempre un agua saborizada para refrescarte y mejorar tu día a día. ¡Compra online y revísalas en sus varios sabores y formatos por Jumbo.cl!"
+  }
+}

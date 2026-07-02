@@ -1,0 +1,126 @@
+No pude extraer links desde el menú (headless). Usando Plan B (slugify).
+
+Subcategorías detectadas en [Hogar]: 30
+ - Aire libre | Otros accesorios -> https://www.unimarc.cl/category/hogar/aire-libre/otros-accesorios
+ - Aire libre | Carbón y parrilla -> https://www.unimarc.cl/category/hogar/aire-libre/carbon-y-parrilla
+ - Aire libre | Juegos y deportes -> https://www.unimarc.cl/category/hogar/aire-libre/juegos-y-deportes
+ - Aire libre | Piscina -> https://www.unimarc.cl/category/hogar/aire-libre/piscina
+ - Librería, celebraciones y juguetes | Diarios y revistas -> https://www.unimarc.cl/category/hogar/libreria-celebraciones-y-juguetes/diarios-y-revistas
+ - Librería, celebraciones y juguetes | Librería -> https://www.unimarc.cl/category/hogar/libreria-celebraciones-y-juguetes/libreria
+ - Librería, celebraciones y juguetes | Celebraciones -> https://www.unimarc.cl/category/hogar/libreria-celebraciones-y-juguetes/celebraciones
+ - Librería, celebraciones y juguetes | Juegos y juguetes -> https://www.unimarc.cl/category/hogar/libreria-celebraciones-y-juguetes/juegos-y-juguetes
+ - Cocina y mesa | Papeles cocina y bolsas multiuso -> https://www.unimarc.cl/category/hogar/cocina-y-mesa/papeles-cocina-y-bolsas-multiuso
+ - Cocina y mesa | Cristalería -> https://www.unimarc.cl/category/hogar/cocina-y-mesa/cristaleria
+ - Cocina y mesa | Herméticos, termos y botellas -> https://www.unimarc.cl/category/hogar/cocina-y-mesa/hermeticos-termos-y-botellas
+ - Cocina y mesa | Ollas, sartenes y accesorios cocción -> https://www.unimarc.cl/category/hogar/cocina-y-mesa/ollas-sartenes-y-accesorios-coccion
+ - Cocina y mesa | Utensilios cocina y repostería -> https://www.unimarc.cl/category/hogar/cocina-y-mesa/utensilios-cocina-y-reposteria
+ - Cocina y mesa | Complementos mesa -> https://www.unimarc.cl/category/hogar/cocina-y-mesa/complementos-mesa
+ - Cocina y mesa | Loza y tazones -> https://www.unimarc.cl/category/hogar/cocina-y-mesa/loza-y-tazones
+ - Ferretería y automotriz | Pilas -> https://www.unimarc.cl/category/hogar/ferreteria-y-automotriz/pilas
+ - Ferretería y automotriz | Iluminación y enchufes -> https://www.unimarc.cl/category/hogar/ferreteria-y-automotriz/iluminacion-y-enchufes
+ - Ferretería y automotriz | Herramientas y adhesivos -> https://www.unimarc.cl/category/hogar/ferreteria-y-automotriz/herramientas-y-adhesivos
+ - Ferretería y automotriz | Automotriz -> https://www.unimarc.cl/category/hogar/ferreteria-y-automotriz/automotriz
+ - Hogar | Organización -> https://www.unimarc.cl/category/hogar/hogar/organizacion
+ - Hogar | Planchado y secado -> https://www.unimarc.cl/category/hogar/hogar/planchado-y-secado
+ - Hogar | Decoración -> https://www.unimarc.cl/category/hogar/hogar/decoracion
+ - Hogar | Calefacción y ventilación -> https://www.unimarc.cl/category/hogar/hogar/calefaccion-y-ventilacion
+ - Textil hogar | Calzado y vestuario -> https://www.unimarc.cl/category/hogar/textil-hogar/calzado-y-vestuario
+ - Textil hogar | Dormitorio -> https://www.unimarc.cl/category/hogar/textil-hogar/dormitorio
+ - Textil hogar | Textil cocina -> https://www.unimarc.cl/category/hogar/textil-hogar/textil-cocina
+ - Textil hogar | Textil baño -> https://www.unimarc.cl/category/hogar/textil-hogar/textil-bano
+ - Electrohogar | Electrodomésticos -> https://www.unimarc.cl/category/hogar/electrohogar/electrodomesticos
+ - Electrohogar | Electrónica -> https://www.unimarc.cl/category/hogar/electrohogar/electronica
+ - Electrohogar | Cuidado personal -> https://www.unimarc.cl/category/hogar/electrohogar/cuidado-personal
+
+Scrape: [Aire libre] Otros accesorios
+  productos únicos: 0
+
+Scrape: [Aire libre] Carbón y parrilla
+  productos únicos: 28
+
+Scrape: [Aire libre] Juegos y deportes
+  productos únicos: 7
+
+Scrape: [Aire libre] Piscina
+  productos únicos: 7
+
+Scrape: [Librería, celebraciones y juguetes] Diarios y revistas
+  productos únicos: 0
+
+Scrape: [Librería, celebraciones y juguetes] Librería
+  productos únicos: 100
+
+Scrape: [Librería, celebraciones y juguetes] Celebraciones
+  productos únicos: 50
+
+Scrape: [Librería, celebraciones y juguetes] Juegos y juguetes
+  productos únicos: 100
+
+Scrape: [Cocina y mesa] Papeles cocina y bolsas multiuso
+  productos únicos: 52
+
+Scrape: [Cocina y mesa] Cristalería
+  productos únicos: 37
+
+Scrape: [Cocina y mesa] Herméticos, termos y botellas
+  productos únicos: 70
+
+Scrape: [Cocina y mesa] Ollas, sartenes y accesorios cocción
+  productos únicos: 49
+
+Scrape: [Cocina y mesa] Utensilios cocina y repostería
+  productos únicos: 50
+
+Scrape: [Cocina y mesa] Complementos mesa
+  productos únicos: 31
+
+Scrape: [Cocina y mesa] Loza y tazones
+  productos únicos: 49
+
+Scrape: [Ferretería y automotriz] Pilas
+  productos únicos: 6
+
+Scrape: [Ferretería y automotriz] Iluminación y enchufes
+  productos únicos: 25
+
+Scrape: [Ferretería y automotriz] Herramientas y adhesivos
+  productos únicos: 29
+
+Scrape: [Ferretería y automotriz] Automotriz
+  productos únicos: 30
+
+Scrape: [Hogar] Organización
+  productos únicos: 37
+
+Scrape: [Hogar] Planchado y secado
+  productos únicos: 6
+
+Scrape: [Hogar] Decoración
+  productos únicos: 13
+
+Scrape: [Hogar] Calefacción y ventilación
+  productos únicos: 7
+
+Scrape: [Textil hogar] Calzado y vestuario
+  productos únicos: 50
+
+Scrape: [Textil hogar] Dormitorio
+  productos únicos: 3
+
+Scrape: [Textil hogar] Textil cocina
+  productos únicos: 4
+
+Scrape: [Textil hogar] Textil baño
+  productos únicos: 19
+
+Scrape: [Electrohogar] Electrodomésticos
+  productos únicos: 11
+
+Scrape: [Electrohogar] Electrónica
+  productos únicos: 1
+
+Scrape: [Electrohogar] Cuidado personal
+  productos únicos: 0
+
+Total filas: 871
+CSV generado: output\hogar\unimarc_hogar_subcats_20260309_195538.csv

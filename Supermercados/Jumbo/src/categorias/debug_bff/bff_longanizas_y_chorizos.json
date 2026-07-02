@@ -1,0 +1,2746 @@
+{
+  "products": [
+    {
+      "productId": "28913",
+      "reference": "1461090",
+      "sponsoredId": null,
+      "slug": "longaniza-schwencke-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "Schwencke",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "35254",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 7290,
+          "listPrice": 7290,
+          "ppumPrice": 14580,
+          "ppumListPrice": 14580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/356525-250-250/Longaniza-Schwencke-500-g.jpg?v=638776712962200000"
+          ],
+          "name": "Longaniza Schwencke 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10786",
+      "reference": "1629162",
+      "sponsoredId": null,
+      "slug": "chorizo-angus-la-preferida-500-g-8-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "22523",
+        "26494",
+        "26912",
+        "27367"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11044",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 6090,
+          "listPrice": 6090,
+          "ppumPrice": 12180,
+          "ppumListPrice": 12180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301748-250-250/Chorizo-angus-8-un-500-g.jpg?v=638776375317300000"
+          ],
+          "name": "Chorizo Angus La Preferida 500 g 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75193",
+      "reference": "1800537",
+      "sponsoredId": null,
+      "slug": "mix-parrillero-schwencke-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494",
+        "26912",
+        "26954",
+        "26955",
+        "26956",
+        "27367",
+        "27445",
+        "27499",
+        "27501"
+      ],
+      "brand": "Schwencke",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75428",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 4990,
+          "listPrice": 6590,
+          "ppumPrice": 9980,
+          "ppumListPrice": 13180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363148-250-250/Mix-parrillero-500-g.jpg?v=638776746675330000"
+          ],
+          "name": "Mix Parrillero Schwencke 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4990,
+              "ppumPrice": 9980,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "18024",
+      "reference": "1680636",
+      "sponsoredId": null,
+      "slug": "chorizo-tipo-argentino-jumbo-artesanal-4-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25422",
+        "25695",
+        "27261",
+        "27266"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "18350",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 15960,
+          "ppumListPrice": 15960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303909-250-250/Chorizo-Tipo-Argentino-Al-Vacio-250-g.jpg?v=638776378363670000"
+          ],
+          "name": "Chorizo Tipo Argentino Al Vacío 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137892",
+      "reference": "1998707",
+      "sponsoredId": null,
+      "slug": "chorizo-campo-la-crianza-400g-1998707",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25638",
+        "25668",
+        "25695",
+        "26494",
+        "26912",
+        "26954",
+        "27210",
+        "27261",
+        "27312",
+        "27367"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138189",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 4550,
+          "listPrice": 4550,
+          "ppumPrice": 11375,
+          "ppumListPrice": 11375,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/328791-250-250/Chorizo-de-Campo-La-Crianza-400-g.jpg?v=638776431278730000"
+          ],
+          "name": "Chorizo de Campo La Crianza 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10743",
+      "reference": "996707",
+      "sponsoredId": null,
+      "slug": "longaniza-ahumada-parrillera-chillan-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "Chillán",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11001",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 6850,
+          "listPrice": 6850,
+          "ppumPrice": 13700,
+          "ppumListPrice": 13700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350782-250-250/996707.jpg?v=638776682655600000"
+          ],
+          "name": "Longaniza Parrillera Chillán Al Vacío 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10744",
+      "reference": "996706",
+      "sponsoredId": null,
+      "slug": "longaniza-ahumada-tradicional-chillan-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "Chillán",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11002",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 6850,
+          "listPrice": 6850,
+          "ppumPrice": 13700,
+          "ppumListPrice": 13700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350781-250-250/996706.jpg?v=638776682654970000"
+          ],
+          "name": "Longaniza Ahumada Chillán Tradicional 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10748",
+      "reference": "1680631",
+      "sponsoredId": null,
+      "slug": "longaniza-choripan-jumbo-2unidades",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "27261",
+        "27266"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11006",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 15960,
+          "ppumListPrice": 15960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301906-250-250/Longaniza-Choripan-Al-Vacio-250-g.jpg?v=638776375541800000"
+          ],
+          "name": "Longaniza Choripán Al Vacío 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "117762",
+      "reference": "1928743",
+      "sponsoredId": null,
+      "slug": "longaniza-rustica-trad-jumbo-artesanal-1928743",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "27261",
+        "27266"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "118028",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 15960,
+          "ppumListPrice": 15960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316604-250-250/Longaniza-Rustica-Tradicional-Al-Vacio-250-g.jpg?v=638776409533730000"
+          ],
+          "name": "Longaniza Rústica Tradicional Al Vacío 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10758",
+      "reference": "1680630",
+      "sponsoredId": null,
+      "slug": "longaniza-jumbo-bratwurst",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "27261",
+        "27266"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11016",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 15960,
+          "ppumListPrice": 15960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301972-250-250/Longaniza-Bratwurst-Al-Vacio-250-g.jpg?v=638776375631930000"
+          ],
+          "name": "Longaniza Bratwurst Al Vacío 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "28914",
+      "reference": "1461093",
+      "sponsoredId": null,
+      "slug": "chorizo-parrillero-schwenck-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "Schwencke",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "35255",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 13990,
+          "listPrice": 13990,
+          "ppumPrice": 13990,
+          "ppumListPrice": 13990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/356531-250-250/1461093.jpg?v=638776712998100000"
+          ],
+          "name": "Chorizo Parrillero Schwencke 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134469",
+      "reference": "1599053",
+      "sponsoredId": null,
+      "slug": "chorizo-parrillero-schwencke-250gr-1599053",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "Schwencke",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134763",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3690,
+          "listPrice": 3690,
+          "ppumPrice": 14760,
+          "ppumListPrice": 14760,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/322480-250-250/Chorizo-Parrillero-Schwencke-250-g.jpg?v=638776426140570000"
+          ],
+          "name": "Chorizo Parrillero Schwencke 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137894",
+      "reference": "1998694",
+      "sponsoredId": null,
+      "slug": "chorizo-parrillero-la-crianza-400g-1998694",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25638",
+        "25668",
+        "25695",
+        "26494",
+        "26912",
+        "26954",
+        "27210",
+        "27261",
+        "27312",
+        "27367"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138183",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 4550,
+          "listPrice": 4550,
+          "ppumPrice": 15167,
+          "ppumListPrice": 15167,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/329431-250-250/Chorizo-Parrillero-La-Crianza-400-g.jpg?v=638776431734370000"
+          ],
+          "name": "Chorizo Parrillero La Crianza 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10794",
+      "reference": "610556",
+      "sponsoredId": null,
+      "slug": "chorizo-parrillero-llanquihue-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "23175",
+        "26494",
+        "27363",
+        "27367"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11052",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 11490,
+          "listPrice": 14190,
+          "ppumPrice": 11490,
+          "ppumListPrice": 14190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350791-250-250/Principal-3137.jpg?v=638776682702970000"
+          ],
+          "name": "Chorizo Parrillero Llanquihue 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 11490 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL 18022026 AL 24022026",
+              "description": "JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 11490,
+              "ppumPrice": 11490,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "98676",
+      "reference": "1871184",
+      "sponsoredId": null,
+      "slug": "chorizo-parrillero-receta-abuelo-400g-1871184",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494",
+        "27499",
+        "27501"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98944",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3690,
+          "listPrice": 4950,
+          "ppumPrice": 9225,
+          "ppumListPrice": 12375,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313318-250-250/Chorizo-Parrillero-Receta-del-Abuelo-400-g.jpg?v=638776399402430000"
+          ],
+          "name": "Chorizo Parrillero Receta del Abuelo 400 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3690 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3690,
+              "ppumPrice": 9225,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10798",
+      "reference": "297485",
+      "sponsoredId": null,
+      "slug": "longaniza-llanquihue-250-g-2-unidad",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11056",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3890,
+          "listPrice": 3890,
+          "ppumPrice": 15560,
+          "ppumListPrice": 15560,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350788-250-250/Longaniza-2-un-250-g.jpg?v=638776682693300000"
+          ],
+          "name": "Longaniza Llanquihue 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "117763",
+      "reference": "1928744",
+      "sponsoredId": null,
+      "slug": "longaniza-rustica-de-campo-jumbo-arte-1928744",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "27261",
+        "27266"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "118025",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 15960,
+          "ppumListPrice": 15960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316593-250-250/Longaniza-Rustica-de-Campo-Al-Vacio-250-g.jpg?v=638776409462330000"
+          ],
+          "name": "Longaniza Rústica Campo Al Vacío 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "98678",
+      "reference": "1871185",
+      "sponsoredId": null,
+      "slug": "chorizo-de-campo-receta-del-abuelo-400g-1871185",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494",
+        "27499",
+        "27501"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98946",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3690,
+          "listPrice": 4950,
+          "ppumPrice": 9225,
+          "ppumListPrice": 12375,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313350-250-250/Chorizo-de-Campo-Receta-del-Abuelo-400-g.jpg?v=638776399456470000"
+          ],
+          "name": "Chorizo de Campo Receta del Abuelo 400 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3690 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3690,
+              "ppumPrice": 9225,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "56595",
+      "reference": "1461091",
+      "sponsoredId": null,
+      "slug": "longaniza-schwencke-1kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "Schwencke",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "56913",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 13890,
+          "listPrice": 13890,
+          "ppumPrice": 13890,
+          "ppumListPrice": 13890,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360106-250-250/1461091.jpg?v=638776731173530000"
+          ],
+          "name": "Longaniza Schwencke 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "144529",
+      "reference": "2018197",
+      "sponsoredId": null,
+      "slug": "longaniza-bratwurst-boletus-jumbo-un-2018197",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "27261",
+        "27266"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144822",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 3990,
+          "ppumListPrice": 3990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/410654-250-250/Longaniza-Bratwurst-Boletus-Jumbo-1-un.jpg?v=638790482299830000"
+          ],
+          "name": "Longaniza Bratwurst Boletus 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "136880",
+      "reference": "1997063",
+      "sponsoredId": null,
+      "slug": "longaniza-artesanal-centenario-400gr-1997063",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "19270",
+        "26494",
+        "26912",
+        "27367"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137171",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 5390,
+          "listPrice": 5390,
+          "ppumPrice": 13475,
+          "ppumListPrice": 13475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/327610-250-250/LONGANIZA-ARTESANAL-CENTENARIO-400GR.jpg?v=638776430154300000"
+          ],
+          "name": "Longaniza Artesanal Centenario La Preferida 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "98679",
+      "reference": "1871186",
+      "sponsoredId": null,
+      "slug": "mix-parrillero-receta-del-abuelo-400g-1871186",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98947",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 4490,
+          "listPrice": 4490,
+          "ppumPrice": 11225,
+          "ppumListPrice": 11225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313193-250-250/Mix-Parrillero-Receta-del-Abuelo-400-g.jpg?v=638776398950430000"
+          ],
+          "name": "Mix Parrillero Receta del Abuelo 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "111733",
+      "reference": "1899357",
+      "sponsoredId": null,
+      "slug": "chorizo-laminado-80g-c-and-co-1899357",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26912",
+        "26925",
+        "27047",
+        "27048",
+        "27049",
+        "27051",
+        "27056",
+        "27057",
+        "27060",
+        "27061",
+        "27065",
+        "27066",
+        "27067",
+        "27068",
+        "27070",
+        "27367",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "111997",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.08,
+          "price": 2890,
+          "listPrice": 2890,
+          "ppumPrice": 36125,
+          "ppumListPrice": 36125,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/378997-250-250/Chorizo-laminado-80-g.jpg?v=638776817525430000"
+          ],
+          "name": "Chorizo Cuisine & Co Laminado 80 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10799",
+      "reference": "297486",
+      "sponsoredId": null,
+      "slug": "longaniza-llanquihue-500-g-4-unidad",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "19270",
+        "26494"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11057",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 6890,
+          "listPrice": 6890,
+          "ppumPrice": 13780,
+          "ppumListPrice": 13780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350800-250-250/Principal-3132.jpg?v=638776682741400000"
+          ],
+          "name": "Longaniza Llanquihue 500 g 4 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10804",
+      "reference": "730789",
+      "sponsoredId": null,
+      "slug": "chorizo-parrillero-pf-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11062",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 5990,
+          "ppumListPrice": 5990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350798-250-250/Chorizo-parrillero-1-kg.jpg?v=638776682733900000"
+          ],
+          "name": "Chorizo Parrillero PF 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10784",
+      "reference": "1629161",
+      "sponsoredId": null,
+      "slug": "chorizo-angus-la-preferida-1-kg-16-unidades",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494",
+        "26912",
+        "27367"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11042",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 10990,
+          "listPrice": 10990,
+          "ppumPrice": 10990,
+          "ppumListPrice": 10990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302238-250-250/Chorizo-angus-16-un-1-kg.jpg?v=638776375917300000"
+          ],
+          "name": "Chorizo Angus La Preferida 1 kg 16 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "143127",
+      "reference": "2003273-KG",
+      "sponsoredId": null,
+      "slug": "sticks-de-fuet-salgot-granel-2003273-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [],
+      "brand": "Salgot",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "143421",
+          "cartLimit": 10,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 5390,
+          "listPrice": 5390,
+          "ppumPrice": 53900,
+          "ppumListPrice": 53900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/339022-250-250/Sticks-de-Fuet-Salgot-a-Granel.jpg?v=638776439698270000"
+          ],
+          "name": "Sticks de Fuet Salgot a Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "18378",
+      "reference": "1461092",
+      "sponsoredId": null,
+      "slug": "chorizo-parrillero-schwencke-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "Schwencke",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "18704",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 7250,
+          "listPrice": 7250,
+          "ppumPrice": 14500,
+          "ppumListPrice": 14500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352961-250-250/Chorizo-parrillero-Schwencke-500-g.jpg?v=638776695314000000"
+          ],
+          "name": "Chorizo Parrillero Schwencke 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10789",
+      "reference": "1629159",
+      "sponsoredId": null,
+      "slug": "longaniza-angus-la-preferida-500-g-4-unidades",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "22523",
+        "26494",
+        "26912",
+        "27367"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11047",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 6190,
+          "listPrice": 6190,
+          "ppumPrice": 12380,
+          "ppumListPrice": 12380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301769-250-250/Longaniza-angus-500-g.jpg?v=638776375345930000"
+          ],
+          "name": "Longaniza Angus La Preferida 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10803",
+      "reference": "1222080",
+      "sponsoredId": null,
+      "slug": "choricillo-cocktail-pf-180-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11061",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 2050,
+          "listPrice": 2050,
+          "ppumPrice": 11389,
+          "ppumListPrice": 11389,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350796-250-250/Choricillo-Cocktail-PF-180-g.jpg?v=638776682730170000"
+          ],
+          "name": "Choricillo Cóctel PF 180 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "62858",
+      "reference": "1757864",
+      "sponsoredId": null,
+      "slug": "longaniza-texana-con-aji-verde-jumbo-artesanal",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "27261",
+        "27266"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "62889",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 15960,
+          "ppumListPrice": 15960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309677-250-250/Longaniza-Texmex-Aji-Verde-Al-Vacio-250-g.jpg?v=638776389688530000"
+          ],
+          "name": "Longaniza Texmex Ají Verde Al Vacío 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "111739",
+      "reference": "1899364",
+      "sponsoredId": null,
+      "slug": "chorizo-iberico-100-80g-c-and-co-1899364",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26912",
+        "27047",
+        "27048",
+        "27049",
+        "27051",
+        "27056",
+        "27057",
+        "27060",
+        "27061",
+        "27065",
+        "27066",
+        "27067",
+        "27068",
+        "27070",
+        "27367",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112002",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.08,
+          "price": 4690,
+          "listPrice": 4690,
+          "ppumPrice": 58625,
+          "ppumListPrice": 58625,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/379006-250-250/Chorizo-iberico-100--80-g.jpg?v=638776817587670000"
+          ],
+          "name": "Chorizo Ibérico 100% Cuisine & Co 80 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10797",
+      "reference": "610554",
+      "sponsoredId": null,
+      "slug": "longaniza-llanquihue-1-kg-8-unidade",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "26494"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11055",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 13790,
+          "listPrice": 13790,
+          "ppumPrice": 13790,
+          "ppumListPrice": 13790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350793-250-250/Principal-3134.jpg?v=638776682706300000"
+          ],
+          "name": "Longaniza Llanquihue 1 kg 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "18300",
+      "reference": "352624",
+      "sponsoredId": null,
+      "slug": "chorizo-sarta-trujillo-240-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [],
+      "brand": "Trujillo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "18626",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.24,
+          "price": 5450,
+          "listPrice": 5450,
+          "ppumPrice": 22708,
+          "ppumListPrice": 22708,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352924-250-250/Principal-17307.jpg?v=638776695124200000"
+          ],
+          "name": "Chorizo Sarta Trujillo 240 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122750",
+      "reference": "1955839",
+      "sponsoredId": null,
+      "slug": "mix-parrillero-la-preferida-500gr-1955839",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "22523",
+        "26494",
+        "26912",
+        "27367"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "123036",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 6090,
+          "listPrice": 6090,
+          "ppumPrice": 12180,
+          "ppumListPrice": 12180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318207-250-250/Mix-parrillero-500-g.jpg?v=638776413828570000"
+          ],
+          "name": "Mix Parrillero La Preferida 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10795",
+      "reference": "297358",
+      "sponsoredId": null,
+      "slug": "chorizo-parrillero-llanquihue-250-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11053",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3790,
+          "listPrice": 3790,
+          "ppumPrice": 15160,
+          "ppumListPrice": 15160,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350794-250-250/Principal-3136.jpg?v=638776682713870000"
+          ],
+          "name": "Chorizo Parrillero Llanquihue 250 g 4 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "121369",
+      "reference": "1946096",
+      "sponsoredId": null,
+      "slug": "longaniza-ahumada-de-brisket-450-grs-1946096",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "CuracaRibs",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "121646",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.45,
+          "price": 7590,
+          "listPrice": 7590,
+          "ppumPrice": 16867,
+          "ppumListPrice": 16867,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/387365-250-250/LONG-AHU-BRIS-450G.jpg?v=638776851449230000"
+          ],
+          "name": "Longaniza Ahumada de Brisket 450 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10796",
+      "reference": "297359",
+      "sponsoredId": null,
+      "slug": "chorizo-parrillero-llanquihue-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26494"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11054",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 7290,
+          "listPrice": 7290,
+          "ppumPrice": 14580,
+          "ppumListPrice": 14580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350790-250-250/Chorizo-Parrillero-Llanquihue-500-g-8-Unidades.jpg?v=638776682697330000"
+          ],
+          "name": "Chorizo Parrillero Llanquihue 500 g 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "121481",
+      "reference": "297362",
+      "sponsoredId": null,
+      "slug": "chorizo-espanol-140-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "121759",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 21357,
+          "ppumListPrice": 21357,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/387472-250-250/Chorizo-espa%C3%B1ol-140-g.jpg?v=638776851867230000"
+          ],
+          "name": "Chorizo Español Receta del Abuelo 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "141690",
+      "reference": "2004340",
+      "sponsoredId": null,
+      "slug": "chorizo-criollo-argentino-jj-500g-2004340",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "813"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Longanizas y Chorizos"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "JJ",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "141983",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 6090,
+          "listPrice": 6090,
+          "ppumPrice": 12180,
+          "ppumListPrice": 12180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/336234-250-250/Chorizo-Criollo-Argentino-JJ-500-g.jpg?v=638776437379630000"
+          ],
+          "name": "Chorizo Criollo Argentino JJ 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Longanizas y Chorizos",
+          "value": "/quesos-y-fiambres/salchichas-y-parrilleros/longanizas-y-chorizos",
+          "selected": false,
+          "quantity": 85,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Longanizas y Chorizos",
+          "value": "/quesos-y-fiambres/salchichas-y-parrilleros/longanizas-y-chorizos",
+          "selected": false,
+          "quantity": 85,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Longanizas y Chorizos",
+          "value": "/quesos-y-fiambres/salchichas-y-parrilleros/longanizas-y-chorizos",
+          "selected": false,
+          "quantity": 85,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Preferida",
+          "value": "La Preferida",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Schwencke",
+          "value": "Schwencke",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Receta del Abuelo",
+          "value": "Receta del Abuelo",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo Artesanal",
+          "value": "Jumbo Artesanal",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chillán",
+          "value": "Chillán",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Crianza",
+          "value": "La Crianza",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Llanquihue",
+          "value": "Llanquihue",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "PF",
+          "value": "PF",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "JJ",
+          "value": "JJ",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Soler",
+          "value": "Soler",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "CuracaRibs",
+          "value": "CuracaRibs",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salgot",
+          "value": "Salgot",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alejandro",
+          "value": "Alejandro",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Jorge",
+          "value": "San Jorge",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trujillo",
+          "value": "Trujillo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Villa Baviera",
+          "value": "Villa Baviera",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Chorizo",
+          "value": "Chorizo",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix Parrilleros",
+          "value": "Mix Parrilleros",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Longanizas",
+          "value": "Longanizas",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Choricillos",
+          "value": "Choricillos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fuet",
+          "value": "Fuet",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salchichón Cerveza",
+          "value": "Salchichón Cerveza",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Snacks Fiambres",
+          "value": "Snacks Fiambres",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 78,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 77,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 76,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 76,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 76,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 72,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 71,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 67,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 59,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 54,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 58,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Ahumado",
+          "value": "Ahumado",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Artesanal",
+          "value": "Artesanal",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Blanco",
+          "value": "Blanco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bratwurst",
+          "value": "Bratwurst",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Longaniza",
+          "value": "Longaniza",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Premium",
+          "value": "Premium",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tradicional",
+          "value": "Tradicional",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1490,
+          "maxValue": 13990
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 85,
+  "metaTag": {
+    "title": "Longanizas y chorizos | Jumbo.cl",
+    "description": "Las longanizas y chorizos son embutidos imprescindibles en cualquier asado. ¡Consíguelos en Jumbo.cl y lúcete como un experto de la parrilla!"
+  }
+}

@@ -1,0 +1,711 @@
+{
+  "products": [
+    {
+      "productId": "159919",
+      "reference": "2056172",
+      "sponsoredId": null,
+      "slug": "planta-melisa-org-2056172",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "26",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Hierbas y Especias",
+        "Verduras"
+      ],
+      "collections": [],
+      "brand": "Orgánicos",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160293",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 2890,
+          "listPrice": 2890,
+          "ppumPrice": 2890,
+          "ppumListPrice": 2890,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/540856-250-250/PLANTA-MELISA-ORG.jpg?v=638986715591370000"
+          ],
+          "name": "Planta Melisa Verde Aroma Orgánica",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "25478",
+      "reference": "261298",
+      "sponsoredId": null,
+      "slug": "tomillo-30-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "26",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Hierbas y Especias",
+        "Verduras"
+      ],
+      "collections": [],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "29053",
+          "cartLimit": 15,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.03,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 33000,
+          "ppumListPrice": 33000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/355672-250-250/Principal-24388.jpg?v=638776708355300000"
+          ],
+          "name": "Tomillo 30 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "26357",
+      "reference": "575665",
+      "sponsoredId": null,
+      "slug": "flores-gourmet-30-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "26",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Hierbas y Especias",
+        "Verduras"
+      ],
+      "collections": [],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "29930",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.03,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 89667,
+          "ppumListPrice": 89667,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/355837-250-250/575665.jpg?v=638776709248030000"
+          ],
+          "name": "Flores Gourmet 30 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "92891",
+      "reference": "1768555",
+      "sponsoredId": null,
+      "slug": "verde-aroma-albahaca-organica",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "23",
+        "26",
+        "786",
+        "787"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Frutas y verduras orgánicas",
+        "Hierbas y Especias",
+        "Verduras",
+        "Verduras Orgánicas"
+      ],
+      "collections": [],
+      "brand": "Verde Aroma",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "93155",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 2890,
+          "listPrice": 2890,
+          "ppumPrice": 2890,
+          "ppumListPrice": 2890,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/368029-250-250/Albahaca-organica-un.jpg?v=638776770728730000"
+          ],
+          "name": "Albahaca Orgánica 1 un.",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "25475",
+      "reference": "261125",
+      "sponsoredId": null,
+      "slug": "perejil-crespo-30-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "26",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Hierbas y Especias",
+        "Verduras"
+      ],
+      "collections": [],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "29050",
+          "cartLimit": 15,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.03,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 33000,
+          "ppumListPrice": 33000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/355670-250-250/Perejil-crespo-30-g.jpg?v=638776708341500000"
+          ],
+          "name": "Perejil Crespo Bandeja 30 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "28245",
+      "reference": "1340566",
+      "sponsoredId": null,
+      "slug": "laurel-fresco-30-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "26",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Hierbas y Especias",
+        "Verduras"
+      ],
+      "collections": [],
+      "brand": "Don Clemente",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "31818",
+          "cartLimit": 15,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.03,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 33000,
+          "ppumListPrice": 33000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/356155-250-250/1340566.jpg?v=638776710959400000"
+          ],
+          "name": "Laurel Fresco 30 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Hierbas y Especias",
+          "value": "/frutas-y-verduras/verduras/hierbas-y-especias",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Hierbas y Especias",
+          "value": "/frutas-y-verduras/verduras/hierbas-y-especias",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Hierbas y Especias",
+          "value": "/frutas-y-verduras/verduras/hierbas-y-especias",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 990,
+          "maxValue": 2990
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bandeja",
+          "value": "Bandeja",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pote",
+          "value": "Pote",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Frescos",
+          "value": "Fresco",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Grupo",
+      "key": "Grupo",
+      "values": [
+        {
+          "displayName": "Cilantro - Perejil y Verduras Surtidas",
+          "value": "Cilantro - Perejil y Verduras Surtidas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hierbas Frescas",
+          "value": "Hierbas Frescas",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hierbas Secas",
+          "value": "Hierbas Secas",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Verduras Orgánicas",
+          "value": "Verduras Orgánicas",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Albahaca",
+          "value": "Albahaca",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Especias",
+          "value": "Especias",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ciboulette",
+          "value": "Ciboulette",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cilantro",
+          "value": "Cilantro",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Condimentos",
+          "value": "Condimentos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Plantas Artificiales",
+          "value": "Plantas Artificiales",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Frutas y Verduras Propias",
+          "value": "Frutas y Verduras Propias",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Verde Aroma",
+          "value": "Verde Aroma",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hojas Verdes",
+          "value": "Hojas Verdes",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fundo Hueleco",
+          "value": "Fundo Hueleco",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Orgánicos",
+          "value": "Orgánicos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Don Clemente",
+          "value": "Don Clemente",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Temporada",
+      "key": "Temporada",
+      "values": [
+        {
+          "displayName": "Verdura de Temporada",
+          "value": "Verdura de Temporada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 22,
+  "metaTag": {
+    "title": "Hierbas y Especias | Jumbo.cl",
+    "description": "Dale un toque de sabor único a tus recetas con hierbas y especias orgánicas que harán furor en tu cocina. ¡Elige la que buscas y pídela online en Jumbo.cl!"
+  }
+}

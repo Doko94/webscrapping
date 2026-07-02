@@ -1,0 +1,58 @@
+No pude extraer links desde el menú (headless). Usando Plan B (slugify).
+
+Subcategorías detectadas en [Quesos y Fiambres]: 13
+ - Fiambres Y Embutidos | Jamón y mortadela -> https://www.unimarc.cl/category/quesos-y-fiambres/fiambres-y-embutidos/jamon-y-mortadela
+ - Fiambres Y Embutidos | Salame y tocino -> https://www.unimarc.cl/category/quesos-y-fiambres/fiambres-y-embutidos/salame-y-tocino
+ - Fiambres Y Embutidos | Jamón serrano y otros -> https://www.unimarc.cl/category/quesos-y-fiambres/fiambres-y-embutidos/jamon-serrano-y-otros
+ - Fiambres Y Embutidos | Paté -> https://www.unimarc.cl/category/quesos-y-fiambres/fiambres-y-embutidos/pate
+ - Fiambres Y Embutidos | Salchichas -> https://www.unimarc.cl/category/quesos-y-fiambres/fiambres-y-embutidos/salchichas
+ - Fiambres Y Embutidos | Parrilleros -> https://www.unimarc.cl/category/quesos-y-fiambres/fiambres-y-embutidos/parrilleros
+ - Quesos | Mantecoso y chanco -> https://www.unimarc.cl/category/quesos-y-fiambres/quesos/mantecoso-y-chanco
+ - Quesos | Gouda y ranco -> https://www.unimarc.cl/category/quesos-y-fiambres/quesos/gouda-y-ranco
+ - Quesos | Queso fresco -> https://www.unimarc.cl/category/quesos-y-fiambres/quesos/queso-fresco
+ - Quesos | Especiales y tablas -> https://www.unimarc.cl/category/quesos-y-fiambres/quesos/especiales-y-tablas
+ - Quesos | Queso crema y untables -> https://www.unimarc.cl/category/quesos-y-fiambres/quesos/queso-crema-y-untables
+ - Quesos | Cabra y oveja -> https://www.unimarc.cl/category/quesos-y-fiambres/quesos/cabra-y-oveja
+ - Quesos | Rallados y granulados -> https://www.unimarc.cl/category/quesos-y-fiambres/quesos/rallados-y-granulados
+
+Scrape: [Fiambres Y Embutidos] Jamón y mortadela
+  productos únicos: 63
+
+Scrape: [Fiambres Y Embutidos] Salame y tocino
+  productos únicos: 25
+
+Scrape: [Fiambres Y Embutidos] Jamón serrano y otros
+  productos únicos: 16
+
+Scrape: [Fiambres Y Embutidos] Paté
+  productos únicos: 24
+
+Scrape: [Fiambres Y Embutidos] Salchichas
+  productos únicos: 32
+
+Scrape: [Fiambres Y Embutidos] Parrilleros
+  productos únicos: 45
+
+Scrape: [Quesos] Mantecoso y chanco
+  productos únicos: 66
+
+Scrape: [Quesos] Gouda y ranco
+  productos únicos: 0
+
+Scrape: [Quesos] Queso fresco
+  productos únicos: 26
+
+Scrape: [Quesos] Especiales y tablas
+  productos únicos: 81
+
+Scrape: [Quesos] Queso crema y untables
+  productos únicos: 23
+
+Scrape: [Quesos] Cabra y oveja
+  productos únicos: 17
+
+Scrape: [Quesos] Rallados y granulados
+  productos únicos: 24
+
+Total filas: 442
+CSV generado: C:\Users\fvergram\OneDrive - NTT DATA EMEAL\Desktop\webscrapping\Supermercados\Unimarc\src\output\fiambres\unimarc_quesos-y-fiambres_subcats_20260219_124049.csv

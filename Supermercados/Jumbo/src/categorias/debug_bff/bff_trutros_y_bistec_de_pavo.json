@@ -1,0 +1,458 @@
+{
+  "products": [
+    {
+      "productId": "11249",
+      "reference": "1483550",
+      "sponsoredId": null,
+      "slug": "bistec-de-filete-de-pavo-ariztia-450-g-2-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "109",
+        "113"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pavo",
+        "Trutros y Bistec de Pavo"
+      ],
+      "collections": [
+        "26304"
+      ],
+      "brand": "Ariztía",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11508",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.45,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 13311,
+          "ppumListPrice": 13311,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/549795-250-250/Bistec-de-Pechuga-de-Pavo-Ariztia-450-g.jpg?v=639010064851430000"
+          ],
+          "name": "Bistec de Pechuga de Pavo Ariztía 450 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122109",
+      "reference": "1955042",
+      "sponsoredId": null,
+      "slug": "bistec-pechu-de-pavo-light-ariztia-450g-1955042",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "109",
+        "113"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pavo",
+        "Trutros y Bistec de Pavo"
+      ],
+      "collections": [
+        "26304"
+      ],
+      "brand": "Ariztía",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122377",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.45,
+          "price": 6890,
+          "listPrice": 6890,
+          "ppumPrice": 15311,
+          "ppumListPrice": 15311,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/550054-250-250/Bistec-de-Pechuga-de-Pavo-Ariztia-Light-450-g.jpg?v=639010065698530000"
+          ],
+          "name": "Bistec de Pechuga de Pavo Ariztía Light 450 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "145972",
+      "reference": "2022061",
+      "sponsoredId": null,
+      "slug": "bistec-trutro-de-pavo-ariztia-450g-2022061",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "109",
+        "113"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pavo",
+        "Trutros y Bistec de Pavo"
+      ],
+      "collections": [],
+      "brand": "Ariztía",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146267",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.65,
+          "price": 5690,
+          "listPrice": 5690,
+          "ppumPrice": 8754,
+          "ppumListPrice": 8754,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/488759-250-250/Trutro-Deshuesado-de-Pavo-Ariztia-650-g.jpg?v=638896202431600000"
+          ],
+          "name": "Trutro Deshuesado de Pavo Ariztía 650 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Trutros y Bistec de Pavo",
+          "value": "/carnes-y-pescados/pavo/trutros-y-bistec-de-pavo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Trutros y Bistec de Pavo",
+          "value": "/carnes-y-pescados/pavo/trutros-y-bistec-de-pavo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Trutros y Bistec de Pavo",
+          "value": "/carnes-y-pescados/pavo/trutros-y-bistec-de-pavo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Ariztía",
+          "value": "Ariztía",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Frescos",
+          "value": "Fresco",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Corte",
+      "key": "Tipo de Corte",
+      "values": [
+        {
+          "displayName": "Cortes Uso Diario",
+          "value": "Cortes Uso Diario",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 5690,
+          "maxValue": 6890
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "650 g",
+          "value": "650 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "650 g",
+          "value": "650 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Natural",
+          "value": "Natural",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pavo",
+          "value": "Pavo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bandeja",
+          "value": "Bandeja",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Pavo",
+          "value": "Pavo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 3,
+  "metaTag": {
+    "title": "Trutros y Bistec de Pavo | Jumbo.cl",
+    "description": "Sorprende a tu familia con platillos sabrosos y tradicionales preparados a partir de los trutros y bistec de pavo disponibles en Jumbo.cl. Lúcete con tus menús."
+  }
+}

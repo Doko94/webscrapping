@@ -1,0 +1,3175 @@
+{
+  "products": [
+    {
+      "productId": "24019",
+      "reference": "889550-KG",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-quillayes-granel-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "19270",
+        "27073",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24335",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2639,
+          "listPrice": 3299,
+          "ppumPrice": 26390,
+          "ppumListPrice": 32990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305132-250-250/Queso-Cabra-Quillayes-Trozo-Granel.jpg?v=638776381268070000"
+          ],
+          "name": "Queso Cabra Quillayes Trozo Granel",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 2639,
+              "ppumPrice": 26390,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 2309,
+              "ppumPrice": 23090,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "56955",
+      "reference": "1708047-KG",
+      "sponsoredId": null,
+      "slug": "queso-cabra-pieza-san-benito",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "22296",
+        "27071",
+        "27073"
+      ],
+      "brand": "San Benito",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "57270",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2590,
+          "listPrice": 2590,
+          "ppumPrice": 25900,
+          "ppumListPrice": 25900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309123-250-250/Queso-Cabra-San-Benito-Trozo-Granel.jpg?v=638776388288730000"
+          ],
+          "name": "Queso Cabra San Benito Trozo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75251",
+      "reference": "1784506",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-suave-callaqui-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "19270",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Callaqui",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75508",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 5990,
+          "listPrice": 7230,
+          "ppumPrice": 29950,
+          "ppumListPrice": 36150,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310400-250-250/Queso-Cabra-Callaqui-Envasado-Trozo-200-g.jpg?v=638776391465230000"
+          ],
+          "name": "Queso Cabra Callaqui Envasado Trozo 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5990,
+              "ppumPrice": 29950,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "69816",
+      "reference": "1777551",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-los-tilos-oregano-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "17846",
+        "26114",
+        "27487",
+        "27545",
+        "27549",
+        "27564"
+      ],
+      "brand": "Los Tilos",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "70072",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 7290,
+          "listPrice": 7290,
+          "ppumPrice": 36450,
+          "ppumListPrice": 36450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/506930-250-250/Queso-Cabra-Los-Tilos-Natural-200-g.jpg?v=638935563727370000"
+          ],
+          "name": "Queso Cabra Los Tilos Natural 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 35% -  JUMBO PRI : PRIME 2 VIÑA CERVEZA Y QUESO DEL MES MARZO 01032026 AL 31032026 ",
+              "description": "PRIME 2",
+              "type": "percentual",
+              "value": 35,
+              "unitPrice": 4739,
+              "ppumPrice": 23695,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "96508",
+      "reference": "1856658",
+      "sponsoredId": null,
+      "slug": "queso-cabra-200-g-1856658",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071",
+        "27073",
+        "27288"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "96773",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 0.2,
+          "price": 7650,
+          "listPrice": 7650,
+          "ppumPrice": 38250,
+          "ppumListPrice": 38250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/578830-250-250/Queso-Cabra-Quillayes-Envasado-Trozo-200-g.jpg?v=639071561232200000"
+          ],
+          "name": "Queso Cabra Quillayes Envasado Trozo 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "72303",
+      "reference": "1750654-KG",
+      "sponsoredId": null,
+      "slug": "queso-cabra-trozo-con-oregano-san-benito",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071"
+      ],
+      "brand": "San Benito",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "72560",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2630,
+          "listPrice": 2630,
+          "ppumPrice": 26300,
+          "ppumListPrice": 26300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310071-250-250/Queso-Cabra-Oregano-San-Benito-Trozo-Granel.jpg?v=638776390795070000"
+          ],
+          "name": "Queso Cabra Orégano San Benito Trozo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "69817",
+      "reference": "1777552",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-los-tilos-natural-200-g",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "26114",
+        "27071",
+        "27073",
+        "27487",
+        "27545",
+        "27549",
+        "27564"
+      ],
+      "brand": "Los Tilos",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81886",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 0.2,
+          "price": 7490,
+          "listPrice": 7490,
+          "ppumPrice": 37450,
+          "ppumListPrice": 37450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/506948-250-250/Queso-Cabra-Los-Tilos-Oregano-Oliva-200-g.jpg?v=638935563755030000"
+          ],
+          "name": "Queso Cabra Los Tilos Orégano Oliva 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 35% -  JUMBO PRI : PRIME 2 VIÑA CERVEZA Y QUESO DEL MES MARZO 01032026 AL 31032026 ",
+              "description": "PRIME 2",
+              "type": "percentual",
+              "value": 35,
+              "unitPrice": 4869,
+              "ppumPrice": 24345,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156211",
+      "reference": "2049668",
+      "sponsoredId": null,
+      "slug": "queso-cabra-trufa-blanca-los-tilos-200g-2049668",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "26114",
+        "27071",
+        "27073",
+        "27487",
+        "27545",
+        "27549",
+        "27564"
+      ],
+      "brand": "Los Tilos",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156531",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 7290,
+          "listPrice": 7290,
+          "ppumPrice": 36450,
+          "ppumListPrice": 36450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/508603-250-250/Queso-de-Cabra-Trufa-Blanca-200-g.jpg?v=638935566466570000"
+          ],
+          "name": "Queso de Cabra Trufa Blanca 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 35% -  JUMBO PRI : PRIME 2 VIÑA CERVEZA Y QUESO DEL MES MARZO 01032026 AL 31032026 ",
+              "description": "PRIME 2",
+              "type": "percentual",
+              "value": 35,
+              "unitPrice": 4739,
+              "ppumPrice": 23695,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "40576",
+      "reference": "1672709-KG",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-maduro-la-cabresa-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071",
+        "27073"
+      ],
+      "brand": "La Cabresa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "33048",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 3170,
+          "listPrice": 3170,
+          "ppumPrice": 31700,
+          "ppumListPrice": 31700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307010-250-250/Queso-Cabra-La-Cabresa-Trozo-Granel.jpg?v=638776383650300000"
+          ],
+          "name": "Queso Cabra La Cabresa Trozo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75252",
+      "reference": "1784508",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-suave-laminado-callaqui-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "23175",
+        "25354"
+      ],
+      "brand": "Callaqui",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75509",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 7230,
+          "listPrice": 7230,
+          "ppumPrice": 36150,
+          "ppumListPrice": 36150,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310422-250-250/Queso-Cabra-Callaqui-Envasado-Laminado-200-g.jpg?v=638776391504070000"
+          ],
+          "name": "Queso Cabra Callaqui Envasado Laminado 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156210",
+      "reference": "2049667",
+      "sponsoredId": null,
+      "slug": "queso-cabra-merken-los-tilos-200g-2049667",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "26114",
+        "27071",
+        "27073",
+        "27487",
+        "27545",
+        "27549",
+        "27564"
+      ],
+      "brand": "Los Tilos",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156530",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 7290,
+          "listPrice": 7290,
+          "ppumPrice": 36450,
+          "ppumListPrice": 36450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/508592-250-250/Queso-Cabra-Merken-Los-Tilos-200-g.jpg?v=638935566442400000"
+          ],
+          "name": "Queso Cabra Merkén Los Tilos 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 35% -  JUMBO PRI : PRIME 2 VIÑA CERVEZA Y QUESO DEL MES MARZO 01032026 AL 31032026 ",
+              "description": "PRIME 2",
+              "type": "percentual",
+              "value": 35,
+              "unitPrice": 4739,
+              "ppumPrice": 23695,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "40201",
+      "reference": "1670536",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-santa-rosa-tradicional-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "25313",
+        "25334",
+        "27071",
+        "27073"
+      ],
+      "brand": "Santa Rosa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "43216",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 7590,
+          "listPrice": 7590,
+          "ppumPrice": 37950,
+          "ppumListPrice": 37950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/357269-250-250/Queso-de-cabra-200-g.jpg?v=638776716715370000"
+          ],
+          "name": "Queso Cabra Santa Rosa Envasado Trozo 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "40205",
+      "reference": "1670548-KG",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-san-benito-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071",
+        "27073"
+      ],
+      "brand": "San Benito",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "43220",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.3,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 7890,
+          "listPrice": 7890,
+          "ppumPrice": 26300,
+          "ppumListPrice": 26300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307488-250-250/Queso-Cabra-San-Benito-Trozo-Granel.jpg?v=638776384877100000"
+          ],
+          "name": "Queso Cabra San Benito Trozo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "102140",
+      "reference": "1875088",
+      "sponsoredId": null,
+      "slug": "queso-cabra-maduro-la-cabresa-200-gr-1875088",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "22296",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27071",
+        "27073"
+      ],
+      "brand": "La Cabresa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102410",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 6990,
+          "listPrice": 6990,
+          "ppumPrice": 34950,
+          "ppumListPrice": 34950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313722-250-250/Queso-Cabra-La-Cabresa-Envasado-Trozo-200-g.jpg?v=638776400320000000"
+          ],
+          "name": "Queso de Cabra La Cabresa 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "24206",
+      "reference": "1629046",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-callaqui-200-g-oregano",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071"
+      ],
+      "brand": "Artisan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24522",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 6550,
+          "listPrice": 6550,
+          "ppumPrice": 36389,
+          "ppumListPrice": 36389,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305199-250-250/Queso-Cabra-Oregano-Artisan-Envasado-Trozo-180-g.jpg?v=638776381358900000"
+          ],
+          "name": "Queso Cabra Orégano Artisan Envasado Trozo 180 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "118632",
+      "reference": "1938549",
+      "sponsoredId": null,
+      "slug": "queso-cabra-tomat-albahaca-pahuil-200-gr-1938549",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071",
+        "27073"
+      ],
+      "brand": "Pahuilmo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "118886",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 6990,
+          "listPrice": 6990,
+          "ppumPrice": 34950,
+          "ppumListPrice": 34950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316867-250-250/Queso-Cabra-Tomate-Albahaca-Pahuilmo-Envasado-Trozo-200-g.jpg?v=638776410292330000"
+          ],
+          "name": "Queso de Cabra Pahuilmo Tomate Albahaca Trozo 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10408",
+      "reference": "1629048",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-ciboulette-callaqui-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071",
+        "27073"
+      ],
+      "brand": "Artisan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10659",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 6550,
+          "listPrice": 6550,
+          "ppumPrice": 32750,
+          "ppumListPrice": 32750,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301868-250-250/Queso-Cabra-Ciboulette-Artisan-Envasado-Trozo-200-g.jpg?v=638776375479830000"
+          ],
+          "name": "Queso Cabra Ciboulette Artisan Envasado Trozo 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75258",
+      "reference": "1784516",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-natural-para-untar-callaqui-150-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111",
+        "1113"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja",
+        "Crema y Untables"
+      ],
+      "collections": [
+        "17846",
+        "25354",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Callaqui",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75515",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 4290,
+          "listPrice": 5200,
+          "ppumPrice": 28600,
+          "ppumListPrice": 34667,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310517-250-250/Queso-Cabra-Callaqui-Envasado-Trozo-150-g.jpg?v=638776391681930000"
+          ],
+          "name": "Queso Cabra Untable Callaqui Envasado Pote 150 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4290,
+              "ppumPrice": 28600,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126798",
+      "reference": "1951046",
+      "sponsoredId": null,
+      "slug": "queso-oveja-laureles-180-gr-oveja-vasca-1951046",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "23984",
+        "23985",
+        "27071",
+        "27073"
+      ],
+      "brand": "Oveja Vasca",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127091",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 33278,
+          "ppumListPrice": 33278,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/392737-250-250/Queso-Oveja-Laureles-Oveja-Vasca-180-g.jpg?v=638776872078670000"
+          ],
+          "name": "Queso Oveja Oveja Vasca Envasado Trozo 180 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "24059",
+      "reference": "985035-KG",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-santa-rosa-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071",
+        "27073"
+      ],
+      "brand": "Santa Rosa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24375",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 3470,
+          "listPrice": 3470,
+          "ppumPrice": 34700,
+          "ppumListPrice": 34700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304991-250-250/Queso-Cabra-Santa-Rosa-Trozo-Granel.jpg?v=638776380989400000"
+          ],
+          "name": "Queso Cabra Santa Rosa Trozo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122784",
+      "reference": "1957071",
+      "sponsoredId": null,
+      "slug": "queso-pecorino-romano-150gr-1957071",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071",
+        "27073"
+      ],
+      "brand": "Granarolo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "123055",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 7250,
+          "listPrice": 7250,
+          "ppumPrice": 48333,
+          "ppumListPrice": 48333,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318210-250-250/Queso-Pecorino-Granarolo-Romano-150-g.jpg?v=638776413830730000"
+          ],
+          "name": "Queso Pecorino Granarolo Envasado Trozo 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75261",
+      "reference": "1784519",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-para-untar-albahaca-callaqui-150-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111",
+        "1113"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja",
+        "Crema y Untables"
+      ],
+      "collections": [
+        "25354",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Callaqui",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75518",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 4290,
+          "listPrice": 5200,
+          "ppumPrice": 28600,
+          "ppumListPrice": 34667,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310560-250-250/Queso-Cabra-Albahaca-Callaqui-Envasado-Trozo-150-g.jpg?v=638776391790670000"
+          ],
+          "name": "Queso Cabra Untable Callaqui Albahaca Envasado Pote 150 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4290,
+              "ppumPrice": 28600,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "102143",
+      "reference": "1875089",
+      "sponsoredId": null,
+      "slug": "queso-cabra-premium-la-cabresa-200-gr-1875089",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27071",
+        "27073"
+      ],
+      "brand": "La Cabresa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102412",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 6690,
+          "listPrice": 6690,
+          "ppumPrice": 33450,
+          "ppumListPrice": 33450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313754-250-250/Queso-Cabra-La-Cabresa-Envasado-Trozo-200-g.jpg?v=638776400384130000"
+          ],
+          "name": "Queso Cabra La Cabresa Envasado Trozo 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75259",
+      "reference": "1784517",
+      "sponsoredId": null,
+      "slug": "queso-cabra-para-untar-ciboulette-callaqui-150-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111",
+        "1113"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja",
+        "Crema y Untables"
+      ],
+      "collections": [
+        "25354"
+      ],
+      "brand": "Callaqui",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75516",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 5200,
+          "listPrice": 5200,
+          "ppumPrice": 34667,
+          "ppumListPrice": 34667,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310535-250-250/Queso-Cabra-Ciboulette-Callaqui-Envasado-Trozo-150-g.jpg?v=638776391718400000"
+          ],
+          "name": "Queso Cabra Untable Callaqui Ciboulette Envasado Pote 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "40580",
+      "reference": "1672713",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-feta-la-cabresa-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27071",
+        "27073"
+      ],
+      "brand": "La Cabresa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "33052",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 7250,
+          "listPrice": 7250,
+          "ppumPrice": 36250,
+          "ppumListPrice": 36250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307037-250-250/Queso-Cabra-La-Cabresa-Envasado-Trozo-200-g.jpg?v=638776383704000000"
+          ],
+          "name": "Queso de Cabra Griego La Cabresa 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "125969",
+      "reference": "1920042",
+      "sponsoredId": null,
+      "slug": "queso-cabra-maduro-callaqui-200-gr-1920042",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "17846",
+        "25670",
+        "26917",
+        "27071",
+        "27073",
+        "27247",
+        "27391",
+        "27461",
+        "27499",
+        "27501",
+        "27518",
+        "27521",
+        "27522",
+        "27553",
+        "27601",
+        "27651"
+      ],
+      "brand": "Callaqui",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126286",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 5690,
+          "listPrice": 6920,
+          "ppumPrice": 28450,
+          "ppumListPrice": 34600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318880-250-250/Queso-Cabra-Callaqui-Envasado-Trozo-200-g.jpg?v=638776416051970000"
+          ],
+          "name": "Queso Cabra Callaqui Envasado Trozo 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5690 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5690,
+              "ppumPrice": 28450,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "27023",
+      "reference": "985535-KG",
+      "sponsoredId": null,
+      "slug": "queso-manchego-semicurado-garcia-baquero-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071"
+      ],
+      "brand": "García Baquero",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "30596",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 5901,
+          "listPrice": 5901,
+          "ppumPrice": 59010,
+          "ppumListPrice": 59010,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306803-250-250/Queso-Manchego-Garcia-Baquero-Trozo-Granel.jpg?v=638776383184300000"
+          ],
+          "name": "Queso Manchego García Baquero Trozo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "57629",
+      "reference": "1623649-KG",
+      "sponsoredId": null,
+      "slug": "queso-boladero-oveja-feta-trozo",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071",
+        "27073"
+      ],
+      "brand": "Boladero",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "56709",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 3190,
+          "listPrice": 3190,
+          "ppumPrice": 31900,
+          "ppumListPrice": 31900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360053-250-250/Queso-de-oveja-feta-trozo-granel-Boladero.jpg?v=638776730942300000"
+          ],
+          "name": "Queso Oveja Boladero Trozo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126797",
+      "reference": "1951045",
+      "sponsoredId": null,
+      "slug": "queso-oveja-maduro-180-gr-oveja-vasca-1951045",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "23984",
+        "23985",
+        "27071",
+        "27073"
+      ],
+      "brand": "Oveja Vasca",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127090",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 6490,
+          "listPrice": 6490,
+          "ppumPrice": 36056,
+          "ppumListPrice": 36056,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/392736-250-250/Queso-Oveja-Maduro-Oveja-Vasca-180-g.jpg?v=638776872078500000"
+          ],
+          "name": "Queso Oveja Oveja Vasca Envasado Trozo 180 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "24076",
+      "reference": "1146125-KG",
+      "sponsoredId": null,
+      "slug": "queso-de-oveja-maduro-boladero-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071",
+        "27073"
+      ],
+      "brand": "Boladero",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24392",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 3590,
+          "listPrice": 3590,
+          "ppumPrice": 35900,
+          "ppumListPrice": 35900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305251-250-250/Queso-Oveja-Boladero-Trozo-Granel.jpg?v=638776381417830000"
+          ],
+          "name": "Queso Oveja Boladero Trozo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115284",
+      "reference": "1920041",
+      "sponsoredId": null,
+      "slug": "queso-cabra-feta-callaqui-200-gr-1920041",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "25670",
+        "26917",
+        "27071",
+        "27073",
+        "27247",
+        "27391",
+        "27461",
+        "27499",
+        "27501",
+        "27518",
+        "27521",
+        "27522",
+        "27553",
+        "27601",
+        "27651"
+      ],
+      "brand": "Callaqui",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115549",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 5790,
+          "listPrice": 7020,
+          "ppumPrice": 28950,
+          "ppumListPrice": 35100,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316205-250-250/Queso-Cabra-Callaqui-Envasado-Trozo-200-g.jpg?v=638776407620700000"
+          ],
+          "name": "Queso Cabra Feta Callaqui Envasado Trozo 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5790 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5790,
+              "ppumPrice": 28950,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "24075",
+      "reference": "1146124-KG",
+      "sponsoredId": null,
+      "slug": "queso-de-oveja-semi-maduro-boladero-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071",
+        "27073"
+      ],
+      "brand": "Boladero",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24391",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.2,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 7180,
+          "listPrice": 7180,
+          "ppumPrice": 35900,
+          "ppumListPrice": 35900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/354992-250-250/Queso-de-oveja-semi-maduro-trozo-granel.jpg?v=638776704781670000"
+          ],
+          "name": "Queso Oveja Boladero Trozo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "72304",
+      "reference": "1750655-KG",
+      "sponsoredId": null,
+      "slug": "queso-cabra-trozo-con-pimenton-san-benit",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [],
+      "brand": "San Benito",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "72561",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2630,
+          "listPrice": 2630,
+          "ppumPrice": 26300,
+          "ppumListPrice": 26300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310082-250-250/Queso-Cabra-Pimenton-San-Benito-Trozo-Granel.jpg?v=638776390831930000"
+          ],
+          "name": "Queso Cabra Pimentón San Benito Trozo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "24071",
+      "reference": "1092177-KG",
+      "sponsoredId": null,
+      "slug": "queso-maduro-de-oveja-boladero-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071",
+        "27073"
+      ],
+      "brand": "Boladero",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24387",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 3590,
+          "listPrice": 3590,
+          "ppumPrice": 35900,
+          "ppumListPrice": 35900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305144-250-250/Queso-Oveja-Boladero-Trozo-Granel.jpg?v=638776381288000000"
+          ],
+          "name": "Queso Oveja Boladero Trozo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75250",
+      "reference": "1784505-KG",
+      "sponsoredId": null,
+      "slug": "lingote-suave-de-queso-de-cabra-callaqui-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27073"
+      ],
+      "brand": "Callaqui",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75507",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2950,
+          "listPrice": 2950,
+          "ppumPrice": 29500,
+          "ppumListPrice": 29500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310387-250-250/Queso-Cabra-Callaqui-Trozo-Granel.jpg?v=638776391424270000"
+          ],
+          "name": "Queso Cabra Callaqui Trozo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "27024",
+      "reference": "985536-KG",
+      "sponsoredId": null,
+      "slug": "queso-mezcla-semicurado-garcia-baquero-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071"
+      ],
+      "brand": "García Baquero",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "30597",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 4470,
+          "listPrice": 4470,
+          "ppumPrice": 44700,
+          "ppumListPrice": 44700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306820-250-250/Queso-Manchego-Garcia-Baquero-Trozo-Granel.jpg?v=638776383215570000"
+          ],
+          "name": "Queso Ibérico García Baquero Trozo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75254",
+      "reference": "1784511",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-suave-sabor-ciboulette-callaqui-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071",
+        "27073"
+      ],
+      "brand": "Callaqui",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75511",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 6490,
+          "listPrice": 6890,
+          "ppumPrice": 32450,
+          "ppumListPrice": 34450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310469-250-250/Queso-Cabra-Ciboulette-Callaqui-Envasado-Trozo-200-g.jpg?v=638776391574630000"
+          ],
+          "name": "Queso Cabra Ciboulette Callaqui Envasado Trozo 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6490 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 02032026 AL 23032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 6490,
+              "ppumPrice": 32450,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10407",
+      "reference": "1629045",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-callaqui-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "27071",
+        "27073"
+      ],
+      "brand": "Artisan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10658",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 6550,
+          "listPrice": 6550,
+          "ppumPrice": 36389,
+          "ppumListPrice": 36389,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301851-250-250/Queso-Cabra-Artisan-Envasado-Trozo-180-g.jpg?v=638776375455230000"
+          ],
+          "name": "Queso Cabra Artisan Envasado Trozo 180 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "40202",
+      "reference": "1670540",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-santa-rosa-oregano-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [
+        "25313",
+        "25334",
+        "27071",
+        "27073"
+      ],
+      "brand": "Santa Rosa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "43217",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 7790,
+          "listPrice": 7790,
+          "ppumPrice": 38950,
+          "ppumListPrice": 38950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/357271-250-250/Principal-39113.jpg?v=638776716716600000"
+          ],
+          "name": "Queso Cabra Orégano Santa Rosa Envasado Trozo 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "76884",
+      "reference": "1790757",
+      "sponsoredId": null,
+      "slug": "queso-de-cabra-feta-artisan-270-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "1109",
+        "1111"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Quesos",
+        "Cabra y Oveja"
+      ],
+      "collections": [],
+      "brand": "Artisan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77138",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.175,
+          "price": 6590,
+          "listPrice": 6590,
+          "ppumPrice": 37657,
+          "ppumListPrice": 37657,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310740-250-250/Queso-Cabra-Mediterraneo-Artisan-Envasado-Trozo-175-g.jpg?v=638776392155300000"
+          ],
+          "name": "Queso Cabra Mediterráneo Artisan Envasado Trozo 175 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Cabra y Oveja",
+          "value": "/quesos-y-fiambres/quesos/cabra-y-oveja",
+          "selected": false,
+          "quantity": 49,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Cabra y Oveja",
+          "value": "/quesos-y-fiambres/quesos/cabra-y-oveja",
+          "selected": false,
+          "quantity": 49,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Cabra y Oveja",
+          "value": "/quesos-y-fiambres/quesos/cabra-y-oveja",
+          "selected": false,
+          "quantity": 49,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Quillayes",
+          "value": "Quillayes",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Benito",
+          "value": "San Benito",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Callaqui",
+          "value": "Callaqui",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Los Tilos",
+          "value": "Los Tilos",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Cabresa",
+          "value": "La Cabresa",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Santa Rosa",
+          "value": "Santa Rosa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Artisan",
+          "value": "Artisan",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pahuilmo",
+          "value": "Pahuilmo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Oveja Vasca",
+          "value": "Oveja Vasca",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Granarolo",
+          "value": "Granarolo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "García Baquero",
+          "value": "García Baquero",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Boladero",
+          "value": "Boladero",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ile De France",
+          "value": "Ile De France",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chavroux",
+          "value": "Chavroux",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2590,
+          "maxValue": 7890
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "150 g",
+          "value": "150 g",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "200 g",
+          "value": "200 g",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Maduración Quesos",
+      "key": "Maduración Quesos",
+      "values": [
+        {
+          "displayName": "De 1 a 3 meses",
+          "value": "De 1 a 3 meses",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "De 3 a 6 meses",
+          "value": "De 3 a 6 meses",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "De 6 a 9 meses",
+          "value": "De 6 a 9 meses",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hasta 30 días",
+          "value": "Hasta 30 días",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Maduración",
+          "value": "Sin Maduración",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pote",
+          "value": "Pote",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 41,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Queso de Cabra",
+          "value": "Queso de Cabra",
+          "selected": false,
+          "quantity": 38,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Queso de Oveja",
+          "value": "Queso de Oveja",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Queso Pecorino",
+          "value": "Queso Pecorino",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Queso Manchego",
+          "value": "Queso Manchego",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Queso Feta",
+          "value": "Queso Feta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 41,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Francia",
+          "value": "Francia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Envasado",
+          "value": "ENVASADO",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Granel",
+          "value": "Granel",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trozo",
+          "value": "Trozo",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Corte",
+      "key": "Tipo de Corte",
+      "values": [
+        {
+          "displayName": "Laminado",
+          "value": "Laminado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trozo",
+          "value": "Trozo",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Leche",
+      "key": "Tipo de Leche",
+      "values": [
+        {
+          "displayName": "Leche de Cabra",
+          "value": "Leche de Cabra",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Leche de Oveja",
+          "value": "Leche de Oveja",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Ahumado",
+          "value": "Ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ciboulette",
+          "value": "Ciboulette",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Merkén",
+          "value": "Merkén",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Natural",
+          "value": "Natural",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Oregano",
+          "value": "Oregano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Orégano",
+          "value": "Orégano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Orégano - Oliva",
+          "value": "Orégano - Oliva",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Posee una acidez marcada que se mezcla en el paladar, con gusto a cabra, entregando una experiencia única de sabor y aroma.",
+          "value": "Posee una acidez marcada que se mezcla en el paladar, con gusto a cabra, entregando una experiencia única de sabor y aroma.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Queso",
+          "value": "Queso",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Queso Cabra",
+          "value": "Queso Cabra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sabor fuerte y salado",
+          "value": "Sabor fuerte y salado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave",
+          "value": "Suave",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tomate Albahaca",
+          "value": "Tomate Albahaca",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trufa Blanca",
+          "value": "Trufa Blanca",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Queso de Cabra",
+          "value": "Queso de Cabra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Ahumado",
+          "value": "Ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Artesanal",
+          "value": "Artesanal",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Griego",
+          "value": "Griego",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Queso de Cabra",
+          "value": "Queso de Cabra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tradicional",
+          "value": "Tradicional",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Intensidad",
+      "key": "Intensidad",
+      "values": [
+        {
+          "displayName": "Alta",
+          "value": "Alta",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Baja",
+          "value": "Baja",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Media",
+          "value": "Media",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "200 g",
+          "value": "200 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 49,
+  "metaTag": {
+    "title": "Cabra y Oveja | Jumbo.cl",
+    "description": "¡Disfruta del auténtico sabor de los quesos de cabra y oveja en Jumbo.cl! No esperes más y consíguelos con un clic."
+  }
+}

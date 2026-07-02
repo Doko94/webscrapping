@@ -1,0 +1,296 @@
+
+Subcategorías:
+- Carnes Premium -> https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-premium
+- Carnes Americana -> https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-americana
+- Carnes para Parrilla -> https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-para-parrilla
+- Carnes para Horno -> https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-para-horno
+- Vacuno (Mostrar todo) -> https://www.jumbo.cl/carnes-y-pescados/vacuno
+- Trutros y Pechugas a Granel -> https://www.jumbo.cl/carnes-y-pescados/pollo/trutros-y-pechugas-a-granel
+- Filetes y Pechuga de Pollo -> https://www.jumbo.cl/carnes-y-pescados/pollo/filetes-y-pechugas-de-pollo
+- Alitas y Trutros de Pollo -> https://www.jumbo.cl/carnes-y-pescados/pollo/alitas-y-trutros-de-pollo
+- Pollo Entero -> https://www.jumbo.cl/carnes-y-pescados/pollo/pollo-entero
+- Pollo (Mostrar todo) -> https://www.jumbo.cl/carnes-y-pescados/pollo
+- Costillar y Costillitas -> https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/costillar-y-costillitas
+- Chuletas y Filetes -> https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/chuletas-y-filetes
+- Pulpa y Lomo de Cerdo -> https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/pulpa-y-lomo-de-cerdo
+- Malaya y Otros Cortes -> https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/malaya-y-otros-cortes
+- Cerdo y Cordero (Mostrar todo) -> https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero
+- Filetes y Pechugas de Pavo -> https://www.jumbo.cl/carnes-y-pescados/pavo/filetes-y-pechugas-de-pavo
+- Pavo Entero -> https://www.jumbo.cl/carnes-y-pescados/pavo/pavo-entero
+- Trutros y Bistec de Pavo -> https://www.jumbo.cl/carnes-y-pescados/pavo/trutros-y-bistec-de-pavo
+- Carne Molida y Albondigas de Pavo -> https://www.jumbo.cl/carnes-y-pescados/pavo/carne-molida-y-albondigas-de-pavo
+- Pavo (Mostrar todo) -> https://www.jumbo.cl/carnes-y-pescados/pavo
+- Pescados Frescos -> https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-frescos
+- Pescados Congelados -> https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-congelados
+- Pescados Apanados -> https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-apanados
+- Pescados Frescos Envasados -> https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-frescos-envasados
+- Pescados (Mostrar todo) -> https://www.jumbo.cl/carnes-y-pescados/pescados
+- Camarones Crudos -> https://www.jumbo.cl/carnes-y-pescados/camarones/camarones-crudos
+- Camarones Cocidos -> https://www.jumbo.cl/carnes-y-pescados/camarones/camarones-cocidos
+- Camarones Apanados -> https://www.jumbo.cl/carnes-y-pescados/camarones/camarones-apanados
+- Camarones (Mostrar todo) -> https://www.jumbo.cl/carnes-y-pescados/camarones
+- Mariscos Frescos -> https://www.jumbo.cl/carnes-y-pescados/mariscos/mariscos-frescos
+- Mariscos Congelados -> https://www.jumbo.cl/carnes-y-pescados/mariscos/mariscos-congelados
+- Mariscos en Conserva -> https://www.jumbo.cl/carnes-y-pescados/mariscos/mariscos-en-conserva
+- Mariscos (Mostrar todo) -> https://www.jumbo.cl/carnes-y-pescados/mariscos
+
+Scrape: Carnes Premium
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-premium
+🧪 Dump BFF guardado: debug_bff\bff_carnes_premium_p1.json
+✅ PLP OK: 37 productos en página 1
+  ✅ page 2: +37 (total únicos=37)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 37
+
+Scrape: Carnes Americana
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-americana
+🧪 Dump BFF guardado: debug_bff\bff_carnes_americana_p1.json
+✅ PLP OK: 26 productos en página 1
+  ✅ page 2: +26 (total únicos=26)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 26
+
+Scrape: Carnes para Parrilla
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-para-parrilla
+🧪 Dump BFF guardado: debug_bff\bff_carnes_para_parrilla_p1.json
+✅ PLP OK: 40 productos en página 1
+  ✅ page 2: +40 (total únicos=40)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 40
+
+Scrape: Carnes para Horno
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-para-horno
+🧪 Dump BFF guardado: debug_bff\bff_carnes_para_horno_p1.json
+✅ PLP OK: 6 productos en página 1
+  ✅ page 2: +6 (total únicos=6)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 6
+
+Scrape: Vacuno (Mostrar todo)
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/vacuno
+🧪 Dump BFF guardado: debug_bff\bff_vacuno_mostrar_todo_p1.json
+✅ PLP OK: 40 productos en página 1
+  ✅ page 2: +40 (total únicos=40)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 40
+
+Scrape: Trutros y Pechugas a Granel
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pollo/trutros-y-pechugas-a-granel
+🧪 Dump BFF guardado: debug_bff\bff_trutros_y_pechugas_a_granel_p1.json
+✅ PLP OK: 5 productos en página 1
+  ✅ page 2: +5 (total únicos=5)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 5
+
+Scrape: Filetes y Pechuga de Pollo
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pollo/filetes-y-pechugas-de-pollo
+🧪 Dump BFF guardado: debug_bff\bff_filetes_y_pechuga_de_pollo_p1.json
+✅ PLP OK: 34 productos en página 1
+  ✅ page 2: +34 (total únicos=34)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 34
+
+Scrape: Alitas y Trutros de Pollo
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pollo/alitas-y-trutros-de-pollo
+🧪 Dump BFF guardado: debug_bff\bff_alitas_y_trutros_de_pollo_p1.json
+✅ PLP OK: 30 productos en página 1
+  ✅ page 2: +30 (total únicos=30)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 30
+
+Scrape: Pollo Entero
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pollo/pollo-entero
+🧪 Dump BFF guardado: debug_bff\bff_pollo_entero_p1.json
+✅ PLP OK: 17 productos en página 1
+  ✅ page 2: +17 (total únicos=17)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 17
+
+Scrape: Pollo (Mostrar todo)
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pollo
+🧪 Dump BFF guardado: debug_bff\bff_pollo_mostrar_todo_p1.json
+✅ PLP OK: 40 productos en página 1
+  ✅ page 2: +40 (total únicos=40)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 40
+
+Scrape: Costillar y Costillitas
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/costillar-y-costillitas
+🧪 Dump BFF guardado: debug_bff\bff_costillar_y_costillitas_p1.json
+✅ PLP OK: 13 productos en página 1
+  ✅ page 2: +13 (total únicos=13)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 13
+
+Scrape: Chuletas y Filetes
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/chuletas-y-filetes
+🧪 Dump BFF guardado: debug_bff\bff_chuletas_y_filetes_p1.json
+✅ PLP OK: 7 productos en página 1
+  ✅ page 2: +7 (total únicos=7)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 7
+
+Scrape: Pulpa y Lomo de Cerdo
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/pulpa-y-lomo-de-cerdo
+🧪 Dump BFF guardado: debug_bff\bff_pulpa_y_lomo_de_cerdo_p1.json
+✅ PLP OK: 15 productos en página 1
+  ✅ page 2: +15 (total únicos=15)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 15
+
+Scrape: Malaya y Otros Cortes
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/malaya-y-otros-cortes
+🧪 Dump BFF guardado: debug_bff\bff_malaya_y_otros_cortes_p1.json
+✅ PLP OK: 12 productos en página 1
+  ✅ page 2: +12 (total únicos=12)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 12
+
+Scrape: Cerdo y Cordero (Mostrar todo)
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero
+🧪 Dump BFF guardado: debug_bff\bff_cerdo_y_cordero_mostrar_todo_p1.json
+✅ PLP OK: 40 productos en página 1
+  ✅ page 2: +40 (total únicos=40)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 40
+
+Scrape: Filetes y Pechugas de Pavo
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pavo/filetes-y-pechugas-de-pavo
+🧪 Dump BFF guardado: debug_bff\bff_filetes_y_pechugas_de_pavo_p1.json
+✅ PLP OK: 4 productos en página 1
+  ✅ page 2: +4 (total únicos=4)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 4
+
+Scrape: Pavo Entero
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pavo/pavo-entero
+🧪 Dump BFF guardado: debug_bff\bff_pavo_entero_p1.json
+⚠️ PLP capturado pero sin productos detectables: https://www.jumbo.cl/carnes-y-pescados/pavo/pavo-entero
+  productos: 0
+
+Scrape: Trutros y Bistec de Pavo
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pavo/trutros-y-bistec-de-pavo
+🧪 Dump BFF guardado: debug_bff\bff_trutros_y_bistec_de_pavo_p1.json
+✅ PLP OK: 3 productos en página 1
+  ✅ page 2: +3 (total únicos=3)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 3
+
+Scrape: Carne Molida y Albondigas de Pavo
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pavo/carne-molida-y-albondigas-de-pavo
+🧪 Dump BFF guardado: debug_bff\bff_carne_molida_y_albondigas_de_pavo_p1.json
+⚠️ PLP capturado pero sin productos detectables: https://www.jumbo.cl/carnes-y-pescados/pavo/carne-molida-y-albondigas-de-pavo
+  productos: 0
+
+Scrape: Pavo (Mostrar todo)
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pavo
+🧪 Dump BFF guardado: debug_bff\bff_pavo_mostrar_todo_p1.json
+✅ PLP OK: 9 productos en página 1
+  ✅ page 2: +9 (total únicos=9)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 9
+
+Scrape: Pescados Frescos
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-frescos
+🧪 Dump BFF guardado: debug_bff\bff_pescados_frescos_p1.json
+✅ PLP OK: 17 productos en página 1
+  ✅ page 2: +17 (total únicos=17)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 17
+
+Scrape: Pescados Congelados
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-congelados
+🧪 Dump BFF guardado: debug_bff\bff_pescados_congelados_p1.json
+✅ PLP OK: 28 productos en página 1
+  ✅ page 2: +28 (total únicos=28)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 28
+
+Scrape: Pescados Apanados
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-apanados
+🧪 Dump BFF guardado: debug_bff\bff_pescados_apanados_p1.json
+✅ PLP OK: 21 productos en página 1
+  ✅ page 2: +21 (total únicos=21)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 21
+
+Scrape: Pescados Frescos Envasados
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-frescos-envasados
+🧪 Dump BFF guardado: debug_bff\bff_pescados_frescos_envasados_p1.json
+⚠️ PLP capturado pero sin productos detectables: https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-frescos-envasados
+  productos: 0
+
+Scrape: Pescados (Mostrar todo)
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/pescados
+🧪 Dump BFF guardado: debug_bff\bff_pescados_mostrar_todo_p1.json
+✅ PLP OK: 40 productos en página 1
+  ✅ page 2: +40 (total únicos=40)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 40
+
+Scrape: Camarones Crudos
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/camarones/camarones-crudos
+🧪 Dump BFF guardado: debug_bff\bff_camarones_crudos_p1.json
+✅ PLP OK: 6 productos en página 1
+  ✅ page 2: +6 (total únicos=6)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 6
+
+Scrape: Camarones Cocidos
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/camarones/camarones-cocidos
+🧪 Dump BFF guardado: debug_bff\bff_camarones_cocidos_p1.json
+✅ PLP OK: 17 productos en página 1
+  ✅ page 2: +17 (total únicos=17)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 17
+
+Scrape: Camarones Apanados
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/camarones/camarones-apanados
+🧪 Dump BFF guardado: debug_bff\bff_camarones_apanados_p1.json
+✅ PLP OK: 3 productos en página 1
+  ✅ page 2: +3 (total únicos=3)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 3
+
+Scrape: Camarones (Mostrar todo)
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/camarones
+🧪 Dump BFF guardado: debug_bff\bff_camarones_mostrar_todo_p1.json
+✅ PLP OK: 27 productos en página 1
+  ✅ page 2: +27 (total únicos=27)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 27
+
+Scrape: Mariscos Frescos
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/mariscos/mariscos-frescos
+🧪 Dump BFF guardado: debug_bff\bff_mariscos_frescos_p1.json
+✅ PLP OK: 15 productos en página 1
+  ✅ page 2: +15 (total únicos=15)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 15
+
+Scrape: Mariscos Congelados
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/mariscos/mariscos-congelados
+🧪 Dump BFF guardado: debug_bff\bff_mariscos_congelados_p1.json
+✅ PLP OK: 16 productos en página 1
+  ✅ page 2: +16 (total únicos=16)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 16
+
+Scrape: Mariscos en Conserva
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/mariscos/mariscos-en-conserva
+🧪 Dump BFF guardado: debug_bff\bff_mariscos_en_conserva_p1.json
+✅ PLP OK: 14 productos en página 1
+  ✅ page 2: +14 (total únicos=14)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 14
+
+Scrape: Mariscos (Mostrar todo)
+  🌐 goto attempt 1: https://www.jumbo.cl/carnes-y-pescados/mariscos
+🧪 Dump BFF guardado: debug_bff\bff_mariscos_mostrar_todo_p1.json
+✅ PLP OK: 40 productos en página 1
+  ✅ page 2: +40 (total únicos=40)
+  ⛔ sin nuevos SKUs, paro.
+  productos: 40
+
+Total filas: 622
+CSV generado: output\carnes_pescados\jumbo_carnes_y_pescados_20260302_222112.csv

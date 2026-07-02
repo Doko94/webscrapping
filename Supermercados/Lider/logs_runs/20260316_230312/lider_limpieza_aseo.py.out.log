@@ -1,0 +1,288 @@
+[DEBUG] Landing URL final: https://super.lider.cl/browse/limpieza-y-aseo/43390617
+[DEBUG] Landing title: Tu tienda en línea Chile
+[DEBUG] No se pudo inferir taxonomía desde JSON/facetas. Se usará fallback con una sola categoría base.
+
+[DEBUG] Subcategorías finales detectadas:
+ - [Limpieza y Aseo] Limpieza y Aseo -> https://super.lider.cl/browse/limpieza-y-aseo/43390617
+
+[1/1] Scrape: [Limpieza y Aseo] Limpieza y Aseo
+    page 1: procesando DOM
+      scroll round 1: anchors=24
+      scroll round 2: anchors=66
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 1: visibles=62, nuevos=62, acumulados=62
+    page 1: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00779052001239', '00506003382075', '00780681001536', '00780650024143']
+    page 2: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=54
+      scroll round 3: anchors=54
+      scroll round 4: anchors=54
+      scroll round 5: anchors=54
+      scroll round 6: anchors=54
+      scroll round 7: anchors=54
+      scroll round 8: anchors=54
+    page 2: visibles=48, nuevos=30, acumulados=92
+    page 2: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00780460354179', '00780681000430', '00779129079562', '00750043525997']
+    page 3: procesando DOM
+      scroll round 1: anchors=66
+      scroll round 2: anchors=66
+      scroll round 3: anchors=66
+      scroll round 4: anchors=66
+      scroll round 5: anchors=66
+      scroll round 6: anchors=66
+      scroll round 7: anchors=66
+      scroll round 8: anchors=66
+    page 3: visibles=60, nuevos=12, acumulados=104
+    page 3: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00780460354179', '00780681000430', '00779129079562', '00750043525997']
+    page 4: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=54
+      scroll round 3: anchors=66
+      scroll round 4: anchors=66
+      scroll round 5: anchors=66
+      scroll round 6: anchors=66
+      scroll round 7: anchors=66
+      scroll round 8: anchors=66
+    page 4: visibles=58, nuevos=40, acumulados=144
+    page 4: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00779052002397', '00780681001515', '00779052099537', '00780650040680']
+    page 5: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 5: visibles=60, nuevos=42, acumulados=186
+    page 5: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00400845542401', '00779052000970', '00770262621675', '00780500504010']
+    page 6: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 6: visibles=61, nuevos=43, acumulados=229
+    page 6: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00780460354243', '00780650040679', '00789115000097', '00780502569829']
+    page 7: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 7: visibles=62, nuevos=44, acumulados=273
+    page 7: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00007874205782', '00780504000170', '00780504000483', '00780504000555']
+    page 8: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 8: visibles=62, nuevos=44, acumulados=317
+    page 8: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00506003382068', '00780466714001', '00780500031689', '00780493000349']
+    page 9: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=54
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 9: visibles=61, nuevos=43, acumulados=360
+    page 9: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00780003804617', '00780501000449', '00780500500532', '00779052002671']
+    page 10: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 10: visibles=61, nuevos=43, acumulados=403
+    page 10: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00779113096214', '00780524300002', '00779113000870', '00780530000032']
+    page 11: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=54
+      scroll round 3: anchors=54
+      scroll round 4: anchors=54
+      scroll round 5: anchors=54
+      scroll round 6: anchors=54
+      scroll round 7: anchors=54
+      scroll round 8: anchors=54
+    page 11: visibles=48, nuevos=30, acumulados=433
+    page 11: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00780504000183', '00040005048629', '00780650000022', '00780650050835']
+    page 12: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 12: visibles=62, nuevos=44, acumulados=477
+    page 12: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00780500500398', '00780502569791', '00779113000871', '00841095111110']
+    page 13: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 13: visibles=62, nuevos=44, acumulados=521
+    page 13: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00780500500374', '00780681060219', '00062891573499', '00780654000057']
+    page 14: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=54
+      scroll round 3: anchors=67
+      scroll round 4: anchors=67
+      scroll round 5: anchors=67
+      scroll round 6: anchors=67
+      scroll round 7: anchors=67
+      scroll round 8: anchors=67
+    page 14: visibles=60, nuevos=42, acumulados=563
+    page 14: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00780500500310', '00780500500035', '00780650051021', '00779129079437']
+    page 15: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=67
+      scroll round 4: anchors=67
+      scroll round 5: anchors=67
+      scroll round 6: anchors=67
+      scroll round 7: anchors=67
+      scroll round 8: anchors=67
+    page 15: visibles=61, nuevos=43, acumulados=606
+    page 15: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00780500031375', '00040000155970', '00780504000108', '00780681000201']
+    page 16: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 16: visibles=61, nuevos=43, acumulados=649
+    page 16: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00779052099891', '00040005079542', '00780500018222', '00779052000593']
+    page 17: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 17: visibles=62, nuevos=44, acumulados=693
+    page 17: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00780504011621', '00780681000338', '00780681000733', '00779052003092']
+    page 18: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=66
+      scroll round 4: anchors=66
+      scroll round 5: anchors=66
+      scroll round 6: anchors=66
+      scroll round 7: anchors=66
+      scroll round 8: anchors=66
+    page 18: visibles=59, nuevos=41, acumulados=734
+    page 18: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00780494501041', '00779052099632', '00779052099833', '00780681002572']
+    page 19: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=67
+      scroll round 4: anchors=67
+      scroll round 5: anchors=67
+      scroll round 6: anchors=67
+      scroll round 7: anchors=67
+      scroll round 8: anchors=67
+    page 19: visibles=61, nuevos=43, acumulados=777
+    page 19: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00869057053816', '00779052002081', '00780492000843', '00780504500108']
+    page 20: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 20: visibles=61, nuevos=43, acumulados=820
+    page 20: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00779052099818', '00690208897656', '00780504000416', '00779052003091']
+    page 21: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=54
+      scroll round 3: anchors=54
+      scroll round 4: anchors=54
+      scroll round 5: anchors=54
+      scroll round 6: anchors=54
+      scroll round 7: anchors=54
+      scroll round 8: anchors=54
+    page 21: visibles=47, nuevos=29, acumulados=849
+    page 21: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00779052001372', '00779052001496', '00780681001494', '00750619514383']
+    page 22: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 22: visibles=62, nuevos=44, acumulados=893
+    page 22: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00750105871578', '00068113176377', '00007630887303', '00780500032437']
+    page 23: procesando DOM
+      scroll round 1: anchors=68
+      scroll round 2: anchors=68
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 23: visibles=62, nuevos=0, acumulados=893
+    page 23: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00750105871578', '00068113176377', '00007630887303', '00780500032437']
+    page 24: procesando DOM
+      scroll round 1: anchors=42
+      scroll round 2: anchors=66
+      scroll round 3: anchors=68
+      scroll round 4: anchors=68
+      scroll round 5: anchors=68
+      scroll round 6: anchors=68
+      scroll round 7: anchors=68
+      scroll round 8: anchors=68
+    page 24: visibles=62, nuevos=44, acumulados=937
+    page 24: sample_skus=['00750043516054', '00750043524394', '00750043501190', '00750043512820', '00750043518778', '00750043518222', '00780681000105', '00779099000367', '00779052099435', '00780502569735']
+    page 25: procesando DOM
+      scroll round 1: anchors=0
+      scroll round 2: anchors=0
+      scroll round 3: anchors=0
+      scroll round 4: anchors=0
+      scroll round 5: anchors=0
+      scroll round 6: anchors=0
+      scroll round 7: anchors=0
+      scroll round 8: anchors=0
+    page 25: visibles=0, nuevos=0, acumulados=937
+    page 25: sample_skus=[]
+    page 25: no se pudo avanzar al paginador siguiente
+  productos acumulados subcategoría: 937
+
+Total filas: 937
+CSV generado: output\limpieza_y_aseo\lider_limpieza_y_aseo_20260317_014803.csv

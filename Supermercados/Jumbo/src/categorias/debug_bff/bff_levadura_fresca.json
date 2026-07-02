@@ -1,0 +1,386 @@
+{
+  "products": [
+    {
+      "productId": "4255",
+      "reference": "506430",
+      "sponsoredId": null,
+      "slug": "levadura-fresca-lefersa-pan-38-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "548"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Levadura Fresca"
+      ],
+      "collections": [],
+      "brand": "Lefersa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4264",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.038,
+          "price": 550,
+          "listPrice": 550,
+          "ppumPrice": 14474,
+          "ppumListPrice": 14474,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347186-250-250/Levadura-fresca-38-g.jpg?v=638776468183730000"
+          ],
+          "name": "Levadura Lefersa Fresca 38 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "4254",
+      "reference": "302891",
+      "sponsoredId": null,
+      "slug": "levadura-fresca-lefersa-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "548"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Levadura Fresca"
+      ],
+      "collections": [],
+      "brand": "Lefersa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4263",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 2670,
+          "listPrice": 2670,
+          "ppumPrice": 5340,
+          "ppumListPrice": 5340,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347184-250-250/Levadura-Fresca-Lefersa-500-g.jpg?v=638776468159400000"
+          ],
+          "name": "Levadura Lefersa Fresca 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "20183",
+      "reference": "493503",
+      "sponsoredId": null,
+      "slug": "levadura-fresca-collico-38-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "548"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Levadura Fresca"
+      ],
+      "collections": [],
+      "brand": "Collico",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "20507",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 590,
+          "listPrice": 590,
+          "ppumPrice": 590,
+          "ppumListPrice": 590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/353539-250-250/Levadura-fresca-38-g.jpg?v=638776697957830000"
+          ],
+          "name": "Levadura Collico Fresca 38 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Levadura Fresca",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/levadura-fresca",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Levadura Fresca",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/levadura-fresca",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Levadura Fresca",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/levadura-fresca",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Lefersa",
+          "value": "Lefersa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Collico",
+          "value": "Collico",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 550,
+          "maxValue": 2670
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Levadura Seca",
+          "value": "Levadura Seca",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 3,
+  "metaTag": {
+    "title": "Levadura Fresca | Jumbo.cl",
+    "description": "En Jumbo.cl podrás conseguir levadura fresca para preparar pan de masa madre y otras exquisitas variedades desde la comodidad de tu hogar."
+  }
+}

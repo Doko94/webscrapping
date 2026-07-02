@@ -1,0 +1,1720 @@
+{
+  "products": [
+    {
+      "productId": "46206",
+      "reference": "1716833",
+      "sponsoredId": null,
+      "slug": "bebida-pap-zero-1-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [
+        "24469",
+        "25333",
+        "25334",
+        "25422",
+        "25578",
+        "25686",
+        "25695",
+        "25741",
+        "25749",
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "Pap",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "46451",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.75,
+          "price": 1690,
+          "listPrice": 2290,
+          "ppumPrice": 966,
+          "ppumListPrice": 1309,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308001-250-250/Bebida-Pap-Zero-175-L.jpg?v=638776385905470000"
+          ],
+          "name": "Bebida Pap Zero 1.75 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1690,
+              "ppumPrice": 966,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "529",
+      "reference": "1451620",
+      "sponsoredId": null,
+      "slug": "bebida-sprite-botella-3-l-zero",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [],
+      "brand": "Sprite",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "531",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 3,
+          "price": 3350,
+          "listPrice": 3350,
+          "ppumPrice": 1117,
+          "ppumListPrice": 1117,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298002-250-250/Bebida-Sprite-Sin-Azucar-3-L.jpg?v=638775746236270000"
+          ],
+          "name": "Bebida Sprite Sin Azúcar 3 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122174",
+      "reference": "1950830",
+      "sponsoredId": null,
+      "slug": "beb-gas-schweppes-gin-ale-s-azuc-pet-1-5-1950830",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "23175",
+        "25282",
+        "25333",
+        "25334",
+        "25422",
+        "25532",
+        "25695",
+        "26158",
+        "26220"
+      ],
+      "brand": "Schweppes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122416",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 1460,
+          "ppumListPrice": 1460,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/576215-250-250/Bebida-Ginger-Ale-Schweppes-Sin-Azucar-15-L.jpg?v=639069338237270000"
+          ],
+          "name": "Bebida Ginger Ale Schweppes Sin Azúcar 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "509",
+      "reference": "1422206",
+      "sponsoredId": null,
+      "slug": "bebida-zero-inca-kola-botella-15-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "23175",
+        "25282",
+        "25333",
+        "25334",
+        "25422",
+        "25532",
+        "25586",
+        "25695",
+        "26220"
+      ],
+      "brand": "Inca Kola",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "511",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 1460,
+          "ppumListPrice": 1460,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/575805-250-250/Bebida-Inca-Kola-Sin-Azucar-15-L.jpg?v=639069337185370000"
+          ],
+          "name": "Bebida Inca Kola Sin Azúcar 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "46207",
+      "reference": "1716838",
+      "sponsoredId": null,
+      "slug": "bebida-bilz-zero-1-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "24469",
+        "25333",
+        "25334",
+        "25422",
+        "25578",
+        "25638",
+        "25686",
+        "25695",
+        "25741",
+        "25749",
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "Bilz",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "46452",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.75,
+          "price": 1690,
+          "listPrice": 2290,
+          "ppumPrice": 966,
+          "ppumListPrice": 1309,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/426263-250-250/Bebida-Bilz-Zero-175-L.jpg?v=638810985814600000"
+          ],
+          "name": "Bebida Bilz Zero 1.75 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1690,
+              "ppumPrice": 966,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "513",
+      "reference": "671150",
+      "sponsoredId": null,
+      "slug": "bebida-limon-soda-light-15-l-botella-desechable",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [
+        "17846"
+      ],
+      "brand": "Limón Soda Light",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "515",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 2050,
+          "listPrice": 2050,
+          "ppumPrice": 1367,
+          "ppumListPrice": 1367,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/557051-250-250/Bebida-Limon-Soda-Zero-15-L.jpg?v=639026133334500000"
+          ],
+          "name": "Bebida Limón Soda Zero 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "143026",
+      "reference": "2008301",
+      "sponsoredId": null,
+      "slug": "bebida-h2oh-naranchelo-2l-2008301",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25536",
+        "25695",
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "H2OH!",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "143320",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2,
+          "price": 1590,
+          "listPrice": 2490,
+          "ppumPrice": 795,
+          "ppumListPrice": 1245,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/412298-250-250/Bebida-H2OH-Naranchelo-2-L.jpg?v=638793692538270000"
+          ],
+          "name": "Bebida H2Oh Naranchelo 2 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1590 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1590,
+              "ppumPrice": 795,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "510",
+      "reference": "1428657",
+      "sponsoredId": null,
+      "slug": "bebida-kem-zero-15-l-botella-desechable",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [
+        "17846"
+      ],
+      "brand": "Kem Zero",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "512",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 2050,
+          "listPrice": 2050,
+          "ppumPrice": 1367,
+          "ppumListPrice": 1367,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/297993-250-250/Bebida-Kem-Zero-15-L.jpg?v=638775746112000000"
+          ],
+          "name": "Bebida Kem Zero 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122113",
+      "reference": "1950827",
+      "sponsoredId": null,
+      "slug": "beb-gas-fanta-pomelo-sin-azucar-pet-1-5-1950827",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "23175",
+        "25282",
+        "25333",
+        "25334",
+        "25422",
+        "25532",
+        "25695",
+        "26220"
+      ],
+      "brand": "Fanta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122392",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 1460,
+          "ppumListPrice": 1460,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/576205-250-250/Bebida-Fanta-Pomelo-Sin-Azucar-15-L.jpg?v=639069338214670000"
+          ],
+          "name": "Bebida Fanta Pomelo Sin Azúcar 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "143022",
+      "reference": "2008298",
+      "sponsoredId": null,
+      "slug": "bebida-h2oh-lima-limon-2l-2008298",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [
+        "20981",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25536",
+        "25695",
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "H2OH!",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "143316",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2,
+          "price": 1590,
+          "listPrice": 2490,
+          "ppumPrice": 795,
+          "ppumListPrice": 1245,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/535750-250-250/Bebida-H2Oh-Lima-Limon-2-L.jpg?v=638979674768800000"
+          ],
+          "name": "Bebida H2Oh Limonata 2 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1590 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1590,
+              "ppumPrice": 795,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "511",
+      "reference": "1428658",
+      "sponsoredId": null,
+      "slug": "bebida-kem-zero-3-l-botella-desechable",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [
+        "25578",
+        "25695"
+      ],
+      "brand": "Kem Zero",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "513",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 3,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 997,
+          "ppumListPrice": 997,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/297994-250-250/Bebida-Kem-Zero-3-L.jpg?v=638775746127500000"
+          ],
+          "name": "Bebida Kem Zero 3 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16156",
+      "reference": "1675315",
+      "sponsoredId": null,
+      "slug": "bebida-zero-crush-3-l-orange-crush",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [
+        "25578",
+        "25695"
+      ],
+      "brand": "Crush",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17486",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 3,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 997,
+          "ppumListPrice": 997,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352624-250-250/Bebida-Crush-zero-3-L.jpg?v=638776693679300000"
+          ],
+          "name": "Bebida Crush Zero 3 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "507",
+      "reference": "1451619",
+      "sponsoredId": null,
+      "slug": "bebida-fanta-botella-3-l-zero",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [],
+      "brand": "Fanta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "509",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 3,
+          "price": 3350,
+          "listPrice": 3350,
+          "ppumPrice": 1117,
+          "ppumListPrice": 1117,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/498346-250-250/Bebida-Fanta-Sin-Azucar-3-L.jpg?v=638913491557670000"
+          ],
+          "name": "Bebida Fanta Sin Azúcar 3 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "47871",
+      "reference": "1730217",
+      "sponsoredId": null,
+      "slug": "bebida-7up-light-pet-1-5-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [
+        "17846"
+      ],
+      "brand": "7UP",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "48180",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 2050,
+          "listPrice": 2050,
+          "ppumPrice": 1367,
+          "ppumListPrice": 1367,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308072-250-250/Bebida-7Up-Light-15-L.jpg?v=638776386114370000"
+          ],
+          "name": "Bebida 7Up Zero 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "516",
+      "reference": "1329092",
+      "sponsoredId": null,
+      "slug": "bebida-pap-zero-15-l-botella-desechable",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [
+        "17846",
+        "27185",
+        "27291"
+      ],
+      "brand": "Pap",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "518",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 2050,
+          "listPrice": 2050,
+          "ppumPrice": 1367,
+          "ppumListPrice": 1367,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/297997-250-250/Bebida-Pap-zero-15-L.jpg?v=638775746175130000"
+          ],
+          "name": "Bebida Pap Zero 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159977",
+      "reference": "2054662",
+      "sponsoredId": null,
+      "slug": "bebida-sn-al-750cc-2054662",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "958",
+        "960"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Gaseosas",
+        "Bebidas Light o Zero Azúcar"
+      ],
+      "collections": [],
+      "brand": "Momentum",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160341",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 13990,
+          "listPrice": 13990,
+          "ppumPrice": 18653,
+          "ppumListPrice": 18653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/542119-250-250/Bebida-sin-Alcohol-Momentum-750-cc.jpg?v=638991188542570000"
+          ],
+          "name": "Bebida sin Alcohol Momentum 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Bebidas Light o Zero Azúcar",
+          "value": "/licores-bebidas-y-aguas/bebidas-gaseosas/bebidas-light-o-zero-azucar",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Bebidas Light o Zero Azúcar",
+          "value": "/licores-bebidas-y-aguas/bebidas-gaseosas/bebidas-light-o-zero-azucar",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Bebidas Light o Zero Azúcar",
+          "value": "/licores-bebidas-y-aguas/bebidas-gaseosas/bebidas-light-o-zero-azucar",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Coca-Cola",
+          "value": "Coca-Cola",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pepsi",
+          "value": "Pepsi",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sprite",
+          "value": "Sprite",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Canada Dry",
+          "value": "Canada Dry",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fanta",
+          "value": "Fanta",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crush",
+          "value": "Crush",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Schweppes",
+          "value": "Schweppes",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pap",
+          "value": "Pap",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kem Zero",
+          "value": "Kem Zero",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Inca Kola",
+          "value": "Inca Kola",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bilz",
+          "value": "Bilz",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "H2OH!",
+          "value": "H2OH!",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "7UP",
+          "value": "7UP",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limón Soda Light",
+          "value": "Limón Soda Light",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sorbete Letelier",
+          "value": "Sorbete Letelier",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Momentum",
+          "value": "Momentum",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limón Soda",
+          "value": "Limón Soda",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crush Zero",
+          "value": "Crush Zero",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Cola",
+          "value": "Cola",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cola y Ginger Ale",
+          "value": "Cola y Ginger Ale",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cola y Lima Limón",
+          "value": "Cola y Lima Limón",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cola y Naranja",
+          "value": "Cola y Naranja",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Flor de Sauco y botanicos seleccionados",
+          "value": "Flor de Sauco y botanicos seleccionados",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutal",
+          "value": "Frutal",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ginger Ale",
+          "value": "Ginger Ale",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Guinda",
+          "value": "Guinda",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lima Limón",
+          "value": "Lima Limón",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limonata",
+          "value": "Limonata",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limón",
+          "value": "Limón",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Naranchelo",
+          "value": "Naranchelo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Naranja",
+          "value": "Naranja",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Papaya",
+          "value": "Papaya",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Piña",
+          "value": "Piña",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pomelo",
+          "value": "Pomelo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "700 a 750 cc",
+          "value": "700 a 750 cc",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entre 1 y 2 lt",
+          "value": "Entre 1 y 2 lt",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Más de 2 lt",
+          "value": "Más de 2 lt",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Bebidas Gaseosas Zero",
+          "value": "Bebidas Gaseosas Zero",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bebidas Gaseosas Light",
+          "value": "Bebidas Gaseosas Light",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limón",
+          "value": "Limón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aguas Saborizadas",
+          "value": "Aguas Saborizadas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Bebidas Light o Zero Azúcar",
+          "value": "Bebidas Light o Zero Azúcar",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Light",
+          "value": "Light",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Zero",
+          "value": "Zero",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella plástico desechable",
+          "value": "Botella plástico desechable (bebidas)",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1450,
+          "maxValue": 13990
+        }
+      ]
+    },
+    {
+      "label": "Gasificado",
+      "key": "Gasificado",
+      "values": [
+        {
+          "displayName": "Con gas",
+          "value": "Con gas",
+          "selected": false,
+          "quantity": 41,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Gas",
+          "value": "Sin Gas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 33,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "2 Unidades",
+          "value": "2",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "3 Unidades",
+          "value": "3",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1.75 L",
+          "value": "1.75 L",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 40,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Líquido",
+          "value": "Líquido",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 42,
+  "metaTag": {
+    "title": "Bebidas Light o Zero Azúcar | Jumbo.cl",
+    "description": "Sigue acompañando tus comidas y goza del sabor original de las bebidas light o zero azúcar de una forma más saludable. ¡Revisa las variedades en Jumbo.cl!"
+  }
+}

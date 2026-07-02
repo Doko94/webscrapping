@@ -1,0 +1,81 @@
+
+Subcategorías detectadas en [Limpieza]: 19
+ - Detergente | Detergente -> https://www.unimarc.cl/category/limpieza/detergente
+ - Detergente | Detergente líquido -> https://www.unimarc.cl/category/limpieza/detergente/detergente-liquido
+ - Detergente | Detergente polvo -> https://www.unimarc.cl/category/limpieza/detergente/detergente-polvo
+ - Detergente | Detergente en cápsulas -> https://www.unimarc.cl/category/limpieza/detergente/detergente-en-capsulas
+ - Detergente | Detergente en barra -> https://www.unimarc.cl/category/limpieza/detergente/detergente-en-barra
+ - Detergente | Tratamiento ropa -> https://www.unimarc.cl/category/limpieza/detergente/tratamiento-ropa
+ - Detergente | Suavizante -> https://www.unimarc.cl/category/limpieza/detergente/suavizante
+ - Detergente | Papeles -> https://www.unimarc.cl/category/limpieza/papeles
+ - Detergente | Papel higiénico -> https://www.unimarc.cl/category/limpieza/papeles/papel-higienico
+ - Detergente | Toalla papel -> https://www.unimarc.cl/category/limpieza/papeles/toalla-papel
+ - Detergente | Servilletas -> https://www.unimarc.cl/category/limpieza/papeles/servilletas
+ - Detergente | Pañuelos desechables -> https://www.unimarc.cl/category/limpieza/papeles/panuelos-desechables
+ - Detergente | Baño y cocina -> https://www.unimarc.cl/category/limpieza/bano-y-cocina
+ - Detergente | Lavalozas y lavavajillas -> https://www.unimarc.cl/category/limpieza/bano-y-cocina/lavalozas-y-lavavajillas
+ - Detergente | Limpiador crema -> https://www.unimarc.cl/category/limpieza/bano-y-cocina/limpiador-crema
+ - Detergente | Limpiador antigrasa -> https://www.unimarc.cl/category/limpieza/bano-y-cocina/limpiador-antigrasa
+ - Detergente | Limpiador baño -> https://www.unimarc.cl/category/limpieza/bano-y-cocina/limpiador-bano
+ - Detergente | Cloro -> https://www.unimarc.cl/category/limpieza/bano-y-cocina/cloro
+ - Detergente | Paños, esponjas y guantes -> https://www.unimarc.cl/category/limpieza/bano-y-cocina/panos-esponjas-y-guantes
+
+Scrape: [Detergente] Detergente
+  productos únicos: 100
+
+Scrape: [Detergente] Detergente líquido
+  productos únicos: 36
+
+Scrape: [Detergente] Detergente polvo
+  productos únicos: 20
+
+Scrape: [Detergente] Detergente en cápsulas
+  productos únicos: 2
+
+Scrape: [Detergente] Detergente en barra
+  productos únicos: 3
+
+Scrape: [Detergente] Tratamiento ropa
+  productos únicos: 47
+
+Scrape: [Detergente] Suavizante
+  productos únicos: 35
+
+Scrape: [Detergente] Papeles
+  productos únicos: 80
+
+Scrape: [Detergente] Papel higiénico
+  productos únicos: 25
+
+Scrape: [Detergente] Toalla papel
+  productos únicos: 22
+
+Scrape: [Detergente] Servilletas
+  productos únicos: 22
+
+Scrape: [Detergente] Pañuelos desechables
+  productos únicos: 11
+
+Scrape: [Detergente] Baño y cocina
+  productos únicos: 100
+
+Scrape: [Detergente] Lavalozas y lavavajillas
+  productos únicos: 35
+
+Scrape: [Detergente] Limpiador crema
+  productos únicos: 5
+
+Scrape: [Detergente] Limpiador antigrasa
+  productos únicos: 18
+
+Scrape: [Detergente] Limpiador baño
+  productos únicos: 42
+
+Scrape: [Detergente] Cloro
+  productos únicos: 56
+
+Scrape: [Detergente] Paños, esponjas y guantes
+  productos únicos: 49
+
+Total filas: 708
+CSV generado: C:\Users\fvergram\OneDrive - NTT DATA EMEAL\Desktop\webscrapping\Supermercados\Unimarc\src\output\limpieza\unimarc_limpieza_subcats_20260219_184531.csv

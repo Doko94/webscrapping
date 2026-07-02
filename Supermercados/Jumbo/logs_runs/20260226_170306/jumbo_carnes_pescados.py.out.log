@@ -1,0 +1,45 @@
+
+Subcategorías:
+- Carnes Premium -> https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-premium
+- Carnes Americana -> https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-americana
+- Carnes para Parrilla -> https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-para-parrilla
+- Carnes para Horno -> https://www.jumbo.cl/carnes-y-pescados/vacuno/carnes-para-horno
+- Trutros y Pechugas a Granel -> https://www.jumbo.cl/carnes-y-pescados/pollo/trutros-y-pechugas-a-granel
+- Filetes y Pechuga de Pollo -> https://www.jumbo.cl/carnes-y-pescados/pollo/filetes-y-pechugas-de-pollo
+- Alitas y Trutros de Pollo -> https://www.jumbo.cl/carnes-y-pescados/pollo/alitas-y-trutros-de-pollo
+- Pollo Entero -> https://www.jumbo.cl/carnes-y-pescados/pollo/pollo-entero
+- Costillar y Costillitas -> https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/costillar-y-costillitas
+- Chuletas y Filetes -> https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/chuletas-y-filetes
+- Pulpa y Lomo de Cerdo -> https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/pulpa-y-lomo-de-cerdo
+- Malaya y Otros Cortes -> https://www.jumbo.cl/carnes-y-pescados/cerdo-y-cordero/malaya-y-otros-cortes
+- Filetes y Pechugas de Pavo -> https://www.jumbo.cl/carnes-y-pescados/pavo/filetes-y-pechugas-de-pavo
+- Pavo Entero -> https://www.jumbo.cl/carnes-y-pescados/pavo/pavo-entero
+- Trutros y Bistec de Pavo -> https://www.jumbo.cl/carnes-y-pescados/pavo/trutros-y-bistec-de-pavo
+- Carne Molida y Albondigas de Pavo -> https://www.jumbo.cl/carnes-y-pescados/pavo/carne-molida-y-albondigas-de-pavo
+- Pescados Frescos -> https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-frescos
+- Pescados Congelados -> https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-congelados
+- Pescados Apanados -> https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-apanados
+- Pescados Frescos Envasados -> https://www.jumbo.cl/carnes-y-pescados/pescados/pescados-frescos-envasados
+- Camarones Crudos -> https://www.jumbo.cl/carnes-y-pescados/camarones/camarones-crudos
+- Camarones Cocidos -> https://www.jumbo.cl/carnes-y-pescados/camarones/camarones-cocidos
+- Camarones Apanados -> https://www.jumbo.cl/carnes-y-pescados/camarones/camarones-apanados
+- Mariscos Frescos -> https://www.jumbo.cl/carnes-y-pescados/mariscos/mariscos-frescos
+- Mariscos Congelados -> https://www.jumbo.cl/carnes-y-pescados/mariscos/mariscos-congelados
+- Mariscos en Conserva -> https://www.jumbo.cl/carnes-y-pescados/mariscos/mariscos-en-conserva
+
+Scrape: Carnes Premium
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+02. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/carnes-premium.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/carnes-premium.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/carnes-premium.json
+  ERROR: 

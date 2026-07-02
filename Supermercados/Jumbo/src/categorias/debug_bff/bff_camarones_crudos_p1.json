@@ -1,0 +1,695 @@
+{
+  "products": [
+    {
+      "productId": "100114",
+      "reference": "1842890",
+      "sponsoredId": null,
+      "slug": "camarones-crudos-pelados-500-g-cuisine-and-co-1842890",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "983",
+        "987"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Camarones",
+        "Camarones Crudos"
+      ],
+      "collections": [
+        "25334",
+        "25437",
+        "25441",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "100382",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 10690,
+          "listPrice": 10690,
+          "ppumPrice": 21380,
+          "ppumListPrice": 21380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/372347-250-250/Camarones-crudos-pelados-y-desvenados-21-25-500-g.jpg?v=638776790940500000"
+          ],
+          "name": "Camarón Crudo Sin Cáscara XL 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138234",
+      "reference": "1994073",
+      "sponsoredId": null,
+      "slug": "cam-cr-c-cas-ez-peel-panam-51-60-908g-1994073",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "983",
+        "987"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Camarones",
+        "Camarones Crudos"
+      ],
+      "collections": [
+        "25437",
+        "25441",
+        "26496"
+      ],
+      "brand": "Panamei",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138526",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.454,
+          "price": 6990,
+          "listPrice": 6990,
+          "ppumPrice": 15396,
+          "ppumListPrice": 15396,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/427459-250-250/Camaron-Crudo-con-Cascara-Easy-Peel-Panam-51-60-908-g.jpg?v=638811002882630000"
+          ],
+          "name": "Camarón Crudo con Cáscara Easy Peel Tamaño M 51/60 454 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139671",
+      "reference": "1997240-KG",
+      "sponsoredId": null,
+      "slug": "camaron-entero-10-20-champmar-kg-1997240-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "983",
+        "987"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Camarones",
+        "Camarones Crudos"
+      ],
+      "collections": [
+        "27452"
+      ],
+      "brand": "Marca Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139965",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 26980,
+          "listPrice": 26980,
+          "ppumPrice": 26980,
+          "ppumListPrice": 26980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/520396-250-250/Camaron-Crudo-Con-Cascara-Jumbo-1-kg.jpg?v=638953642509870000"
+          ],
+          "name": "Camarón Crudo con Cáscara Jumbo 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138233",
+      "reference": "1994075-KG",
+      "sponsoredId": null,
+      "slug": "cam-cru-pel-deven-c-cola-panam-8-12-kg-1994075-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "983",
+        "987"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Camarones",
+        "Camarones Crudos"
+      ],
+      "collections": [],
+      "brand": "Marca Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138524",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 14990,
+          "listPrice": 14990,
+          "ppumPrice": 29980,
+          "ppumListPrice": 29980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/430002-250-250/Camaron-Crudo-Pelado-y-Desvenado-con-Cola-Panama-8-12-kg.jpg?v=638814668438430000"
+          ],
+          "name": "Camarón Crudo Pelado y Desvenado con Cola Panamá 8/12 kg",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138231",
+      "reference": "1994074",
+      "sponsoredId": null,
+      "slug": "cam-cr-c-cas-ez-peel-panam-21-25-454g-1994074",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "983",
+        "987"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Camarones",
+        "Camarones Crudos"
+      ],
+      "collections": [
+        "25437",
+        "25441",
+        "26496"
+      ],
+      "brand": "Panamei",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138522",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.454,
+          "price": 8990,
+          "listPrice": 8990,
+          "ppumPrice": 19802,
+          "ppumListPrice": 19802,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/410137-250-250/Camaron-Crudo-con-Cascara-Easy-Peel-Panam-21-25-454-g.jpg?v=638790480878630000"
+          ],
+          "name": "Camarón Crudo con Cáscara Easy Peel Tamaño XL 21/25 454 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138230",
+      "reference": "1993219",
+      "sponsoredId": null,
+      "slug": "cam-cr-c-cas-ez-peel-panam-16-20-454g-1993219",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "983",
+        "987"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Camarones",
+        "Camarones Crudos"
+      ],
+      "collections": [
+        "25437",
+        "25441",
+        "26496"
+      ],
+      "brand": "Panamei",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138521",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.454,
+          "price": 9990,
+          "listPrice": 9990,
+          "ppumPrice": 22004,
+          "ppumListPrice": 22004,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/330423-250-250/Camaron-Crudo-con-Cascara-Easy-Peel-Panam-16-20-454-g.jpg?v=638776432426100000"
+          ],
+          "name": "Camarón Crudo con Cáscara Easy Peel Tamaño Jumbo 16/20 454 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Camarones Crudos",
+          "value": "/carnes-y-pescados/camarones/camarones-crudos",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Camarones Crudos",
+          "value": "/carnes-y-pescados/camarones/camarones-crudos",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Camarones Crudos",
+          "value": "/carnes-y-pescados/camarones/camarones-crudos",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Panamei",
+          "value": "Panamei",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Marca Propia",
+          "value": "Marca Propia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Desvenado",
+      "key": "Desvenado",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 6990,
+          "maxValue": 26980
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Calibre",
+      "key": "Calibre",
+      "values": [
+        {
+          "displayName": "21/25",
+          "value": "21/25",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño de Camarón",
+      "key": "Tamaño de Camarón",
+      "values": [
+        {
+          "displayName": "XL",
+          "value": "XL",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Camarones",
+          "value": "Camarones",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Easy Peel",
+          "value": "Easy Peel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Ecuador",
+          "value": "Ecuador",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Indonesia",
+          "value": "Indonesia",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "1 unidad",
+          "value": "1 un",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "16/20 454 g",
+          "value": "16/20 454 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "500 g",
+          "value": "500 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Camarones",
+          "value": "Camarones",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 6,
+  "metaTag": {
+    "title": "Camarones crudos | Jumbo.cl",
+    "description": "Maravilla a tus comensales preparando unos irresistibles y nutritivos camarones crudos salteados para almorzar. Elige grandes marcas en nuestro sitio web."
+  }
+}

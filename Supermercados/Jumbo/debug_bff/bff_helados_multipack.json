@@ -1,0 +1,4242 @@
+{
+  "products": [
+    {
+      "productId": "105311",
+      "reference": "1893416",
+      "sponsoredId": null,
+      "slug": "helado-m-pack-centella-3-sabores-21x52g-1893416",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1145",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados de Agua",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "25112",
+        "25115",
+        "25333",
+        "25334",
+        "25347",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25519",
+        "25520",
+        "25598",
+        "25670",
+        "25695",
+        "25710",
+        "25731",
+        "26849",
+        "26882",
+        "26917",
+        "26934",
+        "27105",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27507",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27530",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Savory",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "105579",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.092,
+          "price": 3832,
+          "listPrice": 4790,
+          "ppumPrice": 3509,
+          "ppumListPrice": 4386,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/374969-250-250/Helado-Centella-multipack-3-sabores-21-un-52-g.jpg?v=638776801646930000"
+          ],
+          "name": "Helado Centella Tres Sabores Multipack 52 g 21 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 3832,
+              "ppumPrice": 3509,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X6990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 6990,
+              "unitPrice": 3495,
+              "ppumPrice": 3201,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3353,
+              "ppumPrice": 3071,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156650",
+      "reference": "2052543",
+      "sponsoredId": null,
+      "slug": "helado-multipack-sabores-trendy-21un-54g-2052543",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "26934"
+      ],
+      "brand": "Trendy",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156974",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.054,
+          "price": 4490,
+          "listPrice": 4490,
+          "ppumPrice": 83148,
+          "ppumListPrice": 83148,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/535855-250-250/HELADO-MULTIPACK-SABORES-TRENDY-21UN-54G.jpg?v=638980512116270000"
+          ],
+          "name": "Helado Multipack Sabores Trendy 54 g 21 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "20062",
+      "reference": "1662625002",
+      "sponsoredId": null,
+      "slug": "mini-mega-frambuesa-savory-5-unid-x-60-ml-c-u",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "22523",
+        "25112",
+        "25115",
+        "25240",
+        "25299",
+        "25333",
+        "25334",
+        "25347",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25519",
+        "25520",
+        "25598",
+        "25670",
+        "25695",
+        "25710",
+        "25731",
+        "26849",
+        "26882",
+        "26917",
+        "26934",
+        "27105",
+        "27111",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27507",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27530",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Mega",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "20386",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 4632,
+          "listPrice": 5790,
+          "ppumPrice": 15440,
+          "ppumListPrice": 19300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/353522-250-250/Helado-mini-frambuesa-5-un-60-ml-c-u.jpg?v=638776697901100000"
+          ],
+          "name": "Helado Mega Mini Frambuesa Multipack 60 ml 5 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 4632,
+              "ppumPrice": 15440,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X8490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 8490,
+              "unitPrice": 4245,
+              "ppumPrice": 14150,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 4053,
+              "ppumPrice": 13510,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "68630",
+      "reference": "1768689",
+      "sponsoredId": null,
+      "slug": "helado-savory-mini-kriko-paleta-6x50-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "22523",
+        "25112",
+        "25115",
+        "25333",
+        "25334",
+        "25347",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25519",
+        "25520",
+        "25598",
+        "25670",
+        "25695",
+        "25710",
+        "25731",
+        "26849",
+        "26882",
+        "26917",
+        "26934",
+        "27105",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27507",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27530",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Savory",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "68884",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 3720,
+          "listPrice": 4650,
+          "ppumPrice": 12400,
+          "ppumListPrice": 15500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361828-250-250/Helado-Kriko-mini-6-un-50-ml-c-u.jpg?v=638776739647200000"
+          ],
+          "name": "Helado Savory Mini Kriko Multipack 300 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 3720,
+              "ppumPrice": 12400,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X6990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 6990,
+              "unitPrice": 3495,
+              "ppumPrice": 11650,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3255,
+              "ppumPrice": 10850,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1264",
+      "reference": "1561382001",
+      "sponsoredId": null,
+      "slug": "barra-guallarauco-55-ml-cu-8-unid-chocolatefrutillanaranja",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1145",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados de Agua",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "19270",
+        "25112",
+        "25638",
+        "26934"
+      ],
+      "brand": "Guallarauco",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1267",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.44,
+          "price": 5790,
+          "listPrice": 5790,
+          "ppumPrice": 13159,
+          "ppumListPrice": 13159,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298515-250-250/Barra-de-fruta-naranja-frutilla-8-x-55-g-c-u.jpg?v=638775753343870000"
+          ],
+          "name": "Barra de Fruta Guallarauco Naranja Frutilla 55 g 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "20060",
+      "reference": "1662624002",
+      "sponsoredId": null,
+      "slug": "mini-helados-danky-nogatonga-savory-5-unid-x-80-ml-c-u",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "22523",
+        "25112",
+        "25115",
+        "25333",
+        "25334",
+        "25347",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25519",
+        "25520",
+        "25598",
+        "25670",
+        "25695",
+        "25710",
+        "25731",
+        "26849",
+        "26882",
+        "26917",
+        "26934",
+        "27105",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27507",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27530",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Savory",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "20384",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.4,
+          "price": 4632,
+          "listPrice": 5790,
+          "ppumPrice": 11580,
+          "ppumListPrice": 14475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304183-250-250/Helado-Danky-Mini-Nogatonga-Multipack-80-ml-5-un.jpg?v=638776379376530000"
+          ],
+          "name": "Helado Danky Mini Nogatonga Multipack 80 ml 5 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 4632,
+              "ppumPrice": 11580,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X8490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 8490,
+              "unitPrice": 4245,
+              "ppumPrice": 10613,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 4053,
+              "ppumPrice": 10133,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "20061",
+      "reference": "1662625001",
+      "sponsoredId": null,
+      "slug": "mini-helados-sahne-nuss-savory-5-unidades-x-60-ml-c-u",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "22523",
+        "25112",
+        "25115",
+        "25333",
+        "25334",
+        "25347",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25519",
+        "25520",
+        "25598",
+        "25670",
+        "25695",
+        "25710",
+        "25731",
+        "26849",
+        "26882",
+        "26917",
+        "26934",
+        "27105",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27507",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27530",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sahne Nuss",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "20385",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 4632,
+          "listPrice": 5790,
+          "ppumPrice": 15440,
+          "ppumListPrice": 19300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/353521-250-250/Helado-paleta-mini-5-un-60-ml-c-u.jpg?v=638776697894000000"
+          ],
+          "name": "Helado Sahne Nuss Paleta Mini Multipack 60 ml 5 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 4632,
+              "ppumPrice": 15440,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X8490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 8490,
+              "unitPrice": 4245,
+              "ppumPrice": 14150,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 4053,
+              "ppumPrice": 13510,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "102543",
+      "reference": "1881645",
+      "sponsoredId": null,
+      "slug": "hel-mpack-sn-franc-0-choco-nuss-70gx5un-1881645",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1146",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Light y Sin Azúcar",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "19270",
+        "25454",
+        "26934"
+      ],
+      "brand": "San Francisco de Loncomilla",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102812",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 5850,
+          "listPrice": 5850,
+          "ppumPrice": 16714,
+          "ppumListPrice": 16714,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/552847-250-250/Helado-San-Francisco-Multipack-0--Azucar-Choco-Nuss-70-g-5-un.jpg?v=639010702241700000"
+          ],
+          "name": "Helado San Francisco Multipack 0% Azúcar Choco Nuss 70 g 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "140738",
+      "reference": "2003507",
+      "sponsoredId": null,
+      "slug": "hel-mpack-mega-almendra-5x60ml-2003507",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "22523",
+        "25112",
+        "25115",
+        "25240",
+        "25299",
+        "25333",
+        "25334",
+        "25347",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25519",
+        "25520",
+        "25598",
+        "25670",
+        "25695",
+        "25710",
+        "25731",
+        "26849",
+        "26882",
+        "26917",
+        "26934",
+        "27105",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27507",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27530",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Savory",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "141032",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 4632,
+          "listPrice": 5790,
+          "ppumPrice": 15440,
+          "ppumListPrice": 19300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/335232-250-250/HEL-MPACK-MEGA-ALMENDRA-5X60ML.jpg?v=638776436256930000"
+          ],
+          "name": "Helado Savory Mega Vainilla y Almendras Multipack 5 un. 300 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 4632,
+              "ppumPrice": 15440,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X8490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 8490,
+              "unitPrice": 4245,
+              "ppumPrice": 14150,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 4053,
+              "ppumPrice": 13510,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73773",
+      "reference": "1771072",
+      "sponsoredId": null,
+      "slug": "pack-paleta-helado-san-francisco-frambuesa-a-la-crema-5-unid-80-g-c-u",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1145",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados de Agua",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "19270",
+        "26934"
+      ],
+      "brand": "San Francisco de Loncomilla",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74020",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 6250,
+          "listPrice": 6250,
+          "ppumPrice": 15625,
+          "ppumListPrice": 15625,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/552792-250-250/Pack-Paleta-Helado-San-Francisco-Frambuesa-A-La-Crema-80-g-5-un.jpg?v=639010702003530000"
+          ],
+          "name": "Pack Paleta Helado San Francisco Frambuesa A La Crema 80 g 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "83584",
+      "reference": "1789725",
+      "sponsoredId": null,
+      "slug": "multi-pack-magnum-mini-6x60ml-co-cream",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "26816",
+        "26853",
+        "26916",
+        "26934",
+        "27280",
+        "27296",
+        "27309",
+        "27367",
+        "27455"
+      ],
+      "brand": "Bresler",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "83852",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 19967,
+          "ppumListPrice": 19967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/552828-250-250/Helado-Bresler-Magnum-Mini-Cookies-And-Cream-Multipack-60-ml-5-un.jpg?v=639010702169230000"
+          ],
+          "name": "Helado Bresler Magnum Mini Cookies And Cream Multipack 60 ml 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1258",
+      "reference": "1083696",
+      "sponsoredId": null,
+      "slug": "barra-de-fruta-guallarauco-caja-360-g-6-unid-lucuma-manjar",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1145",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados de Agua",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "19270",
+        "25112",
+        "25638",
+        "26934"
+      ],
+      "brand": "Guallarauco",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1261",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.36,
+          "price": 5190,
+          "listPrice": 5190,
+          "ppumPrice": 14417,
+          "ppumListPrice": 14417,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298501-250-250/Barra-de-fruta-lucuma-manjar-6-x-60-g-c-u.jpg?v=638775753171470000"
+          ],
+          "name": "Barra de Fruta Guallarauco Lúcuma Manjar 60 g 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "120985",
+      "reference": "1938283",
+      "sponsoredId": null,
+      "slug": "hel-mpck-plt-pin-nrjmng-framfrut-12un42g-1938283",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1145",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados de Agua",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "26816",
+        "26853",
+        "26916",
+        "26934",
+        "27280",
+        "27296",
+        "27309",
+        "27367",
+        "27455"
+      ],
+      "brand": "Palettas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "121276",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.504,
+          "price": 7590,
+          "listPrice": 7590,
+          "ppumPrice": 15060,
+          "ppumListPrice": 15060,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/533308-250-250/Helado-Palettas-Multipack-Sabores-Frutales-12-un.jpg?v=638979415266300000"
+          ],
+          "name": "Helado Palettas Multipack Sabores Frutales 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127890",
+      "reference": "1970319",
+      "sponsoredId": null,
+      "slug": "hel-mpack-crazy-sangurucho-vain-4x125ml-1970319",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "22523",
+        "25112",
+        "25115",
+        "25333",
+        "25334",
+        "25347",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25519",
+        "25520",
+        "25598",
+        "25670",
+        "25695",
+        "25710",
+        "25731",
+        "26849",
+        "26882",
+        "26917",
+        "26934",
+        "27105",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27507",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27530",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Savory",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128183",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 4952,
+          "listPrice": 6190,
+          "ppumPrice": 9904,
+          "ppumListPrice": 12380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/394072-250-250/Helado-Sangurucho-Vainilla-4-un-125-ml.jpg?v=638776877303770000"
+          ],
+          "name": "Helado Sangurucho Vainilla 125 ml 4 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 4952,
+              "ppumPrice": 9904,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X8490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 8490,
+              "unitPrice": 4245,
+              "ppumPrice": 8490,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "95157",
+      "reference": "1846690",
+      "sponsoredId": null,
+      "slug": "helado-paleta-multipack-5-un-55-ml-c-u",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "25112",
+        "25115",
+        "25333",
+        "25334",
+        "25347",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25519",
+        "25520",
+        "25598",
+        "25670",
+        "25695",
+        "25710",
+        "25731",
+        "26849",
+        "26882",
+        "26917",
+        "26934",
+        "27105",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27507",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27530",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Savory",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "95422",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.275,
+          "price": 4632,
+          "listPrice": 5790,
+          "ppumPrice": 16844,
+          "ppumListPrice": 21055,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312508-250-250/Helado-Kit-Kat-Paleta-Multipack-55-ml-5-un.jpg?v=638776396892100000"
+          ],
+          "name": "Helado Kit Kat Paleta Multipack 55 ml 5 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 4632,
+              "ppumPrice": 16844,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X8490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 8490,
+              "unitPrice": 4245,
+              "ppumPrice": 15436,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 4053,
+              "ppumPrice": 14738,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1262",
+      "reference": "1561382003",
+      "sponsoredId": null,
+      "slug": "barra-guallarauco-55-ml-cu-8-unid-chocolatecoco",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1145",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados de Agua",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "19270",
+        "25112",
+        "26934"
+      ],
+      "brand": "Guallarauco",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1265",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.44,
+          "price": 5790,
+          "listPrice": 5790,
+          "ppumPrice": 13159,
+          "ppumListPrice": 13159,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298510-250-250/Barra-de-fruta-coco-8-x-55-g-c-u.jpg?v=638775753277970000"
+          ],
+          "name": "Barra de Fruta Guallarauco Coco 55 g 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "102564",
+      "reference": "1881646",
+      "sponsoredId": null,
+      "slug": "hel-mpack-sn-franc-0-choc-vain-70gx5un-1881646",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1146",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Light y Sin Azúcar",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "19270",
+        "25454",
+        "26934"
+      ],
+      "brand": "San Francisco de Loncomilla",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102834",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 5850,
+          "listPrice": 5850,
+          "ppumPrice": 16714,
+          "ppumListPrice": 16714,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/552850-250-250/Helado-San-Francisco-Multipack-0--Azucar-Choco-Vainilla-70-g-5-un.jpg?v=639010702258030000"
+          ],
+          "name": "Helado San Francisco Multipack 0% Azúcar Choco Vainilla 70 g 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "98722",
+      "reference": "1862144",
+      "sponsoredId": null,
+      "slug": "hel-bresler-mpack-frugele-18x60ml-1862144",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1145",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados de Agua",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "25333",
+        "25334",
+        "25354",
+        "25422",
+        "25695",
+        "26934",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Bresler",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98990",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.08,
+          "price": 5390,
+          "listPrice": 6490,
+          "ppumPrice": 4991,
+          "ppumListPrice": 6009,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/552838-250-250/Helado-Bresler-Frugele-Frambuesa-Naranja-y-Pi%C3%B1a-Multipack-60-ml-18-un.jpg?v=639010702202670000"
+          ],
+          "name": "Helado Bresler Frugele Frambuesa, Naranja y Piña Multipack 60 ml 18 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5390 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5390,
+              "ppumPrice": 4991,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138730",
+      "reference": "2002202",
+      "sponsoredId": null,
+      "slug": "hel-mini-mp-savory-trululu-10x50ml-2002202",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "22523",
+        "25112",
+        "25115",
+        "25333",
+        "25334",
+        "25347",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25519",
+        "25520",
+        "25598",
+        "25670",
+        "25695",
+        "25710",
+        "25731",
+        "26849",
+        "26882",
+        "26917",
+        "26934",
+        "27105",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27507",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27530",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139018",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 3752,
+          "listPrice": 4690,
+          "ppumPrice": 7504,
+          "ppumListPrice": 9380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/330824-250-250/HEL-MINI-MP-SAVORY-TRULULU-10X50ML.jpg?v=638776432712300000"
+          ],
+          "name": "Multipack Helado Savory Trululu Chocolate Naranja 50 ml 10 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 3752,
+              "ppumPrice": 7504,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X6990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 6990,
+              "unitPrice": 3495,
+              "ppumPrice": 6990,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3283,
+              "ppumPrice": 6566,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1270",
+      "reference": "1441299",
+      "sponsoredId": null,
+      "slug": "helado-savory-50-ml-cu-8-unid-multipack-crocanty",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "25112",
+        "25115",
+        "25333",
+        "25334",
+        "25347",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25519",
+        "25520",
+        "25598",
+        "25670",
+        "25695",
+        "25710",
+        "25731",
+        "26849",
+        "26882",
+        "26917",
+        "26934",
+        "27105",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27507",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27530",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Savory",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1273",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.4,
+          "price": 4072,
+          "listPrice": 5090,
+          "ppumPrice": 10180,
+          "ppumListPrice": 12725,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298516-250-250/Helado-Crocanty-Mini-Multipack-50-ml-8-un.jpg?v=638775753359600000"
+          ],
+          "name": "Helado Crocanty Mini Multipack 50 ml 8 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 4072,
+              "ppumPrice": 10180,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X7490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 7490,
+              "unitPrice": 3745,
+              "ppumPrice": 9363,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3563,
+              "ppumPrice": 8908,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "144521",
+      "reference": "2017436",
+      "sponsoredId": null,
+      "slug": "hel-mpack-mini-cono-trendy-8un-x-46gr-2017436",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "23175",
+        "26934"
+      ],
+      "brand": "Trendy",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144814",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.368,
+          "price": 5490,
+          "listPrice": 5490,
+          "ppumPrice": 14918,
+          "ppumListPrice": 14918,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/341557-250-250/Helado-Mini-Pack-Mini-Cono-Trendy-8-un-x-46-g.jpg?v=638776441838170000"
+          ],
+          "name": "Multipack Helado Mini Cono Trendy 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "119092",
+      "reference": "1938191",
+      "sponsoredId": null,
+      "slug": "hel-mpack-sn-franc-0-azu-frut-bosq-5x75g-1938191",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1146",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Light y Sin Azúcar",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "19270",
+        "25454",
+        "26934"
+      ],
+      "brand": "San Francisco de Loncomilla",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "119360",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.375,
+          "price": 5850,
+          "listPrice": 5850,
+          "ppumPrice": 15600,
+          "ppumListPrice": 15600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/552908-250-250/Helado-San-Francisco-Multipack-Frutos-del-Bosque-con-Chocolate-75-g-5-un.jpg?v=639010702476270000"
+          ],
+          "name": "Helado San Francisco Multipack Frutos del Bosque con Chocolate 75 g 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "112249",
+      "reference": "1923865",
+      "sponsoredId": null,
+      "slug": "hel-mpk-mag-fr5x60",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1145",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados de Agua",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "26816",
+        "26853",
+        "26916",
+        "26934",
+        "27280",
+        "27296",
+        "27309",
+        "27367",
+        "27455"
+      ],
+      "brand": "Bresler",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112515",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 19967,
+          "ppumListPrice": 19967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/552877-250-250/Helado-Bresler-Multipack-Magnum-Mini-Blanco-Frambuesa-60-ml-5-un.jpg?v=639010702373300000"
+          ],
+          "name": "Helado Bresler Multipack Magnum Mini Blanco Frambuesa 60 ml 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103608",
+      "reference": "1881553",
+      "sponsoredId": null,
+      "slug": "hel-mpack-palettas-mang-marac-5un-290gr-1881553",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1145",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados de Agua",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "26934"
+      ],
+      "brand": "Palettas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103874",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.29,
+          "price": 6290,
+          "listPrice": 6290,
+          "ppumPrice": 21690,
+          "ppumListPrice": 21690,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314216-250-250/Helado-Palettas-Multipack-Mango-Maracuya-290-g-5-un.jpg?v=638776401461970000"
+          ],
+          "name": "Helado Palettas Multipack Mango Maracuyá 290 g 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156212",
+      "reference": "2051353",
+      "sponsoredId": null,
+      "slug": "helado-mpack-magnum-mini-choc-al-6un60ml-2051353",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "26816",
+        "26853",
+        "26916",
+        "26934",
+        "27280",
+        "27296",
+        "27309",
+        "27367",
+        "27455"
+      ],
+      "brand": "Magnum",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156532",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.36,
+          "price": 4990,
+          "listPrice": 4990,
+          "ppumPrice": 13861,
+          "ppumListPrice": 13861,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/552948-250-250/Pack-6-un-Helado-Magnum-Mini-Chocolate-60-ml.jpg?v=639010702718770000"
+          ],
+          "name": "Pack 4 un. Helado Magnum Mini Chocolate 60 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "144170",
+      "reference": "2005332",
+      "sponsoredId": null,
+      "slug": "helado-sandwich-vainilla-12x60g-kemps-2005332",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147",
+        "1148"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack",
+        "Helados Premium"
+      ],
+      "collections": [
+        "26934"
+      ],
+      "brand": "Kemps",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144464",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.72,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 11097,
+          "ppumListPrice": 11097,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/427703-250-250/Helado-Kemps-Sandwich-Vainilla-60-g-12-un.jpg?v=638811007181200000"
+          ],
+          "name": "Helado Kemps Sandwich Vainilla 60 g 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "128231",
+      "reference": "1970665",
+      "sponsoredId": null,
+      "slug": "hel-mpack-yogen-fruz-frambuesa-6unx66ml-1970665",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1146",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Light y Sin Azúcar",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "25112",
+        "25121",
+        "26934"
+      ],
+      "brand": "Yogen Früz",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128522",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.396,
+          "price": 6490,
+          "listPrice": 6490,
+          "ppumPrice": 16389,
+          "ppumListPrice": 16389,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/407470-250-250/Helado-Yogen-Fruz-Frambuesa-66-ml-6-un.jpg?v=638785511480800000"
+          ],
+          "name": "Helado Yogen Früz Frambuesa 66 ml 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "128225",
+      "reference": "1970674",
+      "sponsoredId": null,
+      "slug": "hel-mpack-yogen-fruz-mango-mara-6unx66ml-1970674",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1146",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Light y Sin Azúcar",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "25112",
+        "25121",
+        "26934"
+      ],
+      "brand": "Yogen Früz",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128519",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.396,
+          "price": 6490,
+          "listPrice": 6490,
+          "ppumPrice": 16389,
+          "ppumListPrice": 16389,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/407473-250-250/Helado-Yogen-Fruz-Mango-Maracuya-66-ml-6-un.jpg?v=638785511497030000"
+          ],
+          "name": "Helado Yogen Früz Mango Maracuyá 66 ml 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1259",
+      "reference": "1083695",
+      "sponsoredId": null,
+      "slug": "barra-de-fruta-guallarauco-caja-360-g-6-unid-mango",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1145",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados de Agua",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "19270",
+        "25112",
+        "25638",
+        "26934"
+      ],
+      "brand": "Guallarauco",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1262",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.36,
+          "price": 5190,
+          "listPrice": 5190,
+          "ppumPrice": 14417,
+          "ppumListPrice": 14417,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298504-250-250/Barra-de-fruta-mango-6-x-60-g-c-u.jpg?v=638775753205530000"
+          ],
+          "name": "Barra de Fruta Guallarauco Mango 60 g 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "83583",
+      "reference": "1789724",
+      "sponsoredId": null,
+      "slug": "multi-pack-magnum-mini-6x60ml-almendras",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "26816",
+        "26853",
+        "26916",
+        "26934",
+        "27280",
+        "27296",
+        "27309",
+        "27367",
+        "27455"
+      ],
+      "brand": "Bresler",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "83851",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 19967,
+          "ppumListPrice": 19967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/552824-250-250/Helado-Bresler-Magnum-Mini-Almendras-Multipack-60-ml-5-un.jpg?v=639010702151270000"
+          ],
+          "name": "Helado Bresler Magnum Mini Almendras Multipack 60 ml 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "119011",
+      "reference": "1938712",
+      "sponsoredId": null,
+      "slug": "hel-mpack-savory-mini-lollypop-10x50ml-1938712",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1145",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados de Agua",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "25112",
+        "25115",
+        "25333",
+        "25334",
+        "25347",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25519",
+        "25520",
+        "25598",
+        "25670",
+        "25695",
+        "25710",
+        "25731",
+        "26849",
+        "26882",
+        "26917",
+        "26934",
+        "27105",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27507",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27530",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Savory",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "119285",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 3752,
+          "listPrice": 4690,
+          "ppumPrice": 7504,
+          "ppumListPrice": 9380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316815-250-250/Helado-Lolly-Pop-Multipack-50-ml-10-un.jpg?v=638776410171370000"
+          ],
+          "name": "Helado Lolly Pop Multipack 50 ml 10 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 3752,
+              "ppumPrice": 7504,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X6890 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 6890,
+              "unitPrice": 3445,
+              "ppumPrice": 6890,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3283,
+              "ppumPrice": 6566,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "97608",
+      "reference": "1857201",
+      "sponsoredId": null,
+      "slug": "noticecream-multipack-cremaframbuesa272g-1857201",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "19270",
+        "26934",
+        "27174"
+      ],
+      "brand": "NotCo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "97889",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.272,
+          "price": 5190,
+          "listPrice": 5190,
+          "ppumPrice": 19081,
+          "ppumListPrice": 19081,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/370088-250-250/Helado-vegetal-multipack-crema-frambuesa-272-g.jpg?v=638776780534900000"
+          ],
+          "name": "Helado Vegetal Noticecream Multipack Crema Frambuesa 68 g 4 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2 - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 24022026 AL 02032026 1",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "mxn",
+              "value": 10381,
+              "unitPrice": 3460,
+              "ppumPrice": 12721,
+              "mQuantity": 3,
+              "nQuantity": 2,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "157439",
+      "reference": "1932692",
+      "sponsoredId": null,
+      "slug": "hel-mpack-yogenfruz-veg-pinacoco6unx66ml-1932692",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "25112",
+        "25121",
+        "26934"
+      ],
+      "brand": "Yogen Früz",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "157767",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.396,
+          "price": 6890,
+          "listPrice": 6890,
+          "ppumPrice": 17399,
+          "ppumListPrice": 17399,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/522519-250-250/Helado-Yogen-Fruz-Multipack-Coco-Pi%C3%B1a-66-ml-6-un.jpg?v=638959816531470000"
+          ],
+          "name": "Helado Yogen Fruz Multipack Coco Piña 66 ml 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156213",
+      "reference": "2051366",
+      "sponsoredId": null,
+      "slug": "helado-mpack-multipalettas-yogur-12un42g-2051366",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "26816",
+        "26853",
+        "26916",
+        "26934",
+        "27280",
+        "27296",
+        "27309",
+        "27367",
+        "27455"
+      ],
+      "brand": "Palettas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156533",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.504,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 15853,
+          "ppumListPrice": 15853,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/533862-250-250/Pack-12-un-Helado-Multipalettas-Yogur-42-g.jpg?v=638979415995200000"
+          ],
+          "name": "Pack 12 un. Helado Multipalettas Yogur 42 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "119088",
+      "reference": "1938190",
+      "sponsoredId": null,
+      "slug": "hel-mpack-sn-francisco-vainil-nuss-5x80g-1938190",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "19270",
+        "26934"
+      ],
+      "brand": "San Francisco de Loncomilla",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "119361",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 6250,
+          "listPrice": 6250,
+          "ppumPrice": 15625,
+          "ppumListPrice": 15625,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/552906-250-250/Helado-San-Francisco-Multipack-Paleta-Vainilla-Nuss-80-g.jpg?v=639010702468470000"
+          ],
+          "name": "Helado San Francisco Multipack Paleta Vainilla Nuss 80 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103704",
+      "reference": "1893752",
+      "sponsoredId": null,
+      "slug": "helado-multipack-bresler-flipy-10x60ml-1893752",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1145",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados de Agua",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "25354",
+        "26934"
+      ],
+      "brand": "Bresler",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103972",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.6,
+          "price": 5190,
+          "listPrice": 5190,
+          "ppumPrice": 8650,
+          "ppumListPrice": 8650,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/374233-250-250/Helado-multipack-Flipy-600-ml.jpg?v=638776798834000000"
+          ],
+          "name": "Helado Bresler Flipy Multipack 60 ml 10 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156654",
+      "reference": "2051613",
+      "sponsoredId": null,
+      "slug": "helado-mpack-sonic-trendy-18un-54g-2051613",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "26934"
+      ],
+      "brand": "Trendy",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156978",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.972,
+          "price": 6090,
+          "listPrice": 6090,
+          "ppumPrice": 6265,
+          "ppumListPrice": 6265,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/512531-250-250/HELADO-MPACK-SONIC-TRENDY-18UN-54G.jpg?v=638944425983500000"
+          ],
+          "name": "Helado Multipack Sonic Trendy 54 g 18 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "143098",
+      "reference": "2010237",
+      "sponsoredId": null,
+      "slug": "hel-mpack-trozo-sandia-52g-x-6un-2010237",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1145",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados de Agua",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "26934",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Trendy",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "143392",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 6,
+          "price": 3490,
+          "listPrice": 4290,
+          "ppumPrice": 582,
+          "ppumListPrice": 715,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/338440-250-250/Trozos-de-Helado-Sandia-52-g-Pack-6-un.jpg?v=638776439340270000"
+          ],
+          "name": "Trozos de Helado Sandía 52 g Pack 6 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3490 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3490,
+              "ppumPrice": 582,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "144169",
+      "reference": "2005329",
+      "sponsoredId": null,
+      "slug": "helado-sandwich-menta-12x60g-kemps-2005329",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147",
+        "1148"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack",
+        "Helados Premium"
+      ],
+      "collections": [
+        "26934"
+      ],
+      "brand": "Kemps",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144463",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.72,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 11097,
+          "ppumListPrice": 11097,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/427734-250-250/Helado-Kemps-Sandwich-Menta-60-g-12-un.jpg?v=638811007557370000"
+          ],
+          "name": "Helado Kemps Sándwich Menta 60 g 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73772",
+      "reference": "1771071",
+      "sponsoredId": null,
+      "slug": "paleta-helado-san-francisco-choco-nuss-5-unid-80-g-c-u",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1143",
+        "1147"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Helados y Postres",
+        "Helados Multipack"
+      ],
+      "collections": [
+        "19270",
+        "25053",
+        "25454",
+        "26934"
+      ],
+      "brand": "San Francisco de Loncomilla",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74019",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 5,
+          "price": 6250,
+          "listPrice": 6250,
+          "ppumPrice": 1250,
+          "ppumListPrice": 1250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/552789-250-250/Pack-Paleta-Helado-San-Francisco-Choco-Nuss-80-g-5-un.jpg?v=639010701995870000"
+          ],
+          "name": "Pack Paleta Helado San Francisco Choco Nuss 80 g 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Helados Multipack",
+          "value": "/lacteos-huevos-y-congelados/helados-y-postres/helados-multipack",
+          "selected": false,
+          "quantity": 81,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Helados Multipack",
+          "value": "/lacteos-huevos-y-congelados/helados-y-postres/helados-multipack",
+          "selected": false,
+          "quantity": 81,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Helados Multipack",
+          "value": "/lacteos-huevos-y-congelados/helados-y-postres/helados-multipack",
+          "selected": false,
+          "quantity": 81,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Savory",
+          "value": "Savory",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Guallarauco",
+          "value": "Guallarauco",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trendy",
+          "value": "Trendy",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bresler",
+          "value": "Bresler",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Francisco de Loncomilla",
+          "value": "San Francisco de Loncomilla",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Palettas",
+          "value": "Palettas",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Magnum",
+          "value": "Magnum",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kemps",
+          "value": "Kemps",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mega",
+          "value": "Mega",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Wipala",
+          "value": "Wipala",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sahne Nuss",
+          "value": "Sahne Nuss",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yogen Früz",
+          "value": "Yogen Früz",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Campoverde",
+          "value": "Campoverde",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Snickers",
+          "value": "Snickers",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nestlé",
+          "value": "Nestlé",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "NotCo",
+          "value": "NotCo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Naturnes",
+          "value": "Naturnes",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bifidice",
+          "value": "Bifidice",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Milky Way",
+          "value": "Milky Way",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kinder",
+          "value": "Kinder",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Twix",
+          "value": "Twix",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Emporio La Rosa",
+          "value": "Emporio La Rosa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ferrero",
+          "value": "Ferrero",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Raffaello",
+          "value": "Raffaello",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Diana's",
+          "value": "Diana's",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "M&M's",
+          "value": "M&M's",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo",
+          "value": "Jumbo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "4 Unidades",
+          "value": "4",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6 Unidades",
+          "value": "6",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "10 Unidades",
+          "value": "10 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "12 Unidades",
+          "value": "12 colores",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "18 Unidades",
+          "value": "18 collets",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "21 Unidades",
+          "value": "21 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5 Unidades",
+          "value": "5 Piezas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 60,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack",
+          "value": "Pack",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pouch",
+          "value": "Pouch",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 58,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ecuador",
+          "value": "Ecuador",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Francia",
+          "value": "Francia",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Otros",
+          "value": "Otros",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "10 unidades",
+          "value": "10 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "125 ml x 4 un. = 500 ml neto",
+          "value": "125 ml x 4 un. = 500 ml neto",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "280 ml",
+          "value": "280 ml",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "443 ml",
+          "value": "443 ml",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5 Pouch de 50 g, 250 g neto",
+          "value": "5 Pouch de 50 g, 250 g neto",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5 unidades 60 ml",
+          "value": "5 unidades 60 ml",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6 unidades",
+          "value": "6 unidades",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "8 unidades",
+          "value": "8 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "80 g",
+          "value": "80 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Multipack",
+          "value": "Multipack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 73,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 71,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 38,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1990,
+          "maxValue": 9990
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Helados de Agua",
+          "value": "Helados de Agua",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Helados con Frutas",
+          "value": "Helados con Frutas",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Helados de Leche",
+          "value": "Helados de Leche",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Helados Mix Sabores",
+          "value": "Helados Mix Sabores",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Helados con Frutos Secos",
+          "value": "Helados con Frutos Secos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Helados con Salsas",
+          "value": "Helados con Salsas",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate Relleno",
+          "value": "Chocolate Relleno",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Cassata",
+          "value": "Cassata",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frambuesa",
+          "value": "Frambuesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frambuesa A La Crema",
+          "value": "Frambuesa A La Crema",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Helado en Multipack",
+          "value": "Helado en Multipack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Loop",
+          "value": "Loop",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mini Cono",
+          "value": "Mini Cono",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paletas",
+          "value": "Paletas",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Premium",
+          "value": "Premium",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vainilla Nuss",
+          "value": "Vainilla Nuss",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Congelados",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 72,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Almendra",
+          "value": "Almendra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cacao",
+          "value": "Cacao",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate Naranja",
+          "value": "Chocolate Naranja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "coco",
+          "value": "coco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "frambuesa",
+          "value": "frambuesa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frambuesa, naranja y piña",
+          "value": "Frambuesa, naranja y piña",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutal",
+          "value": "Frutal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galleta y Crema",
+          "value": "Galleta y Crema",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Helado de leche sabor a frambuesa con jarabe sabor frutos rojos y cobertura sabor chocolate.",
+          "value": "Helado de leche sabor a frambuesa con jarabe sabor frutos rojos y cobertura sabor chocolate.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "lúcuma manjar",
+          "value": "lúcuma manjar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mango",
+          "value": "Mango",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "mango",
+          "value": "mango",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mango y Maracuyá",
+          "value": "Mango y Maracuyá",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manzana Canela",
+          "value": "Manzana Canela",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "naranja frutilla",
+          "value": "naranja frutilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Piña",
+          "value": "Piña",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Piña y Coco",
+          "value": "Piña y Coco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tropical mix",
+          "value": "Tropical mix",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vainilla",
+          "value": "Vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Familar",
+          "value": "Familar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack",
+          "value": "Pack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paleta",
+          "value": "Paleta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tableta",
+          "value": "Tableta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "Probiótico",
+          "value": "Probiótico",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 81,
+  "metaTag": {
+    "title": "Helados Multipack | Jumbo.cl",
+    "description": "Si quieres probarlos en un formato más cómodo y amigable, elige nuestros distintos helados multipack ¡Encuéntralos en paleta, en pote y más por Jumbo.cl!"
+  }
+}

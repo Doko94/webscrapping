@@ -1,0 +1,3366 @@
+{
+  "products": [
+    {
+      "productId": "1633",
+      "reference": "264767",
+      "sponsoredId": null,
+      "slug": "azucar-blanca-granulada-iansa-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1084"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Azúcar"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27551"
+      ],
+      "brand": "Iansa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1638",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 1490,
+          "listPrice": 1490,
+          "ppumPrice": 1490,
+          "ppumListPrice": 1490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/550330-250-250/Azucar-Blanca-Iansa-1-kg.jpg?v=639010066606500000"
+          ],
+          "name": "Azúcar Blanca Iansa 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1639",
+      "reference": "264758",
+      "sponsoredId": null,
+      "slug": "azucar-dorada-iansa-bolsa-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1084"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Azúcar"
+      ],
+      "collections": [
+        "17609",
+        "17846",
+        "19270",
+        "23175",
+        "25066"
+      ],
+      "brand": "Iansa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1644",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1450,
+          "listPrice": 1450,
+          "ppumPrice": 2900,
+          "ppumListPrice": 2900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/550320-250-250/Azucar-Rubia-Iansa-500-g.jpg?v=639010066525200000"
+          ],
+          "name": "Azúcar Rubia Iansa 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1647",
+      "reference": "1556116",
+      "sponsoredId": null,
+      "slug": "azucar-rubia-iansa-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1084"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Azúcar"
+      ],
+      "collections": [
+        "17609",
+        "22523",
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Iansa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1652",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 2290,
+          "listPrice": 2890,
+          "ppumPrice": 2290,
+          "ppumListPrice": 2890,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/549817-250-250/Azucar-Rubia-Iansa-1-kg.jpg?v=639010064928700000"
+          ],
+          "name": "Azúcar Rubia Iansa 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2290,
+              "ppumPrice": 2290,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "76934",
+      "reference": "1807062",
+      "sponsoredId": null,
+      "slug": "endulzante-liquido-alusweet-tagatesse-360-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "6471",
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "AluSweet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77188",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.36,
+          "price": 4268,
+          "listPrice": 5690,
+          "ppumPrice": 11856,
+          "ppumListPrice": 15806,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363837-250-250/Endulzante-alulosa-en-gotas-360-ml.jpg?v=638776750864870000"
+          ],
+          "name": "Endulzante Alusweet Alulosa 360 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 4268,
+              "ppumPrice": 11856,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "2250",
+      "reference": "1481045",
+      "sponsoredId": null,
+      "slug": "endulzante-liquido-iansa-350-ml-stevia-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "17609",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Iansa Cero K",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2256",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 4720,
+          "listPrice": 4720,
+          "ppumPrice": 13486,
+          "ppumListPrice": 13486,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/559600-250-250/Endulzante-Iansa-Cero-K-Liquido-Stevia-Sucralosa-350-ml.jpg?v=639029239954630000"
+          ],
+          "name": "Endulzante Iansa Cero K Líquido Stevia Sucralosa 350 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73527",
+      "reference": "1784223",
+      "sponsoredId": null,
+      "slug": "endulzante-granulado-alusweet-tagatesse-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "6471",
+        "22523",
+        "23175"
+      ],
+      "brand": "AluSweet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "73780",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 6990,
+          "listPrice": 6990,
+          "ppumPrice": 13980,
+          "ppumListPrice": 13980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362676-250-250/Endulzante-granulado-alulosa-500-g.jpg?v=638776744361400000"
+          ],
+          "name": "Endulzante Alusweet Alulosa Granulado 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4890 - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB  24022026 AL 02032026",
+              "description": "JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4890,
+              "ppumPrice": 9780,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "2251",
+      "reference": "1029066",
+      "sponsoredId": null,
+      "slug": "endulzante-liquido-iansa-cero-k-250-cc-stevia-2",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "19270",
+        "25670",
+        "26917",
+        "27391",
+        "27461",
+        "27499",
+        "27501",
+        "27518",
+        "27521",
+        "27522",
+        "27542",
+        "27551",
+        "27563",
+        "27601"
+      ],
+      "brand": "Iansa Cero K",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2257",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 2840,
+          "listPrice": 3950,
+          "ppumPrice": 11360,
+          "ppumListPrice": 15800,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/559573-250-250/Endulzante-Iansa-Cero-K-Liquido-Stevia-Sucralosa-250-ml.jpg?v=639029239887100000"
+          ],
+          "name": "Endulzante Iansa Cero K Líquido Stevia Sucralosa 250 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2840 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2840,
+              "ppumPrice": 11360,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "88730",
+      "reference": "1821380",
+      "sponsoredId": null,
+      "slug": "azucar-blanca-granulada-1-kg-cuisine-and-co-1821380",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "831",
+        "894",
+        "895",
+        "1083",
+        "1084"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Azúcar y Endulzantes",
+        "Azúcar"
+      ],
+      "collections": [
+        "23331",
+        "23432",
+        "23612",
+        "23704",
+        "23855",
+        "23927",
+        "23928",
+        "24286",
+        "24288",
+        "24420",
+        "24421",
+        "24492",
+        "24493",
+        "24738",
+        "25069",
+        "25296",
+        "25753",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27499",
+        "27501",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "88999",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 1290,
+          "listPrice": 1290,
+          "ppumPrice": 1290,
+          "ppumListPrice": 1290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/366897-250-250/Azucar-blanca-granulada-1-kg.jpg?v=638776765362170000"
+          ],
+          "name": "Azúcar Cuisine & Co Blanca Granulada 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X1990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 1990,
+              "unitPrice": 995,
+              "ppumPrice": 995,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "135739",
+      "reference": "1992879",
+      "sponsoredId": null,
+      "slug": "endulz-liq-cero-k-alulosa-suc-350-ml-1992879",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "17609",
+        "17846",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27551"
+      ],
+      "brand": "Iansa Cero K",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "136032",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 4950,
+          "listPrice": 4950,
+          "ppumPrice": 14143,
+          "ppumListPrice": 14143,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/559761-250-250/Endulzante-Iansa-Cero-K-Liquido-Alulosa-350-ml.jpg?v=639029240336270000"
+          ],
+          "name": "Endulzante Iansa Cero K Líquido Alulosa 350 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "2226",
+      "reference": "1258274",
+      "sponsoredId": null,
+      "slug": "endulzante-liquido-daily-180-cc-stevia-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [],
+      "brand": "Daily",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2232",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.18,
+          "price": 3250,
+          "listPrice": 3250,
+          "ppumPrice": 18056,
+          "ppumListPrice": 18056,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/417301-250-250/Endulzante-Liquido-Daily-Stevia-180-cc.jpg?v=638804309272230000"
+          ],
+          "name": "Endulzante Líquido Daily Stevia 180 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "77340",
+      "reference": "1815226",
+      "sponsoredId": null,
+      "slug": "endulzante-stevia-c-ingredientes-organicos-180-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "1054",
+        "17609",
+        "17846"
+      ],
+      "brand": "Daily",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77594",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.18,
+          "price": 3890,
+          "listPrice": 3890,
+          "ppumPrice": 21611,
+          "ppumListPrice": 21611,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/429719-250-250/Endulzante-Daily-Stevia-Ingredientes-Organicos-180-ml.jpg?v=638814649901300000"
+          ],
+          "name": "Endulzante Daily Stevia Ingredientes Orgánicos 180 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "76933",
+      "reference": "1807061",
+      "sponsoredId": null,
+      "slug": "endulzante-liquido-alusweet-tagatesse-180-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "6471",
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "AluSweet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77187",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.18,
+          "price": 2918,
+          "listPrice": 3890,
+          "ppumPrice": 16211,
+          "ppumListPrice": 21611,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363838-250-250/Endulzante-alulosa-en-gotas-180-ml.jpg?v=638776750865200000"
+          ],
+          "name": "Endulzante Alusweet Alulosa Gotas 180 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 2918,
+              "ppumPrice": 16211,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "108807",
+      "reference": "1907032",
+      "sponsoredId": null,
+      "slug": "alusweet-stevia-liquida-270-ml-1907032",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "22523"
+      ],
+      "brand": "AluSweet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "109076",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.27,
+          "price": 3050,
+          "listPrice": 3050,
+          "ppumPrice": 11296,
+          "ppumListPrice": 11296,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/377193-250-250/Stevia-liquida-Alusweet-270-ml.jpg?v=638776810849370000"
+          ],
+          "name": "Endulzante Alusweet Stevia Sin Amargor 270 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "2235",
+      "reference": "1553749",
+      "sponsoredId": null,
+      "slug": "endulzante-liquido-daily-400-ml-stevia-balanceado-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "22523"
+      ],
+      "brand": "Daily",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2241",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.4,
+          "price": 4750,
+          "listPrice": 4750,
+          "ppumPrice": 11875,
+          "ppumListPrice": 11875,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/417320-250-250/Endulzante-Daily-Stevia-Liquido-400-ml.jpg?v=638804309371000000"
+          ],
+          "name": "Endulzante Daily Stevia Líquido 400 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "87948",
+      "reference": "1842272",
+      "sponsoredId": null,
+      "slug": "endulzante-gran-cero-k-sucralosa-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "25354",
+        "27309",
+        "27551"
+      ],
+      "brand": "Iansa Cero K",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "88219",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 7190,
+          "listPrice": 7190,
+          "ppumPrice": 14380,
+          "ppumListPrice": 14380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/366389-250-250/Endulzante-granulado-alulosa-500-g.jpg?v=638776763228230000"
+          ],
+          "name": "Endulzante Iansa Cero K Granulado Alulosa 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150309",
+      "reference": "2038685",
+      "sponsoredId": null,
+      "slug": "endulzante-iansa-2038685",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Iansa Cero K",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150610",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 2640,
+          "listPrice": 2640,
+          "ppumPrice": 13200,
+          "ppumListPrice": 13200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/560547-250-250/Endulzante-Liquido-Iansa-Cero-K-Alulosa-Recarga-200-ml.jpg?v=639033992260370000"
+          ],
+          "name": "Endulzante Líquido Iansa Cero K Alulosa Recarga 200 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150401",
+      "reference": "2039927",
+      "sponsoredId": null,
+      "slug": "azucar-rubia-1kg-2039927",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1084"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Azúcar"
+      ],
+      "collections": [],
+      "brand": "Specia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150699",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 2790,
+          "listPrice": 2790,
+          "ppumPrice": 2790,
+          "ppumListPrice": 2790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/453282-250-250/AZUCAR-RUBIA-1KG.jpg?v=638854198098100000"
+          ],
+          "name": "Azúcar Specia Rubia 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "104970",
+      "reference": "1895047",
+      "sponsoredId": null,
+      "slug": "endulzante-alulosa-polvo-daily-500-gr-1895047",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "17609",
+        "17846",
+        "24965",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27500",
+        "27501",
+        "27535",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Daily Sweet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "105243",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 5990,
+          "listPrice": 7490,
+          "ppumPrice": 11980,
+          "ppumListPrice": 14980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314459-250-250/Endulzante-Alulosa-Daily-Polvo-500-g.jpg?v=638776402048230000"
+          ],
+          "name": "Endulzante Alulosa Daily Polvo 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5990,
+              "ppumPrice": 11980,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103540",
+      "reference": "1884922",
+      "sponsoredId": null,
+      "slug": "endulzante-liquido-alusweet-alulosa-270-ml-1884922",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "AluSweet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103808",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.27,
+          "price": 3293,
+          "listPrice": 4390,
+          "ppumPrice": 12196,
+          "ppumListPrice": 16259,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/374028-250-250/Endulzante-liquido-alulosa-270-ml.jpg?v=638776798064030000"
+          ],
+          "name": "Endulzante Alusweet Alulosa 270 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 3293,
+              "ppumPrice": 12196,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150320",
+      "reference": "2039862",
+      "sponsoredId": null,
+      "slug": "daily-alulosa-400-2039862",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "24965",
+        "27500",
+        "27535"
+      ],
+      "brand": "Daily",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150618",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.4,
+          "price": 5150,
+          "listPrice": 5150,
+          "ppumPrice": 12875,
+          "ppumListPrice": 12875,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/555941-250-250/Endulzante-Liquido-Daily-Alulosa-400-ml.jpg?v=639017047269270000"
+          ],
+          "name": "Endulzante Líquido Daily Alulosa 400 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "89190",
+      "reference": "1843164",
+      "sponsoredId": null,
+      "slug": "endulz-granulado-alusweet-alulosa-250gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "6471",
+        "23857",
+        "24532"
+      ],
+      "brand": "AluSweet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "89460",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 4350,
+          "listPrice": 4350,
+          "ppumPrice": 17400,
+          "ppumListPrice": 17400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/367123-250-250/Endulzante-granulado-alulosa-250-g.jpg?v=638776766428730000"
+          ],
+          "name": "Endulzante Alusweet Alulosa Granulado 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138140",
+      "reference": "1997829",
+      "sponsoredId": null,
+      "slug": "iansa-cero-k-stevia-suc-recarga-200ml-1997829",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Iansa Cero K",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138436",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 2540,
+          "listPrice": 2540,
+          "ppumPrice": 12700,
+          "ppumListPrice": 12700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/559895-250-250/Endulzante-Liquido-Cero-K-Stevia-Sucralosa-Recarga-200-ml.jpg?v=639029240648100000"
+          ],
+          "name": "Endulzante Líquido Cero K Stevia Sucralosa Recarga 200 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1642",
+      "reference": "264763",
+      "sponsoredId": null,
+      "slug": "azucar-flor-iansa-bolsa-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1084"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Azúcar"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "24971"
+      ],
+      "brand": "Iansa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1647",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1350,
+          "listPrice": 1350,
+          "ppumPrice": 2700,
+          "ppumListPrice": 2700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/550325-250-250/Azucar-Flor-Iansa-500-g.jpg?v=639010066555700000"
+          ],
+          "name": "Azúcar Flor Iansa 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103541",
+      "reference": "1884923",
+      "sponsoredId": null,
+      "slug": "pimenton-ahum-premium-gourmet-fco-29-gr-1884923",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [],
+      "brand": "AluSweet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103809",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.27,
+          "price": 5790,
+          "listPrice": 5790,
+          "ppumPrice": 21444,
+          "ppumListPrice": 21444,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/374027-250-250/Endulzante-liquido-tagatosa-270-ml.jpg?v=638776798062000000"
+          ],
+          "name": "Endulzante Alusweet Tagatosa 270 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "113959",
+      "reference": "1932115",
+      "sponsoredId": null,
+      "slug": "endulzante-liq-splenda-100-stevia-180ml-1932115",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "26148",
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Splenda",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "114223",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.18,
+          "price": 4490,
+          "listPrice": 6290,
+          "ppumPrice": 24944,
+          "ppumListPrice": 34944,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/381051-250-250/Endulzante-liquido-Splenda-100--Stevia-180-ml.jpg?v=638776825777170000"
+          ],
+          "name": "Endulzante Splenda Líquido 100% Stevia 180 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4490,
+              "ppumPrice": 24944,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "2248",
+      "reference": "1504542",
+      "sponsoredId": null,
+      "slug": "endulzante-iansa-envase-de-180-ml-stevia-100-cero-k-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "25354",
+        "27551"
+      ],
+      "brand": "Iansa Cero K",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2254",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.18,
+          "price": 6290,
+          "listPrice": 6290,
+          "ppumPrice": 34944,
+          "ppumListPrice": 34944,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299346-250-250/Endulzante-liquido-100--stevia-180-ml.jpg?v=638775763531300000"
+          ],
+          "name": "Endulzante Iansa Cero K Líquido 100% Stevia 180 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "135834",
+      "reference": "1996088",
+      "sponsoredId": null,
+      "slug": "tabletas-alulosa-alusweet-250-unidades-1996088",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "23175"
+      ],
+      "brand": "AluSweet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "136126",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 3590,
+          "listPrice": 3590,
+          "ppumPrice": 3590,
+          "ppumListPrice": 3590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/325677-250-250/TABLETAS-ALULOSA-ALUSWEET-250-UNIDADES.jpg?v=638776428561600000"
+          ],
+          "name": "Endulzante Alusweet Alulosa Tabletas 250 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "87947",
+      "reference": "1842271",
+      "sponsoredId": null,
+      "slug": "endulzante-liquido-cero-k-sucralosa-250-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "19270",
+        "21578",
+        "27499",
+        "27501",
+        "27542",
+        "27551",
+        "27563",
+        "27601"
+      ],
+      "brand": "Iansa Cero K",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "88218",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 3290,
+          "listPrice": 4090,
+          "ppumPrice": 13160,
+          "ppumListPrice": 16360,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/559724-250-250/Endulzante-Iansa-Cero-K-Liquido-Alulosa-250-ml.jpg?v=639029240269000000"
+          ],
+          "name": "Endulzante Iansa Cero K Líquido Alulosa 250 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3290,
+              "ppumPrice": 13160,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1640",
+      "reference": "264751",
+      "sponsoredId": null,
+      "slug": "azucar-dorada-iansa-caja-420-g-cubitos-grado-1",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1084"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Azúcar"
+      ],
+      "collections": [],
+      "brand": "Iansa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1645",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.42,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 4738,
+          "ppumListPrice": 4738,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298742-250-250/Azucar-rubia-en-cubitos-100-un.jpg?v=638775756245270000"
+          ],
+          "name": "Azúcar Rubia Iansa Cubitos 420 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "149213",
+      "reference": "2039667",
+      "sponsoredId": null,
+      "slug": "azucar-uniao-1k-2039667",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1084"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Azúcar"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27182"
+      ],
+      "brand": "Uniao",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149507",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 1390,
+          "ppumListPrice": 1390,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/445222-250-250/AZUCAR-UNIAO-1K.jpg?v=638838815835130000"
+          ],
+          "name": "Azúcar Uniao 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "2220",
+      "reference": "1500075",
+      "sponsoredId": null,
+      "slug": "endulzante-daily-90-ml-gotas-stevia-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [],
+      "brand": "Daily",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2226",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.09,
+          "price": 2590,
+          "listPrice": 2590,
+          "ppumPrice": 28778,
+          "ppumListPrice": 28778,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299325-250-250/Endulzante-Daily-Stevia-Gotas-90-ml.jpg?v=638775763292230000"
+          ],
+          "name": "Endulzante Daily Stevia Gotas 90 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "15399",
+      "reference": "1647160",
+      "sponsoredId": null,
+      "slug": "endulzante-natura-list-900-tabletas-stevia",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [],
+      "brand": "Naturalist",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "16731",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 900,
+          "price": 4390,
+          "listPrice": 4390,
+          "ppumPrice": 5,
+          "ppumListPrice": 5,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352507-250-250/Endulzante-stevia-900-tabletas.jpg?v=638776693164370000"
+          ],
+          "name": "Endulzante Naturalist Stevia 900 Tabletas",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1638",
+      "reference": "1000929",
+      "sponsoredId": null,
+      "slug": "azucar-blanca-light-iansa-doypack-500-g-con-sucralosa",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1084"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Azúcar"
+      ],
+      "collections": [
+        "17609",
+        "17846",
+        "27499",
+        "27501",
+        "27542",
+        "27551",
+        "27563",
+        "27601"
+      ],
+      "brand": "Iansa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1643",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1690,
+          "listPrice": 1850,
+          "ppumPrice": 3380,
+          "ppumListPrice": 3700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/479972-250-250/Azucar-Blanca-Iansa-Light-con-Sucralosa-500-g.jpg?v=638881417877530000"
+          ],
+          "name": "Azúcar Blanca Iansa Light con Sucralosa 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1690,
+              "ppumPrice": 3380,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "77341",
+      "reference": "1815227",
+      "sponsoredId": null,
+      "slug": "endulzante-stevia-c-ingredientes-organicos-270-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "1054",
+        "17609",
+        "17846",
+        "23175"
+      ],
+      "brand": "Daily",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77595",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.27,
+          "price": 4890,
+          "listPrice": 4890,
+          "ppumPrice": 18111,
+          "ppumListPrice": 18111,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/429721-250-250/Endulzante-Daily-Stevia-Ingredientes-Organicos-270-ml.jpg?v=638814649908970000"
+          ],
+          "name": "Endulzante Daily Stevia Ingredientes Orgánicos 270 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "15397",
+      "reference": "1589455",
+      "sponsoredId": null,
+      "slug": "endulzante-stevia-en-polvo-natura-list-400-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [],
+      "brand": "Naturalist",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "16729",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 400,
+          "price": 6190,
+          "listPrice": 6190,
+          "ppumPrice": 15,
+          "ppumListPrice": 15,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352508-250-250/Endulzante-stevia-en-polvo-400-sobres.jpg?v=638776693164530000"
+          ],
+          "name": "Endulzante Naturalist Stevia en Polvo 400 Sobres",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "12161",
+      "reference": "1637284",
+      "sponsoredId": null,
+      "slug": "endulzante-l-quido-iansa-180-ml-cero-k-stevia-sense",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "27309"
+      ],
+      "brand": "Iansa Cero K",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "12403",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.18,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 19389,
+          "ppumListPrice": 19389,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/559620-250-250/Endulzante-Iansa-Cero-K-Liquido-Stevia-Sucralosa-180-ml.jpg?v=639029240014630000"
+          ],
+          "name": "Endulzante Iansa Cero K Líquido Stevia Sucralosa 180 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "2245",
+      "reference": "1548058",
+      "sponsoredId": null,
+      "slug": "endulzante-iansa-500-tabletas-stevia-sens-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [],
+      "brand": "Iansa Cero K",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2251",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 500,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 8,
+          "ppumListPrice": 8,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299342-250-250/Endulzante-tabletas-stevia-sucralosa-500-un.jpg?v=638775763487800000"
+          ],
+          "name": "Endulzante Iansa Cero K Tabletas Stevia Sucralosa 500 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "65504",
+      "reference": "1755906",
+      "sponsoredId": null,
+      "slug": "azucar-rubia-1-kg-cuisine-and-co-1755906",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "831",
+        "894",
+        "895",
+        "1083",
+        "1084"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Azúcar y Endulzantes",
+        "Azúcar"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27499",
+        "27501",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "65662",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 1890,
+          "listPrice": 2380,
+          "ppumPrice": 1890,
+          "ppumListPrice": 2380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361547-250-250/Azucar-rubia-1-kg.jpg?v=638776737832370000"
+          ],
+          "name": "Azúcar Rubia Cuisine & Co 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1890 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1890,
+              "ppumPrice": 1890,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "2252",
+      "reference": "996223",
+      "sponsoredId": null,
+      "slug": "endulzante-liquido-iansa-cero-k-250-cc-sucralosa-2",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1085"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Endulzantes"
+      ],
+      "collections": [
+        "19270",
+        "27499",
+        "27501",
+        "27542",
+        "27551",
+        "27563",
+        "27601"
+      ],
+      "brand": "Iansa Cero K",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2258",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 2890,
+          "listPrice": 3590,
+          "ppumPrice": 11560,
+          "ppumListPrice": 14360,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/560072-250-250/Endulzante-Iansa-Cero-K-Liquido-Sucralosa-250-ml.jpg?v=639029241307670000"
+          ],
+          "name": "Endulzante Iansa Cero K Líquido Sucralosa 250 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2890 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 3",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2890,
+              "ppumPrice": 11560,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1641",
+      "reference": "1556115",
+      "sponsoredId": null,
+      "slug": "azucar-flor-iansa-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1083",
+        "1084"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Azúcar y Endulzantes",
+        "Azúcar"
+      ],
+      "collections": [
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27309"
+      ],
+      "brand": "Iansa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1646",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 2850,
+          "listPrice": 2850,
+          "ppumPrice": 2850,
+          "ppumListPrice": 2850,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/560519-250-250/Azucar-Flor-Iansa-1-kg.jpg?v=639033992170070000"
+          ],
+          "name": "Azúcar Flor Iansa 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Endulzantes",
+          "value": "/despensa/azucar-y-endulzantes/endulzantes",
+          "selected": false,
+          "quantity": 70,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Azúcar",
+          "value": "/despensa/azucar-y-endulzantes/azucar",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Endulzantes",
+          "value": "/despensa/azucar-y-endulzantes/endulzantes",
+          "selected": false,
+          "quantity": 70,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Azúcar",
+          "value": "/despensa/azucar-y-endulzantes/azucar",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Endulzantes",
+          "value": "/despensa/azucar-y-endulzantes/endulzantes",
+          "selected": false,
+          "quantity": 70,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Azúcar",
+          "value": "/despensa/azucar-y-endulzantes/azucar",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Iansa",
+          "value": "Iansa",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "AluSweet",
+          "value": "AluSweet",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Iansa Cero K",
+          "value": "Iansa Cero K",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Daily",
+          "value": "Daily",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Specia",
+          "value": "Specia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Daily Sweet",
+          "value": "Daily Sweet",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Splenda",
+          "value": "Splenda",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Uniao",
+          "value": "Uniao",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Naturalist",
+          "value": "Naturalist",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Del Fonce",
+          "value": "Del Fonce",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Wholesome",
+          "value": "Wholesome",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manare",
+          "value": "Manare",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ruf",
+          "value": "Ruf",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Wipala",
+          "value": "Wipala",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Fuente Natural",
+          "value": "La Fuente Natural",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Deliciosa",
+          "value": "Deliciosa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dr. Oetker",
+          "value": "Dr. Oetker",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Azúcar Blanca",
+          "value": "Azúcar Blanca",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Azúcar Rubia",
+          "value": "Azúcar Rubia",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alulosa",
+          "value": "Alulosa",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Stevia",
+          "value": "Stevia",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Azúcar Flor",
+          "value": "Azúcar Flor",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tagatosa",
+          "value": "Tagatosa",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sucralosa",
+          "value": "Sucralosa",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Panela",
+          "value": "Panela",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Azúcar Dorada",
+          "value": "Azúcar Dorada",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chancaca",
+          "value": "Chancaca",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 96,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 96,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 95,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 92,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 92,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 92,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 92,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 89,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 87,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 86,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 85,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 83,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 74,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 62,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Cubos",
+          "value": "Cubos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entera",
+          "value": "Entera",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Envasado",
+          "value": "ENVASADO",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Granulado",
+          "value": "Granulado",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Líquida",
+          "value": "Líquida",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Molido",
+          "value": "Molido",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Polvo",
+          "value": "Polvo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Gluten",
+          "value": "Sin Gluten",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tableta",
+          "value": "Tableta",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "1 kg",
+          "value": "1 kg",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "180 ml",
+          "value": "180 ml",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "200 ml",
+          "value": "200 ml",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "250 g",
+          "value": "250 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "270 ml",
+          "value": "270 ml",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "360 ml",
+          "value": "360 ml",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "500 g",
+          "value": "500 g",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "90 ml",
+          "value": "90 ml",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "100 Unidades",
+          "value": "100 unidades",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "180 ml",
+          "value": "180 ml",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "250 Unidades",
+          "value": "250 Unidades",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 890,
+          "maxValue": 11990
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brasil",
+          "value": "Brasil",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 76,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "China",
+          "value": "China",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Colombia",
+          "value": "Colombia",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Corea del Sur",
+          "value": "Corea del Sur",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ecuador",
+          "value": "Ecuador",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Guatemala",
+          "value": "Guatemala",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "México",
+          "value": "México",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 79,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Alulosa",
+          "value": "Alulosa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulces",
+          "value": "Dulces",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Light",
+          "value": "Light",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Orgánico",
+          "value": "Orgánico",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Alulosa",
+          "value": "Alulosa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Panela",
+          "value": "Panela",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "Tabletas",
+          "value": "Tabletas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Intensidad",
+      "key": "Intensidad",
+      "values": [
+        {
+          "displayName": "Media",
+          "value": "Media",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 98,
+  "metaTag": {
+    "title": "Azúcar y Endulzantes | Jumbo.cl",
+    "description": "Con nuestra variedad de azúcar y endulzantes podrás darle sabor a todas tus preparaciones. ¡Compra online en Jumbo.cl!"
+  }
+}

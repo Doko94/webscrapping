@@ -1,0 +1,3059 @@
+{
+  "products": [
+    {
+      "type": "card",
+      "title": "Caviar",
+      "position": "1",
+      "text": " ",
+      "imageDesktop": "https://assets.jumbo.cl/uploads/2020/08/card-promo-desktop-caviar.jpg",
+      "imageMobile": "https://assets.jumbo.cl/uploads/2020/08/card-promo-mobile-caviar.jpg",
+      "buttonText": "",
+      "url": "/busca?fq=H%3A18765",
+      "fullWidthMobile": false,
+      "wide": false,
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "productId": "157582",
+      "reference": "2052546",
+      "sponsoredId": "XnYDPwoQBppjcY1udBedBCPy4lOxohIQAZx2aRkWfkG7keYhCO0cARoQBkQS0ECWfW6bJOMD8MU0HiIKCgYxNTc5MDIQATDA-gFAlAJIAVDF8pyKyzNglAJyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "hamburguesa-de-jurel-san-jose-100gr-2052546",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [
+        "25603",
+        "27468",
+        "27554",
+        "27569"
+      ],
+      "brand": "San José",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "157902",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 9900,
+          "ppumListPrice": 9900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/564955-250-250/Hamburguesa-de-Jurel-San-Jose-100-g.jpg?v=639040067799500000"
+          ],
+          "name": "Hamburguesa de Jurel San José 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X1490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 1490,
+              "unitPrice": 745,
+              "ppumPrice": 7450,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "49691",
+      "reference": "254451-KG",
+      "sponsoredId": null,
+      "slug": "salmon-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "997"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Frescos"
+      ],
+      "collections": [
+        "25435",
+        "25441",
+        "26933",
+        "27419",
+        "27436",
+        "27499",
+        "27501"
+      ],
+      "brand": "Pescadería Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "49984",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 10495,
+          "listPrice": 10495,
+          "ppumPrice": 20990,
+          "ppumListPrice": 20990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308164-250-250/Salmon-Filete-Fresco-kg.jpg?v=638776386359330000"
+          ],
+          "name": "Salmón Filete Fresco Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "62967",
+      "reference": "669606-KG",
+      "sponsoredId": null,
+      "slug": "atun-filete-prov-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "997"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Frescos"
+      ],
+      "collections": [
+        "25441",
+        "25447",
+        "25448"
+      ],
+      "brand": "Pescadería Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "63101",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 7995,
+          "listPrice": 7995,
+          "ppumPrice": 15990,
+          "ppumListPrice": 15990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309665-250-250/Atun-Filete-kg.jpg?v=638776389653570000"
+          ],
+          "name": "Atún Filete Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "type": "card",
+      "title": "Ahumados",
+      "position": "5",
+      "text": " ",
+      "imageDesktop": "https://assets.jumbo.cl/uploads/2020/08/card-promo-desktop-ahumados.jpg",
+      "imageMobile": "https://assets.jumbo.cl/uploads/2020/08/card-promo-mobile-ahumados.jpg",
+      "buttonText": "",
+      "url": "/busca?fq=H%3A18766",
+      "fullWidthMobile": false,
+      "wide": false,
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "productId": "62968",
+      "reference": "714036-KG",
+      "sponsoredId": null,
+      "slug": "merluza-austral-filete-prov-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "997"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Frescos"
+      ],
+      "collections": [
+        "23858",
+        "25436",
+        "25441"
+      ],
+      "brand": "Pescadería Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "63102",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 7995,
+          "listPrice": 7995,
+          "ppumPrice": 15990,
+          "ppumListPrice": 15990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309678-250-250/Merluza-Austral-Filete-Fresca-kg.jpg?v=638805880135330000"
+          ],
+          "name": "Merluza Austral Filete Fresca Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "62963",
+      "reference": "436869-KG",
+      "sponsoredId": null,
+      "slug": "reineta-filete-prov-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "997"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Frescos"
+      ],
+      "collections": [],
+      "brand": "Pescadería Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "63097",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 9995,
+          "listPrice": 9995,
+          "ppumPrice": 19990,
+          "ppumListPrice": 19990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309640-250-250/Reineta-Filete-Fresca-kg.jpg?v=638805881159630000"
+          ],
+          "name": "Reineta Filete Fresca Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "62969",
+      "reference": "780636-KG",
+      "sponsoredId": null,
+      "slug": "trucha-filete-prov-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "997"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Frescos"
+      ],
+      "collections": [
+        "26933"
+      ],
+      "brand": "Pescadería Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "63103",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 10495,
+          "listPrice": 10495,
+          "ppumPrice": 20990,
+          "ppumListPrice": 20990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309697-250-250/Trucha-Filete-Fresca-kg.jpg?v=638805880840630000"
+          ],
+          "name": "Trucha Filete Fresca Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "42822",
+      "reference": "1705045-KG",
+      "sponsoredId": null,
+      "slug": "salmon-no-tratado-con-antibioticos-aqua-austral-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "997"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Frescos"
+      ],
+      "collections": [],
+      "brand": "Pescadería Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "32504",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 10995,
+          "listPrice": 10995,
+          "ppumPrice": 21990,
+          "ppumListPrice": 21990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307024-250-250/Salmon-Filete-No-Tratado-Fresco-kg.jpg?v=638776383689000000"
+          ],
+          "name": "Salmón Filete No Tratado Fresco Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103566",
+      "reference": "1883832",
+      "sponsoredId": null,
+      "slug": "rollito-salmon-aqua-400-gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103834",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 4890,
+          "listPrice": 4890,
+          "ppumPrice": 12225,
+          "ppumListPrice": 12225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314384-250-250/Rollitos-de-Salmon-Atlantico-Aqua-400-g.jpg?v=638776401840130000"
+          ],
+          "name": "Rollitos de Salmón Apanados 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146066",
+      "reference": "2022101",
+      "sponsoredId": null,
+      "slug": "lomo-de-salmon-empan-la-crianza-100gr-2022101",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [
+        "23175",
+        "25600"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146360",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2090,
+          "listPrice": 2090,
+          "ppumPrice": 20900,
+          "ppumListPrice": 20900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/404273-250-250/Lomo-de-Salmon-Empanizado-La-Crianza-100-g.jpg?v=638776917963570000"
+          ],
+          "name": "Lomo de Salmón Empanizado La Crianza 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10195",
+      "reference": "439750",
+      "sponsoredId": null,
+      "slug": "merluza-el-golfo-500-g-filetes-apanados-congelados-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [],
+      "brand": "El Golfo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10446",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 6990,
+          "listPrice": 6990,
+          "ppumPrice": 13980,
+          "ppumListPrice": 13980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301598-250-250/Merluza-Filete-Apanadas-500-g.jpg?v=638776375089900000"
+          ],
+          "name": "Merluza Filete Apanadas 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "102585",
+      "reference": "1881683",
+      "sponsoredId": null,
+      "slug": "salmon-trozo-aqua-500-gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [
+        "25166",
+        "25334"
+      ],
+      "brand": "Aqua",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102854",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 11990,
+          "listPrice": 11990,
+          "ppumPrice": 23980,
+          "ppumListPrice": 23980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/373349-250-250/Salmon-trozo-500-g.jpg?v=638776795371170000"
+          ],
+          "name": "Salmón Trozo Aqua 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73664",
+      "reference": "1752544",
+      "sponsoredId": null,
+      "slug": "croquetas-de-merluza-100-gr-el-golfo",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [],
+      "brand": "El Golfo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "73918",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1350,
+          "listPrice": 1350,
+          "ppumPrice": 13500,
+          "ppumListPrice": 13500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310186-250-250/Croquetas-de-Merluza-Congelado-100-g.jpg?v=638776391063400000"
+          ],
+          "name": "Croquetas de Merluza Congelado 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "91769",
+      "reference": "1828095-KG",
+      "sponsoredId": null,
+      "slug": "congrio-dorado-filete-prov-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "997"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Frescos"
+      ],
+      "collections": [],
+      "brand": "Pescadería Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "92262",
+          "cartLimit": 24,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 10495,
+          "listPrice": 10495,
+          "ppumPrice": 20990,
+          "ppumListPrice": 20990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312306-250-250/Congrio-Dorado-Filete-Fresco-kg.jpg?v=638776396112230000"
+          ],
+          "name": "Congrio Dorado Filete Fresco Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "152485",
+      "reference": "1883830",
+      "sponsoredId": null,
+      "slug": "croqueta-de-salmon-apanadas-80-g-1883830",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "152776",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.08,
+          "price": 850,
+          "listPrice": 1000,
+          "ppumPrice": 10625,
+          "ppumListPrice": 12500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/578909-250-250/Croqueta-de-Salmon-Apanadas-80-g.jpg?v=639071561328930000"
+          ],
+          "name": "Croqueta de Salmón Apanadas 80 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 850 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 850,
+              "ppumPrice": 10625,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "102586",
+      "reference": "1881682",
+      "sponsoredId": null,
+      "slug": "salmon-filete-aqua-500-gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [
+        "25166",
+        "25334"
+      ],
+      "brand": "Aqua",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102855",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 11990,
+          "listPrice": 11990,
+          "ppumPrice": 23980,
+          "ppumListPrice": 23980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/373345-250-250/Salmon-filete-500-g.jpg?v=638776795365700000"
+          ],
+          "name": "Salmón Filete Aqua 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103565",
+      "reference": "1883831",
+      "sponsoredId": null,
+      "slug": "nuggets-salmon-aqua-400-gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103833",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3490,
+          "listPrice": 4790,
+          "ppumPrice": 8725,
+          "ppumListPrice": 11975,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314366-250-250/Nuggets-de-Salmon-Atlantico-Aqua-400-g.jpg?v=638776401801530000"
+          ],
+          "name": "Nuggets de Salmón La Crianza Apanados 400 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3490 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3490,
+              "ppumPrice": 8725,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "128226",
+      "reference": "1973837",
+      "sponsoredId": null,
+      "slug": "croquetas-reineta-friosur-100-gr-1973837",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [],
+      "brand": "Friosur",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128520",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 9900,
+          "ppumListPrice": 9900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/394329-250-250/Croquetas-Reineta-Friosur-100-g.jpg?v=638776878384670000"
+          ],
+          "name": "Croquetas de Reineta Apanadas 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "131779",
+      "reference": "1979066",
+      "sponsoredId": null,
+      "slug": "merluza-varita-el-golfo-500-gr-1979066",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [],
+      "brand": "El Golfo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132068",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 11980,
+          "ppumListPrice": 11980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321409-250-250/Merluza-Varita-Apanadas-500-g.jpg?v=638776423201970000"
+          ],
+          "name": "Merluza Varita Apanadas 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "74117",
+      "reference": "1752543",
+      "sponsoredId": null,
+      "slug": "merluza-tempura-500-gr-el-golfo",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [],
+      "brand": "El Golfo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74372",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 6350,
+          "listPrice": 6350,
+          "ppumPrice": 12700,
+          "ppumListPrice": 12700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310323-250-250/Merluza-Tempura-500-g.jpg?v=638776391339700000"
+          ],
+          "name": "Merluza Tempura 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "74115",
+      "reference": "1730508",
+      "sponsoredId": null,
+      "slug": "trucha-filete-cong-entre-rios-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [],
+      "brand": "Entre Ríos",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74370",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 8990,
+          "listPrice": 8990,
+          "ppumPrice": 17980,
+          "ppumListPrice": 17980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362872-250-250/Trucha-filete-500-g.jpg?v=638776745384500000"
+          ],
+          "name": "Trucha Filete Congelada 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "128224",
+      "reference": "1973836",
+      "sponsoredId": null,
+      "slug": "varitas-reineta-friosur-400-gr-1973836",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [],
+      "brand": "Friosur",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128518",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3190,
+          "listPrice": 3190,
+          "ppumPrice": 7975,
+          "ppumListPrice": 7975,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/394330-250-250/Varitas-Reinetas-Friosur-400-g.jpg?v=638776878384830000"
+          ],
+          "name": "Varitas de Reineta Congelada 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "23820",
+      "reference": "288010",
+      "sponsoredId": null,
+      "slug": "filetes-de-merluza-el-golfo-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [],
+      "brand": "El Golfo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24137",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 5890,
+          "listPrice": 5890,
+          "ppumPrice": 11780,
+          "ppumListPrice": 11780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305066-250-250/Merluza-Filete-Congelada-500-g.jpg?v=638776381185770000"
+          ],
+          "name": "Merluza Filete Congelada 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73665",
+      "reference": "1752545",
+      "sponsoredId": null,
+      "slug": "nuggets-de-merluza-500-gr-el-golfo",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [],
+      "brand": "El Golfo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "73919",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3250,
+          "listPrice": 3250,
+          "ppumPrice": 8125,
+          "ppumListPrice": 8125,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310209-250-250/Nuggets-de-Merluza-Apanadas-400-g.jpg?v=638776391105030000"
+          ],
+          "name": "Nuggets de Merluza El Golfo Apanadas 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "129597",
+      "reference": "1972586",
+      "sponsoredId": null,
+      "slug": "pececitos-apan-e-golfo-400gr-1972586",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [],
+      "brand": "El Golfo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "129891",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 7725,
+          "ppumListPrice": 7725,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/320463-250-250/Pececitos-Apanados-400-g.jpg?v=638776420447230000"
+          ],
+          "name": "Pececitos Apanados 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "158417",
+      "reference": "471492",
+      "sponsoredId": null,
+      "slug": "salmon-ahum-fri-lamin-s-wind-100-gr-471492",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [],
+      "brand": "South Wind",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "158741",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 59900,
+          "ppumListPrice": 59900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/521846-250-250/Salmon-Ahumado-congelado-South-Wind-100-g.jpg?v=638959644573900000"
+          ],
+          "name": "Salmón Ahumado South Wind Laminado 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "128270",
+      "reference": "1973835",
+      "sponsoredId": null,
+      "slug": "nuggets-reineta-friosur-400-gr-1973835",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [],
+      "brand": "Friosur",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128564",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 7725,
+          "ppumListPrice": 7725,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/394359-250-250/Nugets-Reineta-Friosur-400-g.jpg?v=638776878529900000"
+          ],
+          "name": "Nuggets de Reineta Friosur Apanados 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10249",
+      "reference": "288027",
+      "sponsoredId": null,
+      "slug": "filetes-de-reineta-el-golfo-bolsa-500-g-sin-piel-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [
+        "25067",
+        "25755"
+      ],
+      "brand": "El Golfo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10500",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 8890,
+          "listPrice": 8890,
+          "ppumPrice": 17780,
+          "ppumListPrice": 17780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301840-250-250/Reineta-Filete-Congelada-500-g.jpg?v=638776375443470000"
+          ],
+          "name": "Reineta Filete Congelada 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75851",
+      "reference": "1785323",
+      "sponsoredId": null,
+      "slug": "milanesa-de-merluza-apanada-500-g-cuisine-and-co-1785323",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [
+        "25610",
+        "25613",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27419",
+        "27499",
+        "27501",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "76106",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 4890,
+          "listPrice": 4890,
+          "ppumPrice": 9780,
+          "ppumListPrice": 9780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363568-250-250/Milanesa-de-merluza-apanada-500-g.jpg?v=638776748933630000"
+          ],
+          "name": "Milanesa de Merluza Apanadas 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X6990 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO CICLO 1 DESDE EL 25 FE 25022026 AL 02032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO CICLO 1 DESDE EL 25 FE",
+              "type": "mx",
+              "value": 6990,
+              "unitPrice": 3495,
+              "ppumPrice": 6990,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "136942",
+      "reference": "1996592",
+      "sponsoredId": null,
+      "slug": "ocean-perch-panamei-454gr-1996592",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Panamei",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137235",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.454,
+          "price": 5990,
+          "listPrice": 7990,
+          "ppumPrice": 13194,
+          "ppumListPrice": 17599,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/478704-250-250/Pargo-Congelado-454-g.jpg?v=638877519673600000"
+          ],
+          "name": "Filete de Chillo Congelado 454 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5990 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5990,
+              "ppumPrice": 13194,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "82252",
+      "reference": "1773231",
+      "sponsoredId": null,
+      "slug": "reineta-sin-piel-500-g-cuisine-and-co-1773231",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [
+        "23866",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "82525",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 9990,
+          "listPrice": 9990,
+          "ppumPrice": 19980,
+          "ppumListPrice": 19980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311399-250-250/Reineta-Congelada-500-g.jpg?v=638776393635600000"
+          ],
+          "name": "Reineta Congelada 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "136941",
+      "reference": "1996591",
+      "sponsoredId": null,
+      "slug": "cod-portion-panamei-454gr-1996591",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [
+        "23175"
+      ],
+      "brand": "Panamei",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137231",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.454,
+          "price": 9990,
+          "listPrice": 9990,
+          "ppumPrice": 22004,
+          "ppumListPrice": 22004,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/478703-250-250/Bacalao-Congelado-454-g.jpg?v=638877519661430000"
+          ],
+          "name": "Porciones de Bacalao Congelado 454 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "74131",
+      "reference": "1785290",
+      "sponsoredId": null,
+      "slug": "salmon-en-trozos-500-g-cuisine-and-co-1785290",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [
+        "23175",
+        "25638",
+        "25642",
+        "25684",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517",
+        "27564",
+        "27567",
+        "27595",
+        "27599",
+        "27601"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74386",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 10590,
+          "listPrice": 10590,
+          "ppumPrice": 21180,
+          "ppumListPrice": 21180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310146-250-250/Salmon-En-Trozos-500-g.jpg?v=638776390983930000"
+          ],
+          "name": "Salmón Trozos Congelados 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "23875",
+      "reference": "1614108",
+      "sponsoredId": null,
+      "slug": "loin-de-salmon-la-crianza-sin-piel-1-5-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24192",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1.5,
+          "price": 53990,
+          "listPrice": 53990,
+          "ppumPrice": 35993,
+          "ppumListPrice": 35993,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/354895-250-250/Principal-22881.jpg?v=638776704276730000"
+          ],
+          "name": "Loin de Salmón Congelado 1.5 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "133360",
+      "reference": "1964040",
+      "sponsoredId": null,
+      "slug": "merluza-filete-sin-piel-500g-cuisine-and-co-1964040",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [
+        "25253",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "133642",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 4990,
+          "listPrice": 4990,
+          "ppumPrice": 9980,
+          "ppumListPrice": 9980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/322025-250-250/MERLUZA-FILETE-SIN-PIEL-500G-CUISINE-CO.jpg?v=638776424781600000"
+          ],
+          "name": "Merluza Filete Congelado 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "95542",
+      "reference": "1855100",
+      "sponsoredId": null,
+      "slug": "trucha-congelada-al-vacio-400g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Congelados Premium",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "95807",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 11290,
+          "listPrice": 11290,
+          "ppumPrice": 28225,
+          "ppumListPrice": 28225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/369028-250-250/Trucha-congelada-al-vacio-400-g.jpg?v=638776775309000000"
+          ],
+          "name": "Trucha Al Vacío Congelada 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "105697",
+      "reference": "1894854",
+      "sponsoredId": null,
+      "slug": "salmon-atlantico-sin-piel-aqua-1200-grs-1894854",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [],
+      "brand": "Aqua",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "105964",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.2,
+          "price": 30290,
+          "listPrice": 30290,
+          "ppumPrice": 25242,
+          "ppumListPrice": 25242,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/375274-250-250/Salmon-Atlantico-sin-piel-12-kg.jpg?v=638776802893230000"
+          ],
+          "name": "Salmón Congelado 1.2 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "47845",
+      "reference": "1716103",
+      "sponsoredId": null,
+      "slug": "atun-congelado-500-g-cuisine-and-co-1716103",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [
+        "19270",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "48154",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 8990,
+          "listPrice": 8990,
+          "ppumPrice": 17980,
+          "ppumListPrice": 17980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307993-250-250/Atun-Congelado-500-g.jpg?v=638776385848330000"
+          ],
+          "name": "Atún Congelado 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "117899",
+      "reference": "1932889-KG",
+      "sponsoredId": null,
+      "slug": "loin-atun-kg-1932889-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [],
+      "brand": "Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "118169",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 8995,
+          "listPrice": 8995,
+          "ppumPrice": 17990,
+          "ppumListPrice": 17990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/520353-250-250/Loin-Atun-kg.jpg?v=638953642399400000"
+          ],
+          "name": "Loin Atún kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "74130",
+      "reference": "1785289",
+      "sponsoredId": null,
+      "slug": "salmon-filete-500-g-cuisine-and-co-1785289",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "994",
+        "996"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Pescados",
+        "Pescados Congelados"
+      ],
+      "collections": [
+        "23175",
+        "25638",
+        "25642",
+        "25684",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517",
+        "27564",
+        "27567",
+        "27595",
+        "27599",
+        "27601"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74385",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 10590,
+          "listPrice": 10590,
+          "ppumPrice": 21180,
+          "ppumListPrice": 21180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310438-250-250/Salmon-Filete-500-g.jpg?v=638776391528730000"
+          ],
+          "name": "Salmón Filete Congelado 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "87246",
+      "reference": "1819095",
+      "sponsoredId": null,
+      "slug": "hamburguesa-de-salmon-100-g-cuisine-and-co-1819095",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "994",
+        "995"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Pescados",
+        "Pescados Apanados"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "87516",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 19900,
+          "ppumListPrice": 19900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/517078-250-250/Hamburguesa-de-Salmon-Cuisine---Co-100-g.jpg?v=638948346253030000"
+          ],
+          "name": "Hamburguesa de Salmón Cuisine & Co 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Pescados Congelados",
+          "value": "/carnes-y-pescados/pescados/pescados-congelados",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pescados Apanados",
+          "value": "/carnes-y-pescados/pescados/pescados-apanados",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pescados Frescos",
+          "value": "/carnes-y-pescados/pescados/pescados-frescos",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Pescados Congelados",
+          "value": "/carnes-y-pescados/pescados/pescados-congelados",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pescados Apanados",
+          "value": "/carnes-y-pescados/pescados/pescados-apanados",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pescados Frescos",
+          "value": "/carnes-y-pescados/pescados/pescados-frescos",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Pescados Congelados",
+          "value": "/carnes-y-pescados/pescados/pescados-congelados",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pescados Apanados",
+          "value": "/carnes-y-pescados/pescados/pescados-apanados",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pescados Frescos",
+          "value": "/carnes-y-pescados/pescados/pescados-frescos",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Salmones",
+          "value": "Salmones",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Atún",
+          "value": "Atún",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Merluzas",
+          "value": "Merluzas",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Reinetas",
+          "value": "Reinetas",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Truchas",
+          "value": "Truchas",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Congrio Dorado",
+          "value": "Congrio Dorado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jureles",
+          "value": "Jureles",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pargos",
+          "value": "Pargos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bacalao",
+          "value": "Bacalao",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Loin de Atún",
+          "value": "Loin de Atún",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tilapias",
+          "value": "Tilapias",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Albacoras",
+          "value": "Albacoras",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Corvinas",
+          "value": "Corvinas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pejerrey",
+          "value": "Pejerrey",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Róbalos",
+          "value": "Róbalos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lisas",
+          "value": "Lisas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Congrio Colorado",
+          "value": "Congrio Colorado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Congrio Negro",
+          "value": "Congrio Negro",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pescadería Jumbo",
+          "value": "Pescadería Jumbo",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Crianza",
+          "value": "La Crianza",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "El Golfo",
+          "value": "El Golfo",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aqua",
+          "value": "Aqua",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San José",
+          "value": "San José",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Friosur",
+          "value": "Friosur",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entre Ríos",
+          "value": "Entre Ríos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "South Wind",
+          "value": "South Wind",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Panamei",
+          "value": "Panamei",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Congelados Premium",
+          "value": "Congelados Premium",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo",
+          "value": "Jumbo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "CaletaBay",
+          "value": "CaletaBay",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 40,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 40,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 40,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 33,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Congelados",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frescos",
+          "value": "Fresco",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 38,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "China",
+          "value": "China",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Salmón",
+          "value": "Salmón",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Apanado",
+          "value": "Apanado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Congelados",
+          "value": "Congelados",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crudo",
+          "value": "Crudo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salmones",
+          "value": "Salmones",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "100 g",
+          "value": "100 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "120 g",
+          "value": "120 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "400 g",
+          "value": "400 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "500 g",
+          "value": "500 g",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "700 g",
+          "value": "700 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Producto pesable vendido a granel",
+          "value": "Producto pesable vendido a granel",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Filete",
+          "value": "Filete",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trozo",
+          "value": "Trozo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mediano",
+          "value": "Mediano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "100 g",
+          "value": "100 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5 Unidades",
+          "value": "5 Piezas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 35,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sobre",
+          "value": "Sobre",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 57,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 850,
+          "maxValue": 53990
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 66,
+  "metaTag": {
+    "title": "Pescados - Obtén salmón, atún, congrio y más | Jumbo.cl",
+    "description": "Aprovecha la gran variedad de pescados disponibles en nuestra pescadería online y lleva tus preferidos para múltiples recetas. ¡Consíguelos 100% online!"
+  }
+}

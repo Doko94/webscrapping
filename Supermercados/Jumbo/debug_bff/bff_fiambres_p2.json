@@ -1,0 +1,2567 @@
+{
+  "products": [
+    {
+      "productId": "10644",
+      "reference": "1049603-KG",
+      "sponsoredId": null,
+      "slug": "jamon-pierna-receta-del-abuelo-gran",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "100"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Jamones"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10896",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1436,
+          "listPrice": 1436,
+          "ppumPrice": 14360,
+          "ppumListPrice": 14360,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350742-250-250/Principal-11309.jpg?v=638776682519970000"
+          ],
+          "name": "Jamón Pierna Receta del Abuelo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "98011",
+      "reference": "1859900",
+      "sponsoredId": null,
+      "slug": "pechuga-de-pavo-cocida-125-g-1859900",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25629",
+        "25695",
+        "25969",
+        "25974",
+        "26936"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98278",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 3190,
+          "listPrice": 3190,
+          "ppumPrice": 25520,
+          "ppumListPrice": 25520,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313101-250-250/Pechuga-de-pavo-cocida-125-g.jpg?v=638776398475570000"
+          ],
+          "name": "Pechuga de Pavo La Preferida Cocida 125 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "98010",
+      "reference": "1859903",
+      "sponsoredId": null,
+      "slug": "jamon-pierna-125-g-1859903",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "100"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Jamones"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98279",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 2440,
+          "listPrice": 2440,
+          "ppumPrice": 19520,
+          "ppumListPrice": 19520,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313111-250-250/Jamon-pierna-125-g.jpg?v=638776398501870000"
+          ],
+          "name": "Jamón Pierna La Preferida 125 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X4000 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 4000,
+              "unitPrice": 2000,
+              "ppumPrice": 16000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "57630",
+      "reference": "1716537-KG",
+      "sponsoredId": null,
+      "slug": "jamon-campestre-ahumado-la-crianza-grane",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "100"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Jamones"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25638",
+        "25668",
+        "25695",
+        "27309",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "57709",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 996,
+          "listPrice": 1219,
+          "ppumPrice": 9960,
+          "ppumListPrice": 12190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360265-250-250/Jamon-campestre-ahumado-granel.jpg?v=638776731965700000"
+          ],
+          "name": "Jamón Campestre La Crianza Ahumado Granel",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 9960 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 996,
+              "ppumPrice": 9960,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10610",
+      "reference": "298071-KG",
+      "sponsoredId": null,
+      "slug": "pechuga-de-pavo-acaramelado-la-pref-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26936"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10862",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1636,
+          "listPrice": 1636,
+          "ppumPrice": 16360,
+          "ppumListPrice": 16360,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350715-250-250/298071-KG.jpg?v=638776682381700000"
+          ],
+          "name": "Pechuga de Pavo La Preferida Acaramelado Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10588",
+      "reference": "296230-KG",
+      "sponsoredId": null,
+      "slug": "pechuga-de-pavo-asada-jumbo-premium",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "27564",
+        "27573"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10840",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2396,
+          "listPrice": 2396,
+          "ppumPrice": 23960,
+          "ppumListPrice": 23960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302092-250-250/Pechuga-de-Pavo-Premium-Granel-100-g.jpg?v=638776375795930000"
+          ],
+          "name": "Pechuga Pavo Premium Granel 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 2 PRIME DESDE EL 3 AL 9  03032026 AL 09032026",
+              "description": "JUMBO CICLO PRIME CICLO 2 PRIME DESDE EL 3 AL 9 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1677,
+              "ppumPrice": 16770,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10584",
+      "reference": "296182-KG",
+      "sponsoredId": null,
+      "slug": "jamon-tradicion-jumbo-meson",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "100",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Jamones",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "18271",
+        "25422",
+        "25432",
+        "25694",
+        "25695",
+        "27419",
+        "27438",
+        "27499",
+        "27501"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10836",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1596,
+          "listPrice": 1596,
+          "ppumPrice": 15960,
+          "ppumListPrice": 15960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301999-250-250/Jamon-Tradicion-Granel-100-g.jpg?v=638776375662730000"
+          ],
+          "name": "Jamón Tradición Granel 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10587",
+      "reference": "1097687-KG",
+      "sponsoredId": null,
+      "slug": "pechuga-de-pavo-asada-jumbo-meson",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "25578",
+        "27564",
+        "27573"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10839",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1836,
+          "listPrice": 1836,
+          "ppumPrice": 18360,
+          "ppumListPrice": 18360,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302059-250-250/Pechuga-de-Pavo-Asada-Granel-100-g.jpg?v=638776375760700000"
+          ],
+          "name": "Pechuga Pavo Asada Granel 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 2 PRIME DESDE EL 3 AL 9  03032026 AL 09032026",
+              "description": "JUMBO CICLO PRIME CICLO 2 PRIME DESDE EL 3 AL 9 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1285,
+              "ppumPrice": 12850,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "120496",
+      "reference": "1942047",
+      "sponsoredId": null,
+      "slug": "pechuga-pavo-cocida-sopraval-200g-1942047",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "26901",
+        "26936",
+        "27309",
+        "27499",
+        "27501",
+        "27518",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sopraval",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "120863",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 3890,
+          "listPrice": 4390,
+          "ppumPrice": 19450,
+          "ppumListPrice": 21950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/553893-250-250/Pechuga-Cocida-Sopraval-200-g.jpg?v=639015095851630000"
+          ],
+          "name": "Pechuga Cocida Sopraval 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3890 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3890,
+              "ppumPrice": 19450,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 3X9990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 9990,
+              "unitPrice": 3330,
+              "ppumPrice": 16650,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "155982",
+      "reference": "2051048-KG",
+      "sponsoredId": null,
+      "slug": "pechuga-acaramel-pollo-sopraval-granel-2051048-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sopraval",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156302",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 956,
+          "listPrice": 1396,
+          "ppumPrice": 9560,
+          "ppumListPrice": 13960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/502032-250-250/Pechuga-Acaramelada-de-Pollo-Sopraval-Granel.jpg?v=638923745568270000"
+          ],
+          "name": "Pechuga Acaramelada de Pollo Sopraval Granel",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 9560 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 956,
+              "ppumPrice": 9560,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10589",
+      "reference": "296237-KG",
+      "sponsoredId": null,
+      "slug": "pechuga-de-pavo-cocida-jumbo-meson",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "25578",
+        "27564",
+        "27573"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10841",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1836,
+          "listPrice": 1836,
+          "ppumPrice": 18360,
+          "ppumListPrice": 18360,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302135-250-250/Pechuga-de-Pavo-Cocida-Granel-100-g.jpg?v=638776375831630000"
+          ],
+          "name": "Pechuga Pavo Cocida Granel 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 2 PRIME DESDE EL 3 AL 9  03032026 AL 09032026",
+              "description": "JUMBO CICLO PRIME CICLO 2 PRIME DESDE EL 3 AL 9 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1285,
+              "ppumPrice": 12850,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10668",
+      "reference": "1507125-KG",
+      "sponsoredId": null,
+      "slug": "jamon-acaramelado-super-cerdo-grane-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "100"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Jamones"
+      ],
+      "collections": [
+        "23175"
+      ],
+      "brand": "Super Cerdo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10920",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1020,
+          "listPrice": 1020,
+          "ppumPrice": 10200,
+          "ppumListPrice": 10200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302069-250-250/Jamon-Acaramelado-Super-Cerdo-Granel.jpg?v=638776375768200000"
+          ],
+          "name": "Jamón Acaramelado Super Cerdo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10624",
+      "reference": "297417-KG",
+      "sponsoredId": null,
+      "slug": "jamon-pierna-acaramelado-pf-granel-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "100"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Jamones"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10876",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 956,
+          "listPrice": 1276,
+          "ppumPrice": 9560,
+          "ppumListPrice": 12760,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350730-250-250/Jamon-Pierna-Acaramelado-PF-Granel.jpg?v=638776682440200000"
+          ],
+          "name": "Jamón Pierna PF Acaramelado Granel",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 9560 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 956,
+              "ppumPrice": 9560,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "131774",
+      "reference": "1980048",
+      "sponsoredId": null,
+      "slug": "jamon-acaramelado-cp-la-crianza-120g-1980048",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "100"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Jamones"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25638",
+        "25668",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132066",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 2090,
+          "listPrice": 2090,
+          "ppumPrice": 17417,
+          "ppumListPrice": 17417,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321396-250-250/Jamon-Pierna-Cerdo-Acaramelado-Corte-Pluma-120-g.jpg?v=638776423165970000"
+          ],
+          "name": "Jamón Pierna Cerdo La Crianza Acaramelado Corte Pluma 120 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3600 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3600,
+              "unitPrice": 1800,
+              "ppumPrice": 15000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10885",
+      "reference": "915897-KG",
+      "sponsoredId": null,
+      "slug": "salame-italiano-pf-gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11143",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1660,
+          "listPrice": 1660,
+          "ppumPrice": 16600,
+          "ppumListPrice": 16600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350833-250-250/Salame-italiano-PF-granel.jpg?v=638776682915270000"
+          ],
+          "name": "Salame Italiano PF Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "158156",
+      "reference": "2049475-KG",
+      "sponsoredId": null,
+      "slug": "pechuga-pavo-cocida-ariztia-granel-2049475-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "26936",
+        "27287",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Ariztía",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "158484",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1276,
+          "listPrice": 1596,
+          "ppumPrice": 12760,
+          "ppumListPrice": 15960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/543128-250-250/Pechuga-100--de-Pavo-Cocida-Ariztia-Granel.jpg?v=638991551361470000"
+          ],
+          "name": "Pechuga 100% de Pavo Cocida Ariztía Granel",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 12760 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1276,
+              "ppumPrice": 12760,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Jamones",
+          "value": "/quesos-y-fiambres/fiambres/jamones",
+          "selected": false,
+          "quantity": 67,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salames y Tocinos",
+          "value": "/quesos-y-fiambres/fiambres/salames-y-tocinos",
+          "selected": false,
+          "quantity": 60,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pechuga de Pavo y Pollo",
+          "value": "/quesos-y-fiambres/fiambres/pechuga-de-pavo-y-pollo",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jamón Serrano, Lomo Kassler y Otros",
+          "value": "/quesos-y-fiambres/fiambres/jamon-serrano-lomo-kassler-y-otros",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mortadelas, Arrollados y Otros",
+          "value": "/quesos-y-fiambres/fiambres/mortadelas-arrollados-y-otros",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paté",
+          "value": "/quesos-y-fiambres/fiambres/pate",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Jamones",
+          "value": "/quesos-y-fiambres/fiambres/jamones",
+          "selected": false,
+          "quantity": 67,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salames y Tocinos",
+          "value": "/quesos-y-fiambres/fiambres/salames-y-tocinos",
+          "selected": false,
+          "quantity": 60,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pechuga de Pavo y Pollo",
+          "value": "/quesos-y-fiambres/fiambres/pechuga-de-pavo-y-pollo",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jamón Serrano, Lomo Kassler y Otros",
+          "value": "/quesos-y-fiambres/fiambres/jamon-serrano-lomo-kassler-y-otros",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mortadelas, Arrollados y Otros",
+          "value": "/quesos-y-fiambres/fiambres/mortadelas-arrollados-y-otros",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paté",
+          "value": "/quesos-y-fiambres/fiambres/pate",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Jamones",
+          "value": "/quesos-y-fiambres/fiambres/jamones",
+          "selected": false,
+          "quantity": 67,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salames y Tocinos",
+          "value": "/quesos-y-fiambres/fiambres/salames-y-tocinos",
+          "selected": false,
+          "quantity": 60,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pechuga de Pavo y Pollo",
+          "value": "/quesos-y-fiambres/fiambres/pechuga-de-pavo-y-pollo",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jamón Serrano, Lomo Kassler y Otros",
+          "value": "/quesos-y-fiambres/fiambres/jamon-serrano-lomo-kassler-y-otros",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mortadelas, Arrollados y Otros",
+          "value": "/quesos-y-fiambres/fiambres/mortadelas-arrollados-y-otros",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paté",
+          "value": "/quesos-y-fiambres/fiambres/pate",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Receta del Abuelo",
+          "value": "Receta del Abuelo",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sopraval",
+          "value": "Sopraval",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Preferida",
+          "value": "La Preferida",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "PF",
+          "value": "PF",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Jorge",
+          "value": "San Jorge",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Crianza",
+          "value": "La Crianza",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo Artesanal",
+          "value": "Jumbo Artesanal",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ariztía",
+          "value": "Ariztía",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Super Cerdo",
+          "value": "Super Cerdo",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Super Pollo",
+          "value": "Super Pollo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Llanquihue",
+          "value": "Llanquihue",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Winter",
+          "value": "Winter",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Soler",
+          "value": "Soler",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Emporio Alemán",
+          "value": "Emporio Alemán",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Beretta",
+          "value": "Beretta",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trujillo",
+          "value": "Trujillo",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Villa Baviera",
+          "value": "Villa Baviera",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cassini",
+          "value": "Cassini",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Los Astures",
+          "value": "Los Astures",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bellagio",
+          "value": "Bellagio",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sánchez Alcaraz",
+          "value": "Sánchez Alcaraz",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Budapest",
+          "value": "Budapest",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crazy Lazy",
+          "value": "Crazy Lazy",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Piara",
+          "value": "La Piara",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo",
+          "value": "Jumbo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Easa",
+          "value": "Easa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nivea Men",
+          "value": "Nivea Men",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doña Rosita",
+          "value": "Doña Rosita",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Batalle",
+          "value": "Batalle",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rezende",
+          "value": "Rezende",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Jamón Pierna",
+          "value": "Jamón Pierna",
+          "selected": false,
+          "quantity": 35,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jamón de Cerdo",
+          "value": "Jamón de Cerdo",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pechuga de Pavo",
+          "value": "Pechuga de Pavo",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pechuga de Pavo y Pollo",
+          "value": "Pechuga de Pavo y Pollo",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pechuga de Pollo",
+          "value": "Pechuga de Pollo",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salame Italiano",
+          "value": "Salame Italiano",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jamón de Pavo",
+          "value": "Jamón de Pavo",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jamón Serrano",
+          "value": "Jamón Serrano",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pastramis",
+          "value": "Pastramis",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mortadelas",
+          "value": "Mortadelas",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salchichas",
+          "value": "Salchichas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lomo Kassler",
+          "value": "Lomo Kassler",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salame",
+          "value": "Salame",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arrollado Huaso",
+          "value": "Arrollado Huaso",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arrollado Artesanal",
+          "value": "Arrollado Artesanal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arrollado de Lomo",
+          "value": "Arrollado de Lomo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Snacks Fiambres",
+          "value": "Snacks Fiambres",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tocinos",
+          "value": "Tocinos",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pollo",
+          "value": "Pollo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tabla de Fiambres",
+          "value": "Tabla de Fiambres",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pastas Untables",
+          "value": "Pastas Untables",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chuleta Kassler",
+          "value": "Chuleta Kassler",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Prosciuttos",
+          "value": "Prosciuttos",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salamín",
+          "value": "Salamín",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salchichón Cerveza",
+          "value": "Salchichón Cerveza",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paté de Ternera",
+          "value": "Paté de Ternera",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paté de Jamón",
+          "value": "Paté de Jamón",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pata de Jamón Serrano",
+          "value": "Pata de Jamón Serrano",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pepperonis",
+          "value": "Pepperonis",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paté de Campo",
+          "value": "Paté de Campo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chorizo",
+          "value": "Chorizo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paté de Pollo",
+          "value": "Paté de Pollo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pancetas",
+          "value": "Pancetas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fuet",
+          "value": "Fuet",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jabones",
+          "value": "Jabones",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Perniles",
+          "value": "Perniles",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 175,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 175,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 169,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 169,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 166,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 147,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 114,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 95,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 155,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 102,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 144,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Acaramelado",
+          "value": "Acaramelado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ahumado",
+          "value": "Ahumado",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arrollado sazonado con ají",
+          "value": "Arrollado sazonado con ají",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Artesanal",
+          "value": "Artesanal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Asada",
+          "value": "Asada",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ave Mayo",
+          "value": "Ave Mayo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Característico",
+          "value": "Característico",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cerdo",
+          "value": "Cerdo",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cerdo Acaramelado",
+          "value": "Cerdo Acaramelado",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cocida",
+          "value": "Cocida",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Colonial",
+          "value": "Colonial",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "de Campo",
+          "value": "de Campo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jamonada",
+          "value": "Jamonada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jamón",
+          "value": "Jamón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jamón de Cebo Ibérico 50% raza ibérica Sánchez Alcaraz de cerdos de raza ibérica seleccionados, criados y alimentados de manera tradicional. La curación es lenta y larga mejorando la textura y el sabor.",
+          "value": "Jamón de Cebo Ibérico 50% raza ibérica Sánchez Alcaraz de cerdos de raza ibérica seleccionados, criados y alimentados de manera tradicional. La curación es lenta y larga mejorando la textura y el sabor.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jamón Pierna",
+          "value": "Jamón Pierna",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jamón pierna acaramelado",
+          "value": "Jamón pierna acaramelado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Levemente acidificado, leve salado.",
+          "value": "Levemente acidificado, leve salado.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mortadela",
+          "value": "Mortadela",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mortadela de cerdo y pollo",
+          "value": "Mortadela de cerdo y pollo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Panceta",
+          "value": "Panceta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pavo",
+          "value": "Pavo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pavo ahumado",
+          "value": "Pavo ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pechuga de Pollo cocida",
+          "value": "Pechuga de Pollo cocida",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pechuga pollo acaramelada",
+          "value": "Pechuga pollo acaramelada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sabor a Jamón",
+          "value": "Sabor a Jamón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salado",
+          "value": "Salado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salame",
+          "value": "Salame",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salame Ahumado",
+          "value": "Salame Ahumado",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salame Intenso",
+          "value": "Salame Intenso",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salame Italiano",
+          "value": "Salame Italiano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salchichón Cerveza",
+          "value": "Salchichón Cerveza",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Spicy Chipotle",
+          "value": "Spicy Chipotle",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ternera",
+          "value": "Ternera",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tradicional",
+          "value": "Tradicional",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tradicional Ahumado",
+          "value": "Tradicional Ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tradicional ahumado",
+          "value": "Tradicional ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tradicional levemente ahumado",
+          "value": "Tradicional levemente ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 225,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 38,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Acaramelado",
+          "value": "Acaramelado",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Afumicatta",
+          "value": "Afumicatta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ahumado",
+          "value": "Ahumado",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Artesanal",
+          "value": "Artesanal",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Asada",
+          "value": "Asada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Asado",
+          "value": "Asado",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cocida",
+          "value": "Cocida",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cocido",
+          "value": "Cocido",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Colonial",
+          "value": "Colonial",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Con Ají",
+          "value": "Con Ají",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "de Campo",
+          "value": "de Campo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Embutidos",
+          "value": "Embutidos",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fiambres",
+          "value": "Fiambres",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italiano PF",
+          "value": "Italiano PF",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jamones",
+          "value": "Jamones",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kassler",
+          "value": "Kassler",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mini",
+          "value": "Mini",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Parrillero",
+          "value": "Parrillero",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pechuga de Pavo y Pollo",
+          "value": "Pechuga de Pavo y Pollo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Premium",
+          "value": "Premium",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Reserva",
+          "value": "Reserva",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tradicional",
+          "value": "Tradicional",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 676,
+          "maxValue": 159990
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Cabello",
+      "key": "Tipo de Cabello",
+      "values": [
+        {
+          "displayName": "Todo Tipo de Cabello",
+          "value": "Todo tipo de cabello",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 263,
+  "metaTag": {
+    "title": "Fiambres | Jumbo.cl",
+    "description": "El jamón es un infaltable en tu refrigerador, siendo el complemento ideal de tablas de picoteo y sándwiches. ¡Explora nuestra fiambrería y lleva tu favorito!"
+  }
+}

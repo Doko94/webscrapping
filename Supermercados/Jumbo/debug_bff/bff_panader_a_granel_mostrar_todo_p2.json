@@ -1,0 +1,1477 @@
+{
+  "products": [
+    {
+      "productId": "159891",
+      "reference": "2055177",
+      "sponsoredId": null,
+      "slug": "baguette-rustico-u-2055177",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "150",
+        "157",
+        "161",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Pan Especial",
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160255",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 1490,
+          "listPrice": 1490,
+          "ppumPrice": 4967,
+          "ppumListPrice": 4967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/545060-250-250/2055177-01_723080.jpg?v=638998514000800000"
+          ],
+          "name": "Baguette Rústico Tradicional 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "52864",
+      "reference": "1704591-KG",
+      "sponsoredId": null,
+      "slug": "coliza-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "161",
+        "172",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Pan Tradicional",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "18271",
+        "18637"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "53157",
+          "cartLimit": 6,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1645,
+          "listPrice": 1645,
+          "ppumPrice": 3290,
+          "ppumListPrice": 3290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/359047-250-250/1704591kg1-434562.jpg?v=638776726614470000"
+          ],
+          "name": "Pan Coliza Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "8891",
+      "reference": "295937",
+      "sponsoredId": null,
+      "slug": "pan-kassler-jumbo-1-unid-linaza-y-sesamo-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "161",
+        "547",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Pan artesanal",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "18637"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9092",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 3290,
+          "listPrice": 3290,
+          "ppumPrice": 3290,
+          "ppumListPrice": 3290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301111-250-250/Pan-Kassler-Cereal-750-g.jpg?v=638776374545130000"
+          ],
+          "name": "Pan Kassler Cereal 750 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "149025",
+      "reference": "1704597-KG",
+      "sponsoredId": null,
+      "slug": "pan-pita-blanco-v4-kg-1704597-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "150",
+        "157",
+        "161"
+      ],
+      "categoryNames": [
+        "Pan Especial",
+        "Panadería y Pastelería",
+        "Panadería granel"
+      ],
+      "collections": [],
+      "brand": "Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149321",
+          "cartLimit": 6,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1645,
+          "listPrice": 1645,
+          "ppumPrice": 3290,
+          "ppumListPrice": 3290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/490309-250-250/1704597-KG-01_52319.jpg?v=638901425561370000"
+          ],
+          "name": "Pan Pita Blanco Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "136855",
+      "reference": "1989490-KG",
+      "sponsoredId": null,
+      "slug": "pan-de-hoja-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "161",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "18271",
+        "18637"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137147",
+          "cartLimit": 10,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 2745,
+          "listPrice": 2745,
+          "ppumPrice": 5490,
+          "ppumListPrice": 5490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/327506-250-250/1989490-KG-01_674709.jpg?v=638776430066430000"
+          ],
+          "name": "Pan Hoja Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "69660",
+      "reference": "1758173",
+      "sponsoredId": null,
+      "slug": "pan-dark-jumbo-artesanal-un",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "161",
+        "547",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Pan artesanal",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "18637"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "69916",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 2590,
+          "listPrice": 2590,
+          "ppumPrice": 2590,
+          "ppumListPrice": 2590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309922-250-250/Pan-Dark-un.jpg?v=638776390266500000"
+          ],
+          "name": "Pan Dark 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139190",
+      "reference": "1989489-KG",
+      "sponsoredId": null,
+      "slug": "baguetin-rustico-granel-1989489-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "150",
+        "157",
+        "161",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Pan Especial",
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "18637"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139484",
+          "cartLimit": 6,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1745,
+          "listPrice": 1745,
+          "ppumPrice": 3490,
+          "ppumListPrice": 3490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/403395-250-250/1989489-KG-01_674706.jpg?v=638776912081630000"
+          ],
+          "name": "Baguetín Rústico Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139189",
+      "reference": "2002215-KG",
+      "sponsoredId": null,
+      "slug": "bocado-de-dama-kg-2002215-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "150",
+        "157",
+        "161",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Pan Especial",
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139483",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 2145,
+          "listPrice": 2145,
+          "ppumPrice": 4290,
+          "ppumListPrice": 4290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/331819-250-250/Bocado-de-Dama-kg.jpg?v=638776433494400000"
+          ],
+          "name": "Bocado de Dama Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "136539",
+      "reference": "1992247",
+      "sponsoredId": null,
+      "slug": "pan-trekking-bread-jumbo-artesanal-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "150",
+        "157",
+        "161",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Pan Especial",
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "18631",
+        "18637",
+        "25638"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "136832",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 5990,
+          "ppumListPrice": 5990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/326925-250-250/Pan-Trekking-Bread-Jumbo-Artesanal-1-kg.jpg?v=638776429582930000"
+          ],
+          "name": "Pan Trekking Bread 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "8888",
+      "reference": "295916-KG",
+      "sponsoredId": null,
+      "slug": "pan-italiano-jumbo-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "161",
+        "547",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Pan artesanal",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "18637",
+        "25630"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9089",
+          "cartLimit": 6,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1645,
+          "listPrice": 1645,
+          "ppumPrice": 3290,
+          "ppumListPrice": 3290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/349668-250-250/Principal-11065.jpg?v=638776677989770000"
+          ],
+          "name": "Pan Italiano Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "147386",
+      "reference": "2018277",
+      "sponsoredId": null,
+      "slug": "croissant-atm-c-and-co-3un-2018277",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "150",
+        "157",
+        "161",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Pan Especial",
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147681",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 3,
+          "price": 1990,
+          "listPrice": 2490,
+          "ppumPrice": 663,
+          "ppumListPrice": 830,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/520081-250-250/Croissant-Cuisine---Co-3-un.jpg?v=638963057549430000"
+          ],
+          "name": "Croissant Cuisine & Co 3 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1990 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 26022026 AL 08032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1990,
+              "ppumPrice": 663,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "79275",
+      "reference": "1813742",
+      "sponsoredId": null,
+      "slug": "bagel-tradicional-4-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "150",
+        "157",
+        "161",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Pan Especial",
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "18633",
+        "18637"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "79528",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 4,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 998,
+          "ppumListPrice": 998,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/364144-250-250/Bagel-tradicional-4-unid-1-117148914.jpg?v=638776752425900000"
+          ],
+          "name": "Bagel Tradicional 4 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146903",
+      "reference": "2013036",
+      "sponsoredId": null,
+      "slug": "pan-cristalino-europastry-300g-2013036",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "150",
+        "157",
+        "161"
+      ],
+      "categoryNames": [
+        "Pan Especial",
+        "Panadería y Pastelería",
+        "Panadería granel"
+      ],
+      "collections": [],
+      "brand": "Europastry",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147198",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 8967,
+          "ppumListPrice": 8967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/410638-250-250/Pan-Cristalino-Europastry-300-g.jpg?v=638790482231800000"
+          ],
+          "name": "Pan Cristalino Europastry 300 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "8897",
+      "reference": "295964-KG",
+      "sponsoredId": null,
+      "slug": "pan-rositas-jumbo-granel-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "150",
+        "157",
+        "161",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Pan Especial",
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "18637"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9098",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 2990,
+          "ppumListPrice": 2990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/349670-250-250/Principal-1292.jpg?v=638776677994800000"
+          ],
+          "name": "Pan Rositas Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "8898",
+      "reference": "990993",
+      "sponsoredId": null,
+      "slug": "pan-rustikal-brot-jumbo-850-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "161",
+        "547",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Pan artesanal",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "18637"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9099",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.85,
+          "price": 3690,
+          "listPrice": 3690,
+          "ppumPrice": 4341,
+          "ppumListPrice": 4341,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301171-250-250/Pan-Rustikal-Brot-850-g.jpg?v=638776374602530000"
+          ],
+          "name": "Pan Rustikal Brot 850 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159892",
+      "reference": "2055178",
+      "sponsoredId": null,
+      "slug": "baguette-r-who-un-2055178",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "150",
+        "157",
+        "161",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Pan Especial",
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160256",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 1490,
+          "listPrice": 1490,
+          "ppumPrice": 4967,
+          "ppumListPrice": 4967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/545069-250-250/2055178-01_723079.jpg?v=638998522820100000"
+          ],
+          "name": "Baguette Rústico Wholegrain 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Pan Especial",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-especial",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan artesanal",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-artesanal",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Tradicional",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-tradicional",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Ciabatta",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-ciabatta",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Pan Especial",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-especial",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan artesanal",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-artesanal",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Tradicional",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-tradicional",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Ciabatta",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-ciabatta",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Pan Especial",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-especial",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan artesanal",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-artesanal",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Tradicional",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-tradicional",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Ciabatta",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-ciabatta",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo Artesanal",
+          "value": "Jumbo Artesanal",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Panadería Propia",
+          "value": "Panadería Propia",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo",
+          "value": "Jumbo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Europastry",
+          "value": "Europastry",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Pan Ciabatta",
+          "value": "Pan Ciabatta",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Marraqueta",
+          "value": "Pan Marraqueta",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Hallulla",
+          "value": "Pan Hallulla",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan de Completo",
+          "value": "Pan de Completo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Dobladita",
+          "value": "Pan Dobladita",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Hogaza",
+          "value": "Pan Hogaza",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Baguette",
+          "value": "Pan Baguette",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Hamburguesa",
+          "value": "Pan Hamburguesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Kassler",
+          "value": "Pan Kassler",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Integral",
+          "value": "Pan Integral",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Amasado",
+          "value": "Pan Amasado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Toscano",
+          "value": "Pan Toscano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan de Molde Integral",
+          "value": "Pan de Molde Integral",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Coliza",
+          "value": "Pan Coliza",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Pita",
+          "value": "Pan Pita",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Fugazza",
+          "value": "Pan Fugazza",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan de Campo",
+          "value": "Pan de Campo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan de Hoja",
+          "value": "Pan de Hoja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Bocado de Dama",
+          "value": "Pan Bocado de Dama",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Croissants",
+          "value": "Croissants",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Bagel",
+          "value": "Pan Bagel",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Adornos Halloween",
+          "value": "Adornos Halloween",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Rosita",
+          "value": "Pan Rosita",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas Empanadas",
+          "value": "Masas Empanadas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Pita Integral",
+          "value": "Pan Pita Integral",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tortillas de Campo",
+          "value": "Tortillas de Campo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Hecho en Jumbo",
+      "key": "Hecho en Jumbo",
+      "values": [
+        {
+          "displayName": "Si",
+          "value": "Si",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "No",
+          "value": "No",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1095,
+          "maxValue": 5990
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Granel",
+          "value": "Granel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 47,
+  "metaTag": {
+    "title": "Panadería granel | Jumbo.cl",
+    "description": "Echa un vistazo a la panadería granel online y elige el mejor pan para acompañar tu hora del té con incomparables aromas, sabores y texturas."
+  }
+}

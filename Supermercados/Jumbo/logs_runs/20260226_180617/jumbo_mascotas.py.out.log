@@ -1,0 +1,298 @@
+
+Subcategorías:
+- Alimentos Secos Perros -> https://www.jumbo.cl/mascotas/perros/alimentos-secos-perros
+- Alimentos Húmedos Perros -> https://www.jumbo.cl/mascotas/perros/alimentos-humedos-perros
+- Snacks, Salsas y Huesos -> https://www.jumbo.cl/mascotas/perros/snacks-salsas-y-huesos
+- Cuidado e Higiene de Perros -> https://www.jumbo.cl/mascotas/perros/cuidado-e-higiene-de-perros
+- Alimentos Secos Gatos -> https://www.jumbo.cl/mascotas/gatos/alimentos-secos-gatos
+- Alimentos Húmedos Gatos -> https://www.jumbo.cl/mascotas/gatos/alimentos-humedos-gatos
+- Snacks y Salsas Gatos -> https://www.jumbo.cl/mascotas/gatos/snacks-y-salsas-gatos
+- Arenas e Higiene Gatos -> https://www.jumbo.cl/mascotas/gatos/arenas-e-higiene-gatos
+- Aves -> https://www.jumbo.cl/mascotas/otras-mascotas/aves
+- Peces -> https://www.jumbo.cl/mascotas/otras-mascotas/peces
+- Roedores -> https://www.jumbo.cl/mascotas/otras-mascotas/roedores
+
+Scrape: Alimentos Secos Perros
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+02. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/alimentos-secos-perros.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/alimentos-secos-perros.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+🧪 Dump BFF guardado: debug_bff\bff_alimentos_secos_perros.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/alimentos-secos-perros.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/alimentos-secos-perros.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 19
+  productos: 92
+
+Scrape: Alimentos Húmedos Perros
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/alimentos-humedos-perros.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/alimentos-humedos-perros.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/alimentos-humedos-perros.json
+🧪 Dump BFF guardado: debug_bff\bff_alimentos_h_medos_perros.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 39
+  productos: 39
+
+Scrape: Snacks, Salsas y Huesos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/snacks-salsas-y-huesos.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/snacks-salsas-y-huesos.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/snacks-salsas-y-huesos.json
+🧪 Dump BFF guardado: debug_bff\bff_snacks_salsas_y_huesos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/snacks-salsas-y-huesos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/snacks-salsas-y-huesos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/snacks-salsas-y-huesos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/snacks-salsas-y-huesos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 14
+  productos: 174
+
+Scrape: Cuidado e Higiene de Perros
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 404 https://assets.jumbo.cl/json/cms/cuidado-e-higiene-de-perros.json
+09. 200 https://bff.jumbo.cl/catalog/plp
+10. 200 https://assets.jumbo.cl/json/cms/page-100823.json
+🧪 Dump BFF guardado: debug_bff\bff_cuidado_e_higiene_de_perros.json
+⚠️ 0 productos (no se detectó JSON de productos): https://www.jumbo.cl/mascotas/perros/cuidado-e-higiene-de-perros
+  productos: 0
+
+Scrape: Alimentos Secos Gatos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/alimentos-secos-gatos.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/alimentos-secos-gatos.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/alimentos-secos-gatos.json
+🧪 Dump BFF guardado: debug_bff\bff_alimentos_secos_gatos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/alimentos-secos-gatos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 32
+  productos: 72
+
+Scrape: Alimentos Húmedos Gatos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/alimentos-humedos-gatos.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/alimentos-humedos-gatos.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/alimentos-humedos-gatos.json
+🧪 Dump BFF guardado: debug_bff\bff_alimentos_h_medos_gatos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+02. 200 https://assets.jumbo.cl/json/cms/alimentos-humedos-gatos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/alimentos-humedos-gatos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+  productos: 80
+
+Scrape: Snacks y Salsas Gatos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://bff.jumbo.cl/catalog/plp
+09. 404 https://assets.jumbo.cl/json/cms/snacks-y-salsas-gatos.json
+10. 200 https://assets.jumbo.cl/json/cms/page-100823.json
+🧪 Dump BFF guardado: debug_bff\bff_snacks_y_salsas_gatos.json
+⚠️ 0 productos (no se detectó JSON de productos): https://www.jumbo.cl/mascotas/gatos/snacks-y-salsas-gatos
+  productos: 0
+
+Scrape: Arenas e Higiene Gatos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/arenas-e-higiene-gatos.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/arenas-e-higiene-gatos.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/arenas-e-higiene-gatos.json
+🧪 Dump BFF guardado: debug_bff\bff_arenas_e_higiene_gatos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/arenas-e-higiene-gatos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 21
+  productos: 61
+
+Scrape: Aves
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://bff.jumbo.cl/catalog/plp
+09. 200 https://assets.jumbo.cl/json/cms/aves.json
+10. 200 https://assets.jumbo.cl/json/cms/aves.json
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+🧪 Dump BFF guardado: debug_bff\bff_aves.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 4
+  productos: 4
+
+Scrape: Peces
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://bff.jumbo.cl/catalog/plp
+09. 200 https://assets.jumbo.cl/json/cms/peces.json
+10. 200 https://assets.jumbo.cl/json/cms/peces.json
+11. 200 https://assets.jumbo.cl/json/cms/page-100823.json
+🧪 Dump BFF guardado: debug_bff\bff_peces.json
+⚠️ 0 productos (no se detectó JSON de productos): https://www.jumbo.cl/mascotas/otras-mascotas/peces
+  productos: 0
+
+Scrape: Roedores
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/roedores.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/roedores.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/roedores.json
+🧪 Dump BFF guardado: debug_bff\bff_roedores.json
+⚠️ 0 productos (no se detectó JSON de productos): https://www.jumbo.cl/mascotas/otras-mascotas/roedores
+  productos: 0
+
+Total filas: 522
+CSV generado: output\mascotas\jumbo_mascotas_20260226_191832.csv

@@ -1,0 +1,3064 @@
+{
+  "products": [
+    {
+      "productId": "111427",
+      "reference": "1910545",
+      "sponsoredId": null,
+      "slug": "cerveza-clausthaler-radler-limon-sin-alcohol-500-cc-1910545",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "26912",
+        "27097",
+        "27100",
+        "27367"
+      ],
+      "brand": "Clausthaler",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "111695",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1512,
+          "listPrice": 1890,
+          "ppumPrice": 3024,
+          "ppumListPrice": 3780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/496292-250-250/Cerveza-Clausthaler-Radler-Limon-Sin-Alcohol-500-cc.jpg?v=638911647332270000"
+          ],
+          "name": "Cerveza Clausthaler Radler Limón Sin Alcohol 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 1512,
+              "ppumPrice": 3024,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126306",
+      "reference": "1961619-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-unidades-cerveza-corona-lager-sin-alcohol-330-cc-1961619-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25354",
+        "25422",
+        "25543",
+        "25607",
+        "25695",
+        "26912",
+        "27097",
+        "27100",
+        "27367",
+        "27419",
+        "27499",
+        "27501"
+      ],
+      "brand": "Corona",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126599",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.98,
+          "price": 5290,
+          "listPrice": 7790,
+          "ppumPrice": 2672,
+          "ppumListPrice": 3934,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319152-250-250/Pack-6-un-Cerveza-Corona-Lager-Sin-Alcohol-330-cc.jpg?v=638776416777470000"
+          ],
+          "name": "Pack 6 un. Cerveza Corona Lager Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5290 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5290,
+              "ppumPrice": 2672,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "53882",
+      "reference": "1743066-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-unidades-cerveza-heineken-cero-lager-sin-alcohol-330-cc-1743066-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "25263",
+        "25265",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Heineken",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "54094",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.98,
+          "price": 5383,
+          "listPrice": 7690,
+          "ppumPrice": 2719,
+          "ppumListPrice": 3884,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308322-250-250/Pack-6-un-Cerveza-Heineken-Cero-Lager-Sin-alcohol-330-cc.jpg?v=638857746836300000"
+          ],
+          "name": "Pack 6 un. Cerveza Heineken Cero Lager Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 5383,
+              "ppumPrice": 2719,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "53705",
+      "reference": "263612-PAK",
+      "sponsoredId": null,
+      "slug": "pack-4-unidades-cerveza-kunstmann-lager-sin-alcohol-330-cc-263612-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "23175",
+        "25263",
+        "25265",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Kunstmann",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "53998",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.32,
+          "price": 5593,
+          "listPrice": 7990,
+          "ppumPrice": 4237,
+          "ppumListPrice": 6053,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308465-250-250/Pack-4-un-Cerveza-Kunstmann-Lager-Sin-Alcohol-330-cc.jpg?v=638857748633200000"
+          ],
+          "name": "Pack 4 un. Cerveza Kunstmann Lager Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 5593,
+              "ppumPrice": 4237,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "55921",
+      "reference": "1669481-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-unidades-cerveza-cristal-radler-sin-alcohol-350-cc-1669481-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "23175",
+        "25263",
+        "25265",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Cristal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55952",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2.1,
+          "price": 3983,
+          "listPrice": 5690,
+          "ppumPrice": 1897,
+          "ppumListPrice": 2710,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308869-250-250/Pack-6-un-Cerveza-Cristal-Radler-Sin-alcohol-350-cc.jpg?v=638857747559170000"
+          ],
+          "name": "Pack 6 un. Cerveza Cristal Radler Sin Alcohol 350 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3983,
+              "ppumPrice": 1897,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "25498",
+      "reference": "263528",
+      "sponsoredId": null,
+      "slug": "cerveza-clausthaler-lager-sin-alcohol-500-cc-263528",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "26912",
+        "27097",
+        "27100",
+        "27367"
+      ],
+      "brand": "Clausthaler",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "29073",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1512,
+          "listPrice": 1890,
+          "ppumPrice": 3024,
+          "ppumListPrice": 3780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/496423-250-250/Cerveza-Clausthaler-Lager-Sin-Alcohol-500-cc.jpg?v=638911647797570000"
+          ],
+          "name": "Cerveza Clausthaler Lager Sin Alcohol 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 1512,
+              "ppumPrice": 3024,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137792",
+      "reference": "1998660",
+      "sponsoredId": null,
+      "slug": "cerveza-mahou-sin-alcohol-lata-330-cc-1998660",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [],
+      "brand": "Mahou",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138086",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 950,
+          "listPrice": 950,
+          "ppumPrice": 2879,
+          "ppumListPrice": 2879,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/329540-250-250/Cerveza-Mahou-Sin-Alcohol-Lata-330-cc.jpg?v=638857748219470000"
+          ],
+          "name": "Cerveza Mahou Sin Alcohol Lata 330 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "43761",
+      "reference": "976353-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-unidades-cerveza-cristal-lager-sin-alcohol-350-cc-976353-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "23175",
+        "25263",
+        "25265",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Cristal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "44164",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2.1,
+          "price": 3983,
+          "listPrice": 5690,
+          "ppumPrice": 1897,
+          "ppumListPrice": 2710,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/523971-250-250/Pack-6-un-Cerveza-Cristal-Lager-Sin-Alcohol-350-cc.jpg?v=638959917497970000"
+          ],
+          "name": "Pack 6 un. Cerveza Cristal Lager Sin Alcohol 350 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3983,
+              "ppumPrice": 1897,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122063",
+      "reference": "1954155-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-unidades-cerveza-heineken-cero-lager-sin-alcohol-470-cc-1954155-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "25263",
+        "25265",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Heineken",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122339",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2.82,
+          "price": 5523,
+          "listPrice": 7890,
+          "ppumPrice": 1959,
+          "ppumListPrice": 2798,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317615-250-250/Pack-6-un-Cerveza-Heineken-Cero-Lager-Sin-alcohol-470-cc.jpg?v=638857749947800000"
+          ],
+          "name": "Pack 6 un. Cerveza Heineken Cero Lager Sin Alcohol 470 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 5523,
+              "ppumPrice": 1959,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115293",
+      "reference": "1932579-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-unidades-cerveza-royal-guard-premium-lager-sin-alcohol-355-cc-1932579-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25263",
+        "25265",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Royal Guard",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115558",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2.13,
+          "price": 4893,
+          "listPrice": 6990,
+          "ppumPrice": 2297,
+          "ppumListPrice": 3282,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316338-250-250/Pack-6-un-Cerveza-Royal-Guard-Premium-Lager-Sin-Alcohol-355-cc.jpg?v=638857749377130000"
+          ],
+          "name": "Pack 6 un. Cerveza Royal Guard Premium Lager Sin Alcohol 355 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 4893,
+              "ppumPrice": 2297,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138258",
+      "reference": "1995362-PAK",
+      "sponsoredId": null,
+      "slug": "cerveza-mahou-s-al-bot-250-ccx6-1995362-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [],
+      "brand": "Mahou",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138551",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 4850,
+          "listPrice": 4850,
+          "ppumPrice": 3233,
+          "ppumListPrice": 3233,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/571960-250-250/Pack-6-un-Cerveza-Mahou-Sin-Alcohol-Botella-250-cc.jpg?v=639053139784130000"
+          ],
+          "name": "Pack 6 un. Cerveza Mahou Sin Alcohol Botella 250 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "119063",
+      "reference": "1938705",
+      "sponsoredId": null,
+      "slug": "cerveza-clausthaler-lager-pomelo-sin-alcohol-330-cc-1938705",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "26912",
+        "27097",
+        "27100",
+        "27367"
+      ],
+      "brand": "Clausthaler",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "119328",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1832,
+          "listPrice": 2290,
+          "ppumPrice": 5552,
+          "ppumListPrice": 6939,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/496311-250-250/Cerveza-Clausthaler-Lager-Pomelo-Sin-Alcohol-330-cc.jpg?v=638911647370300000"
+          ],
+          "name": "Cerveza Clausthaler Lager Pomelo Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 1832,
+              "ppumPrice": 5552,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "112538",
+      "reference": "1904090",
+      "sponsoredId": null,
+      "slug": "cerveza-oettinger-lager-sin-alcohol-500-cc-1904090",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "24403",
+        "25263",
+        "25265",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Oettinger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112804",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 693,
+          "listPrice": 990,
+          "ppumPrice": 1386,
+          "ppumListPrice": 1980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/554352-250-250/Cerveza-Oettinger-Lager-Sin-Alcohol-500-cc.jpg?v=639015204404170000"
+          ],
+          "name": "Cerveza Oettinger Lager Sin Alcohol 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 693,
+              "ppumPrice": 1386,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 594,
+              "ppumPrice": 1188,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134271",
+      "reference": "1989058",
+      "sponsoredId": null,
+      "slug": "cerveza-clausthaler-lager-sin-filtrar-sin-alcohol-330-cc-1989058",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "26912",
+        "27097",
+        "27100",
+        "27367"
+      ],
+      "brand": "Clausthaler",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134565",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1832,
+          "listPrice": 2290,
+          "ppumPrice": 5552,
+          "ppumListPrice": 6939,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/322475-250-250/Cerveza-Clausthaler-Lager-Sin-alcohol-330-cc.jpg?v=638857752767630000"
+          ],
+          "name": "Cerveza Clausthaler Lager Sin Filtrar Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 1832,
+              "ppumPrice": 5552,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "148900",
+      "reference": "2039559-PAK",
+      "sponsoredId": null,
+      "slug": "cerveza-0-330cc-2039559-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "25263",
+        "25265",
+        "27499",
+        "27501"
+      ],
+      "brand": "Estrella Galicia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149196",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.98,
+          "price": 4690,
+          "listPrice": 5890,
+          "ppumPrice": 2369,
+          "ppumListPrice": 2975,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/455314-250-250/Pack-4-un-Cerveza-Estrella-Galicia-Sin-Alcohol-0%C2%B0-Botella-330-cc.jpg?v=638857106286270000"
+          ],
+          "name": "Pack 4 un. Cerveza Estrella Galicia Sin Alcohol 0° Botella 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4690,
+              "ppumPrice": 2369,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "118446",
+      "reference": "1928711",
+      "sponsoredId": null,
+      "slug": "cerveza-royal-dutch-lager-sin-alcohol-330-cc-1928711",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14967",
+        "17846",
+        "23175",
+        "24403",
+        "24952",
+        "25263",
+        "25265",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Royal Dutch",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "118706",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 623,
+          "listPrice": 890,
+          "ppumPrice": 1888,
+          "ppumListPrice": 2697,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316802-250-250/Cerveza-Royal-Dutch-Lager-Sin-alcohol-330-cc.jpg?v=638857753277700000"
+          ],
+          "name": "Cerveza Royal Dutch Lager Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 623,
+              "ppumPrice": 1888,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 534,
+              "ppumPrice": 1618,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11086",
+      "reference": "1032053",
+      "sponsoredId": null,
+      "slug": "cerveza-clausthaler-lager-sin-alcohol-330-cc-1032053",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "26912",
+        "27097",
+        "27100",
+        "27367"
+      ],
+      "brand": "Clausthaler",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11345",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1832,
+          "listPrice": 2290,
+          "ppumPrice": 5552,
+          "ppumListPrice": 6939,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/495861-250-250/Cerveza-Clausthaler-Lager-Sin-Alcohol-330-cc.jpg?v=638911646427500000"
+          ],
+          "name": "Cerveza Clausthaler Lager Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 1832,
+              "ppumPrice": 5552,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "53723",
+      "reference": "1407035-PAK",
+      "sponsoredId": null,
+      "slug": "pack-4-unidades-cerveza-mestra-lager-sin-alcohol-330-cc-1407035-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "22523",
+        "25263",
+        "25265",
+        "26912",
+        "27097",
+        "27100",
+        "27367"
+      ],
+      "brand": "Mestra",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "54012",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.32,
+          "price": 5112,
+          "listPrice": 6390,
+          "ppumPrice": 3873,
+          "ppumListPrice": 4841,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308547-250-250/Pack-4-un-Cerveza-Mestra-Lager-Sin-alcohol-330-cc.jpg?v=638857751852970000"
+          ],
+          "name": "Pack 4 un. Cerveza Mestra Lager Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 5112,
+              "ppumPrice": 3873,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "53773",
+      "reference": "1669482-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-unidades-cerveza-cristal-radler-sin-alcohol-355-cc-1669482-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "25263",
+        "25265",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Cristal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "54042",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2.13,
+          "price": 4053,
+          "listPrice": 5790,
+          "ppumPrice": 1903,
+          "ppumListPrice": 2718,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/523583-250-250/Pack-6-un-Cerveza-Cristal-Radler-Sin-Alcohol-355-cc.jpg?v=638959916285770000"
+          ],
+          "name": "Pack 6 un. Cerveza Cristal Radler Sin Alcohol 355 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 4053,
+              "ppumPrice": 1903,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11087",
+      "reference": "1523062",
+      "sponsoredId": null,
+      "slug": "cerveza-clausthaler-radler-limon-sin-alcohol-330-cc-1523062",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "26912",
+        "27097",
+        "27100",
+        "27367"
+      ],
+      "brand": "Clausthaler",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11346",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1832,
+          "listPrice": 2290,
+          "ppumPrice": 5552,
+          "ppumListPrice": 6939,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/495994-250-250/Cerveza-Clausthaler-Radler-Limon-Sin-Alcohol-330-cc.jpg?v=638911646772070000"
+          ],
+          "name": "Cerveza Clausthaler Radler Limón Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 1832,
+              "ppumPrice": 5552,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11055",
+      "reference": "1446110",
+      "sponsoredId": null,
+      "slug": "cerveza-3-horses-lager-sin-alcohol-330-cc-1446110",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14967",
+        "17846",
+        "24952",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "3 Horses",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11314",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 693,
+          "listPrice": 990,
+          "ppumPrice": 2100,
+          "ppumListPrice": 3000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302056-250-250/Cerveza-3-Horses-Lager-Sin-alcohol-330-cc.jpg?v=638857753118970000"
+          ],
+          "name": "Cerveza 3 Horses Lager Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 693,
+              "ppumPrice": 2100,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 594,
+              "ppumPrice": 1800,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16021",
+      "reference": "530757",
+      "sponsoredId": null,
+      "slug": "cerveza-erdinger-weissbier-sin-alcohol-330-cc-530757",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "25263",
+        "25265",
+        "27097",
+        "27100"
+      ],
+      "brand": "Erdinger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17351",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1912,
+          "listPrice": 2390,
+          "ppumPrice": 5794,
+          "ppumListPrice": 7242,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304065-250-250/Cerveza-Erdinger-Weissbier-Sin-alcohol-330-cc.jpg?v=638857750661630000"
+          ],
+          "name": "Cerveza Erdinger Weissbier Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 1912,
+              "ppumPrice": 5794,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16020",
+      "reference": "1614350",
+      "sponsoredId": null,
+      "slug": "cerveza-erdinger-weissbier-sin-alcohol-500-cc-1614350",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "25263",
+        "25265",
+        "27097",
+        "27100"
+      ],
+      "brand": "Erdinger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17350",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 2152,
+          "listPrice": 2690,
+          "ppumPrice": 4304,
+          "ppumListPrice": 5380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304056-250-250/Cerveza-Erdinger-Weissbier-Sin-alcohol-500-cc.jpg?v=638857749551530000"
+          ],
+          "name": "Cerveza Erdinger Weissbier Sin Alcohol 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 2152,
+              "ppumPrice": 4304,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16044",
+      "reference": "1641343",
+      "sponsoredId": null,
+      "slug": "cerveza-paulaner-weissbier-sin-alcohol-500-cc-1641343",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Cervezas Destacadas"
+      ],
+      "collections": [],
+      "brand": "Paulaner",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17374",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 5380,
+          "ppumListPrice": 5380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303880-250-250/Cerveza-Paulaner-Weissbier-Sin-alcohol-500-cc.jpg?v=638857752934600000"
+          ],
+          "name": "Cerveza Paulaner Weissbier Sin Alcohol 500 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11085",
+      "reference": "1047039",
+      "sponsoredId": null,
+      "slug": "cerveza-bitburger-premium-pils-sin-alcohol-330-cc-1047039",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "18966",
+        "23360",
+        "24403",
+        "25352",
+        "25447",
+        "25610",
+        "26885",
+        "26956",
+        "27098",
+        "27100",
+        "27261"
+      ],
+      "brand": "Bitburger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11344",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 973,
+          "listPrice": 1390,
+          "ppumPrice": 2948,
+          "ppumListPrice": 4212,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302013-250-250/Cerveza-Bitburger-Premium-Pils-Sin-alcohol-330-cc.jpg?v=638857751340470000"
+          ],
+          "name": "Cerveza Bitburger Premium Pils Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 973,
+              "ppumPrice": 2948,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 834,
+              "ppumPrice": 2527,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115619",
+      "reference": "1931357-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-unidades-cerveza-stella-artois-lager-sin-alcohol-330-cc-1931357-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "23175",
+        "25263",
+        "25265",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25741",
+        "26912",
+        "26955",
+        "27097",
+        "27100",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Stella Artois",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115902",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.98,
+          "price": 4990,
+          "listPrice": 7350,
+          "ppumPrice": 2520,
+          "ppumListPrice": 3712,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316521-250-250/Pack-6-un-Cerveza-Stella-Artois-Lager-Sin-Alcohol-330-cc.jpg?v=638857747783670000"
+          ],
+          "name": "Pack 6 un. Cerveza Stella Artois Lager Sin Alcohol 330 cc",
+          "stock": false,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4990 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4990,
+              "ppumPrice": 2520,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 3990 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 2015,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126300",
+      "reference": "1957197-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-unidades-cerveza-budweiser-lager-sin-alcohol-330-cc-1957197-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "25263",
+        "25265",
+        "25333",
+        "25334",
+        "25422",
+        "25607",
+        "25695",
+        "25741",
+        "26912",
+        "26955",
+        "27097",
+        "27100",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Budweiser",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126592",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 3.96,
+          "price": 4990,
+          "listPrice": 6990,
+          "ppumPrice": 1260,
+          "ppumListPrice": 1765,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319080-250-250/Pack-6-un-Cerveza-Budweiser-Lager-Sin-Alcohol-330-cc.jpg?v=638857748446000000"
+          ],
+          "name": "Pack 6 un. Cerveza Budweiser Lager Sin Alcohol 330 cc",
+          "stock": false,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4990 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4990,
+              "ppumPrice": 1260,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 3990 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 1008,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "144209",
+      "reference": "2017622-PAK",
+      "sponsoredId": null,
+      "slug": "cerveza-free-damm-sin-alcohol-330cc-2017622-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Damm",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144504",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.98,
+          "price": 5990,
+          "listPrice": 7790,
+          "ppumPrice": 3025,
+          "ppumListPrice": 3934,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/340890-250-250/Cerveza-Free-Damm-Sin-Alcohol-330-cc.jpg?v=638776441122430000"
+          ],
+          "name": "Pack 6 un. Cerveza Damm Free Sin Alcohol Lata 330 cc",
+          "stock": false,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5990,
+              "ppumPrice": 3025,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "113956",
+      "reference": "1931622-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-unidades-cerveza-peroni-premium-lager-sin-alcohol-330-cc-1931622-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "27097",
+        "27100"
+      ],
+      "brand": "Peroni",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "114220",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.98,
+          "price": 6310,
+          "listPrice": 8090,
+          "ppumPrice": 3187,
+          "ppumListPrice": 4086,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316181-250-250/Pack-6-un-Cerveza-Peroni-Premium-Lager-Sin-alcohol-330-cc.jpg?v=638857748824400000"
+          ],
+          "name": "Pack 6 un. Cerveza Peroni Premium Lager Sin Alcohol 330 cc",
+          "stock": false,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 22% - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 10022026 AL 28022026",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "percentual",
+              "value": 22,
+              "unitPrice": 6310,
+              "ppumPrice": 3187,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "67667",
+      "reference": "1764292-PAK",
+      "sponsoredId": null,
+      "slug": "pack-4-unidades-cerveza-mahou-tostada-lager-sin-alcohol-330-cc-1764292-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [],
+      "brand": "Mahou",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "67821",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.32,
+          "price": 5590,
+          "listPrice": 5590,
+          "ppumPrice": 4235,
+          "ppumListPrice": 4235,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309773-250-250/Pack-4-un-Cerveza-Mahou-Tostada-Lager-Sin-alcohol-330-cc.jpg?v=638857749185100000"
+          ],
+          "name": "Pack 4 un. Cerveza Mahou Tostada Lager Sin Alcohol 330 cc",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103329",
+      "reference": "1874766",
+      "sponsoredId": null,
+      "slug": "cerveza-paulaner-weissbier-sin-alcohol-500-cc-1874766",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Cervezas Destacadas"
+      ],
+      "collections": [],
+      "brand": "Paulaner",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103598",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 3980,
+          "ppumListPrice": 3980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314183-250-250/Cerveza-Paulaner-Weissbier-Sin-alcohol-500-cc.jpg?v=638857751159970000"
+          ],
+          "name": "Cerveza Paulaner Weissbier Sin Alcohol 500 cc",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122062",
+      "reference": "1939235-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-unidades-cerveza-mahou-tostada-lager-sin-alcohol-250-cc-1939235-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [],
+      "brand": "Mahou",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122317",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 5490,
+          "listPrice": 5490,
+          "ppumPrice": 21960,
+          "ppumListPrice": 21960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/451626-250-250/Pack-6-un-Cerveza-Mahou-Tostada-Lager-Sin-alcohol-250-cc.jpg?v=638851838556600000"
+          ],
+          "name": "Pack 6 un. Cerveza Mahou Tostada Lager Sin Alcohol 250 cc",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Cervezas sin Alcohol",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-sin-alcohol",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Cervezas sin Alcohol",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-sin-alcohol",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Cervezas sin Alcohol",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-sin-alcohol",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Clausthaler",
+          "value": "Clausthaler",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Corona",
+          "value": "Corona",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Heineken",
+          "value": "Heineken",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kunstmann",
+          "value": "Kunstmann",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cristal",
+          "value": "Cristal",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mahou",
+          "value": "Mahou",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Royal Guard",
+          "value": "Royal Guard",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Oettinger",
+          "value": "Oettinger",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estrella Galicia",
+          "value": "Estrella Galicia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Royal Dutch",
+          "value": "Royal Dutch",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mestra",
+          "value": "Mestra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "3 Horses",
+          "value": "3 Horses",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Erdinger",
+          "value": "Erdinger",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paulaner",
+          "value": "Paulaner",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bitburger",
+          "value": "Bitburger",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Stella Artois",
+          "value": "Stella Artois",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Budweiser",
+          "value": "Budweiser",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Damm",
+          "value": "Damm",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Peroni",
+          "value": "Peroni",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Cervezas Sin Alcohol",
+          "value": "Cervezas Sin Alcohol",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lata",
+          "value": "Lata",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Amargor",
+      "key": "Amargor (IBU)",
+      "values": [
+        {
+          "displayName": "0-25 Amargor bajo",
+          "value": "0-25 Amargor bajo",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "25-50 Amargor medio",
+          "value": "25-50 Amargor medio",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bélgica",
+          "value": "Bélgica",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "México",
+          "value": "México",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Países Bajos",
+          "value": "Países Bajos",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Rubia",
+          "value": "Rubia",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Alcohol",
+          "value": "Sin Alcohol",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "SinAlcohol",
+          "value": "SinAlcohol",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trigo",
+          "value": "Trigo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 623,
+          "maxValue": 6310
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "4 Unidades",
+          "value": "4",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6 Unidades",
+          "value": "6",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "200 a 355 cc",
+          "value": "200 a 355 cc",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "375 a 600 cc",
+          "value": "375 a 600 cc",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Grado",
+      "key": "Grado",
+      "values": [
+        {
+          "displayName": "Sin alcohol",
+          "value": "Sin alcohol",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 32,
+  "metaTag": {
+    "title": "Cervezas sin Alcohol | Jumbo.cl",
+    "description": "Las cervezas sin alcohol son perfectas para los que no quieren dejar de disfrutar su gran calidad y sabor. ¡Conoce las variedades en el catálogo de Jumbo.cl!"
+  }
+}

@@ -1,0 +1,959 @@
+{
+  "products": [
+    {
+      "productId": "10792",
+      "reference": "462386",
+      "sponsoredId": null,
+      "slug": "prietas-la-preferida-400-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "815"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Prietas"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26494",
+        "27499",
+        "27501"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11050",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3790,
+          "listPrice": 4490,
+          "ppumPrice": 9475,
+          "ppumListPrice": 11225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301791-250-250/Prietas-La-Preferida-400-g.jpg?v=638776375374600000"
+          ],
+          "name": "Prietas La Preferida 400 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3790 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3790,
+              "ppumPrice": 9475,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10801",
+      "reference": "298086",
+      "sponsoredId": null,
+      "slug": "prietas-llanquihue-250-g-2-unidades",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "815"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Prietas"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11059",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 10760,
+          "ppumListPrice": 10760,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350797-250-250/Principal-3130.jpg?v=638776682730800000"
+          ],
+          "name": "Prietas Llanquihue 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "141688",
+      "reference": "2003314",
+      "sponsoredId": null,
+      "slug": "prieta-con-nuez-jj-400g-2003314",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "815"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Prietas"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "JJ",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "141980",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 5690,
+          "listPrice": 5690,
+          "ppumPrice": 14225,
+          "ppumListPrice": 14225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/336153-250-250/Prieta-con-Nuez-JJ-400-g.jpg?v=638776437296900000"
+          ],
+          "name": "Prieta con Nuez JJ 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "108507",
+      "reference": "1901055",
+      "sponsoredId": null,
+      "slug": "prieta-schwencke-400-grs-1901055",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "815"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Prietas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "26494"
+      ],
+      "brand": "Schwencke",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "108773",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 5290,
+          "listPrice": 5290,
+          "ppumPrice": 13225,
+          "ppumListPrice": 13225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/377032-250-250/Prieta-400-g.jpg?v=638776810120130000"
+          ],
+          "name": "Prieta Schwencke 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10811",
+      "reference": "1606159",
+      "sponsoredId": null,
+      "slug": "prietas-receta-del-abuelo-350-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "815"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Prietas"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11069",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 3120,
+          "listPrice": 3120,
+          "ppumPrice": 8914,
+          "ppumListPrice": 8914,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301979-250-250/Prieta-Receta-del-Abuelo-350-g.jpg?v=638776375644070000"
+          ],
+          "name": "Prieta Receta del Abuelo 350 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "140115",
+      "reference": "2007046",
+      "sponsoredId": null,
+      "slug": "prieta-tradicional-250gr-jumbo-artesanal-2007046",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "815",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Prietas",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "25447",
+        "25695",
+        "27261",
+        "27266"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "140407",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3290,
+          "listPrice": 3290,
+          "ppumPrice": 13160,
+          "ppumListPrice": 13160,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/333934-250-250/Prieta-Tradicional-Al-Vacio-250-g.jpg?v=638776435280000000"
+          ],
+          "name": "Prieta Tradicional Al Vacío 250 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "140771",
+      "reference": "2007044",
+      "sponsoredId": null,
+      "slug": "prieta-tradicional-500g-jumbo-artesanal-2007044",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "815",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Prietas",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "25338",
+        "27261",
+        "27266",
+        "27363",
+        "27367"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "141065",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3990,
+          "listPrice": 5990,
+          "ppumPrice": 7980,
+          "ppumListPrice": 11980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/520421-250-250/Prieta-Tradicional-500-g.jpg?v=638953642587500000"
+          ],
+          "name": "Prieta Tradicional 500 g",
+          "stock": false,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3990 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL 18022026 AL 24022026",
+              "description": "JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 7980,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "140770",
+      "reference": "2005801",
+      "sponsoredId": null,
+      "slug": "prieta-con-arroz-500-gr-jumbo-artesanal-2005801",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "815",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Prietas",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "25338",
+        "27261",
+        "27266",
+        "27363",
+        "27367"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "141064",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3990,
+          "listPrice": 5990,
+          "ppumPrice": 7980,
+          "ppumListPrice": 11980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/520409-250-250/Prieta-con-Arroz-500-g.jpg?v=638953642552570000"
+          ],
+          "name": "Prieta con Arroz 500 g",
+          "stock": false,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3990 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL 18022026 AL 24022026",
+              "description": "JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 7980,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "140114",
+      "reference": "2007045",
+      "sponsoredId": null,
+      "slug": "prieta-con-arroz-250gr-jumbo-artesanal-2007045",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "815",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Prietas",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "25447",
+        "25695",
+        "27261",
+        "27266"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "140408",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3290,
+          "listPrice": 3290,
+          "ppumPrice": 13160,
+          "ppumListPrice": 13160,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/333980-250-250/Prieta-Con-Arroz-Al-Vacio-250-g.jpg?v=638776435315100000"
+          ],
+          "name": "Prieta con Arroz Al Vacío 250 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "141689",
+      "reference": "2004339",
+      "sponsoredId": null,
+      "slug": "prieta-tradicional-jj-400g-2004339",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "815"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Prietas"
+      ],
+      "collections": [
+        "26494"
+      ],
+      "brand": "JJ",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "141982",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 5190,
+          "listPrice": 5190,
+          "ppumPrice": 12975,
+          "ppumListPrice": 12975,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/336208-250-250/Prieta-Tradicional-JJ-400-g.jpg?v=638776437354100000"
+          ],
+          "name": "Prieta Tradicional JJ 400 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Prietas",
+          "value": "/quesos-y-fiambres/salchichas-y-parrilleros/prietas",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Prietas",
+          "value": "/quesos-y-fiambres/salchichas-y-parrilleros/prietas",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Prietas",
+          "value": "/quesos-y-fiambres/salchichas-y-parrilleros/prietas",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Característico",
+          "value": "Característico",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Artesanal",
+          "value": "Artesanal",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Intensidad",
+      "key": "Intensidad",
+      "values": [
+        {
+          "displayName": "Media",
+          "value": "Media",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Envasado",
+          "value": "ENVASADO",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2690,
+          "maxValue": 5690
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Llanquihue",
+          "value": "Llanquihue",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Preferida",
+          "value": "La Preferida",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "JJ",
+          "value": "JJ",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Receta del Abuelo",
+          "value": "Receta del Abuelo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Schwencke",
+          "value": "Schwencke",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo Artesanal",
+          "value": "Jumbo Artesanal",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Prietas",
+          "value": "Prietas",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 10,
+  "metaTag": {
+    "title": "Prietas | Jumbo.cl",
+    "description": "Complementa tu asado con nuestra variedad de salchichas y longanizas veganas. Haz tu pedido online por Jumbo.cl y sorpréndete con sus sabores y texturas."
+  }
+}

@@ -1,0 +1,342 @@
+
+Subcategorías:
+- Frutas -> https://www.jumbo.cl/frutas-y-verduras/frutas
+- Frutas Picadas -> https://www.jumbo.cl/frutas-y-verduras/frutas/frutas-picadas
+- Verduras -> https://www.jumbo.cl/frutas-y-verduras/verduras
+- Ensaladas -> https://www.jumbo.cl/frutas-y-verduras/verduras/ensaladas
+- Hierbas y Especias -> https://www.jumbo.cl/frutas-y-verduras/verduras/hierbas-y-especias
+- Aderezos -> https://www.jumbo.cl/frutas-y-verduras/verduras/aderezos
+- Frutas Orgánicas -> https://www.jumbo.cl/frutas-y-verduras/frutas-y-verduras-organicas/frutas-organicas
+- Verduras Orgánicas -> https://www.jumbo.cl/frutas-y-verduras/frutas-y-verduras-organicas/verduras-organicas
+- Frutos Secos -> https://www.jumbo.cl/frutas-y-verduras/frutos-secos-y-semillas/frutos-secos
+- Frutas Deshidratadas -> https://www.jumbo.cl/frutas-y-verduras/frutos-secos-y-semillas/frutas-deshidratadas
+- Semillas y Granos -> https://www.jumbo.cl/frutas-y-verduras/frutos-secos-y-semillas/semillas-y-granos
+
+Scrape: Frutas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/frutas.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/frutas.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/frutas.json
+🧪 Dump BFF guardado: debug_bff\bff_frutas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/frutas.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 37
+  productos: 77
+
+Scrape: Frutas Picadas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+03. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/frutas-picadas.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+09. 200 https://assets.jumbo.cl/json/cms/frutas-picadas.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/frutas-picadas.json
+🧪 Dump BFF guardado: debug_bff\bff_frutas_picadas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 10
+  productos: 10
+
+Scrape: Verduras
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/verduras.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/verduras.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/verduras.json
+🧪 Dump BFF guardado: debug_bff\bff_verduras.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/verduras.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/verduras.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/verduras.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/verduras.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/verduras.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/verduras.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/verduras.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 39
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/verduras.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 8
+  productos: 327
+
+Scrape: Ensaladas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/ensaladas.json
+09. 200 https://assets.jumbo.cl/json/cms/ensaladas.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/ensaladas.json
+🧪 Dump BFF guardado: debug_bff\bff_ensaladas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/ensaladas.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/ensaladas.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 22
+  productos: 102
+
+Scrape: Hierbas y Especias
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+03. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/hierbas-y-especias.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/hierbas-y-especias.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/hierbas-y-especias.json
+🧪 Dump BFF guardado: debug_bff\bff_hierbas_y_especias.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 23
+  productos: 23
+
+Scrape: Aderezos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/aderezos.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/aderezos.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/aderezos.json
+🧪 Dump BFF guardado: debug_bff\bff_aderezos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 7
+  productos: 7
+
+Scrape: Frutas Orgánicas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/frutas-organicas.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/frutas-organicas.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/frutas-organicas.json
+🧪 Dump BFF guardado: debug_bff\bff_frutas_org_nicas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 3
+  productos: 3
+
+Scrape: Verduras Orgánicas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/verduras-organicas.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/verduras-organicas.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/verduras-organicas.json
+🧪 Dump BFF guardado: debug_bff\bff_verduras_org_nicas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+02. 200 https://assets.jumbo.cl/json/cms/verduras-organicas.json
+ℹ️ BFF dict keys sample: ['products', 'redirect', 'facets', 'orderTypes', 'results', 'metaTag']
+  productos: 40
+
+Scrape: Frutos Secos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/frutos-secos.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/frutos-secos.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/frutos-secos.json
+🧪 Dump BFF guardado: debug_bff\bff_frutos_secos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/frutos-secos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/frutos-secos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 8
+  productos: 88
+
+Scrape: Frutas Deshidratadas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/frutas-deshidratadas.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/list-category.json
+09. 200 https://assets.jumbo.cl/json/cms/frutas-deshidratadas.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/frutas-deshidratadas.json
+🧪 Dump BFF guardado: debug_bff\bff_frutas_deshidratadas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 32
+  productos: 32
+
+Scrape: Semillas y Granos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/semillas-y-granos.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://bff.jumbo.cl/catalog/plp
+10. 200 https://assets.jumbo.cl/json/cms/semillas-y-granos.json
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+🧪 Dump BFF guardado: debug_bff\bff_semillas_y_granos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 7
+  productos: 7
+
+Total filas: 716
+CSV generado: output\frutas_verduras\jumbo_frutas_y_verduras_20260226_183356.csv

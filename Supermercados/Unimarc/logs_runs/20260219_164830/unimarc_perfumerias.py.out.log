@@ -1,0 +1,21 @@
+
+Subcategorías detectadas en [Perfumería]: 4
+ - Cuidado capilar | Cuidado capilar -> https://www.unimarc.cl/category/perfumeria/cuidado-capilar
+ - Cuidado capilar | Shampoo -> https://www.unimarc.cl/category/perfumeria/cuidado-capilar/shampoo
+ - Cuidado capilar | Acondicionador -> https://www.unimarc.cl/category/perfumeria/cuidado-capilar/acondicionador
+ - Cuidado capilar | Cremas para peinar -> https://www.unimarc.cl/category/perfumeria/cuidado-capilar/cremas-para-peinar
+
+Scrape: [Cuidado capilar] Cuidado capilar
+  productos únicos: 100
+
+Scrape: [Cuidado capilar] Shampoo
+  productos únicos: 100
+
+Scrape: [Cuidado capilar] Acondicionador
+  productos únicos: 100
+
+Scrape: [Cuidado capilar] Cremas para peinar
+  productos únicos: 92
+
+Total filas: 392
+CSV generado: C:\Users\fvergram\OneDrive - NTT DATA EMEAL\Desktop\webscrapping\Supermercados\Unimarc\src\output\perfumerias\unimarc_perfumeria_subcats_20260219_191624.csv

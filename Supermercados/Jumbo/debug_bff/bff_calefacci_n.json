@@ -1,0 +1,293 @@
+{
+  "products": [
+    {
+      "productId": "155455",
+      "reference": "2045558",
+      "sponsoredId": null,
+      "slug": "aire-acondicionado-portatil-ursus-trotter-2045558",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "298",
+        "321",
+        "335"
+      ],
+      "categoryNames": [
+        "Electro y Tecnología",
+        "Calefacción",
+        "Hogar, Juguetería y Librería"
+      ],
+      "collections": [
+        "26284"
+      ],
+      "brand": "Ursus Trotter",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "155771",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 429990,
+          "listPrice": 429990,
+          "ppumPrice": 429990,
+          "ppumListPrice": 429990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/508350-250-250/Aire-Acondicionado-Portatil-Ursus-Trotter-Blizzard-12K-Wi-Fi.jpg?v=638935565897330000"
+          ],
+          "name": "Aire Acondicionado Ursus Trotter Blizzard 12K Portátil Wi-Fi",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "161948",
+      "reference": "2055393",
+      "sponsoredId": null,
+      "slug": "calent-manos-2055393",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "298",
+        "321",
+        "335"
+      ],
+      "categoryNames": [
+        "Electro y Tecnología",
+        "Calefacción",
+        "Hogar, Juguetería y Librería"
+      ],
+      "collections": [],
+      "brand": "Warmers",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "162326",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1490,
+          "listPrice": 1490,
+          "ppumPrice": 1490,
+          "ppumListPrice": 1490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/556557-250-250/Calentador-de-Manos.jpg?v=639022765758800000"
+          ],
+          "name": "Calentador de Manos",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "161949",
+      "reference": "2055394",
+      "sponsoredId": null,
+      "slug": "calent-pies-2055394",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "298",
+        "321",
+        "335"
+      ],
+      "categoryNames": [
+        "Electro y Tecnología",
+        "Calefacción",
+        "Hogar, Juguetería y Librería"
+      ],
+      "collections": [],
+      "brand": "Warmers",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "162325",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 3290,
+          "listPrice": 3290,
+          "ppumPrice": 3290,
+          "ppumListPrice": 3290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/556561-250-250/Calentador-de-Pies.jpg?v=639022765768800000"
+          ],
+          "name": "Calentador de Pies",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Calefacción",
+          "value": "/hogar-jugueteria-y-libreria/electro-y-tecnologia/calefaccion",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Calefacción",
+          "value": "/hogar-jugueteria-y-libreria/electro-y-tecnologia/calefaccion",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Calefacción",
+          "value": "/hogar-jugueteria-y-libreria/electro-y-tecnologia/calefaccion",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Ursus Trotter",
+          "value": "Ursus Trotter",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Warmers",
+          "value": "Warmers",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1490,
+          "maxValue": 429990
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Aires Acondicionados Portátiles",
+          "value": "Aires Acondicionados Portátiles",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Guateros",
+          "value": "Guateros",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Modelo",
+      "key": "Modelo",
+      "values": [
+        {
+          "displayName": "UT-BLIZZARD12KWIFI",
+          "value": "UT-BLIZZARD12KWIFI",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 3,
+  "metaTag": {
+    "title": "Calefacción | Jumbo.cl",
+    "description": "Descubre nuestra sección de calefacción y prepárate para la temporada de frío. Ofrecemos desde estufas hasta calefactores de la mejor calidad."
+  }
+}

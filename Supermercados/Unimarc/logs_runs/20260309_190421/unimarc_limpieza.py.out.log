@@ -1,0 +1,126 @@
+No pude extraer links desde el menú (headless). Usando Plan B (slugify).
+
+Subcategorías detectadas en [Limpieza]: 30
+ - Detergente | Detergente líquido -> https://www.unimarc.cl/category/limpieza/detergente/detergente-liquido
+ - Detergente | Detergente polvo -> https://www.unimarc.cl/category/limpieza/detergente/detergente-polvo
+ - Detergente | Detergente en cápsulas -> https://www.unimarc.cl/category/limpieza/detergente/detergente-en-capsulas
+ - Detergente | Detergente en barra -> https://www.unimarc.cl/category/limpieza/detergente/detergente-en-barra
+ - Detergente | Tratamiento ropa -> https://www.unimarc.cl/category/limpieza/detergente/tratamiento-ropa
+ - Detergente | Suavizante -> https://www.unimarc.cl/category/limpieza/detergente/suavizante
+ - Papeles | Papel higiénico -> https://www.unimarc.cl/category/limpieza/papeles/papel-higienico
+ - Papeles | Toalla papel -> https://www.unimarc.cl/category/limpieza/papeles/toalla-papel
+ - Papeles | Servilletas -> https://www.unimarc.cl/category/limpieza/papeles/servilletas
+ - Papeles | Pañuelos desechables -> https://www.unimarc.cl/category/limpieza/papeles/panuelos-desechables
+ - Baño y cocina | Lavalozas y lavavajillas -> https://www.unimarc.cl/category/limpieza/bano-y-cocina/lavalozas-y-lavavajillas
+ - Baño y cocina | Limpiador crema -> https://www.unimarc.cl/category/limpieza/bano-y-cocina/limpiador-crema
+ - Baño y cocina | Limpiador antigrasa -> https://www.unimarc.cl/category/limpieza/bano-y-cocina/limpiador-antigrasa
+ - Baño y cocina | Limpiador baño -> https://www.unimarc.cl/category/limpieza/bano-y-cocina/limpiador-bano
+ - Baño y cocina | Cloro -> https://www.unimarc.cl/category/limpieza/bano-y-cocina/cloro
+ - Baño y cocina | Paños, esponjas y guantes -> https://www.unimarc.cl/category/limpieza/bano-y-cocina/panos-esponjas-y-guantes
+ - Baño y cocina | Sopapos -> https://www.unimarc.cl/category/limpieza/bano-y-cocina/sopapos
+ - Limpieza hogar | Aerosoles y desinfectantes -> https://www.unimarc.cl/category/limpieza/limpieza-hogar/aerosoles-y-desinfectantes
+ - Limpieza hogar | Limpiador vidrios y multiuso -> https://www.unimarc.cl/category/limpieza/limpieza-hogar/limpiador-vidrios-y-multiuso
+ - Limpieza hogar | Insecticidas -> https://www.unimarc.cl/category/limpieza/limpieza-hogar/insecticidas
+ - Limpieza hogar | Velas y fósforos -> https://www.unimarc.cl/category/limpieza/limpieza-hogar/velas-y-fosforos
+ - Pisos y muebles | Limpiador pisos -> https://www.unimarc.cl/category/limpieza/pisos-y-muebles/limpiador-pisos
+ - Pisos y muebles | Limpiador alfombra -> https://www.unimarc.cl/category/limpieza/pisos-y-muebles/limpiador-alfombra
+ - Pisos y muebles | Lustramuebles -> https://www.unimarc.cl/category/limpieza/pisos-y-muebles/lustramuebles
+ - Pisos y muebles | Ceras -> https://www.unimarc.cl/category/limpieza/pisos-y-muebles/ceras
+ - Pisos y muebles | Paños, traperos, mopas y baldes -> https://www.unimarc.cl/category/limpieza/pisos-y-muebles/panos-traperos-mopas-y-baldes
+ - Pisos y muebles | Escobas, palas, virutillas y plumeros -> https://www.unimarc.cl/category/limpieza/pisos-y-muebles/escobas-palas-virutillas-y-plumeros
+ - Accesorios aseo | Bolsa basura -> https://www.unimarc.cl/category/limpieza/accesorios-aseo/bolsa-basura
+ - Accesorios aseo | Limpieza calzado y ropa -> https://www.unimarc.cl/category/limpieza/accesorios-aseo/limpieza-calzado-y-ropa
+ - Accesorios aseo | Otros accesorios aseo -> https://www.unimarc.cl/category/limpieza/accesorios-aseo/otros-accesorios-aseo
+
+Scrape: [Detergente] Detergente líquido
+  productos únicos: 36
+
+Scrape: [Detergente] Detergente polvo
+  productos únicos: 20
+
+Scrape: [Detergente] Detergente en cápsulas
+  productos únicos: 2
+
+Scrape: [Detergente] Detergente en barra
+  productos únicos: 3
+
+Scrape: [Detergente] Tratamiento ropa
+  productos únicos: 47
+
+Scrape: [Detergente] Suavizante
+  productos únicos: 35
+
+Scrape: [Papeles] Papel higiénico
+  productos únicos: 25
+
+Scrape: [Papeles] Toalla papel
+  productos únicos: 22
+
+Scrape: [Papeles] Servilletas
+  productos únicos: 23
+
+Scrape: [Papeles] Pañuelos desechables
+  productos únicos: 11
+
+Scrape: [Baño y cocina] Lavalozas y lavavajillas
+  productos únicos: 35
+
+Scrape: [Baño y cocina] Limpiador crema
+  productos únicos: 4
+
+Scrape: [Baño y cocina] Limpiador antigrasa
+  productos únicos: 18
+
+Scrape: [Baño y cocina] Limpiador baño
+  productos únicos: 42
+
+Scrape: [Baño y cocina] Cloro
+  productos únicos: 58
+
+Scrape: [Baño y cocina] Paños, esponjas y guantes
+  productos únicos: 49
+
+Scrape: [Baño y cocina] Sopapos
+  productos únicos: 3
+
+Scrape: [Limpieza hogar] Aerosoles y desinfectantes
+  productos únicos: 84
+
+Scrape: [Limpieza hogar] Limpiador vidrios y multiuso
+  productos únicos: 0
+
+Scrape: [Limpieza hogar] Insecticidas
+  productos únicos: 36
+
+Scrape: [Limpieza hogar] Velas y fósforos
+  productos únicos: 16
+
+Scrape: [Pisos y muebles] Limpiador pisos
+  productos únicos: 43
+
+Scrape: [Pisos y muebles] Limpiador alfombra
+  productos únicos: 1
+
+Scrape: [Pisos y muebles] Lustramuebles
+  productos únicos: 13
+
+Scrape: [Pisos y muebles] Ceras
+  productos únicos: 18
+
+Scrape: [Pisos y muebles] Paños, traperos, mopas y baldes
+  productos únicos: 32
+
+Scrape: [Pisos y muebles] Escobas, palas, virutillas y plumeros
+  productos únicos: 13
+
+Scrape: [Accesorios aseo] Bolsa basura
+  productos únicos: 37
+
+Scrape: [Accesorios aseo] Limpieza calzado y ropa
+  productos únicos: 24
+
+Scrape: [Accesorios aseo] Otros accesorios aseo
+  productos únicos: 1
+
+Total filas: 751
+CSV generado: output\limpieza\unimarc_limpieza_subcats_20260309_200552.csv

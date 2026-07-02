@@ -1,0 +1,3890 @@
+{
+  "products": [
+    {
+      "productId": "126822",
+      "reference": "1961732",
+      "sponsoredId": "kSXOSgoQBpoLA8BJcmaGBNsvjEI2ZRIQAZwPe1F2fqG73sL7SdY70xoQBjxufBEld-SIJGar8MU0HiIKCgYxMjcxMTUQATCVswFAtwJIAVDz1MHdyTNgtwJyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "galleta-club-social-normal-216-gr-1961732",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "19270",
+        "22086",
+        "22296",
+        "23175",
+        "25300",
+        "25303",
+        "25333",
+        "25334",
+        "25422",
+        "25515",
+        "25595",
+        "25596",
+        "25597",
+        "25695",
+        "25708",
+        "25833",
+        "25997",
+        "26124",
+        "27375",
+        "27376",
+        "27427",
+        "27437",
+        "27453",
+        "27487",
+        "27492",
+        "27499",
+        "27501",
+        "27541",
+        "27556",
+        "27563",
+        "27564",
+        "27566",
+        "27601"
+      ],
+      "brand": "Club Social",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127115",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.216,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 8750,
+          "ppumListPrice": 8750,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/510915-250-250/Galletas-Saladas-Club-Social-Original-216-g.jpg?v=638942411064400000"
+          ],
+          "name": "Galletas Saladas Club Social Original 216 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X2790 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2 24022026 AL 09032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2",
+              "type": "mx",
+              "value": 2790,
+              "unitPrice": 1395,
+              "ppumPrice": 6458,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X2290 - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB  24022026 AL 02032026",
+              "description": "JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB ",
+              "type": "mx",
+              "value": 2290,
+              "unitPrice": 1145,
+              "ppumPrice": 5301,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "148803",
+      "reference": "2038101",
+      "sponsoredId": "gXFG7woQBpoLA8BJcmaGBNsvjEI2ZRIQAZwPe1F2fqG73sL7SdY70xoQBjxufBEld-SIJGar8MU0HiIKCgYxNDkwOTcQATCVswFA6wFIAVDz1MHdyTNg6wFyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "galleta-queso-2038101",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "23175",
+        "25300",
+        "25303",
+        "25333",
+        "25334",
+        "25422",
+        "25595",
+        "25596",
+        "25597",
+        "25695",
+        "25708",
+        "25833",
+        "25997",
+        "26124",
+        "27375",
+        "27376",
+        "27427",
+        "27437",
+        "27453",
+        "27487",
+        "27492",
+        "27499",
+        "27501",
+        "27541",
+        "27556",
+        "27563",
+        "27564",
+        "27566",
+        "27601"
+      ],
+      "brand": "Club Social",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149097",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.216,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 8750,
+          "ppumListPrice": 8750,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/437556-250-250/Galletas-Club-Social-Sabor-Queso-Pack-9-un-x-24-g.jpg?v=638831039198330000"
+          ],
+          "name": "Galletas Club Social Sabor Queso Pack 9 un. x 24 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X2790 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2 24022026 AL 09032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2",
+              "type": "mx",
+              "value": 2790,
+              "unitPrice": 1395,
+              "ppumPrice": 6458,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X2290 - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB  24022026 AL 02032026",
+              "description": "JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB ",
+              "type": "mx",
+              "value": 2290,
+              "unitPrice": 1145,
+              "ppumPrice": 5301,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "148804",
+      "reference": "2038102",
+      "sponsoredId": "pTDSQAoQBpoLA8BJcmaGBNsvjEI2ZRIQAZwPe1F2fqG73sL7SdY70xoQBjxufBEld-SIJGar8MU0HiIKCgYxNDkwOTgQATCVswFA2QFIAVDz1MHdyTNg2QFyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "galleta-jamon-2038102",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "23175",
+        "25300",
+        "25303",
+        "25333",
+        "25334",
+        "25422",
+        "25515",
+        "25595",
+        "25596",
+        "25597",
+        "25695",
+        "25708",
+        "25833",
+        "25997",
+        "26124",
+        "27375",
+        "27376",
+        "27427",
+        "27437",
+        "27487",
+        "27492",
+        "27499",
+        "27501",
+        "27541",
+        "27563",
+        "27564",
+        "27566",
+        "27601"
+      ],
+      "brand": "Club Social",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149098",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.216,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 8750,
+          "ppumListPrice": 8750,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/436332-250-250/Galletas-Club-Social-Sabor-Jamon-Ahumado-Pack-9-un-x-24-g.jpg?v=638827842275900000"
+          ],
+          "name": "Galletas Club Social Sabor Jamón Ahumado Pack 9 un. x 24 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X2790 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2 24022026 AL 09032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2",
+              "type": "mx",
+              "value": 2790,
+              "unitPrice": 1395,
+              "ppumPrice": 6458,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X2290 - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB  24022026 AL 02032026",
+              "description": "JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB ",
+              "type": "mx",
+              "value": 2290,
+              "unitPrice": 1145,
+              "ppumPrice": 5301,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "156380",
+      "reference": "2048615",
+      "sponsoredId": "WbcrLgoQBpoLA8BJcmaGBNsvjEI2ZRIQAZwPe1F2fqG73sL7SdY70xoQBjxufBEld-SIJGar8MU0HiIKCgYxNTY3MDMQATCVswFAnAJIAVDz1MHdyTNgnAJyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "galleta-club-social-pack12-2048615",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "27453",
+        "27499",
+        "27501",
+        "27556"
+      ],
+      "brand": "Club Social",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156703",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 12,
+          "price": 2000,
+          "listPrice": 2000,
+          "ppumPrice": 167,
+          "ppumListPrice": 167,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/519291-250-250/Pack-12-un-Galletas-Club-Social.jpg?v=638950438854600000"
+          ],
+          "name": "Galletas Club Social Pack 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "156381",
+      "reference": "2048622",
+      "sponsoredId": "KGeITwoQBpoLA8BJcmaGBNsvjEI2ZRIQAZwPe1F2fqG73sL7SdY70xoQBjxufBEld-SIJGar8MU0HiIKCgYxNTY3MDQQATCVswFAeUgBUPPUwd3JM2B5chAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "galleta-ritz-70gr-2048622",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "23866",
+        "25300",
+        "25303",
+        "25333",
+        "25334",
+        "25422",
+        "25515",
+        "25596",
+        "25597",
+        "25695",
+        "27453",
+        "27463",
+        "27556"
+      ],
+      "brand": "Ritz",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156704",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.07,
+          "price": 590,
+          "listPrice": 590,
+          "ppumPrice": 8429,
+          "ppumListPrice": 8429,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/567976-250-250/Galletas-Ritz-Sabor-Original-70-g.jpg?v=639046023078670000"
+          ],
+          "name": "Galletas Saladas Ritz Sabor Original 70 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "97624",
+      "reference": "1858597",
+      "sponsoredId": null,
+      "slug": "galletas-salmas-maiz-horneadas-216-g-1858597",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "18636",
+        "22086",
+        "25634",
+        "26912",
+        "27367",
+        "27375",
+        "27376",
+        "27541",
+        "27557"
+      ],
+      "brand": "Salmas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "97898",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.216,
+          "price": 2990,
+          "listPrice": 3390,
+          "ppumPrice": 13843,
+          "ppumListPrice": 15694,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/370098-250-250/Galletas-salmas-maiz-horneadas-216-g.jpg?v=638776780587330000"
+          ],
+          "name": "Galletas de Maíz Salmas Horneadas 216 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2990 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2990,
+              "ppumPrice": 13843,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "134678",
+      "reference": "1989470",
+      "sponsoredId": null,
+      "slug": "cracker-tradicional-3pack-270g-1989470",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "19270",
+        "22086",
+        "22296",
+        "22523",
+        "26912",
+        "26954",
+        "26955",
+        "26956",
+        "27367",
+        "27445"
+      ],
+      "brand": "Selz",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134972",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.321,
+          "price": 1310,
+          "listPrice": 1310,
+          "ppumPrice": 4081,
+          "ppumListPrice": 4081,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/322883-250-250/Galletas-Cracker-Tradicional-3-Pack-270-g.jpg?v=638776426479830000"
+          ],
+          "name": "Galletas Selz Cracker 270 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "2605",
+      "reference": "1617342",
+      "sponsoredId": null,
+      "slug": "galletas-costa-255-g-tripack-crackelet",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "22086",
+        "25627"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2611",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.255,
+          "price": 1650,
+          "listPrice": 1650,
+          "ppumPrice": 6471,
+          "ppumListPrice": 6471,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346388-250-250/Galletas-tripack-Crackelet-255-g.jpg?v=638776458357130000"
+          ],
+          "name": "Tripack Galletas Crackelet 255 g 3 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "156382",
+      "reference": "2048623",
+      "sponsoredId": "vqlJyQoQBpoLA8BJcmaGBNsvjEI2ZRIQAZwPe1F2fqG73sL7SdY70xoQBjxufBEld-SIJGar8MU0HiIKCgYxNTY3MDcQATCVswFAW0gBUPPUwd3JM2BbchAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "galleta-queso-ritz-75g-2048623",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "25300",
+        "25303",
+        "25515",
+        "25596",
+        "25597",
+        "27453",
+        "27463",
+        "27556"
+      ],
+      "brand": "Ritz",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156707",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.075,
+          "price": 850,
+          "listPrice": 850,
+          "ppumPrice": 11333,
+          "ppumListPrice": 11333,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/567984-250-250/Galletas-Ritz-Rellenas-de-Queso-75-g.jpg?v=639046023103070000"
+          ],
+          "name": "Galletas Saladas Ritz Rellenas de Queso 75 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "74695",
+      "reference": "1797080",
+      "sponsoredId": null,
+      "slug": "galleta-grill-bolsa-mckay-140-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "19270",
+        "22086",
+        "25347",
+        "25519",
+        "25520",
+        "26816",
+        "26853",
+        "26916",
+        "27105",
+        "27280",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27507"
+      ],
+      "brand": "Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74950",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 1730,
+          "listPrice": 1730,
+          "ppumPrice": 12357,
+          "ppumListPrice": 12357,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/578454-250-250/Galletas-Grill-Clasica-140-g.jpg?v=639071560643170000"
+          ],
+          "name": "Galletas Grill Clásica 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "127797",
+      "reference": "1966545",
+      "sponsoredId": null,
+      "slug": "galleta-club-social-integral-24-gr-1966545",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22086",
+        "23175",
+        "25300",
+        "25303",
+        "25333",
+        "25334",
+        "25422",
+        "25515",
+        "25595",
+        "25596",
+        "25597",
+        "25695",
+        "25997",
+        "27375",
+        "27376",
+        "27427",
+        "27437",
+        "27453",
+        "27487",
+        "27492",
+        "27499",
+        "27501",
+        "27541",
+        "27556",
+        "27563",
+        "27564",
+        "27566",
+        "27601"
+      ],
+      "brand": "Club Social",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128090",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.216,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 8750,
+          "ppumListPrice": 8750,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/510931-250-250/Galletas-Saladas-Club-Social-Integrales-216-g.jpg?v=638942411739300000"
+          ],
+          "name": "Galletas Saladas Club Social Integrales 216 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X2790 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2 24022026 AL 09032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2",
+              "type": "mx",
+              "value": 2790,
+              "unitPrice": 1395,
+              "ppumPrice": 6458,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X2290 - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB  24022026 AL 02032026",
+              "description": "JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB ",
+              "type": "mx",
+              "value": 2290,
+              "unitPrice": 1145,
+              "ppumPrice": 5301,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "54720",
+      "reference": "1755631",
+      "sponsoredId": null,
+      "slug": "galleta-natcrackers-cranberry-nuez-160-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "22086",
+        "26907",
+        "27557"
+      ],
+      "brand": "Nat Crackers",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55004",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.16,
+          "price": 4650,
+          "listPrice": 4650,
+          "ppumPrice": 29063,
+          "ppumListPrice": 29063,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/359323-250-250/Galleta-Natcrackers-cranberry-nuez-160-g.jpg?v=638776727758000000"
+          ],
+          "name": "Galletas Nat Crackers Cranberry Nuez 160 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "19185",
+      "reference": "1592999",
+      "sponsoredId": null,
+      "slug": "galletas-crackers-tika-140-g-curcuma",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "22086",
+        "25333",
+        "25334",
+        "25422",
+        "25447",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27541",
+        "27563",
+        "27601"
+      ],
+      "brand": "Tika",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "19509",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 2500,
+          "listPrice": 2500,
+          "ppumPrice": 17857,
+          "ppumListPrice": 17857,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/445280-250-250/Galletas-Tika-Mini-Crackers-Curcuma-y-Sesamo-140-g.jpg?v=638838833791770000"
+          ],
+          "name": "Galletas Tika Mini Crackers Cúrcuma y Sésamo 140 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3790 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3790,
+              "unitPrice": 1895,
+              "ppumPrice": 13536,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "156452",
+      "reference": "2051600",
+      "sponsoredId": null,
+      "slug": "galleta-tika-crackers-quinoa-oliva140g-2051600",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27541",
+        "27563",
+        "27601"
+      ],
+      "brand": "Tika",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156774",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 2500,
+          "listPrice": 2500,
+          "ppumPrice": 17857,
+          "ppumListPrice": 17857,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/518446-250-250/GALLETA-TIKA-CRACKERS-QUINOA-OLIVA140G.jpg?v=638948537386930000"
+          ],
+          "name": "Galletas Tika Crackers Quinoa Oliva 140 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3790 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3790,
+              "unitPrice": 1895,
+              "ppumPrice": 13536,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "134658",
+      "reference": "1989466",
+      "sponsoredId": null,
+      "slug": "galletas-cracker-ore-oli-90gr-1989466",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "22086",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25447",
+        "25452",
+        "25638",
+        "25695",
+        "27499",
+        "27501",
+        "27541",
+        "27563",
+        "27601"
+      ],
+      "brand": "Selz",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134949",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.09,
+          "price": 450,
+          "listPrice": 550,
+          "ppumPrice": 5000,
+          "ppumListPrice": 6111,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/323555-250-250/Galletas-Cracker-Ore-Oli-90-g.jpg?v=638776426979900000"
+          ],
+          "name": "Galletas Selz Cracker Orégano 90 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 450 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 450,
+              "ppumPrice": 5000,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "92999",
+      "reference": "1804672",
+      "sponsoredId": null,
+      "slug": "galletas-horns-artisan-semillas-130-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "22086",
+        "25333",
+        "25334",
+        "25422",
+        "25447",
+        "25450",
+        "25695",
+        "27557"
+      ],
+      "brand": "Perfect Choice",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "93263",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.13,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 30692,
+          "ppumListPrice": 30692,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/368072-250-250/Galletas-Artisan-zapallo-y-cranberries-130-g.jpg?v=638776770953230000"
+          ],
+          "name": "Galletas Perfect Choice Artisan Zapallo y Cranberries 130 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "2601",
+      "reference": "1607113",
+      "sponsoredId": null,
+      "slug": "galletas-arcor-galleta-mini-selz",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "22086"
+      ],
+      "brand": "Arcor",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2607",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 0.035,
+          "price": 290,
+          "listPrice": 290,
+          "ppumPrice": 8286,
+          "ppumListPrice": 8286,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346386-250-250/Galletas-mini-Selz-35-g.jpg?v=638776458329600000"
+          ],
+          "name": "Galletas Mini Selz Clásicas 35 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "142532",
+      "reference": "2001066",
+      "sponsoredId": null,
+      "slug": "galleta-cracker-c-and-co-tripack-255g-2001066",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "894",
+        "895",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26912",
+        "27367",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517",
+        "27557"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142827",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.255,
+          "price": 1290,
+          "listPrice": 1290,
+          "ppumPrice": 5059,
+          "ppumListPrice": 5059,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/419279-250-250/Galleta-Cracker-Cuisne---Co-Tripack-255-g.jpg?v=638809479272670000"
+          ],
+          "name": "Galletas Cracker Cuisine & Co Tripack 255 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "92499",
+      "reference": "1846223",
+      "sponsoredId": null,
+      "slug": "galleta-cramberry-80-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "22086",
+        "27557"
+      ],
+      "brand": "Nat Crackers",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "92763",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.08,
+          "price": 2450,
+          "listPrice": 2450,
+          "ppumPrice": 30625,
+          "ppumListPrice": 30625,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/367815-250-250/Galleta-Nat-crackers-cramberry-nuez-80-g.jpg?v=638776769575200000"
+          ],
+          "name": "Galletas Nat Crackers Cramberry Nuez 80 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "54719",
+      "reference": "1755630",
+      "sponsoredId": null,
+      "slug": "galleta-natcrackers-pistacho-romero-160-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "22086",
+        "27557"
+      ],
+      "brand": "Nat Crackers",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55003",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.16,
+          "price": 4650,
+          "listPrice": 4650,
+          "ppumPrice": 29063,
+          "ppumListPrice": 29063,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/359322-250-250/Galleta-Natcrackers-pistacho-romero-160-g.jpg?v=638776727758000000"
+          ],
+          "name": "Galletas Nat Crackers Pistacho Romero 160 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "138502",
+      "reference": "2001345",
+      "sponsoredId": null,
+      "slug": "gall-cracker-salmar-keto-veg-grana-135gr-2001345",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1004",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Low Carb",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [],
+      "brand": "Grana",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138796",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.135,
+          "price": 5390,
+          "listPrice": 5390,
+          "ppumPrice": 39926,
+          "ppumListPrice": 39926,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/330754-250-250/Galletas-Crackers-Keto-de-Harina-de-Almendras-y-Sal-de-Mar-135-g.jpg?v=638776432664300000"
+          ],
+          "name": "Galletas Crackers Keto de Harina de Almendras y Sal de Mar 135 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "134684",
+      "reference": "1989464",
+      "sponsoredId": null,
+      "slug": "galletas-cracker-tradicional-90gr-1989464",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "22086",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25447",
+        "25452",
+        "25638",
+        "25695",
+        "27499",
+        "27501",
+        "27541",
+        "27563",
+        "27601"
+      ],
+      "brand": "Selz",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134978",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.09,
+          "price": 450,
+          "listPrice": 550,
+          "ppumPrice": 5000,
+          "ppumListPrice": 6111,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/323150-250-250/Galletas-Cracker-Tradicional-90-g.jpg?v=638776426689500000"
+          ],
+          "name": "Galletas Selz Cracker Tradicional 90 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 450 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 450,
+              "ppumPrice": 5000,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "137735",
+      "reference": "1997228",
+      "sponsoredId": null,
+      "slug": "galletas-crackers-pchoice-ajo-175gr-1997228",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "22086",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Perfect Choice",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138029",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.175,
+          "price": 2330,
+          "listPrice": 2330,
+          "ppumPrice": 13314,
+          "ppumListPrice": 13314,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/328734-250-250/Galletas-Perfect-Choice-Crackers-Ajo-175-g.jpg?v=638776431232000000"
+          ],
+          "name": "Galletas Perfect Choice Crackers Ajo 175 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "131554",
+      "reference": "1956810",
+      "sponsoredId": null,
+      "slug": "gall-horn-quadrelli-sal-de-mar-150-gr-1956810",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1006",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "22086"
+      ],
+      "brand": "Quadrelli",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "131847",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 2590,
+          "listPrice": 2590,
+          "ppumPrice": 17267,
+          "ppumListPrice": 17267,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/398845-250-250/Galletas-Cocktail-Quadrelli-Sal-de-Mar-150-g.jpg?v=638776895597130000"
+          ],
+          "name": "Galletas Cóctel Quadrelli Sal de Mar 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "146118",
+      "reference": "2021759",
+      "sponsoredId": null,
+      "slug": "galleta-selz-cracker-semillas-150g-2021759",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "22086",
+        "22523"
+      ],
+      "brand": "Selz",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146412",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 6600,
+          "ppumListPrice": 6600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/410726-250-250/Galleta-Selz-Cracker-Semillas-150-g.jpg?v=638790482645600000"
+          ],
+          "name": "Galleta Selz Cracker Semillas 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "92034",
+      "reference": "1845149",
+      "sponsoredId": null,
+      "slug": "galleta-de-maiz-cocktail-60-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1003",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Gluten",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "7956"
+      ],
+      "brand": "Saniito",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "92298",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.06,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 31500,
+          "ppumListPrice": 31500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312215-250-250/Galleta-de-Maiz-Tipo-Cocktail-60-g.jpg?v=638776395961900000"
+          ],
+          "name": "Galletas de Maíz Tipo Cóctel 60 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "78642",
+      "reference": "1804736",
+      "sponsoredId": null,
+      "slug": "galletas-de-datiles-y-almendras-160-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "22086",
+        "27557"
+      ],
+      "brand": "Nat Crackers",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "78893",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.16,
+          "price": 4650,
+          "listPrice": 4650,
+          "ppumPrice": 29063,
+          "ppumListPrice": 29063,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/364079-250-250/Galletas-de-datiles-y-almendras-160-g.jpg?v=638776752089330000"
+          ],
+          "name": "Galletas Nat Crackers Dátiles y Almendras 160 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "19075",
+      "reference": "1652524",
+      "sponsoredId": null,
+      "slug": "galletas-saladas-crackelet-70-g-sal-de-mar",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "17846",
+        "22086",
+        "22523",
+        "23175"
+      ],
+      "brand": "Crackelet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "19399",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.07,
+          "price": 580,
+          "listPrice": 580,
+          "ppumPrice": 8286,
+          "ppumListPrice": 8286,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/353232-250-250/Galletas-saladas-Crackelet-70-g-sal-de-mar.jpg?v=638776696546830000"
+          ],
+          "name": "Galletas Saladas Crackelet Sal de Mar 70 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "127799",
+      "reference": "1964235",
+      "sponsoredId": null,
+      "slug": "galleta-club-social-mantequilla-24-gr-1964235",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22086",
+        "23175",
+        "25300",
+        "25303",
+        "25333",
+        "25334",
+        "25422",
+        "25595",
+        "25596",
+        "25597",
+        "25695",
+        "25997",
+        "27375",
+        "27376",
+        "27427",
+        "27437",
+        "27453",
+        "27487",
+        "27492",
+        "27499",
+        "27501",
+        "27541",
+        "27556",
+        "27563",
+        "27564",
+        "27566",
+        "27601"
+      ],
+      "brand": "Club Social",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128093",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.216,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 8750,
+          "ppumListPrice": 8750,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/510927-250-250/Galletas-Saladas-Club-Social-Mantequilla-216-g.jpg?v=638942411712300000"
+          ],
+          "name": "Galletas Saladas Club Social Mantequilla 216 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X2790 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2 24022026 AL 09032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO LA DESPENSA DESDE EL 2",
+              "type": "mx",
+              "value": 2790,
+              "unitPrice": 1395,
+              "ppumPrice": 6458,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X2290 - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB  24022026 AL 02032026",
+              "description": "JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB ",
+              "type": "mx",
+              "value": 2290,
+              "unitPrice": 1145,
+              "ppumPrice": 5301,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "138531",
+      "reference": "2001344",
+      "sponsoredId": null,
+      "slug": "gall-cracker-romero-keto-veg-grana-135gr-2001344",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1004",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Low Carb",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [],
+      "brand": "Grana",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138840",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.135,
+          "price": 5390,
+          "listPrice": 5390,
+          "ppumPrice": 39926,
+          "ppumListPrice": 39926,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/330873-250-250/Galletas-Crackers-Keto-de-Harina-de-Almendras-y-Romero-135-g.jpg?v=638776432747200000"
+          ],
+          "name": "Galletas Crackers Keto de Harina de Almendras y Romero 135 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "155785",
+      "reference": "2048208",
+      "sponsoredId": null,
+      "slug": "galleta-grill-clasica-200g-2048208",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "25333",
+        "25422",
+        "25519",
+        "25520",
+        "25695",
+        "27105",
+        "27507",
+        "27541"
+      ],
+      "brand": "Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156100",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 2000,
+          "listPrice": 2590,
+          "ppumPrice": 10000,
+          "ppumListPrice": 12950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/500307-250-250/Galletas-Grill-Clasica-200-g.jpg?v=638917603283570000"
+          ],
+          "name": "Galletas Grill Clásica 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2000 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 13012026 AL 02052026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2000,
+              "ppumPrice": 10000,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "93000",
+      "reference": "1804673",
+      "sponsoredId": null,
+      "slug": "galletas-horns-artisan-higo-y-nuez-130-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "22086",
+        "25333",
+        "25334",
+        "25422",
+        "25447",
+        "25450",
+        "25695",
+        "27557"
+      ],
+      "brand": "Perfect Choice",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "93264",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.13,
+          "price": 4090,
+          "listPrice": 4090,
+          "ppumPrice": 31462,
+          "ppumListPrice": 31462,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/368070-250-250/Galleta-Artisan-higo-y-nuez-pecana-130-g.jpg?v=638776770952430000"
+          ],
+          "name": "Galletas Perfect Choice Artisan Higo y Nuez Pecana 130 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "158032",
+      "reference": "2048746",
+      "sponsoredId": null,
+      "slug": "galleta-nat-wafer-crackers-original-100g-2048746",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [],
+      "brand": "Nat Crackers",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "158351",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 3690,
+          "listPrice": 3690,
+          "ppumPrice": 36900,
+          "ppumListPrice": 36900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/518720-250-250/Galleta-Nat-Wafer-Crackers-Original-100-g.jpg?v=638950410275100000"
+          ],
+          "name": "Galletas Nat Wafer Crackers Original 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "156451",
+      "reference": "2051599",
+      "sponsoredId": null,
+      "slug": "galleta-tika-crackers-tomate-albaha-140g-2051599",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27541",
+        "27563",
+        "27601"
+      ],
+      "brand": "Tika",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156773",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 2500,
+          "listPrice": 2500,
+          "ppumPrice": 17857,
+          "ppumListPrice": 17857,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/518444-250-250/GALLETA-TIKA-CRACKERS-TOMATE-ALBAHA-140G.jpg?v=638948537372370000"
+          ],
+          "name": "Galletas Tika Crackers Tomate Albahaca 140 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3790 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3790,
+              "unitPrice": 1895,
+              "ppumPrice": 13536,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "135886",
+      "reference": "1986285",
+      "sponsoredId": null,
+      "slug": "gall-crisp-danvita-queso-toma-albah-130g-1986285",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "14967",
+        "17846",
+        "19270",
+        "22086",
+        "27499",
+        "27501",
+        "27541",
+        "27563",
+        "27601"
+      ],
+      "brand": "Danvita",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "136177",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.13,
+          "price": 2168,
+          "listPrice": 2890,
+          "ppumPrice": 16677,
+          "ppumListPrice": 22231,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/325550-250-250/Galleta-Crisp-Danvita-Queso-Tomate-Albahaca-130-g.jpg?v=638776428456370000"
+          ],
+          "name": "Galleta Crisp Danvita Queso Tomate Albahaca 130 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 2168,
+              "ppumPrice": 16677,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "115570",
+      "reference": "1925883",
+      "sponsoredId": null,
+      "slug": "sacapita-sal-de-mar-120-gr-1925883",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "1055"
+      ],
+      "brand": "Sacapita",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115842",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 3190,
+          "listPrice": 3190,
+          "ppumPrice": 26583,
+          "ppumListPrice": 26583,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/381750-250-250/Galletas-sal-de-mar-120-g.jpg?v=638776828323570000"
+          ],
+          "name": "Galletas Saladas Sacapita Sal de Mar 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "132427",
+      "reference": "1979587",
+      "sponsoredId": null,
+      "slug": "chip-sanissimo-original-160gr-1979587",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "26912",
+        "26954",
+        "26955",
+        "26956",
+        "27367",
+        "27445"
+      ],
+      "brand": "Ideal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132708",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.16,
+          "price": 2950,
+          "listPrice": 2950,
+          "ppumPrice": 18438,
+          "ppumListPrice": 18438,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/400274-250-250/Chip-Sanissimo-Original-160-g.jpg?v=638776900799570000"
+          ],
+          "name": "Chip Sanissimo Ideal Original 160 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "2607",
+      "reference": "270939",
+      "sponsoredId": null,
+      "slug": "galletas-costa-paquete-85-g-crackelet",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "47",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Chocolates, Galletas y Snacks",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22086",
+        "22523",
+        "23175"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2613",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 580,
+          "listPrice": 580,
+          "ppumPrice": 6824,
+          "ppumListPrice": 6824,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346390-250-250/Galletas-Crackelet-85-g.jpg?v=638776458388900000"
+          ],
+          "name": "Galletas Costa Crackelet 85 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "148966",
+      "reference": "2037161",
+      "sponsoredId": null,
+      "slug": "galleta-crak-150g-2037161",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1004",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Low Carb",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [],
+      "brand": "Grana",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149261",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.135,
+          "price": 5390,
+          "listPrice": 5390,
+          "ppumPrice": 39926,
+          "ppumListPrice": 39926,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/447980-250-250/Galletas-Cracker-Keto-Harina-de-Almendras-Ajo-y-Albahaca-135-g.jpg?v=638843119575400000"
+          ],
+          "name": "Galletas Cracker Keto Harina de Almendras, Ajo, y Albahaca 135 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "115592",
+      "reference": "1925884",
+      "sponsoredId": null,
+      "slug": "sacapita-romero-120-gr-1925884",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1006",
+        "1042",
+        "1060"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Galletas Saladas",
+        "Galletas de Cóctel"
+      ],
+      "collections": [
+        "1055"
+      ],
+      "brand": "Sacapita",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115868",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 3190,
+          "listPrice": 3190,
+          "ppumPrice": 26583,
+          "ppumListPrice": 26583,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/381773-250-250/Galletas-saladas-romero-120-g.jpg?v=638776828421130000"
+          ],
+          "name": "Galletas Saladas Sacapita Romero 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Galletas de Cóctel",
+          "value": "/chocolates-galletas-y-snacks/galletas-saladas/galletas-de-coctel",
+          "selected": false,
+          "quantity": 73,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Galletas de Cóctel",
+          "value": "/chocolates-galletas-y-snacks/galletas-saladas/galletas-de-coctel",
+          "selected": false,
+          "quantity": 73,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Galletas de Cóctel",
+          "value": "/chocolates-galletas-y-snacks/galletas-saladas/galletas-de-coctel",
+          "selected": false,
+          "quantity": 73,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 69,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 69,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 48,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Selz",
+          "value": "Selz",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Club Social",
+          "value": "Club Social",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salmas",
+          "value": "Salmas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Costa",
+          "value": "Costa",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tika",
+          "value": "Tika",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mckay",
+          "value": "Mckay",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arcor",
+          "value": "Arcor",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nat Crackers",
+          "value": "Nat Crackers",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Perfect Choice",
+          "value": "Perfect Choice",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ritz",
+          "value": "Ritz",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sacapita",
+          "value": "Sacapita",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ideal",
+          "value": "Ideal",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quadrelli",
+          "value": "Quadrelli",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crackelet",
+          "value": "Crackelet",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Danvita",
+          "value": "Danvita",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Saniito",
+          "value": "Saniito",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Grana",
+          "value": "Grana",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cuetara",
+          "value": "Cuetara",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Love Co",
+          "value": "Love Co",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ricecrisps",
+          "value": "Ricecrisps",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sanissimo",
+          "value": "Sanissimo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lorenz",
+          "value": "Lorenz",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Deluxe & Bla Bla",
+          "value": "Deluxe & Bla Bla",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kupiec",
+          "value": "Kupiec",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "The Fresh Market",
+          "value": "The Fresh Market",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Galletas Crackers",
+          "value": "Galletas Crackers",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Saladas",
+          "value": "Galletas Saladas",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas de Maíz",
+          "value": "Galletas de Maíz",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Tradicionales",
+          "value": "Galletas Tradicionales",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tostadas y Tostaditas",
+          "value": "Tostadas y Tostaditas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tortillas de Maíz",
+          "value": "Tortillas de Maíz",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Clásicas",
+          "value": "Galletas Clásicas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Veganas",
+          "value": "Galletas Veganas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Chips",
+          "value": "Galletas Chips",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Snacks Mix Salados",
+          "value": "Snacks Mix Salados",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Ajo",
+          "value": "Ajo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "AJO ALBAHACA",
+          "value": "AJO ALBAHACA",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bagel",
+          "value": "Bagel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cheddar",
+          "value": "Cheddar",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cramberry nuez",
+          "value": "Cramberry nuez",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cranberry Nuez",
+          "value": "Cranberry Nuez",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galleta",
+          "value": "Galleta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas saladitas y mantecosas rellenas con crema de Queso",
+          "value": "Galletas saladitas y mantecosas rellenas con crema de Queso",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas saladitas, tostaditas y mantecosas",
+          "value": "Galletas saladitas, tostaditas y mantecosas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jamon Ahumado",
+          "value": "Jamon Ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mantequilla",
+          "value": "Mantequilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pimienta",
+          "value": "Pimienta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pistacho Romero",
+          "value": "Pistacho Romero",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Queso",
+          "value": "Queso",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Romero",
+          "value": "Romero",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sal de Mar",
+          "value": "Sal de Mar",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tomate Albahaca",
+          "value": "Tomate Albahaca",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "100 g",
+          "value": "100 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "135 g",
+          "value": "135 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "137 g",
+          "value": "137g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "140 g",
+          "value": "140 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "150 g",
+          "value": "150 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "160 g",
+          "value": "160 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "216 g",
+          "value": "216 g",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "255 g",
+          "value": "255 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "3 unidades",
+          "value": "3 un",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "350 g",
+          "value": "350 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "80 g",
+          "value": "80 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "85 g",
+          "value": "85 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "3 Unidades",
+          "value": "3",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6 Unidades",
+          "value": "6",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "140 g",
+          "value": "140 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "150 g",
+          "value": "150 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "216 g",
+          "value": "216 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "9 Unidades",
+          "value": "9 Unidades",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frasco",
+          "value": "Frasco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack",
+          "value": "Pack",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 290,
+          "maxValue": 7490
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "América Latina",
+          "value": "América Latina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Australia",
+          "value": "Australia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Canadá",
+          "value": "Canadá",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 40,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "China",
+          "value": "China",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "India",
+          "value": "India",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lituania",
+          "value": "Lituania",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Perú",
+          "value": "Perú",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Polonia",
+          "value": "Polonia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Galletas Saludables",
+          "value": "Galletas Saludables",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Tradicionales",
+          "value": "Galletas Tradicionales",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Integral",
+          "value": "Integral",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Navidad",
+          "value": "Navidad",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Original",
+          "value": "Original",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salado",
+          "value": "Salado",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Bolsas",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entera",
+          "value": "Entera",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Familar",
+          "value": "Familar",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Formato Individual",
+          "value": "Formato Individual",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Integral",
+          "value": "Integral",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Orgánico",
+      "key": "Orgánico",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "NO",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "Sin relleno",
+          "value": "sin relleno",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Seco",
+          "value": "Seco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Hecho en Jumbo",
+      "key": "Hecho en Jumbo",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "No",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 73,
+  "metaTag": {
+    "title": "Galletas de Cóctel | Jumbo.cl",
+    "description": "Acompaña tus eventos con las versátiles y ricas galletas de cóctel de nuestro sitio web y descubre un mundo de fascinantes combinaciones gastronómicas."
+  }
+}

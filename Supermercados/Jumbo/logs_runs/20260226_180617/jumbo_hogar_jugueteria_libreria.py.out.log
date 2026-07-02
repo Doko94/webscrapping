@@ -1,0 +1,2138 @@
+
+Subcategorías:
+- Autos y Autopistas -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/jugueteria/autos-y-autopistas
+- Muñecas -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/jugueteria/munecas
+- Peluches -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/jugueteria/peluches
+- Juguetes de Roles y Mini Hogar -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/jugueteria/juguetes-de-roles-y-mini-hogar
+- Juguetería (Mostrar Todo) -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/jugueteria
+- Cocina y Mesa -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/hogar/cocina-y-mesa
+- Celebraciones -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/hogar/celebraciones
+- Decoración -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/hogar/decoracion
+- Baño -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/hogar/bano
+- Hogar (Mostrar Todo) -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/hogar
+- Electrodomésticos -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/electro-y-tecnologia/electrodomesticos
+- Tecnología -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/electro-y-tecnologia/tecnologia
+- Calefacción -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/electro-y-tecnologia/calefaccion
+- Ventilación -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/electro-y-tecnologia/ventilacion
+- Electro y Tecnología (Mostrar Todo) -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/electro-y-tecnologia
+- Fitness -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/deportes/fitness
+- Camping -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/deportes/camping
+- Fútbol -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/deportes/futbol
+- Ciclismo -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/deportes/ciclismo
+- Deportes (Mostrar Todo) -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/deportes
+- Automóvil -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/automovil-ferreteria-y-jardin/automovil
+- Ferretería -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/automovil-ferreteria-y-jardin/ferreteria
+- Jardín -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/automovil-ferreteria-y-jardin/jardin
+- Pilas y Linternas -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/automovil-ferreteria-y-jardin/pilas-y-linternas
+- Automóvil, Ferretería y Jardín (Mostrar Todo) -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/automovil-ferreteria-y-jardin
+- Cuadernos -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/libreria-y-escolares/cuadernos
+- Artículos de Oficina -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/libreria-y-escolares/articulos-de-oficina
+- Mochilas, Loncheras y Estuches -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/libreria-y-escolares/mochilas-loncheras-y-estuches
+- Libros -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/libreria-y-escolares/libros
+- Librería y Escolares (Mostrar Todo) -> https://www.jumbo.cl/hogar-jugueteria-y-libreria/libreria-y-escolares
+
+Scrape: Autos y Autopistas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/autos-y-autopistas.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/autos-y-autopistas.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/autos-y-autopistas.json
+🧪 Dump BFF guardado: debug_bff\bff_autos_y_autopistas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/autos-y-autopistas.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/autos-y-autopistas.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/autos-y-autopistas.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 12
+  productos: 132
+
+Scrape: Muñecas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 404 https://assets.jumbo.cl/json/cms/munecas.json
+09. 200 https://bff.jumbo.cl/catalog/plp
+🧪 Dump BFF guardado: debug_bff\bff_mu_ecas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 12
+  productos: 92
+
+Scrape: Peluches
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/peluches.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://bff.jumbo.cl/catalog/plp
+10. 200 https://assets.jumbo.cl/json/cms/peluches.json
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+🧪 Dump BFF guardado: debug_bff\bff_peluches.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+02. 200 https://assets.jumbo.cl/json/cms/peluches.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 15
+  productos: 55
+
+Scrape: Juguetes de Roles y Mini Hogar
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 404 https://assets.jumbo.cl/json/cms/juguetes-de-roles-y-mini-hogar.json
+09. 200 https://bff.jumbo.cl/catalog/plp
+10. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+🧪 Dump BFF guardado: debug_bff\bff_juguetes_de_roles_y_mini_hogar.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 10
+  productos: 50
+
+Scrape: Juguetería (Mostrar Todo)
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+09. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+🧪 Dump BFF guardado: debug_bff\bff_jugueter_a_mostrar_todo.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/jugueteria.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 29
+  productos: 909
+
+Scrape: Cocina y Mesa
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 404 https://assets.jumbo.cl/json/cms/cocina-y-mesa.json
+09. 200 https://bff.jumbo.cl/catalog/plp
+10. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+🧪 Dump BFF guardado: debug_bff\bff_cocina_y_mesa.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 13
+  productos: 973
+
+Scrape: Celebraciones
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/celebraciones.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/celebraciones.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/celebraciones.json
+🧪 Dump BFF guardado: debug_bff\bff_celebraciones.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/celebraciones.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/celebraciones.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/celebraciones.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/celebraciones.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/celebraciones.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/celebraciones.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 13
+  productos: 253
+
+Scrape: Decoración
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/decoracion.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/list-category.json
+09. 200 https://assets.jumbo.cl/json/cms/decoracion.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/decoracion.json
+🧪 Dump BFF guardado: debug_bff\bff_decoraci_n.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/decoracion.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/decoracion.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/decoracion.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 32
+  productos: 152
+
+Scrape: Baño
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/bano.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/bano.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/bano.json
+🧪 Dump BFF guardado: debug_bff\bff_ba_o.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 25
+  productos: 25
+
+Scrape: Hogar (Mostrar Todo)
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/hogar.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/hogar.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/hogar.json
+🧪 Dump BFF guardado: debug_bff\bff_hogar_mostrar_todo.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/hogar.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 30
+  productos: 1590
+
+Scrape: Electrodomésticos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/electrodomesticos.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+09. 200 https://assets.jumbo.cl/json/cms/electrodomesticos.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/electrodomesticos.json
+🧪 Dump BFF guardado: debug_bff\bff_electrodom_sticos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/electrodomesticos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/electrodomesticos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/electrodomesticos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+  productos: 120
+
+Scrape: Tecnología
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/tecnologia.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/tecnologia.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/tecnologia.json
+🧪 Dump BFF guardado: debug_bff\bff_tecnolog_a.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/tecnologia.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/tecnologia.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/tecnologia.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 16
+  productos: 136
+
+Scrape: Calefacción
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/calefaccion.json
+09. 200 https://assets.jumbo.cl/json/cms/calefaccion.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/calefaccion.json
+🧪 Dump BFF guardado: debug_bff\bff_calefacci_n.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 3
+  productos: 3
+
+Scrape: Ventilación
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/ventilacion.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/ventilacion.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/ventilacion.json
+🧪 Dump BFF guardado: debug_bff\bff_ventilaci_n.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/ventilacion.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 12
+  productos: 52
+
+Scrape: Electro y Tecnología (Mostrar Todo)
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/electro-y-tecnologia.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/electro-y-tecnologia.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/electro-y-tecnologia.json
+🧪 Dump BFF guardado: debug_bff\bff_electro_y_tecnolog_a_mostrar_todo.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/electro-y-tecnologia.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/electro-y-tecnologia.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/electro-y-tecnologia.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/electro-y-tecnologia.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/electro-y-tecnologia.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/electro-y-tecnologia.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/electro-y-tecnologia.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/electro-y-tecnologia.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 33
+  productos: 353
+
+Scrape: Fitness
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+02. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/fitness.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+09. 200 https://assets.jumbo.cl/json/cms/fitness.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/fitness.json
+🧪 Dump BFF guardado: debug_bff\bff_fitness.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 36
+  productos: 36
+
+Scrape: Camping
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/camping.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/camping.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/camping.json
+🧪 Dump BFF guardado: debug_bff\bff_camping.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/camping.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 15
+  productos: 55
+
+Scrape: Fútbol
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/futbol.json
+09. 200 https://assets.jumbo.cl/json/cms/futbol.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/futbol.json
+🧪 Dump BFF guardado: debug_bff\bff_f_tbol.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 13
+  productos: 13
+
+Scrape: Ciclismo
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/ciclismo.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/ciclismo.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/ciclismo.json
+🧪 Dump BFF guardado: debug_bff\bff_ciclismo.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 9
+  productos: 9
+
+Scrape: Deportes (Mostrar Todo)
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/deportes.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/list-category.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/deportes.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/deportes.json
+🧪 Dump BFF guardado: debug_bff\bff_deportes_mostrar_todo.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/deportes.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/deportes.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/deportes.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/deportes.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+  productos: 160
+
+Scrape: Automóvil
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/automovil.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/automovil.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/automovil.json
+🧪 Dump BFF guardado: debug_bff\bff_autom_vil.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/automovil.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 29
+  productos: 69
+
+Scrape: Ferretería
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 404 https://assets.jumbo.cl/json/cms/ferreteria.json
+09. 404 https://assets.jumbo.cl/json/cms/ferreteria.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+🧪 Dump BFF guardado: debug_bff\bff_ferreter_a.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 13
+  productos: 93
+
+Scrape: Jardín
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/jardin.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/jardin.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/jardin.json
+🧪 Dump BFF guardado: debug_bff\bff_jard_n.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 31
+  productos: 31
+
+Scrape: Pilas y Linternas
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 404 https://assets.jumbo.cl/json/cms/pilas-y-linternas.json
+09. 200 https://bff.jumbo.cl/catalog/plp
+10. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+🧪 Dump BFF guardado: debug_bff\bff_pilas_y_linternas.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 33
+  productos: 33
+
+Scrape: Automóvil, Ferretería y Jardín (Mostrar Todo)
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/automovil-ferreteria-y-jardin.json
+09. 200 https://assets.jumbo.cl/json/cms/automovil-ferreteria-y-jardin.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/automovil-ferreteria-y-jardin.json
+🧪 Dump BFF guardado: debug_bff\bff_autom_vil_ferreter_a_y_jard_n_mostrar_todo.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/automovil-ferreteria-y-jardin.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/automovil-ferreteria-y-jardin.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/automovil-ferreteria-y-jardin.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/automovil-ferreteria-y-jardin.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/automovil-ferreteria-y-jardin.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 39
+  productos: 239
+
+Scrape: Cuadernos
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/cuadernos.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+09. 200 https://assets.jumbo.cl/json/cms/cuadernos.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/cuadernos.json
+🧪 Dump BFF guardado: debug_bff\bff_cuadernos.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/cuadernos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/cuadernos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/cuadernos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/cuadernos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/cuadernos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/cuadernos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/cuadernos.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 37
+  productos: 317
+
+Scrape: Artículos de Oficina
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/articulos-de-oficina.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/articulos-de-oficina.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/articulos-de-oficina.json
+🧪 Dump BFF guardado: debug_bff\bff_art_culos_de_oficina.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/articulos-de-oficina.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/articulos-de-oficina.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/articulos-de-oficina.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/articulos-de-oficina.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/articulos-de-oficina.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/articulos-de-oficina.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 26
+  productos: 266
+
+Scrape: Mochilas, Loncheras y Estuches
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/list-category.json
+06. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+07. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+08. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+09. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+🧪 Dump BFF guardado: debug_bff\bff_mochilas_loncheras_y_estuches.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+02. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/mochilas-loncheras-y-estuches.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 24
+  productos: 504
+
+Scrape: Libros
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/libros.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/libros.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/libros.json
+🧪 Dump BFF guardado: debug_bff\bff_libros.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libros.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libros.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libros.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libros.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libros.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libros.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 36
+  productos: 276
+
+Scrape: Librería y Escolares (Mostrar Todo)
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/page-57057.json
+02. 200 https://assets.jumbo.cl/json/cms/page-16512.json
+03. 200 https://assets.jumbo.cl/json/cms/page-11484.json
+04. 200 https://assets.jumbo.cl/json/cms/page-11732.json
+05. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+06. 200 https://assets.jumbo.cl/json/cms/list-category.json
+07. 200 https://assets.jumbo.cl/json/cms/page-101453.json
+08. 200 https://assets.jumbo.cl/json/cms/page-67845.json
+09. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+10. 200 https://bff.jumbo.cl/catalog/plp
+11. 200 https://assets.jumbo.cl/json/cms/page-121827.json
+12. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+🧪 Dump BFF guardado: debug_bff\bff_librer_a_y_escolares_mostrar_todo.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://bff.jumbo.cl/catalog/plp
+02. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 40
+
+--- XHR/Fetch candidatos (filtrado) ---
+01. 200 https://assets.jumbo.cl/json/cms/libreria-y-escolares.json
+02. 200 https://bff.jumbo.cl/catalog/plp
+
+✅ Request ganador (BFF): https://bff.jumbo.cl/catalog/plp
+✅ Productos detectados: 10
+  productos: 2290
+
+Total filas: 9286
+CSV generado: output\hogar_jugueteria_libreria\jumbo_hogar_jugueteria_libreria_20260226_185210.csv

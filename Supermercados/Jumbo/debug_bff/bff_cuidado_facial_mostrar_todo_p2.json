@@ -1,0 +1,2339 @@
+{
+  "products": [
+    {
+      "productId": "134360",
+      "reference": "1990130",
+      "sponsoredId": null,
+      "slug": "gel-limpieza-neutrogena-ex-suave-354ml-1990130",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1013"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Limpieza Facial"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Neutrogena",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134653",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.354,
+          "price": 9390,
+          "listPrice": 9390,
+          "ppumPrice": 2653,
+          "ppumListPrice": 2653,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/322968-250-250/Gel-Limpieza-Neutrogena-Ultra-Gentle.jpg?v=638776426543530000"
+          ],
+          "name": "Gel Limpieza Neutrogena Ultra Gentle 354 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mxn",
+              "value": 18781,
+              "unitPrice": 6260,
+              "ppumPrice": 1768,
+              "mQuantity": 3,
+              "nQuantity": 2,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103928",
+      "reference": "1885410",
+      "sponsoredId": null,
+      "slug": "serum-garnier-exp-aclara-vitamin-c-30ml-1885410",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1014"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Cremas e Hidratación Facial"
+      ],
+      "collections": [
+        "1056",
+        "17846",
+        "21278",
+        "23175",
+        "25182",
+        "25191",
+        "25333",
+        "25334",
+        "25422",
+        "25538",
+        "25545",
+        "25574",
+        "25578",
+        "25695",
+        "27317",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Garnier",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "104196",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.03,
+          "price": 10490,
+          "listPrice": 10490,
+          "ppumPrice": 34967,
+          "ppumListPrice": 34967,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314524-250-250/Serum-Aclarante-Garnier-Vitamina-C-30-ml.jpg?v=638776402178770000"
+          ],
+          "name": "Sérum Aclarante Garnier Vitamina C 30 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mxn",
+              "value": 20981,
+              "unitPrice": 6994,
+              "ppumPrice": 23313,
+              "mQuantity": 3,
+              "nQuantity": 2,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "97222",
+      "reference": "1856182",
+      "sponsoredId": null,
+      "slug": "nivea-rose-care-crema-hidratante-en-gel-50ml-1856182",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1014"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Cremas e Hidratación Facial"
+      ],
+      "collections": [
+        "17846",
+        "21278",
+        "25182",
+        "25191",
+        "25208",
+        "25333",
+        "25334",
+        "25422",
+        "25538",
+        "25545",
+        "25692",
+        "25695",
+        "25741",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27614",
+        "27617"
+      ],
+      "brand": "Nivea",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "97495",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.05,
+          "price": 5990,
+          "listPrice": 8990,
+          "ppumPrice": 11980,
+          "ppumListPrice": 17980,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312971-250-250/Crema-Facial-Nivea-Rose-Care-Gel-50-ml.jpg?v=638776398117430000"
+          ],
+          "name": "Crema Facial Nivea Rose Care Gel 50 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5990,
+              "ppumPrice": 11980,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156425",
+      "reference": "2049980",
+      "sponsoredId": null,
+      "slug": "crema-de-dia-loreal-rvtf-laser-50ml-2049980",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1014"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Cremas e Hidratación Facial"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "L’Oréal Paris",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156747",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.05,
+          "price": 14392,
+          "listPrice": 17990,
+          "ppumPrice": 28784,
+          "ppumListPrice": 35980,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/509810-250-250/CREMA-DE-DIA-LOREAL-RVTF-LASER-50ML.jpg?v=638936271773630000"
+          ],
+          "name": "Crema Facial Día L’Oréal Revitalift Láser Triple Acción Antiedad FPS 25 50 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 11",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 14392,
+              "ppumPrice": 28784,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 3",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 12593,
+              "ppumPrice": 25186,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137910",
+      "reference": "2000162",
+      "sponsoredId": null,
+      "slug": "nivea-serum-dual-q10-30ml-2000162",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1014"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Cremas e Hidratación Facial"
+      ],
+      "collections": [
+        "17846",
+        "21278",
+        "22523",
+        "25182",
+        "25191",
+        "25208",
+        "25333",
+        "25334",
+        "25422",
+        "25538",
+        "25545",
+        "25692",
+        "25695",
+        "25741",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27614",
+        "27617"
+      ],
+      "brand": "Nivea",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138204",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 9990,
+          "listPrice": 13990,
+          "ppumPrice": 9990,
+          "ppumListPrice": 13990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/509316-250-250/Serum-Nivea-Q10-Doble-Accion-30-ml.jpg?v=638935589514370000"
+          ],
+          "name": "Sérum Facial Nivea Q10 Doble Acción 30 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 9990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 9990,
+              "ppumPrice": 9990,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153734",
+      "reference": "2042937",
+      "sponsoredId": null,
+      "slug": "mascarilla-arcilla-poremizi-skin1004-27g-2042937",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1013"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Limpieza Facial"
+      ],
+      "collections": [
+        "25182",
+        "25191",
+        "25333",
+        "25334",
+        "25422",
+        "25538",
+        "25545",
+        "25635",
+        "25695"
+      ],
+      "brand": "Skin1004",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154044",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.027,
+          "price": 28990,
+          "listPrice": 28990,
+          "ppumPrice": 107370,
+          "ppumListPrice": 107370,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/489515-250-250/Mascarilla-Arcilla-Poremizi-Skin1004-27-g.jpg?v=638901025915630000"
+          ],
+          "name": "Mascarilla Arcilla Skin1004 Centella Poremizing Quick Clay 27 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "9601",
+      "reference": "1372193",
+      "sponsoredId": null,
+      "slug": "bandas-limpiadoras-limpieza-profunda-biore-8-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1015"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Tratamientos Faciales"
+      ],
+      "collections": [
+        "21278",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Bioré",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9827",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 8,
+          "price": 5592,
+          "listPrice": 6990,
+          "ppumPrice": 699,
+          "ppumListPrice": 874,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350151-250-250/Bandas-Limpiadoras-Biore-Limpieza-Profunda-8-un.jpg?v=638776679994530000"
+          ],
+          "name": "Bandas Limpiadoras Bioré Limpieza Profunda 8 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 11",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 5592,
+              "ppumPrice": 699,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "117829",
+      "reference": "1925906",
+      "sponsoredId": null,
+      "slug": "crem-facial-neutroge-antied-fps-22-116ml-1925906",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1014"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Cremas e Hidratación Facial"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Neutrogena",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "118053",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 8190,
+          "listPrice": 8190,
+          "ppumPrice": 8190,
+          "ppumListPrice": 8190,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/542759-250-250/Crema-Facial-Neutrogena-Face-Care-Intensive-Antiedad-FPS-22---100-g.jpg?v=638991550527200000"
+          ],
+          "name": "Crema Facial Neutrogena Face Care Intensive Antiedad FPS 22 - 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mxn",
+              "value": 16381,
+              "unitPrice": 5460,
+              "ppumPrice": 5460,
+              "mQuantity": 3,
+              "nQuantity": 2,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122667",
+      "reference": "1956668",
+      "sponsoredId": null,
+      "slug": "serum-neutrogena-30ml-1956668",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1014"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Cremas e Hidratación Facial"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "23175",
+        "25182",
+        "25195",
+        "25333",
+        "25334",
+        "25422",
+        "25538",
+        "25545",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Neutrogena",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122954",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.03,
+          "price": 14390,
+          "listPrice": 14390,
+          "ppumPrice": 47967,
+          "ppumListPrice": 47967,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/388378-250-250/Serum-Neutrogena-30-ml.jpg?v=638776855638500000"
+          ],
+          "name": "Sérum Neutrogena Hydro Boost Hidratante 30 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mxn",
+              "value": 28781,
+              "unitPrice": 9594,
+              "ppumPrice": 31980,
+              "mQuantity": 3,
+              "nQuantity": 2,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "87494",
+      "reference": "1839279",
+      "sponsoredId": null,
+      "slug": "serum-revitalift-acido-hialuronico-30ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1015"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Tratamientos Faciales"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "25182",
+        "25194",
+        "25333",
+        "25334",
+        "25422",
+        "25538",
+        "25545",
+        "25695",
+        "26684"
+      ],
+      "brand": "L’Oréal Paris",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "87765",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.03,
+          "price": 13990,
+          "listPrice": 13990,
+          "ppumPrice": 46633,
+          "ppumListPrice": 46633,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311818-250-250/Serum-Acido-Hialuronico-Revitalift-30-ml.jpg?v=638776394721470000"
+          ],
+          "name": "Sérum L'Oreal Revitalift Rellenador 1.5% Ácido Hialurónico 30 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "9627",
+      "reference": "889354",
+      "sponsoredId": null,
+      "slug": "locion-para-limpieza-neutrogena-162-cc-para-r",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1013"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Limpieza Facial"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Neutrogena",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9853",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.162,
+          "price": 8290,
+          "listPrice": 8290,
+          "ppumPrice": 5117,
+          "ppumListPrice": 5117,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350161-250-250/Locion-Desmaquillante-de-Ojos-Neutrogena-Bifasico-162-ml.jpg?v=638776680049030000"
+          ],
+          "name": "Loción Desmaquillante de Ojos Neutrogena Bifásico 162 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mxn",
+              "value": 16581,
+              "unitPrice": 5527,
+              "ppumPrice": 3412,
+              "mQuantity": 3,
+              "nQuantity": 2,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "152969",
+      "reference": "2040900",
+      "sponsoredId": null,
+      "slug": "limpiador-facial-2040900",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1013"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Limpieza Facial"
+      ],
+      "collections": [
+        "25574",
+        "25578",
+        "27317",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "L’Oréal Paris",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153267",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 8990,
+          "listPrice": 8990,
+          "ppumPrice": 8990,
+          "ppumListPrice": 8990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/487390-250-250/Limpiador-Facial-Garnier-Acido-Salicilico-Antimanchas-250-ml.jpg?v=638894124257330000"
+          ],
+          "name": "Limpiador Facial Garnier Ácido Salicílico Antimanchas 250 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mxn",
+              "value": 17981,
+              "unitPrice": 5994,
+              "ppumPrice": 5994,
+              "mQuantity": 3,
+              "nQuantity": 2,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "151362",
+      "reference": "2040324",
+      "sponsoredId": null,
+      "slug": "tonico-exfoliante-2040324",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1013"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Limpieza Facial"
+      ],
+      "collections": [
+        "25182",
+        "25191",
+        "25208",
+        "25333",
+        "25334",
+        "25422",
+        "25538",
+        "25545",
+        "25692",
+        "25695",
+        "25741",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27614",
+        "27617"
+      ],
+      "brand": "Nivea",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "151661",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.1,
+          "price": 6490,
+          "listPrice": 8990,
+          "ppumPrice": 6490,
+          "ppumListPrice": 8990,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/509362-250-250/Tonico-Exfoliante-Nivea-Luminous630-Skin-Glow-100-ml.jpg?v=638935589800170000"
+          ],
+          "name": "Tónico Exfoliante Facial Nivea Luminous 630 Skin Glow 100 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 6490,
+              "ppumPrice": 6490,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "9629",
+      "reference": "1057678",
+      "sponsoredId": null,
+      "slug": "toallas-de-limpieza-facial-neutrogena-25-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1013"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Limpieza Facial"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Neutrogena",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9855",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 25,
+          "price": 4090,
+          "listPrice": 4090,
+          "ppumPrice": 164,
+          "ppumListPrice": 164,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350178-250-250/Toallas-de-Limpieza-Facial-Neutrogena-25-un.jpg?v=638776680102430000"
+          ],
+          "name": "Toallitas Desmaquillantes Neutrogena Piel Sensible 25 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mxn",
+              "value": 8180,
+              "unitPrice": 2727,
+              "ppumPrice": 109,
+              "mQuantity": 3,
+              "nQuantity": 2,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "9615",
+      "reference": "1467091",
+      "sponsoredId": null,
+      "slug": "crema-hidratacion-total-matificante-loreal-50-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "230",
+        "255",
+        "977",
+        "982",
+        "1014"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Licores y Spritz",
+        "Vermouth",
+        "Cremas e Hidratación Facial"
+      ],
+      "collections": [
+        "17846",
+        "21278",
+        "23175"
+      ],
+      "brand": "L’Oréal Paris",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9841",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.05,
+          "price": 7190,
+          "listPrice": 7190,
+          "ppumPrice": 14380,
+          "ppumListPrice": 14380,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350159-250-250/Principal-678.jpg?v=638776680034100000"
+          ],
+          "name": "Crema Facial Día L’Oréal Hidra Total 5 Hidratante Matificante 50 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "143962",
+      "reference": "2018076",
+      "sponsoredId": null,
+      "slug": "parche-antiacne-hero-original-24un-2018076",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "255",
+        "1015"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Facial",
+        "Tratamientos Faciales"
+      ],
+      "collections": [
+        "22523",
+        "25182",
+        "25189",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Hero",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144255",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 24,
+          "price": 11990,
+          "listPrice": 11990,
+          "ppumPrice": 500,
+          "ppumListPrice": 500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/340731-250-250/Parche-Antiacne-Hero-Original-24-un.jpg?v=638776440954570000"
+          ],
+          "name": "Parche Antiacné Mighty Patch Hero Original 24 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Cremas e Hidratación Facial",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/cremas-e-hidratacion-facial",
+          "selected": false,
+          "quantity": 95,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limpieza Facial",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/limpieza-facial",
+          "selected": false,
+          "quantity": 93,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bálsamo y Protector Labial",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/balsamo-y-protector-labial",
+          "selected": false,
+          "quantity": 49,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tratamientos Faciales",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/tratamientos-faciales",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Protectores Solares",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/protectores-solares",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pétalos y Accesorios",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/petalos-y-accesorios",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Cremas e Hidratación Facial",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/cremas-e-hidratacion-facial",
+          "selected": false,
+          "quantity": 95,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limpieza Facial",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/limpieza-facial",
+          "selected": false,
+          "quantity": 93,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bálsamo y Protector Labial",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/balsamo-y-protector-labial",
+          "selected": false,
+          "quantity": 49,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tratamientos Faciales",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/tratamientos-faciales",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Protectores Solares",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/protectores-solares",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pétalos y Accesorios",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/petalos-y-accesorios",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Cremas e Hidratación Facial",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/cremas-e-hidratacion-facial",
+          "selected": false,
+          "quantity": 95,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limpieza Facial",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/limpieza-facial",
+          "selected": false,
+          "quantity": 93,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bálsamo y Protector Labial",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/balsamo-y-protector-labial",
+          "selected": false,
+          "quantity": 49,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tratamientos Faciales",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/tratamientos-faciales",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Protectores Solares",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/protectores-solares",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pétalos y Accesorios",
+          "value": "/cuidado-personal-y-bebe/cuidado-facial/petalos-y-accesorios",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Neutrogena",
+          "value": "Neutrogena",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "L’Oréal Paris",
+          "value": "L’Oréal Paris",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Family Care",
+          "value": "Family Care",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nivea",
+          "value": "Nivea",
+          "selected": false,
+          "quantity": 61,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "OMG!",
+          "value": "OMG!",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Garnier",
+          "value": "Garnier",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Swiss Beauty",
+          "value": "Swiss Beauty",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Skin1004",
+          "value": "Skin1004",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bioré",
+          "value": "Bioré",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Everskin",
+          "value": "Everskin",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Emuline",
+          "value": "Emuline",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hero",
+          "value": "Hero",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bioherapy",
+          "value": "Bioherapy",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Teatrical",
+          "value": "Teatrical",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Revlon",
+          "value": "Revlon",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Petrizzio",
+          "value": "Petrizzio",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "St. Ives",
+          "value": "St. Ives",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Simonds",
+          "value": "Simonds",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hawaiian Tropic",
+          "value": "Hawaiian Tropic",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dermocream",
+          "value": "Dermocream",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cotobel",
+          "value": "Cotobel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Beter",
+          "value": "Beter",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "QA",
+          "value": "QA",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cicatricure",
+          "value": "Cicatricure",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Simond's",
+          "value": "Simond's",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Organyc",
+          "value": "Organyc",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vaseline",
+          "value": "Vaseline",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Koud",
+          "value": "Koud",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Leblon Solar",
+          "value": "Leblon Solar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Magic Makeup",
+          "value": "Magic Makeup",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Barron + Vieyra",
+          "value": "Barron + Vieyra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Beauty Care",
+          "value": "Beauty Care",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lip Ice",
+          "value": "Lip Ice",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Roche Posay",
+          "value": "La Roche Posay",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chupa Chups",
+          "value": "Chupa Chups",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Etienne",
+          "value": "Etienne",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Asepxia",
+          "value": "Asepxia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "B Fresh",
+          "value": "B Fresh",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Eucerin",
+          "value": "Eucerin",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carmex",
+          "value": "Carmex",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "ChapStick",
+          "value": "ChapStick",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dirty Works",
+          "value": "Dirty Works",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Organic Shop",
+          "value": "Organic Shop",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tresemmé",
+          "value": "Tresemmé",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dermo Expertise",
+          "value": "Dermo Expertise",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Daise",
+          "value": "Daise",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Cremas Faciales",
+          "value": "Cremas Faciales",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremas Anti-Arrugas",
+          "value": "Cremas Anti-Arrugas",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Desmaquillantes",
+          "value": "Desmaquillantes",
+          "selected": false,
+          "quantity": 48,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sérum",
+          "value": "Sérum",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gel",
+          "value": "Gel",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aceites y Serums",
+          "value": "Aceites y Serums",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limpiadores Faciales",
+          "value": "Limpiadores Faciales",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremas Hidratantes",
+          "value": "Cremas Hidratantes",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ampollas",
+          "value": "Ampollas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bloqueadores",
+          "value": "Bloqueadores",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Exfoliantes",
+          "value": "Exfoliantes",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Toallas Faciales",
+          "value": "Toallas Faciales",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Set de Tratamiento",
+          "value": "Set de Tratamiento",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Parches",
+          "value": "Parches",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Banditas y Parches",
+          "value": "Banditas y Parches",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mascarillas Faciales",
+          "value": "Mascarillas Faciales",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jabones",
+          "value": "Jabones",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremas de Tratamiento",
+          "value": "Cremas de Tratamiento",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremas Corporales",
+          "value": "Cremas Corporales",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cepillos y Peinetas",
+          "value": "Cepillos y Peinetas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Espumas",
+          "value": "Espumas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bálsamos Labiales",
+          "value": "Bálsamos Labiales",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alcohol Aerosol",
+          "value": "Alcohol Aerosol",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Colets y Scrunchies",
+          "value": "Colets y Scrunchies",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crema Coceduras",
+          "value": "Crema Coceduras",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremas de Afeitar",
+          "value": "Cremas de Afeitar",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cepillos de Limpieza",
+          "value": "Cepillos de Limpieza",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rodillos",
+          "value": "Rodillos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Acondicionadores",
+          "value": "Acondicionadores",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Labiales",
+          "value": "Labiales",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Toallas Húmedas",
+          "value": "Toallas Húmedas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Set de Belleza",
+          "value": "Set de Belleza",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pañuelos Desechables",
+          "value": "Pañuelos Desechables",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estuches de Regalo",
+          "value": "Estuches de Regalo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 163,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 156,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 990,
+          "maxValue": 47990
+        }
+      ]
+    },
+    {
+      "label": "Modelo",
+      "key": "Modelo",
+      "values": [
+        {
+          "displayName": "99321",
+          "value": "99321",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "99392",
+          "value": "99392",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "100105",
+          "value": "100105",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "100389",
+          "value": "100389",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "100390",
+          "value": "100390",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "100482",
+          "value": "100482",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 GEL LIMPIADOR",
+          "value": "1 GEL LIMPIADOR",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bella",
+          "value": "Bella",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bridgerton",
+          "value": "Bridgerton",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Choco Vainilla",
+          "value": "Choco Vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cola",
+          "value": "Cola",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "DermoPure",
+          "value": "DermoPure",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Disney",
+          "value": "Disney",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frambuesa",
+          "value": "Frambuesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "HERO MIGHTY PATCH DUO",
+          "value": "HERO MIGHTY PATCH DUO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hero Surface",
+          "value": "Hero Surface",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hidratante Gimme Some Lip",
+          "value": "Hidratante Gimme Some Lip",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Labial Blanca Nieves",
+          "value": "Labial Blanca Nieves",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Luminous",
+          "value": "Luminous",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Luminous630",
+          "value": "Luminous630",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Micelar 3 en 1",
+          "value": "Micelar 3 en 1",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Micelar Nivea",
+          "value": "Micelar Nivea",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "NIVEA SUN",
+          "value": "NIVEA SUN",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Original",
+          "value": "Original",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Piel Coreana",
+          "value": "Piel Coreana",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pillow Pout",
+          "value": "Pillow Pout",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Q10",
+          "value": "Q10",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Regenerador Butter Than Ever",
+          "value": "Regenerador Butter Than Ever",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Revitalift Retinol",
+          "value": "Revitalift Retinol",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tutti Frutti",
+          "value": "Tutti Frutti",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Voluminizador Gotta Plump It Up",
+          "value": "Voluminizador Gotta Plump It Up",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 316,
+  "metaTag": {
+    "title": "Cuidado Facial | Jumbo.cl",
+    "description": "Descubre los mejores productos para el cuidado facial en Jumbo.cl. Encuentra desde limpiadores hasta cremas hidratantes, ¡todo para una piel radiante!"
+  }
+}

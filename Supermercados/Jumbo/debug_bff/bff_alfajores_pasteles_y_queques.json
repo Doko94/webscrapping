@@ -1,0 +1,3366 @@
+{
+  "products": [
+    {
+      "productId": "73",
+      "reference": "887954",
+      "sponsoredId": null,
+      "slug": "pack-chocman-costa-10-unid-330-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "23175",
+        "25670",
+        "26917",
+        "27281",
+        "27375",
+        "27376",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27537",
+        "27541",
+        "27563",
+        "27601"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.264,
+          "price": 2350,
+          "listPrice": 2750,
+          "ppumPrice": 8902,
+          "ppumListPrice": 10417,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/297618-250-250/Bizcocho-Chocman-8-un-33-g-c-u.jpg?v=638775741396430000"
+          ],
+          "name": "Pack 8 un. Bizcocho Chocman 33 g, 264 g neto",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2350 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2350,
+              "ppumPrice": 8902,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X4400 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 4400,
+              "unitPrice": 2200,
+              "ppumPrice": 8333,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "103367",
+      "reference": "1884948",
+      "sponsoredId": null,
+      "slug": "pack-braunichoc-4uni-140gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "23175",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Nutra Bien",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103636",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 1690,
+          "listPrice": 1990,
+          "ppumPrice": 12071,
+          "ppumListPrice": 14214,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/373879-250-250/Pack-4-un-Braunichoc-140-g.jpg?v=638776797460470000"
+          ],
+          "name": "Pack Brownie Nutra Bien Braunichoc 140 g 4 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 3",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1690,
+              "ppumPrice": 12071,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "4094",
+      "reference": "1614715",
+      "sponsoredId": null,
+      "slug": "brownie-nutra-bien-pack-4-unid-sin-azucar",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "157",
+        "159",
+        "176",
+        "825",
+        "831",
+        "999",
+        "1002",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Panadería y Pastelería",
+        "Pastelería",
+        "Muffins, Queques y Magdalenas",
+        "Dulces",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Azúcar Añadida",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27323"
+      ],
+      "brand": "Nutra Bien",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4103",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 4,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 873,
+          "ppumListPrice": 873,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347101-250-250/Pack-4-un-Brownies-sin-azucar.jpg?v=638776467071330000"
+          ],
+          "name": "Brownies Nutra Bien Sin Azúcar 4 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "80676",
+      "reference": "1802701",
+      "sponsoredId": null,
+      "slug": "alfi-multiempaque-10-un-150gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "157",
+        "159",
+        "175",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Panadería y Pastelería",
+        "Pastelería",
+        "Pasteles, Galletas y Masas Dulces",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27323"
+      ],
+      "brand": "Marinela",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "80929",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 10,
+          "price": 2090,
+          "listPrice": 2090,
+          "ppumPrice": 209,
+          "ppumListPrice": 209,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/364413-250-250/Alfajor-Alfi-10-unid-15-g-c-u.jpg?v=638776753934770000"
+          ],
+          "name": "Alfajores Alfi 15 g 10 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "155741",
+      "reference": "2047620",
+      "sponsoredId": null,
+      "slug": "mankeke-6un-180g-cajilla-2047620",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27323",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Marinela",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156058",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 1990,
+          "listPrice": 2490,
+          "ppumPrice": 11056,
+          "ppumListPrice": 13833,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/500297-250-250/Mankeke-180-g-6-un.jpg?v=638917603255000000"
+          ],
+          "name": "Mankeke 180 g 6 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1990,
+              "ppumPrice": 11056,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "99017",
+      "reference": "1871198",
+      "sponsoredId": null,
+      "slug": "alfajor-manjar-s-s-nutrisa-5un-1871198",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "1051",
+        "6471",
+        "27323"
+      ],
+      "brand": "Nutrisa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "99284",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 5,
+          "price": 4390,
+          "listPrice": 4390,
+          "ppumPrice": 878,
+          "ppumListPrice": 878,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313226-250-250/Alfajor-Nutrisa-Manjar-Sin-Sellos-5-un.jpg?v=638776399069000000"
+          ],
+          "name": "Alfajor Nutrisa Manjar Sin Sellos 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "155742",
+      "reference": "2047621",
+      "sponsoredId": null,
+      "slug": "pinguino-6un-240g-cajilla-2047621",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27323",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Marinela",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156059",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.24,
+          "price": 2490,
+          "listPrice": 2990,
+          "ppumPrice": 10375,
+          "ppumListPrice": 12458,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/500301-250-250/Pinguino-240-g-6-un.jpg?v=638917603263170000"
+          ],
+          "name": "Pinguino 240 g 6 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2490,
+              "ppumPrice": 10375,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103370",
+      "reference": "1884950",
+      "sponsoredId": null,
+      "slug": "pack-delicia-frambuesa-4uni-168gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "157",
+        "159",
+        "175",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Panadería y Pastelería",
+        "Pastelería",
+        "Pasteles, Galletas y Masas Dulces",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27323"
+      ],
+      "brand": "Nutra Bien",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103639",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.168,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 14226,
+          "ppumListPrice": 14226,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/373887-250-250/Pack-4-un-Delicia-frambuesa-168-g.jpg?v=638776797488770000"
+          ],
+          "name": "Pack Galletas Rellenas Nutra Bien Delicia Frambuesa 168 g 4 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "4043",
+      "reference": "1033075",
+      "sponsoredId": null,
+      "slug": "alfajor-lagos-del-sur-bolsa-280-g-8-unid-laguito",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "22523",
+        "27323"
+      ],
+      "brand": "Laguito",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4052",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.28,
+          "price": 2590,
+          "listPrice": 2590,
+          "ppumPrice": 9250,
+          "ppumListPrice": 9250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300118-250-250/Alfajor-Laguito-bolsa-8-unid-280-g.jpg?v=638776371817370000"
+          ],
+          "name": "Alfajores Lagos del Sur Laguito 280 g 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "19022",
+      "reference": "374564",
+      "sponsoredId": null,
+      "slug": "alfajor-de-chocolate-havanna-6-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "23278"
+      ],
+      "brand": "Havanna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "19346",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.228,
+          "price": 11650,
+          "listPrice": 11650,
+          "ppumPrice": 51096,
+          "ppumListPrice": 51096,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/353214-250-250/Alfajores-chocolate-6-un-228-g.jpg?v=638776696479370000"
+          ],
+          "name": "Alfajores Havanna Chocolate 228 g 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "155743",
+      "reference": "2047622",
+      "sponsoredId": null,
+      "slug": "gansito-5un-250g-cajilla-2047622",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27323"
+      ],
+      "brand": "Marinela",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156060",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 13960,
+          "ppumListPrice": 13960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/571269-250-250/Queque-Marinela-Gansito-250-g-5-un.jpg?v=639050412344400000"
+          ],
+          "name": "Queque Marinela Gansito 250 g 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "3755",
+      "reference": "254849",
+      "sponsoredId": null,
+      "slug": "queque-brownie-nutra-bien-pack-4-unid-brownie",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "23175",
+        "27323",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Nutra Bien",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3761",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.248,
+          "price": 2790,
+          "listPrice": 3450,
+          "ppumPrice": 11250,
+          "ppumListPrice": 13911,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346911-250-250/Pack-4-un-Brownies-248-g.jpg?v=638776464724930000"
+          ],
+          "name": "Pack Brownie Nutra Bien Original 248 g 4 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2790 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2790,
+              "ppumPrice": 11250,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "91914",
+      "reference": "1855537",
+      "sponsoredId": null,
+      "slug": "alfajor-clasico-4-un-180-g-c-u",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "157",
+        "159",
+        "175",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Panadería y Pastelería",
+        "Pastelería",
+        "Pasteles, Galletas y Masas Dulces",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27323"
+      ],
+      "brand": "Lagos Del Sur",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "92161",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 13278,
+          "ppumListPrice": 13278,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312286-250-250/Alfajor-clasico-4-un-180-g-c-u.jpg?v=638776396078930000"
+          ],
+          "name": "Alfajores Lagos Del Sur Clásico 180 g 4 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "162177",
+      "reference": "2061322",
+      "sponsoredId": null,
+      "slug": "mini-pinguino-2061322",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27323"
+      ],
+      "brand": "Marinela",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "162555",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 19950,
+          "ppumListPrice": 19950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/560637-250-250/Queque-Mini-Pinguino-Doypack-200-g.jpg?v=639033992593800000"
+          ],
+          "name": "Queque Mini Pingüino Doypack 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "128067",
+      "reference": "1970628",
+      "sponsoredId": null,
+      "slug": "bandeja-alfajor-premium-4-uni-60-gr-1970628",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25354",
+        "25422",
+        "25695"
+      ],
+      "brand": "Calaf",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128361",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.24,
+          "price": 3690,
+          "listPrice": 3690,
+          "ppumPrice": 15375,
+          "ppumListPrice": 15375,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/320065-250-250/Bandeja-Alfajor-Premium-360-g.jpg?v=638776418624100000"
+          ],
+          "name": "Alfajores Calaf Premium 240 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "142021",
+      "reference": "2010132",
+      "sponsoredId": null,
+      "slug": "queque-kuchenmeister-vainilla-400-gr-2010132",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "18357",
+        "27376"
+      ],
+      "brand": "Kuchenmeister",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142316",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2490,
+          "listPrice": 3790,
+          "ppumPrice": 6225,
+          "ppumListPrice": 9475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/336525-250-250/QUEQUE-VAINILLA.jpg?v=638776437691530000"
+          ],
+          "name": "Queque Kuchenmeister Vainilla 400 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2490 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2490,
+              "ppumPrice": 6225,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "119476",
+      "reference": "1938200",
+      "sponsoredId": null,
+      "slug": "alfajor-havanna-chocolate-blanco-6un-1938200",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "23278"
+      ],
+      "brand": "Havanna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "119759",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 6,
+          "price": 11690,
+          "listPrice": 11690,
+          "ppumPrice": 1948,
+          "ppumListPrice": 1948,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/384901-250-250/Alfajor-blanco-6-un.jpg?v=638776842074430000"
+          ],
+          "name": "Alfajores Havanna Chocolate Blanco 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "146743",
+      "reference": "2018255",
+      "sponsoredId": null,
+      "slug": "alfajor-manjar-2018255",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [],
+      "brand": "En Línea",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147038",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 4190,
+          "listPrice": 4190,
+          "ppumPrice": 4190,
+          "ppumListPrice": 4190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/428203-250-250/Alfajor-En-Linea-Manjar-Sin-Azucar-1-un.jpg?v=638811014374330000"
+          ],
+          "name": "Alfajor En Línea Manjar Sin Azúcar 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "99016",
+      "reference": "1871199",
+      "sponsoredId": null,
+      "slug": "alfajor-frambuesa-s-s-nutrisa-5un-1871199",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "1051",
+        "6471",
+        "27323"
+      ],
+      "brand": "Nutrisa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "99283",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 5,
+          "price": 4390,
+          "listPrice": 4390,
+          "ppumPrice": 878,
+          "ppumListPrice": 878,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313217-250-250/Alfajor-Nutrisa-Frambuesa-Sin-Sellos-5-un.jpg?v=638776399040030000"
+          ],
+          "name": "Alfajor Nutrisa Frambuesa Sin Sellos 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "19019",
+      "reference": "374566",
+      "sponsoredId": null,
+      "slug": "alfajor-mixto-havanna-6-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "23278"
+      ],
+      "brand": "Havanna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "19343",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.306,
+          "price": 11690,
+          "listPrice": 11690,
+          "ppumPrice": 38203,
+          "ppumListPrice": 38203,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/353218-250-250/Alfajores-mixtos-6-un-306-g.jpg?v=638776696482800000"
+          ],
+          "name": "Alfajores Havanna Mixtos 306 g 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3990",
+      "reference": "267985",
+      "sponsoredId": null,
+      "slug": "alfajor-fino-entrelagos-6-unid-270-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "23278",
+        "25307"
+      ],
+      "brand": "Entrelagos",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3999",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.27,
+          "price": 9290,
+          "listPrice": 9290,
+          "ppumPrice": 34407,
+          "ppumListPrice": 34407,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347074-250-250/Alfajor-fino-Entrelagos-6-unid-270-g.jpg?v=638776466730930000"
+          ],
+          "name": "Alfajores Fino Entrelagos 270 g 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "97757",
+      "reference": "1859848",
+      "sponsoredId": null,
+      "slug": "alfajor-havanna-70-cacao-x-4-un-260-gr-1859848",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "23278"
+      ],
+      "brand": "Havanna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98025",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.26,
+          "price": 11390,
+          "listPrice": 11390,
+          "ppumPrice": 43808,
+          "ppumListPrice": 43808,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/370206-250-250/Alfajores-70--cacao-4-un-260-g.jpg?v=638776781076400000"
+          ],
+          "name": "Alfajores Havanna 70% Cacao 260 g 4 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "146738",
+      "reference": "2018256",
+      "sponsoredId": null,
+      "slug": "alfajor-frambuesa-2018256",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [],
+      "brand": "En Línea",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147030",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 4190,
+          "listPrice": 4190,
+          "ppumPrice": 4190,
+          "ppumListPrice": 4190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/428437-250-250/Alfajor-En-Linea-Frambuesa-Sin-Azucar-1-un.jpg?v=638811019220270000"
+          ],
+          "name": "Alfajor En Línea Frambuesa Sin Azúcar 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "91915",
+      "reference": "1855538",
+      "sponsoredId": null,
+      "slug": "alfajor-brandy-4-un-180-g-c-u",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27323"
+      ],
+      "brand": "Lagos Del Sur",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "92162",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 13278,
+          "ppumListPrice": 13278,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312303-250-250/Alfajor-brandy-4-un180-g-c-u.jpg?v=638776396108830000"
+          ],
+          "name": "Alfajores Lagos Del Sur Brandy 180 g 4 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "97754",
+      "reference": "1859845",
+      "sponsoredId": null,
+      "slug": "havannets-mixto-6-unidades-282-gr-1859845",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "23278"
+      ],
+      "brand": "Havanna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98021",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.282,
+          "price": 11490,
+          "listPrice": 11490,
+          "ppumPrice": 40745,
+          "ppumListPrice": 40745,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/370202-250-250/Chocolates-mixtos-6-un-282-g.jpg?v=638776781049370000"
+          ],
+          "name": "Chocolates Havanna Havannets Mixtos 282 g 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "90613",
+      "reference": "1846782",
+      "sponsoredId": null,
+      "slug": "pack-bizcocho-chocman-black-264-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "157",
+        "159",
+        "175",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Panadería y Pastelería",
+        "Pastelería",
+        "Pasteles, Galletas y Masas Dulces",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "23175",
+        "25670",
+        "26917",
+        "27281",
+        "27375",
+        "27376",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27537",
+        "27541",
+        "27563",
+        "27601"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "90881",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.264,
+          "price": 2350,
+          "listPrice": 2750,
+          "ppumPrice": 8902,
+          "ppumListPrice": 10417,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/367448-250-250/Pack-bizcocho-Chocman-black-264-g.jpg?v=638776768031100000"
+          ],
+          "name": "Pack 8 un. Bizcocho Chocman Black 33 g, 264 g neto",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2350 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2350,
+              "ppumPrice": 8902,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X4400 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 4400,
+              "unitPrice": 2200,
+              "ppumPrice": 8333,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "146516",
+      "reference": "2025672",
+      "sponsoredId": null,
+      "slug": "alfajor-mar-del-plata-4-und-2025672",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "23278"
+      ],
+      "brand": "Havanna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146811",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 4,
+          "price": 13990,
+          "listPrice": 13990,
+          "ppumPrice": 3498,
+          "ppumListPrice": 3498,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346022-250-250/Alfajor-Mar-del-Plata-4-un.jpg?v=638776445248870000"
+          ],
+          "name": "Alfajores Mar del Plata 4 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "103368",
+      "reference": "1884951",
+      "sponsoredId": null,
+      "slug": "pack-minibrownie-6-uni-180gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27323"
+      ],
+      "brand": "Nutra Bien",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103637",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 14944,
+          "ppumListPrice": 14944,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/373889-250-250/Pack-6-un-Minibrownie-180-g.jpg?v=638776797489530000"
+          ],
+          "name": "Pack Mini Brownie Nutra Bien con Cacao 180 g 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "19113",
+      "reference": "458908",
+      "sponsoredId": null,
+      "slug": "alfajor-surtido-entrelagos-510-g-12-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "831",
+        "999",
+        "1005",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Orgánico",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "23278",
+        "25307"
+      ],
+      "brand": "Entrelagos",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "19437",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.51,
+          "price": 14790,
+          "listPrice": 14790,
+          "ppumPrice": 29000,
+          "ppumListPrice": 29000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/353259-250-250/Alfajor-surtido-entrelagos-12-un-510-g.jpg?v=638776696653370000"
+          ],
+          "name": "Alfajores Artesanales Entrelagos Surtido 510 g 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "156668",
+      "reference": "2045847",
+      "sponsoredId": null,
+      "slug": "postre-choco-dubai-suk-590-grs",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27599",
+        "27601"
+      ],
+      "brand": "Suk",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156992",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.59,
+          "price": 14990,
+          "listPrice": 14990,
+          "ppumPrice": 25407,
+          "ppumListPrice": 25407,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/535801-250-250/Postre-Choco-Dubai-Suk-590-g-8-Porciones.jpg?v=638979674902830000"
+          ],
+          "name": "Postre Suk Choco Dubai 590 g 8 Porciones",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "54958",
+      "reference": "1554224",
+      "sponsoredId": null,
+      "slug": "barquillo-gull-n-chocolate-70-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "831",
+        "999",
+        "1002",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Azúcar Añadida",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [],
+      "brand": "Gullón",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55250",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.06,
+          "price": 1490,
+          "listPrice": 1490,
+          "ppumPrice": 24833,
+          "ppumListPrice": 24833,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/359547-250-250/Barquillo-Gullon-sabor-chocolate-70-g.jpg?v=638776728745030000"
+          ],
+          "name": "Barquillos Gullón Sabor Chocolate 60 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "155744",
+      "reference": "2048210",
+      "sponsoredId": null,
+      "slug": "rayita-5un-150g-cajilla-2048210",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27323"
+      ],
+      "brand": "Marinela",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156061",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 2490,
+          "listPrice": 2490,
+          "ppumPrice": 16600,
+          "ppumListPrice": 16600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/500309-250-250/Rayita-150-g-5-un.jpg?v=638917603291530000"
+          ],
+          "name": "Rayita 150 g 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "119493",
+      "reference": "1938199",
+      "sponsoredId": null,
+      "slug": "havannet-70-puro-cacao-8-un-1938199",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "23278"
+      ],
+      "brand": "Havanna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "119777",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 8,
+          "price": 15990,
+          "listPrice": 15990,
+          "ppumPrice": 1999,
+          "ppumListPrice": 1999,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/384926-250-250/Havannet-70--puro-cacao-8-un.jpg?v=638776842193030000"
+          ],
+          "name": "Bizcochos Rellenos Havanna Havannet 70% Puro Cacao 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "150360",
+      "reference": "2009953",
+      "sponsoredId": null,
+      "slug": "al-nutr-choc-m-ss-2009953",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27323"
+      ],
+      "brand": "Nutrisa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150658",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 5,
+          "price": 4190,
+          "listPrice": 4190,
+          "ppumPrice": 838,
+          "ppumListPrice": 838,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/452593-250-250/Alfajor-Nutrisa-Sin-Azucar-Choco-Manjar-5-un.jpg?v=638854181421200000"
+          ],
+          "name": "Alfajor Nutrisa Sin Azúcar Choco Manjar 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "162190",
+      "reference": "2058038",
+      "sponsoredId": null,
+      "slug": "rayita-frutilla-2058038",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27323"
+      ],
+      "brand": "Marinela",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "162568",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 2490,
+          "listPrice": 2490,
+          "ppumPrice": 16600,
+          "ppumListPrice": 16600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/560632-250-250/Queque-Rayita-Frutilla-150-g-5-un.jpg?v=639033992553800000"
+          ],
+          "name": "Queque Rayita Frutilla 150 g 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150361",
+      "reference": "2009954",
+      "sponsoredId": null,
+      "slug": "al-nutr-choc-f-ss-2009954",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "27323"
+      ],
+      "brand": "Nutrisa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150659",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 5,
+          "price": 4190,
+          "listPrice": 4190,
+          "ppumPrice": 838,
+          "ppumListPrice": 838,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/452598-250-250/Alfajor-Nutrisa-Sin-Azucar-Choco-Frambuesa-5-un.jpg?v=638854181436830000"
+          ],
+          "name": "Alfajor Nutrisa Sin Azúcar Choco Frambuesa 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "97753",
+      "reference": "374568",
+      "sponsoredId": null,
+      "slug": "havannets-chocolate-6-uni-330-gr-374568",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "23278"
+      ],
+      "brand": "Havanna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98022",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.33,
+          "price": 11490,
+          "listPrice": 11490,
+          "ppumPrice": 34818,
+          "ppumListPrice": 34818,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/370200-250-250/Chocolates-6-un-330-g.jpg?v=638776781048270000"
+          ],
+          "name": "Chocolates Havanna Havannets 330 g 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "153045",
+      "reference": "2041990",
+      "sponsoredId": null,
+      "slug": "bandeja-alfajor-blanco-premium-2041990",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Calaf",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153344",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 3690,
+          "listPrice": 3690,
+          "ppumPrice": 3690,
+          "ppumListPrice": 3690,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/487592-250-250/Bandeja-Alfajor-Premium-Blanco.jpg?v=638894124910300000"
+          ],
+          "name": "Alfajor Calaf Premium Blanco",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "128059",
+      "reference": "1967888",
+      "sponsoredId": null,
+      "slug": "bandeja-alfajor-classic-6-uni-35gr-1967888",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "19270",
+        "23175"
+      ],
+      "brand": "Calaf",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128351",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 6,
+          "price": 3350,
+          "listPrice": 3350,
+          "ppumPrice": 558,
+          "ppumListPrice": 558,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/394178-250-250/Bandeja-Alfajor-Classic-35-g.jpg?v=638776877775730000"
+          ],
+          "name": "Alfajores Calaf Classic 35 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "142049",
+      "reference": "1997288",
+      "sponsoredId": null,
+      "slug": "macarrones-de-pauline-fruit-heart-6u-88g-1997288",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "825",
+        "1067"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Dulces",
+        "Alfajores, Pasteles y Queques"
+      ],
+      "collections": [
+        "19270",
+        "24946",
+        "25772"
+      ],
+      "brand": "De Pauline",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142344",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.088,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 90795,
+          "ppumListPrice": 90795,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/336756-250-250/Macarrones-de-Pauline-Fruit-Heart-88-g-6-un.jpg?v=638776437923900000"
+          ],
+          "name": "Macarrones de Pauline Fruit Heart 88 g 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Alfajores, Pasteles y Queques",
+          "value": "/chocolates-galletas-y-snacks/dulces/alfajores-pasteles-y-queques",
+          "selected": false,
+          "quantity": 55,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Alfajores, Pasteles y Queques",
+          "value": "/chocolates-galletas-y-snacks/dulces/alfajores-pasteles-y-queques",
+          "selected": false,
+          "quantity": 55,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Alfajores, Pasteles y Queques",
+          "value": "/chocolates-galletas-y-snacks/dulces/alfajores-pasteles-y-queques",
+          "selected": false,
+          "quantity": 55,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bélgica",
+          "value": "Bélgica",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Perú",
+          "value": "Perú",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Porciones",
+      "key": "Porciones",
+      "values": [
+        {
+          "displayName": "8 Porciones ",
+          "value": "8",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "4 Porciones",
+          "value": "4 Porciones",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5 Porciones",
+          "value": "5 Porciones",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6 Porciones",
+          "value": "6 Porciones",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "4 Unidades",
+          "value": "4",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6 Unidades",
+          "value": "6",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "24 Unidades",
+          "value": "24",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5 Unidades",
+          "value": "5 Piezas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "Unitario",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bandeja",
+          "value": "Bandeja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack",
+          "value": "Pack",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 41,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "140 g",
+          "value": "140 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "168 g",
+          "value": "168 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "180 g",
+          "value": "180 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "248 g",
+          "value": "248 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "282 g",
+          "value": "282 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "4 unidades",
+          "value": "4 unidades",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "45 g c/u",
+          "value": "45 g c/u",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6 unidades",
+          "value": "6 unidades",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "8 un. x 33 g",
+          "value": "8 un. X 33 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "unitario",
+          "value": "Unitario",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Berries",
+          "value": "Berries",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cacao",
+          "value": "Cacao",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Característico del producto, sin sabores extraños.",
+          "value": "Característico del producto, sin sabores extraños.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate",
+          "value": "Chocolate",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate - Frambuesa",
+          "value": "Chocolate - Frambuesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate - Manjar",
+          "value": "Chocolate - Manjar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce de leche",
+          "value": "Dulce de leche",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce de Leche",
+          "value": "Dulce de Leche",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frambuesa",
+          "value": "Frambuesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mantequilla de Maní",
+          "value": "Mantequilla de Maní",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sal de mar",
+          "value": "Sal de mar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Nutra Bien",
+          "value": "Nutra Bien",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Costa",
+          "value": "Costa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nutrisa",
+          "value": "Nutrisa",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entrelagos",
+          "value": "Entrelagos",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Havanna",
+          "value": "Havanna",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Calaf",
+          "value": "Calaf",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Marinela",
+          "value": "Marinela",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lagos Del Sur",
+          "value": "Lagos Del Sur",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Laguito",
+          "value": "Laguito",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kuchenmeister",
+          "value": "Kuchenmeister",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "En Línea",
+          "value": "En Línea",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "De Pauline",
+          "value": "De Pauline",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suk",
+          "value": "Suk",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dilici",
+          "value": "Dilici",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Deluxe & Bla Bla",
+          "value": "Deluxe & Bla Bla",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gullón",
+          "value": "Gullón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Snack Adventure",
+          "value": "Snack Adventure",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salzburgo",
+          "value": "Salzburgo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Matilde Vicenzi",
+          "value": "Matilde Vicenzi",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 53,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Halal",
+          "value": "Halal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Brownies",
+          "value": "Brownies",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Surtidas",
+          "value": "Galletas Surtidas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alfajores",
+          "value": "Alfajores",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Bañadas y Rellenas",
+          "value": "Galletas Bañadas y Rellenas",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Queques",
+          "value": "Queques",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate Relleno",
+          "value": "Chocolate Relleno",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mini Pastelitos",
+          "value": "Mini Pastelitos",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kuchen",
+          "value": "Kuchen",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bombones",
+          "value": "Bombones",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Macarrones",
+          "value": "Macarrones",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulces Árabes",
+          "value": "Dulces Árabes",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Barquillos",
+          "value": "Barquillos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Snacks Mix Salados",
+          "value": "Snacks Mix Salados",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 990,
+          "maxValue": 15990
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Alfajores",
+          "value": "Alfajores",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Amargos",
+          "value": "Amargos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce",
+          "value": "Dulce",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulces",
+          "value": "Dulces",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frambuesa",
+          "value": "Frambuesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutilla",
+          "value": "Frutilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manjar",
+          "value": "Manjar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tradicional",
+          "value": "Tradicional",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Cóctel",
+          "value": "Cóctel",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Entera",
+          "value": "Entera",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Envasado",
+          "value": "ENVASADO",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "70% cacao con dulce de leche y sal de Mar",
+          "value": "70 cacao, Dulce de leche y Sal de Mar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "70% Puro Cacao",
+          "value": "70% Puro Cacao",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vainilla",
+          "value": "Vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 55,
+  "metaTag": {
+    "title": "Alfajores, Pasteles y Queques | Jumbo.cl",
+    "description": "Date un gusto con nuestra deliciosa selección de alfajores, pasteles y queques. Ingresa a Jumbo.cl y encuentra tus marcas preferidas."
+  }
+}

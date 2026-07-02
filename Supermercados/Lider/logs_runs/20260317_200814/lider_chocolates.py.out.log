@@ -1,0 +1,123 @@
+[DEBUG] Landing URL final: https://super.lider.cl/browse/chocolates/29989562
+[DEBUG] Landing title: Tu tienda en línea Chile
+[DEBUG] No se pudo inferir taxonomía desde JSON/facetas. Se usará fallback con una sola categoría base.
+
+[DEBUG] Subcategorías finales detectadas:
+ - [Chocolates] Chocolates -> https://super.lider.cl/browse/chocolates/29989562
+
+[1/1] Scrape: [Chocolates] Chocolates
+    page 1: procesando DOM
+      scroll round 1: anchors=24
+      scroll round 2: anchors=36
+      scroll round 3: anchors=53
+      scroll round 4: anchors=53
+      scroll round 5: anchors=53
+      scroll round 6: anchors=53
+      scroll round 7: anchors=53
+      scroll round 8: anchors=53
+    page 1: visibles=48, nuevos=48, acumulados=48
+    page 1: sample_skus=['00762220225043', '00762220204431', '00762221082472', '00304514011850', '00762220168837', '00844529055042', '00780221511078', '00780220085235', '00780220085206', '00800483803341']
+    page 2: procesando DOM
+      scroll round 1: anchors=29
+      scroll round 2: anchors=53
+      scroll round 3: anchors=53
+      scroll round 4: anchors=53
+      scroll round 5: anchors=53
+      scroll round 6: anchors=53
+      scroll round 7: anchors=53
+      scroll round 8: anchors=53
+    page 2: visibles=48, nuevos=43, acumulados=91
+    page 2: sample_skus=['00762220225043', '00762220204431', '00762221082472', '00304514011850', '00762220168837', '00780222557298', '00780222557327', '00800334009541', '00780222557398', '00780222557447']
+    page 3: procesando DOM
+      scroll round 1: anchors=29
+      scroll round 2: anchors=53
+      scroll round 3: anchors=54
+      scroll round 4: anchors=54
+      scroll round 5: anchors=54
+      scroll round 6: anchors=54
+      scroll round 7: anchors=54
+      scroll round 8: anchors=54
+    page 3: visibles=49, nuevos=44, acumulados=135
+    page 3: sample_skus=['00762220225043', '00762220204431', '00762221082472', '00304514011850', '00762220168837', '00780222542797', '00780221510133', '00780221580886', '00062891582764', '00780221512131']
+    page 4: procesando DOM
+      scroll round 1: anchors=29
+      scroll round 2: anchors=41
+      scroll round 3: anchors=51
+      scroll round 4: anchors=51
+      scroll round 5: anchors=51
+      scroll round 6: anchors=51
+      scroll round 7: anchors=51
+      scroll round 8: anchors=51
+    page 4: visibles=46, nuevos=41, acumulados=176
+    page 4: sample_skus=['00762220225043', '00762220204431', '00762221082472', '00304514011850', '00762220168837', '00062891516829', '00789100024923', '00780400000265', '00780221510147', '00780222542758']
+    page 5: procesando DOM
+      scroll round 1: anchors=29
+      scroll round 2: anchors=53
+      scroll round 3: anchors=54
+      scroll round 4: anchors=54
+      scroll round 5: anchors=54
+      scroll round 6: anchors=54
+      scroll round 7: anchors=54
+      scroll round 8: anchors=54
+    page 5: visibles=49, nuevos=44, acumulados=220
+    page 5: sample_skus=['00762220225043', '00762220204431', '00762221082472', '00304514011850', '00762220168837', '00786100290011', '00844529093245', '00789997040090', '00004000000237', '00780221510481']
+    page 6: procesando DOM
+      scroll round 1: anchors=29
+      scroll round 2: anchors=41
+      scroll round 3: anchors=54
+      scroll round 4: anchors=54
+      scroll round 5: anchors=54
+      scroll round 6: anchors=54
+      scroll round 7: anchors=54
+      scroll round 8: anchors=54
+    page 6: visibles=49, nuevos=44, acumulados=264
+    page 6: sample_skus=['00762220225043', '00762220204431', '00762221082472', '00304514011850', '00762220168837', '00400041770100', '00780224736924', '00501155502481', '00761303558877', '00789997040098']
+    page 7: procesando DOM
+      scroll round 1: anchors=29
+      scroll round 2: anchors=53
+      scroll round 3: anchors=53
+      scroll round 4: anchors=53
+      scroll round 5: anchors=53
+      scroll round 6: anchors=53
+      scroll round 7: anchors=53
+      scroll round 8: anchors=53
+    page 7: visibles=48, nuevos=43, acumulados=307
+    page 7: sample_skus=['00762220225043', '00762220204431', '00762221082472', '00304514011850', '00762220168837', '00761040006850', '00780224500093', '00780242000227', '00780224500143', '00800334080775']
+    page 8: procesando DOM
+      scroll round 1: anchors=19
+      scroll round 2: anchors=19
+      scroll round 3: anchors=19
+      scroll round 4: anchors=19
+      scroll round 5: anchors=19
+      scroll round 6: anchors=19
+      scroll round 7: anchors=19
+      scroll round 8: anchors=19
+    page 8: visibles=14, nuevos=7, acumulados=314
+    page 8: sample_skus=['00762220225043', '00762220204431', '00762221082472', '00304514011850', '00762220168837', '00074343400326', '00780224500919', '00775006000294', '00780224500184', '00780224500923']
+    page 9: procesando DOM
+      scroll round 1: anchors=19
+      scroll round 2: anchors=19
+      scroll round 3: anchors=19
+      scroll round 4: anchors=19
+      scroll round 5: anchors=19
+      scroll round 6: anchors=19
+      scroll round 7: anchors=19
+      scroll round 8: anchors=19
+    page 9: visibles=14, nuevos=0, acumulados=314
+    page 9: sample_skus=['00762220225043', '00762220204431', '00762221082472', '00304514011850', '00762220168837', '00074343400326', '00780224500919', '00775006000294', '00780224500184', '00780224500923']
+    page 10: procesando DOM
+      scroll round 1: anchors=19
+      scroll round 2: anchors=19
+      scroll round 3: anchors=19
+      scroll round 4: anchors=19
+      scroll round 5: anchors=19
+      scroll round 6: anchors=19
+      scroll round 7: anchors=19
+      scroll round 8: anchors=19
+    page 10: visibles=14, nuevos=0, acumulados=314
+    page 10: sample_skus=['00762220225043', '00762220204431', '00762221082472', '00304514011850', '00762220168837', '00074343400326', '00780224500919', '00775006000294', '00780224500184', '00780224500923']
+    stop: 2 páginas seguidas sin nuevos productos
+  productos acumulados subcategoría: 314
+
+Total filas: 314
+CSV generado: output\chocolates\lider_chocolates_20260317_210807.csv

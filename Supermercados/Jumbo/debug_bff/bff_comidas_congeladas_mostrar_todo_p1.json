@@ -1,0 +1,3878 @@
+{
+  "products": [
+    {
+      "productId": "1028",
+      "reference": "460814",
+      "sponsoredId": "tyiIwwoQBppwfHoIf8e7BFVJ-0q_9xIQAZyz5KnRfIG51n7f7GPyxhoQBjxueBc0exybJFkt8MU0HiIICgQxMDMwEAEw_a4BQMMISAFQ-cfZo8szYMMIchAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "pasta-de-choclo-minuto-verde-bolsa-1-kg-congelado",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1133"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Comida Chilena"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25470",
+        "25662",
+        "25695",
+        "25719",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1030",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 4590,
+          "listPrice": 4590,
+          "ppumPrice": 4590,
+          "ppumListPrice": 4590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298343-250-250/Pasta-de-choclo-1-kg.jpg?v=638775751251700000"
+          ],
+          "name": "Pasta de Choclo Minuto Verde 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X6990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 6990,
+              "unitPrice": 3495,
+              "ppumPrice": 3495,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "95514",
+      "reference": "1843961",
+      "sponsoredId": null,
+      "slug": "mozzarella-sticks-congelados-270-g-cuisine-and-co-1843961",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "95779",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 12360,
+          "ppumListPrice": 12360,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/369009-250-250/Mozzarella-sticks-congelado-250-g-1-196039341.jpg?v=638776775229470000"
+          ],
+          "name": "Mozzarella Sticks Congelados 270 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146855",
+      "reference": "2025161",
+      "sponsoredId": null,
+      "slug": "arroll-primav-400g-cuisine-and-co-nbe-mp-2025161",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1134"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Gyozas y Arrollado Primaveras"
+      ],
+      "collections": [],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147150",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 9975,
+          "ppumListPrice": 9975,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/573833-250-250/Arrollado-Primavera-Cuisine---Co-400-g.jpg?v=639064393993500000"
+          ],
+          "name": "Arrollado Primavera Cuisine & Co 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146856",
+      "reference": "2025163",
+      "sponsoredId": null,
+      "slug": "gyosa-verd-320g-cuisine-and-co-nbe-mp-2025163",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1134"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Gyozas y Arrollado Primaveras"
+      ],
+      "collections": [],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147151",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.32,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 12469,
+          "ppumListPrice": 12469,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/573835-250-250/Gyosas-de-Verduras-Cuisine---Co-320-g.jpg?v=639064394011100000"
+          ],
+          "name": "Gyosas de Verduras Cuisine & Co 320 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103119",
+      "reference": "1860581",
+      "sponsoredId": null,
+      "slug": "pizza-italia-roma-500-g-cuisine-and-co-1860581",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1130"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Pizzas y Pastas Congeladas"
+      ],
+      "collections": [
+        "23175",
+        "25446",
+        "25447",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103388",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 11980,
+          "ppumListPrice": 11980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/373822-250-250/PIZZ-ROMA-CUI-500G.jpg?v=638776797231970000"
+          ],
+          "name": "Pizza Italiana Roma 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150888",
+      "reference": "2037973",
+      "sponsoredId": null,
+      "slug": "arrollado-pri-320g-2037973",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1134"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Gyozas y Arrollado Primaveras"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "151182",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.32,
+          "price": 4490,
+          "listPrice": 4490,
+          "ppumPrice": 14031,
+          "ppumListPrice": 14031,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/458270-250-250/ARROLLADO-PRI-320G.jpg?v=638858928688170000"
+          ],
+          "name": "Arrollado Primavera Frutos del Maipo 320 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103120",
+      "reference": "1860579",
+      "sponsoredId": null,
+      "slug": "pizza-italia-napoles-505-g-cuisine-and-co-1860579",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1130"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Pizzas y Pastas Congeladas"
+      ],
+      "collections": [
+        "23175",
+        "25446",
+        "25447",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103389",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.505,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 11861,
+          "ppumListPrice": 11861,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/373820-250-250/PIZZ-NAP-CUIS-505G.jpg?v=638776797231500000"
+          ],
+          "name": "Pizza Italiana Nápoles 505 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "71556",
+      "reference": "1772246",
+      "sponsoredId": null,
+      "slug": "pizzeta-mix-congelada-825-g-cuisine-and-co-1772246",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1130"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Pizzas y Pastas Congeladas"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "71811",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.825,
+          "price": 11290,
+          "listPrice": 11290,
+          "ppumPrice": 13685,
+          "ppumListPrice": 13685,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362405-250-250/Pizzeta-mix-congelada-825-g.jpg?v=638776742826670000"
+          ],
+          "name": "Pizzeta Mix Congelada 825 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1013",
+      "reference": "1372053",
+      "sponsoredId": null,
+      "slug": "charquican-frutos-del-maipo-750-g-congelado",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1133"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Comida Chilena"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1015",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.75,
+          "price": 4350,
+          "listPrice": 4350,
+          "ppumPrice": 5800,
+          "ppumListPrice": 5800,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298336-250-250/Charquican-Congelado-Frutos-del-Maipo-750-g.jpg?v=638775751150970000"
+          ],
+          "name": "Charquicán Congelado Frutos del Maipo 750 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1015",
+      "reference": "440930",
+      "sponsoredId": null,
+      "slug": "pasta-de-choclo-frutos-del-maipo-bolsa-1-kg-congelado",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1133"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Comida Chilena"
+      ],
+      "collections": [
+        "19270",
+        "22523"
+      ],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1017",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 4790,
+          "listPrice": 4790,
+          "ppumPrice": 4790,
+          "ppumListPrice": 4790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298338-250-250/Pasta-de-choclo-Frutos-del-Maipo-1-kg.jpg?v=638775751179730000"
+          ],
+          "name": "Pasta de Choclo Frutos del Maipo 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "17416",
+      "reference": "581356",
+      "sponsoredId": null,
+      "slug": "gyozas-de-camaron-alimentos-shen-300-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1134"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Gyozas y Arrollado Primaveras"
+      ],
+      "collections": [],
+      "brand": "Alimentos Shen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "14746",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 11633,
+          "ppumListPrice": 11633,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/425252-250-250/Gyozas-de-Camaron-300-g.jpg?v=638810970339000000"
+          ],
+          "name": "Gyozas de Camarón 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1016",
+      "reference": "1083699",
+      "sponsoredId": null,
+      "slug": "porotos-con-mazamorra-frutos-del-maipo-bolsa-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1133"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Comida Chilena"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1018",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 6290,
+          "listPrice": 6290,
+          "ppumPrice": 6290,
+          "ppumListPrice": 6290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298339-250-250/Porotos-Con-Mazamorra-Frutos-del-Maipo-1-kg.jpg?v=638775751191830000"
+          ],
+          "name": "Porotos con Mazamorra Frutos del Maipo 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "88842",
+      "reference": "1839873",
+      "sponsoredId": null,
+      "slug": "pizza-americana-pepperoni-congelada-660-g-cuisine-and-co-1839873",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1130"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Pizzas y Pastas Congeladas"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27499",
+        "27501",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517",
+        "27563",
+        "27601"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "89111",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.66,
+          "price": 5490,
+          "listPrice": 6790,
+          "ppumPrice": 8318,
+          "ppumListPrice": 10288,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/366985-250-250/Pizza-americana-congelada-pepperoni-660-g.jpg?v=638776765744670000"
+          ],
+          "name": "Pizza Estilo Americana Pepperoni Congelada 660 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5490,
+              "ppumPrice": 8318,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1031",
+      "reference": "581355",
+      "sponsoredId": null,
+      "slug": "gyozas-de-cerdo-alimentos-shen-bolsa-300-g-12-unid-congelado-empanaditas-orientales",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1134"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Gyozas y Arrollado Primaveras"
+      ],
+      "collections": [],
+      "brand": "Alimentos Shen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1033",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 3290,
+          "listPrice": 3290,
+          "ppumPrice": 10967,
+          "ppumListPrice": 10967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/425260-250-250/Gyozas-de-Cerdo-Alimentos-Shen-300-g-12-unid.jpg?v=638810970400770000"
+          ],
+          "name": "Gyozas de Cerdo 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "71559",
+      "reference": "1772249",
+      "sponsoredId": null,
+      "slug": "mini-quiche-mix-congelado-618-g-cuisine-and-co-1772249",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "71814",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.618,
+          "price": 10290,
+          "listPrice": 10290,
+          "ppumPrice": 16650,
+          "ppumListPrice": 16650,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362412-250-250/Mini-quiche-mix-congelado-618-g.jpg?v=638776742894070000"
+          ],
+          "name": "Mini Quiche Mix Congelado 618 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150886",
+      "reference": "2039966",
+      "sponsoredId": null,
+      "slug": "gyozas-cerdo-200g-2039966",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1134"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Gyozas y Arrollado Primaveras"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "151186",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 4190,
+          "listPrice": 4190,
+          "ppumPrice": 20950,
+          "ppumListPrice": 20950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/458293-250-250/GYOZAS-CERDO-200G.jpg?v=638858928835730000"
+          ],
+          "name": "Gyoza de Cerdo Frutos del Maipo 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150893",
+      "reference": "2039968",
+      "sponsoredId": null,
+      "slug": "gyozas-camaron200g-2039968",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1134"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Gyozas y Arrollado Primaveras"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "151191",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 5750,
+          "listPrice": 5750,
+          "ppumPrice": 28750,
+          "ppumListPrice": 28750,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/458295-250-250/GYOZAS-CAMARON200G.jpg?v=638858928857170000"
+          ],
+          "name": "Gyoza de Camarón Frutos del Maipo 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "88843",
+      "reference": "1839874",
+      "sponsoredId": null,
+      "slug": "pizza-americana-deluxe-congelada-660-g-cuisine-and-co-1839874",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1130"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Pizzas y Pastas Congeladas"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27499",
+        "27501",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517",
+        "27563",
+        "27601"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "89112",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.719,
+          "price": 5490,
+          "listPrice": 6790,
+          "ppumPrice": 7636,
+          "ppumListPrice": 9444,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/366986-250-250/Pizza-americana-congelada-deluxe-719-g.jpg?v=638776765744670000"
+          ],
+          "name": "Pizza Estilo Americana Deluxe Congelada 719 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5490,
+              "ppumPrice": 7636,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1027",
+      "reference": "438968",
+      "sponsoredId": null,
+      "slug": "humitas-minuto-verde-bolsa-4-unid-congelado",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1133"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Comida Chilena"
+      ],
+      "collections": [
+        "17846",
+        "25470",
+        "25662",
+        "25719"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1029",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.6,
+          "price": 6590,
+          "listPrice": 6590,
+          "ppumPrice": 10983,
+          "ppumListPrice": 10983,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298342-250-250/Humitas-4-un.jpg?v=638775751237230000"
+          ],
+          "name": "Humitas Minuto Verde 4 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "60072",
+      "reference": "1745036",
+      "sponsoredId": null,
+      "slug": "lasagna-sadia-bolognesa-600g-sadia",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1130"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Pizzas y Pastas Congeladas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25670",
+        "25695",
+        "26863",
+        "26917",
+        "27391",
+        "27461",
+        "27478",
+        "27487",
+        "27518",
+        "27521",
+        "27522",
+        "27601"
+      ],
+      "brand": "Sadia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "60244",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.6,
+          "price": 5790,
+          "listPrice": 5790,
+          "ppumPrice": 9650,
+          "ppumListPrice": 9650,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360687-250-250/Lasagna-bolognesa-600-g.jpg?v=638776733584500000"
+          ],
+          "name": "Lasagna Bolognesa 600 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X9990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 9990,
+              "unitPrice": 4995,
+              "ppumPrice": 8325,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75858",
+      "reference": "1796270",
+      "sponsoredId": null,
+      "slug": "mix-empanadas-cocktail-720-g-cuisine-and-co-1796270",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1131"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Empanadas Congeladas"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "76113",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.72,
+          "price": 9190,
+          "listPrice": 9190,
+          "ppumPrice": 12764,
+          "ppumListPrice": 12764,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363576-250-250/Mix-empanadas-cocktail-Cuisine---Co-720-g-1-87080269.jpg?v=638776748959630000"
+          ],
+          "name": "Mix Empanadas Cóctel 720 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127084",
+      "reference": "1959583",
+      "sponsoredId": null,
+      "slug": "preparacion-bistoco-270-g-dona-rosita-1959583",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1129",
+        "1133"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Comidas Congeladas",
+        "Comida Chilena"
+      ],
+      "collections": [
+        "23984",
+        "23985"
+      ],
+      "brand": "Doña Rosita",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127373",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.27,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 11444,
+          "ppumListPrice": 11444,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/426844-250-250/Preparacion-Bistoco-Do%C3%B1a-Rosita-270-g.jpg?v=638810996063330000"
+          ],
+          "name": "Preparación Bistoco Doña Rosita 270 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "88642",
+      "reference": "1831442",
+      "sponsoredId": null,
+      "slug": "lasagna-bolognesa-sadia-350g",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1130"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Pizzas y Pastas Congeladas"
+      ],
+      "collections": [
+        "25670",
+        "26917",
+        "27391",
+        "27461",
+        "27478",
+        "27487",
+        "27518",
+        "27521",
+        "27522",
+        "27601"
+      ],
+      "brand": "Sadia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "88915",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 3390,
+          "listPrice": 3390,
+          "ppumPrice": 9686,
+          "ppumListPrice": 9686,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/366868-250-250/Lasagna-bolognesa-350-g.jpg?v=638776765236800000"
+          ],
+          "name": "Lasagna Bolognesa Sadia 350 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X6290 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 6290,
+              "unitPrice": 3145,
+              "ppumPrice": 8986,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103017",
+      "reference": "1876358",
+      "sponsoredId": null,
+      "slug": "pastel-de-choclo-vegano-vegmonkey-310gr-1876358",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1129",
+        "1133"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Comidas Congeladas",
+        "Comida Chilena"
+      ],
+      "collections": [
+        "1055",
+        "23984",
+        "23985"
+      ],
+      "brand": "Vegmonkey",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103286",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.31,
+          "price": 4090,
+          "listPrice": 4090,
+          "ppumPrice": 13194,
+          "ppumListPrice": 13194,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/373750-250-250/Pastel-de-choclo-vegano-vegmonkey-310gr.jpg?v=638776796958930000"
+          ],
+          "name": "Pastel de Choclo Vegano 310 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "28",
+      "reference": "466524",
+      "sponsoredId": null,
+      "slug": "arrollado-primavera-alimentos-shen-bolsa-400-g-10-unid-congelado-de-cerdo-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1134"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Gyozas y Arrollado Primaveras"
+      ],
+      "collections": [],
+      "brand": "Alimentos Shen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "30",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 4550,
+          "listPrice": 4550,
+          "ppumPrice": 11375,
+          "ppumListPrice": 11375,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/425878-250-250/Arrollado-Primavera-de-Cerdo-Alimentos-Shen-400-g.jpg?v=638810978689700000"
+          ],
+          "name": "Arrollado Primavera de Cerdo 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "985",
+      "reference": "1617471",
+      "sponsoredId": null,
+      "slug": "pan-forno-de-minas-de-queso-400-g-tradicional-exclusivo-jumbo",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Forno de Minas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "987",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 5262,
+          "listPrice": 6190,
+          "ppumPrice": 13155,
+          "ppumListPrice": 15475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/556937-250-250/Pan-de-Queso-400-g.jpg?v=639026132230930000"
+          ],
+          "name": "Pan de Queso 400 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 5262,
+              "ppumPrice": 13155,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "111250",
+      "reference": "1913535",
+      "sponsoredId": null,
+      "slug": "pasta-de-choclo-pimienton-minuto-verde-1k-1913535",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1133"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Comida Chilena"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25470",
+        "25662",
+        "25695",
+        "25719",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "111521",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 4490,
+          "listPrice": 4490,
+          "ppumPrice": 4490,
+          "ppumListPrice": 4490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/378473-250-250/Pasta-de-choclo-pimenton-1-kg.jpg?v=638776815559870000"
+          ],
+          "name": "Pasta de Choclo Pimentón Minuto Verde 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X6990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 6990,
+              "unitPrice": 3495,
+              "ppumPrice": 3495,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "141925",
+      "reference": "2009230",
+      "sponsoredId": null,
+      "slug": "pastel-de-choclo-take-a-break-600-gr-2009230",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1133"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Comida Chilena"
+      ],
+      "collections": [
+        "23985"
+      ],
+      "brand": "Take a Break",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142220",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.6,
+          "price": 6990,
+          "listPrice": 6990,
+          "ppumPrice": 11650,
+          "ppumListPrice": 11650,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/336472-250-250/Pastel-de-Choclo-Take-A-Break-600-g.jpg?v=638776437639100000"
+          ],
+          "name": "Pastel de Choclo Take A Break 600 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75857",
+      "reference": "1798039",
+      "sponsoredId": null,
+      "slug": "sopaipillas-congeladas-400-g-cuisine-and-co-1798039",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "21672",
+        "23175",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "76112",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2290,
+          "listPrice": 2290,
+          "ppumPrice": 5725,
+          "ppumListPrice": 5725,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363575-250-250/Sopaipillas-congeladas-Cuisine---Co-400-g-Sopaipillas-congeladas-Cuisine---Co-400-g-1-81993927.jpg?v=638776748959500000"
+          ],
+          "name": "Sopaipillas Congeladas 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "95453",
+      "reference": "1822354",
+      "sponsoredId": null,
+      "slug": "anillos-de-cebolla-tempura-400-g-cuisine-and-co-1822354",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1132"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Quiches, Sopaipillas y Otros"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "95718",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 7475,
+          "ppumListPrice": 7475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/368982-250-250/Anillos-de-cebolla-tempura-400-g-1-130375852.jpg?v=638776775103400000"
+          ],
+          "name": "Anillos de Cebolla Tempura 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "88845",
+      "reference": "1839876",
+      "sponsoredId": null,
+      "slug": "pizza-americana-4-quesos-congelada-650-g-cuisine-and-co-1839876",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1130"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Pizzas y Pastas Congeladas"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27499",
+        "27501",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517",
+        "27563",
+        "27601"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "89114",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.65,
+          "price": 5490,
+          "listPrice": 6790,
+          "ppumPrice": 8446,
+          "ppumListPrice": 10446,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/366982-250-250/Pizza-americana-congelada-4-quesos-650-g.jpg?v=638776765743270000"
+          ],
+          "name": "Pizza Estilo Americana 4 Quesos Congelada 650 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5490,
+              "ppumPrice": 8446,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127082",
+      "reference": "1959584",
+      "sponsoredId": null,
+      "slug": "preparacion-churrasqueli-500g-donarosita-1959584",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1129",
+        "1133"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Comidas Congeladas",
+        "Comida Chilena"
+      ],
+      "collections": [
+        "23984",
+        "23985"
+      ],
+      "brand": "Doña Rosita",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127368",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 5090,
+          "listPrice": 5090,
+          "ppumPrice": 10180,
+          "ppumListPrice": 10180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/422369-250-250/Preparacion-Churrasqueli-Do%C3%B1a-Rosita-500-g.jpg?v=638809576369870000"
+          ],
+          "name": "Preparación Churrasqueli Doña Rosita 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "77316",
+      "reference": "1811523",
+      "sponsoredId": null,
+      "slug": "empanadas-camaron-queso-288-g-cuisine-and-co-1811523",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1131"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Empanadas Congeladas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77570",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.288,
+          "price": 6190,
+          "listPrice": 6190,
+          "ppumPrice": 21493,
+          "ppumListPrice": 21493,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363941-250-250/Empanadas-camaron-queso-288-g-1-112651819.jpg?v=638776751305730000"
+          ],
+          "name": "Empanadas Camarón Queso 288 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "67136",
+      "reference": "1770675",
+      "sponsoredId": null,
+      "slug": "empanadas-napolitanas-432-g-cuisine-and-co-1770675",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1131"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Empanadas Congeladas"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "67295",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.432,
+          "price": 6190,
+          "listPrice": 6190,
+          "ppumPrice": 14329,
+          "ppumListPrice": 14329,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361672-250-250/Empanadas-napolitanas-432-g.jpg?v=638776738489130000"
+          ],
+          "name": "Empanadas Napolitanas 432 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132248",
+      "reference": "1964211",
+      "sponsoredId": null,
+      "slug": "emp-med-mechada-queso-6u-450g-cuisine-and-co-1964211",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1131"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Empanadas Congeladas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132531",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.45,
+          "price": 7390,
+          "listPrice": 7390,
+          "ppumPrice": 16422,
+          "ppumListPrice": 16422,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321629-250-250/Empanada-Mediana-Mechada-Queso-6-un-450-g.jpg?v=638776423785570000"
+          ],
+          "name": "Empanada Mediana Mechada Queso 450 g 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "67131",
+      "reference": "1770670",
+      "sponsoredId": null,
+      "slug": "empanadas-aceituna-queso-432-g-cuisine-and-co-1770670",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1131"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Empanadas Congeladas"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "67290",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.432,
+          "price": 6190,
+          "listPrice": 6190,
+          "ppumPrice": 14329,
+          "ppumListPrice": 14329,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361665-250-250/Empanadas-aceituna-queso-432-g.jpg?v=638776738442600000"
+          ],
+          "name": "Empanadas Aceituna Queso 432 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "69301",
+      "reference": "1768257",
+      "sponsoredId": null,
+      "slug": "empanada-raviolera-queso-552-g-cuisine-and-co-1768257",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1131"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Empanadas Congeladas"
+      ],
+      "collections": [
+        "23175",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "69591",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.552,
+          "price": 4190,
+          "listPrice": 4190,
+          "ppumPrice": 7591,
+          "ppumListPrice": 7591,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309889-250-250/Empanadas-Raviolera-Queso-504-g.jpg?v=638776390178100000"
+          ],
+          "name": "Empanadas Raviolera Queso 504 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "67132",
+      "reference": "1770671",
+      "sponsoredId": null,
+      "slug": "empanadas-champinon-queso-ready--432-g-cuisine-and-co-1770671",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1131"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Empanadas Congeladas"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "67291",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.432,
+          "price": 6190,
+          "listPrice": 6190,
+          "ppumPrice": 14329,
+          "ppumListPrice": 14329,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361666-250-250/Empanada-champi%C3%B1on-queso-Cuisine---Co-Ready-432g-1-32846912.jpg?v=638776738445170000"
+          ],
+          "name": "Empanadas Champiñon Queso Ready! 432 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132254",
+      "reference": "1964212",
+      "sponsoredId": null,
+      "slug": "emp-med-queso-6u-450g-cuisine-and-co-1964212",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1129",
+        "1131"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Comidas Congeladas",
+        "Empanadas Congeladas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132539",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.45,
+          "price": 6790,
+          "listPrice": 6790,
+          "ppumPrice": 15089,
+          "ppumListPrice": 15089,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321484-250-250/Empanada-Mediana-Queso-6-un-450-g.jpg?v=638776423442700000"
+          ],
+          "name": "Empanada Mediana Queso 450 g 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "39392",
+      "reference": "1666862",
+      "sponsoredId": null,
+      "slug": "pizza-pf-listo-congelada-jamon-queso-465-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1129",
+        "1130"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Comidas Congeladas",
+        "Pizzas y Pastas Congeladas"
+      ],
+      "collections": [
+        "22523"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "42409",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.465,
+          "price": 5490,
+          "listPrice": 5490,
+          "ppumPrice": 11806,
+          "ppumListPrice": 11806,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307432-250-250/Pizza-listo-congelada-jamon-queso-465-g.jpg?v=638776384743530000"
+          ],
+          "name": "Pizza Listo Congelada Jamón Queso 465 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Pizzas y Pastas Congeladas",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/pizzas-y-pastas-congeladas",
+          "selected": false,
+          "quantity": 33,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quiches, Sopaipillas y Otros",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/quiches-sopaipillas-y-otros",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Empanadas Congeladas",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/empanadas-congeladas",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Comida Chilena",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/comida-chilena",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gyozas y Arrollado Primaveras",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/gyozas-y-arrollado-primaveras",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Pizzas y Pastas Congeladas",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/pizzas-y-pastas-congeladas",
+          "selected": false,
+          "quantity": 33,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quiches, Sopaipillas y Otros",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/quiches-sopaipillas-y-otros",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Empanadas Congeladas",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/empanadas-congeladas",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Comida Chilena",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/comida-chilena",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gyozas y Arrollado Primaveras",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/gyozas-y-arrollado-primaveras",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Pizzas y Pastas Congeladas",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/pizzas-y-pastas-congeladas",
+          "selected": false,
+          "quantity": 33,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quiches, Sopaipillas y Otros",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/quiches-sopaipillas-y-otros",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Empanadas Congeladas",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/empanadas-congeladas",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Comida Chilena",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/comida-chilena",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gyozas y Arrollado Primaveras",
+          "value": "/lacteos-huevos-y-congelados/comidas-congeladas/gyozas-y-arrollado-primaveras",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Queso Mozzarella",
+          "value": "Queso Mozzarella",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arrollado Primavera",
+          "value": "Arrollado Primavera",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Platos Preparados",
+          "value": "Platos Preparados",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gyosas de Cerdo",
+          "value": "Gyosas de Cerdo",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pizza Española",
+          "value": "Pizza Española",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pizza Vegetariana",
+          "value": "Pizza Vegetariana",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pastas Preparadas",
+          "value": "Pastas Preparadas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Porotos con Mazamorra",
+          "value": "Porotos con Mazamorra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pizza Americana",
+          "value": "Pizza Americana",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quiche Pollo",
+          "value": "Quiche Pollo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Humitas",
+          "value": "Humitas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lasañas",
+          "value": "Lasañas",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Empanadas de Horno",
+          "value": "Empanadas de Horno",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sucedáneos de Carne",
+          "value": "Sucedáneos de Carne",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pastel de Choclo",
+          "value": "Pastel de Choclo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan de Queso",
+          "value": "Pan de Queso",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sopaipillas",
+          "value": "Sopaipillas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cebolla",
+          "value": "Cebolla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Empanadas de Cóctel",
+          "value": "Empanadas de Cóctel",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pizzeta Napolitana",
+          "value": "Pizzeta Napolitana",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pizza 4 Quesos",
+          "value": "Pizza 4 Quesos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pizzeta Mediterránea",
+          "value": "Pizzeta Mediterránea",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pizza de Carne",
+          "value": "Pizza de Carne",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carne Mechada",
+          "value": "Carne Mechada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pizza Pepperoni",
+          "value": "Pizza Pepperoni",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hojas de Parra",
+          "value": "Hojas de Parra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bolitas de Carne",
+          "value": "Bolitas de Carne",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kubbe",
+          "value": "Kubbe",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pizzeta Mix",
+          "value": "Pizzeta Mix",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas Pizza",
+          "value": "Masas Pizza",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas Sopaipillas",
+          "value": "Masas Sopaipillas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cerdo en Salsa",
+          "value": "Cerdo en Salsa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 40,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Minuto Verde",
+          "value": "Minuto Verde",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutos Del Maipo",
+          "value": "Frutos Del Maipo",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alimentos Shen",
+          "value": "Alimentos Shen",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sadia",
+          "value": "Sadia",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doña Rosita",
+          "value": "Doña Rosita",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegmonkey",
+          "value": "Vegmonkey",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Forno de Minas",
+          "value": "Forno de Minas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Take a Break",
+          "value": "Take a Break",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "PF",
+          "value": "PF",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Receta del Abuelo",
+          "value": "Receta del Abuelo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Protteina Foods",
+          "value": "Protteina Foods",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Crianza",
+          "value": "La Crianza",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fundo Sur",
+          "value": "Fundo Sur",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Florde",
+          "value": "Florde",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italpizza",
+          "value": "Italpizza",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cuk",
+          "value": "Cuk",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "The Iola Pizza",
+          "value": "The Iola Pizza",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo",
+          "value": "Jumbo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dilici",
+          "value": "Dilici",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salvia",
+          "value": "Salvia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2290,
+          "maxValue": 11890
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "1 kg",
+          "value": "1 kg",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "4 unidades",
+          "value": "4 unidades",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "400 g",
+          "value": "400 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "450 g",
+          "value": "450 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "500 g",
+          "value": "500 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "505 g",
+          "value": "505 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "552 g",
+          "value": "552 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 74,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "América Latina",
+          "value": "América Latina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brasil",
+          "value": "Brasil",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Cocktail",
+          "value": "Cocktail",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entera",
+          "value": "Entera",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Familar",
+          "value": "Familar",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Molido",
+          "value": "Molido",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mediano",
+          "value": "Mediano",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "15 Unidades",
+          "value": "15 colgadores",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "8 Unidades",
+          "value": "8 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Beef",
+          "value": "Beef",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "carne vacuno",
+          "value": "carne vacuno",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Charquican",
+          "value": "Charquican",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Choclo, Pino",
+          "value": "Choclo, Pino",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Humitas",
+          "value": "Humitas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mandarin",
+          "value": "Mandarin",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mechada Queso",
+          "value": "Mechada Queso",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Morron",
+          "value": "Morron",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pino",
+          "value": "Pino",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Porotos",
+          "value": "Porotos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Congelados",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frescos",
+          "value": "Fresco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Al Jugo",
+          "value": "Al Jugo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Artesanal",
+          "value": "Artesanal",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Artesanal - Charquicán",
+          "value": "Artesanal - Charquicán",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Artesanal - Humitas",
+          "value": "Artesanal - Humitas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Artesanal - Porotos con Mazamorra",
+          "value": "Artesanal - Porotos con Mazamorra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bistoco",
+          "value": "Bistoco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Churrasqueli",
+          "value": "Churrasqueli",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Platos Listos",
+          "value": "Platos Listos",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "Carne Vegana Beyond Beef",
+          "value": "Carne Vegana Beyond Beef",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mechada, Queso Mozzarella, Cebolla caramelizada, Pomodoro.",
+          "value": "Mechada, Queso Mozzarella, Cebolla caramelizada, Pomodoro.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pepperoni, Queso mozarella, Pomodoro.",
+          "value": "Pepperoni, Queso mozarella, Pomodoro.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pino Vegano",
+          "value": "Pino Vegano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pomodoro, queso mozarella, Pimenton Rojo y verde, Palmito y salsa Pesto.",
+          "value": "Pomodoro, queso mozarella, Pimenton Rojo y verde, Palmito y salsa Pesto.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bandeja",
+          "value": "Bandeja",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sobre",
+          "value": "Sobre",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 89,
+  "metaTag": {
+    "title": "Comidas Congeladas | Jumbo.cl",
+    "description": "Almuerza exquisita pasta de choclo, tortilla de papas, pizza congelada o cualquiera de las prácticas y rápidas opciones en comidas congeladas de Jumbo.cl"
+  }
+}

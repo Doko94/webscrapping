@@ -1,0 +1,81 @@
+
+Subcategorías:
+- Frutas -> https://www.jumbo.cl/frutas-y-verduras/frutas
+- Frutas Picadas -> https://www.jumbo.cl/frutas-y-verduras/frutas/frutas-picadas
+- Frutas (Mostrar todo) -> https://www.jumbo.cl/frutas-y-verduras/frutas
+- Verduras -> https://www.jumbo.cl/frutas-y-verduras/verduras
+- Ensaladas -> https://www.jumbo.cl/frutas-y-verduras/verduras/ensaladas
+- Hierbas y Especias -> https://www.jumbo.cl/frutas-y-verduras/verduras/hierbas-y-especias
+- Aderezos -> https://www.jumbo.cl/frutas-y-verduras/verduras/aderezos
+- Verduras (Mostrar todo) -> https://www.jumbo.cl/frutas-y-verduras/verduras
+- Frutas Orgánicas -> https://www.jumbo.cl/frutas-y-verduras/frutas-y-verduras-organicas/frutas-organicas
+- Verduras Orgánicas -> https://www.jumbo.cl/frutas-y-verduras/frutas-y-verduras-organicas/verduras-organicas
+- Orgánicas (Mostrar todo) -> https://www.jumbo.cl/frutas-y-verduras/frutas-y-verduras-organicas
+- Frutos Secos -> https://www.jumbo.cl/frutas-y-verduras/frutos-secos-y-semillas/frutos-secos
+- Frutas Deshidratadas -> https://www.jumbo.cl/frutas-y-verduras/frutos-secos-y-semillas/frutas-deshidratadas
+- Semillas y Granos -> https://www.jumbo.cl/frutas-y-verduras/frutos-secos-y-semillas/semillas-y-granos
+- Frutos Secos y Semillas (Mostrar todo) -> https://www.jumbo.cl/frutas-y-verduras/frutos-secos-y-semillas
+
+Scrape: Frutas
+🧪 Dump BFF guardado: debug_bff\bff_frutas_p1.json
+  productos: 40
+
+Scrape: Frutas Picadas
+🧪 Dump BFF guardado: debug_bff\bff_frutas_picadas_p1.json
+  productos: 10
+
+Scrape: Frutas (Mostrar todo)
+🧪 Dump BFF guardado: debug_bff\bff_frutas_mostrar_todo_p1.json
+  productos: 40
+
+Scrape: Verduras
+🧪 Dump BFF guardado: debug_bff\bff_verduras_p1.json
+  productos: 40
+
+Scrape: Ensaladas
+🧪 Dump BFF guardado: debug_bff\bff_ensaladas_p1.json
+  productos: 40
+
+Scrape: Hierbas y Especias
+🧪 Dump BFF guardado: debug_bff\bff_hierbas_y_especias_p1.json
+  productos: 22
+
+Scrape: Aderezos
+🧪 Dump BFF guardado: debug_bff\bff_aderezos_p1.json
+  productos: 5
+
+Scrape: Verduras (Mostrar todo)
+🧪 Dump BFF guardado: debug_bff\bff_verduras_mostrar_todo_p1.json
+  productos: 40
+
+Scrape: Frutas Orgánicas
+🧪 Dump BFF guardado: debug_bff\bff_frutas_org_nicas_p1.json
+⚠️ 0 productos (BFF respondió pero no se detectaron productos): https://www.jumbo.cl/frutas-y-verduras/frutas-y-verduras-organicas/frutas-organicas
+  productos: 0
+
+Scrape: Verduras Orgánicas
+🧪 Dump BFF guardado: debug_bff\bff_verduras_org_nicas_p1.json
+  productos: 39
+
+Scrape: Orgánicas (Mostrar todo)
+🧪 Dump BFF guardado: debug_bff\bff_org_nicas_mostrar_todo_p1.json
+  productos: 39
+
+Scrape: Frutos Secos
+🧪 Dump BFF guardado: debug_bff\bff_frutos_secos_p1.json
+  productos: 40
+
+Scrape: Frutas Deshidratadas
+🧪 Dump BFF guardado: debug_bff\bff_frutas_deshidratadas_p1.json
+  productos: 30
+
+Scrape: Semillas y Granos
+🧪 Dump BFF guardado: debug_bff\bff_semillas_y_granos_p1.json
+  productos: 8
+
+Scrape: Frutos Secos y Semillas (Mostrar todo)
+🧪 Dump BFF guardado: debug_bff\bff_frutos_secos_y_semillas_mostrar_todo_p1.json
+  productos: 40
+
+Total filas: 353
+CSV generado: output\frutas_verduras\jumbo_frutas_y_verduras_20260303_112424.csv

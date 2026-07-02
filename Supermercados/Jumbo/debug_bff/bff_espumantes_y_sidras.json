@@ -1,0 +1,4691 @@
+{
+  "products": [
+    {
+      "productId": "97644",
+      "reference": "1855464",
+      "sponsoredId": "nbbT_goQBpoMTEVvcwSzBEG2jEI2ZRIQAZxxWYAHd_O7GpAf-klFkRoQBjxueKSef9KcJEfP8MU0HiIJCgU5NzkxORABMIWwAUCgEkgBUIy-guDJM2CgEnIQAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "espum-vina-mar-zero-rose-bot-750cc-0-5gl-1855464",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221",
+        "794",
+        "795"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras",
+        "Sin Alcohol",
+        "Vinos y Espumantes sin Alcohol"
+      ],
+      "collections": [
+        "25638",
+        "25639",
+        "25969",
+        "25974",
+        "27122",
+        "27450"
+      ],
+      "brand": "Viñamar",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "97919",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 8990,
+          "listPrice": 8990,
+          "ppumPrice": 11987,
+          "ppumListPrice": 11987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/410963-250-250/Espumante-Sin-Alcohol-Vi%C3%B1amar-Zero-Rose-750-cc.jpg?v=638857754794500000"
+          ],
+          "name": "Espumante Viñamar Sin Alcohol Zero Rosé 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "272",
+      "reference": "1536093",
+      "sponsoredId": null,
+      "slug": "brut-amaranta-750-cc-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "24969",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25501",
+        "25695",
+        "26884",
+        "26912",
+        "27112",
+        "27367",
+        "27487",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27555",
+        "27563",
+        "27601"
+      ],
+      "brand": "Amaranta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "274",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 4790,
+          "listPrice": 5990,
+          "ppumPrice": 6387,
+          "ppumListPrice": 7987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/297807-250-250/Espumante-Brut-750-cc.jpg?v=638775743608330000"
+          ],
+          "name": "Espumante Amaranta Brut 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4790 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4790,
+              "ppumPrice": 6387,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 3990 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 5320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 3594,
+              "ppumPrice": 4792,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11121",
+      "reference": "1248116",
+      "sponsoredId": null,
+      "slug": "espumante-brut-carmen-750-cc-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "25500",
+        "25501",
+        "26884",
+        "26912",
+        "27367",
+        "27487",
+        "27555"
+      ],
+      "brand": "Carmen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11380",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 7690,
+          "listPrice": 7690,
+          "ppumPrice": 10253,
+          "ppumListPrice": 10253,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302140-250-250/Espumante-Carmen-Brut-750-cc.jpg?v=638776375836670000"
+          ],
+          "name": "Espumante Carmen Gran Cuvee Gran Reserva Brut 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 4614,
+              "ppumPrice": 6152,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "132304",
+      "reference": "1984556",
+      "sponsoredId": null,
+      "slug": "espum-carmen-f-kahlo-brut-250cc-12-g-1984556",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25501",
+        "25628",
+        "25695",
+        "26884",
+        "27487",
+        "27499",
+        "27501",
+        "27555",
+        "27563",
+        "27601"
+      ],
+      "brand": "Carmen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132585",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 10760,
+          "ppumListPrice": 10760,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321581-250-250/Espumante-Carmen-Frida-Kahlo-Reserva-Brut-lata-250-cc.jpg?v=638776423707800000"
+          ],
+          "name": "Espumante Carmen Frida Kahlo Brut 250 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X4290 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 4290,
+              "unitPrice": 2145,
+              "ppumPrice": 8580,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1614,
+              "ppumPrice": 6456,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24887",
+      "reference": "490540",
+      "sponsoredId": null,
+      "slug": "espumante-vina-mar-brut-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "24969",
+        "25333",
+        "25334",
+        "25422",
+        "25638",
+        "25639",
+        "25695",
+        "26912",
+        "27122",
+        "27367",
+        "27450"
+      ],
+      "brand": "Viñamar",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25203",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 7390,
+          "listPrice": 7390,
+          "ppumPrice": 9853,
+          "ppumListPrice": 9853,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/495237-250-250/Espumante-Vi%C3%B1amar-Brut-750-cc.jpg?v=638911559279370000"
+          ],
+          "name": "Espumante Viñamar Brut 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "55381",
+      "reference": "1734651",
+      "sponsoredId": null,
+      "slug": "espumante-amaranta-moscato-12-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "24969",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25501",
+        "25695",
+        "26884",
+        "26912",
+        "27367",
+        "27487",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27555",
+        "27563",
+        "27601"
+      ],
+      "brand": "Amaranta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55670",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 4790,
+          "listPrice": 5990,
+          "ppumPrice": 6387,
+          "ppumListPrice": 7987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308815-250-250/Espumante-Moscato-11%C2%B0-750-cc.jpg?v=638776387653600000"
+          ],
+          "name": "Espumante Amaranta Moscato 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4790 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4790,
+              "ppumPrice": 6387,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 3990 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 5320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 3594,
+              "ppumPrice": 4792,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11122",
+      "reference": "1248117",
+      "sponsoredId": null,
+      "slug": "espumante-extra-brut-carmen-750-cc-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "25500",
+        "25501",
+        "26884",
+        "27487",
+        "27555"
+      ],
+      "brand": "Carmen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11381",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 10190,
+          "listPrice": 10190,
+          "ppumPrice": 13587,
+          "ppumListPrice": 13587,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302181-250-250/Espumante-Carmen-Extra-Brut-750-cc.jpg?v=638776375872800000"
+          ],
+          "name": "Espumante Carmen Gran Cuvee Gran Reserva Extra Brut 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 6114,
+              "ppumPrice": 8152,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "144623",
+      "reference": "2018168",
+      "sponsoredId": null,
+      "slug": "espm-lata-carmen-fk-moscato-250cc-12-g-2018168",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25501",
+        "25628",
+        "25695",
+        "26884",
+        "27487",
+        "27499",
+        "27501",
+        "27555",
+        "27563",
+        "27601"
+      ],
+      "brand": "Carmen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144918",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 10760,
+          "ppumListPrice": 10760,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/403669-250-250/Espumante-Frida-Kahlo-Moscato-12%C2%B0-Lata-250-cc.jpg?v=638776915196700000"
+          ],
+          "name": "Espumante Frida Kahlo Moscato 12° Lata 250 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X4290 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 4290,
+              "unitPrice": 2145,
+              "ppumPrice": 8580,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1614,
+              "ppumPrice": 6456,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "121987",
+      "reference": "1954154",
+      "sponsoredId": null,
+      "slug": "coctel-en-lata-amaranta-rosato-250-9-g-1954154",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "26884",
+        "27487",
+        "27555"
+      ],
+      "brand": "Amaranta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122275",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 2750,
+          "listPrice": 2750,
+          "ppumPrice": 11000,
+          "ppumListPrice": 11000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317627-250-250/Coctel-Amaranta-Rosato-9%C2%B0-lata-250-cc.jpg?v=638776413016700000"
+          ],
+          "name": "Cóctel de Espumante Amaranta Rosato Lata 250 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1650,
+              "ppumPrice": 6600,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11156",
+      "reference": "1372279",
+      "sponsoredId": null,
+      "slug": "vino-espumoso-dolce-asti-riccadonna-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "23175",
+        "24969",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "26954",
+        "26955",
+        "26956",
+        "27367",
+        "27445"
+      ],
+      "brand": "Riccadonna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11415",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 14690,
+          "listPrice": 14690,
+          "ppumPrice": 19587,
+          "ppumListPrice": 19587,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302301-250-250/Vino-Espumoso-Dolce-Asti-Riccadonna-750-cc.jpg?v=638776375968870000"
+          ],
+          "name": "Espumante Riccadonna Asti 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "25086",
+      "reference": "1614180",
+      "sponsoredId": null,
+      "slug": "espumante-moscato-rose-riccadonna-750-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "26954",
+        "26955",
+        "26956",
+        "27367",
+        "27445"
+      ],
+      "brand": "Riccadonna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25405",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 14690,
+          "listPrice": 14690,
+          "ppumPrice": 19587,
+          "ppumListPrice": 19587,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306163-250-250/Espumante-Riccadonna-moscato-rose-750-cc.jpg?v=638776382088500000"
+          ],
+          "name": "Espumante Riccadonna Moscato Rosé 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "94971",
+      "reference": "1854968",
+      "sponsoredId": null,
+      "slug": "vino-espum-las-mulas-sparkling-bot-759c",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "23175",
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Las Mulas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "95235",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 7490,
+          "listPrice": 9290,
+          "ppumPrice": 9987,
+          "ppumListPrice": 12387,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312678-250-250/Espumante-Metodo-Tradicional-Organico-Migue-Torres-Las-Mulas-Extra-Brut-750-cc.jpg?v=638776397248100000"
+          ],
+          "name": "Espumante Método Tradicional Orgánico Migue Torres Las Mulas Extra Brut 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 7490 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 7490,
+              "ppumPrice": 9987,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "144622",
+      "reference": "2018167",
+      "sponsoredId": null,
+      "slug": "espum-carmen-fk-moscato-750cc-12-g-2018167",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "25500",
+        "25501",
+        "26884",
+        "26912",
+        "27367",
+        "27487",
+        "27555"
+      ],
+      "brand": "Carmen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144917",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 7690,
+          "listPrice": 7690,
+          "ppumPrice": 10253,
+          "ppumListPrice": 10253,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/403668-250-250/Espumante-Frida-Kahlo-Moscato-12%C2%B0-750-cc.jpg?v=638776915195300000"
+          ],
+          "name": "Espumante Frida Kahlo Moscato 12° 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 4614,
+              "ppumPrice": 6152,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11168",
+      "reference": "263716",
+      "sponsoredId": null,
+      "slug": "espumante-undurraga-brut-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "19270",
+        "25500",
+        "25501",
+        "25741",
+        "25751"
+      ],
+      "brand": "Undurraga",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11427",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 6790,
+          "listPrice": 6790,
+          "ppumPrice": 9053,
+          "ppumListPrice": 9053,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/424995-250-250/Espumante-Brut-750-cc.jpg?v=638810967538500000"
+          ],
+          "name": "Espumante Undurraga Brut 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "115287",
+      "reference": "1930368",
+      "sponsoredId": null,
+      "slug": "espumante-lata-amaranta-brut-250-cc-12-1930368",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "22523",
+        "25500",
+        "25501",
+        "26884",
+        "27487",
+        "27555"
+      ],
+      "brand": "Amaranta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115552",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 12360,
+          "ppumListPrice": 12360,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316259-250-250/Lata-Espumante-Amaranta-Brut-250-cc.jpg?v=638776407723670000"
+          ],
+          "name": "Espumante Amaranta Brut Lata 250 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1854,
+              "ppumPrice": 7416,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "101201",
+      "reference": "1871416",
+      "sponsoredId": null,
+      "slug": "coctel-amaranta-spritz-250cc-9-1871416",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "26884",
+        "27487",
+        "27555"
+      ],
+      "brand": "Amaranta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "101473",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 2750,
+          "listPrice": 2750,
+          "ppumPrice": 11000,
+          "ppumListPrice": 11000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313724-250-250/Coctel-Spritz-9%C2%B0-250-cc.jpg?v=638776400332700000"
+          ],
+          "name": "Cóctel de Espumante Amaranta Spritz Lata 250 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1650,
+              "ppumPrice": 6600,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "120407",
+      "reference": "1948038",
+      "sponsoredId": null,
+      "slug": "espumante-valdivieso-brut-lata-310cc-12-1948038",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "25500",
+        "25501",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Valdivieso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "120683",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.31,
+          "price": 2450,
+          "listPrice": 2950,
+          "ppumPrice": 7903,
+          "ppumListPrice": 9516,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317337-250-250/Espumante-Valdivieso-Brut-lata-12%C2%B0-310-cc.jpg?v=638776411565930000"
+          ],
+          "name": "Espumante Valdivieso Brut Lata 310 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2450 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2450,
+              "ppumPrice": 7903,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "25119",
+      "reference": "1340570",
+      "sponsoredId": null,
+      "slug": "cepas-especiales-santa-digna-750-ml-estelado",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25501",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27544",
+        "27549",
+        "27563",
+        "27564",
+        "27601"
+      ],
+      "brand": "Miguel Torres",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25438",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 8990,
+          "listPrice": 12790,
+          "ppumPrice": 11987,
+          "ppumListPrice": 17053,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306193-250-250/Cepas-Especiales-Estelado-Miguel-Torres-750-cc.jpg?v=638776382110400000"
+          ],
+          "name": "Espumante Método Tradicional Miguel Torres Estelado Rosé 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 8990 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 8990,
+              "ppumPrice": 11987,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24367",
+      "reference": "263732",
+      "sponsoredId": null,
+      "slug": "espumante-vina-valdivieso-moscato-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "19270",
+        "24969",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25501",
+        "25695",
+        "26912",
+        "27367"
+      ],
+      "brand": "Valdivieso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24683",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 6890,
+          "listPrice": 6890,
+          "ppumPrice": 9187,
+          "ppumListPrice": 9187,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305448-250-250/Espumante-Moscato-12%C2%B0-750-cc.jpg?v=638776381578700000"
+          ],
+          "name": "Espumante Valdivieso Moscato 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24373",
+      "reference": "263722",
+      "sponsoredId": null,
+      "slug": "champana-vina-valdivieso-750-ml-brut",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "19270",
+        "24969",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25501",
+        "25695",
+        "26912",
+        "27367"
+      ],
+      "brand": "Valdivieso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24689",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 6890,
+          "listPrice": 6890,
+          "ppumPrice": 9187,
+          "ppumListPrice": 9187,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305659-250-250/Espumante-Brut-12%C2%B0-750-cc.jpg?v=638776381723300000"
+          ],
+          "name": "Espumante Valdivieso Brut 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "81678",
+      "reference": "1802744",
+      "sponsoredId": null,
+      "slug": "sidra-rekorderling-frut-silvestre-330-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "14967",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25695",
+        "26491"
+      ],
+      "brand": "Rekorderlig",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81956",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1690,
+          "listPrice": 1690,
+          "ppumPrice": 5121,
+          "ppumListPrice": 5121,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311152-250-250/Sidra-Rekorderlig-Frutos-Silvestres-330-cc.jpg?v=638776393054900000"
+          ],
+          "name": "Sidra Rekorderlig Frutos Silvestres 330 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "132302",
+      "reference": "1979128",
+      "sponsoredId": null,
+      "slug": "espumante-undurr-brut-u-750cc-12-g-1979128",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "25500",
+        "25501",
+        "25741",
+        "25751"
+      ],
+      "brand": "Undurraga",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132584",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 5290,
+          "listPrice": 5290,
+          "ppumPrice": 7053,
+          "ppumListPrice": 7053,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/426900-250-250/Espumante-Undurraga-Brut-12%C2%B0-750-cc.jpg?v=638810996726070000"
+          ],
+          "name": "Espumante Undurraga U Brut 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11119",
+      "reference": "1536094",
+      "sponsoredId": null,
+      "slug": "demi-sec-amaranta-750-cc-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "24969",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25501",
+        "25695",
+        "26884",
+        "26912",
+        "27367",
+        "27487",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27555",
+        "27563",
+        "27601"
+      ],
+      "brand": "Amaranta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11378",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 4790,
+          "listPrice": 5990,
+          "ppumPrice": 6387,
+          "ppumListPrice": 7987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302071-250-250/Espumante-Demi-Sec-750-cc.jpg?v=638776375769000000"
+          ],
+          "name": "Espumante Amaranta Demisec 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4790 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4790,
+              "ppumPrice": 6387,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 3990 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 5320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 3594,
+              "ppumPrice": 4792,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "120406",
+      "reference": "1948039",
+      "sponsoredId": null,
+      "slug": "espumante-valdivieso-rose-lata-310cc-12-1948039",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "25500",
+        "25501",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Valdivieso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "120682",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.31,
+          "price": 2450,
+          "listPrice": 2950,
+          "ppumPrice": 7903,
+          "ppumListPrice": 9516,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317329-250-250/Espumante-Valdivieso-Rose-lata-12%C2%B0-310-cc.jpg?v=638776411523500000"
+          ],
+          "name": "Espumante Valdivieso Rosé Lata 310 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2450 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2450,
+              "ppumPrice": 7903,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "25085",
+      "reference": "1539383",
+      "sponsoredId": null,
+      "slug": "vino-espumoso-prosecco-riccadonna-750-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "23175",
+        "24969",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "26954",
+        "26955",
+        "26956",
+        "27367",
+        "27445"
+      ],
+      "brand": "Riccadonna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25404",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 14690,
+          "listPrice": 14690,
+          "ppumPrice": 19587,
+          "ppumListPrice": 19587,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/497063-250-250/Espumante-Prosecco-750-cc.jpg?v=638912211782270000"
+          ],
+          "name": "Espumante Riccadonna Prosecco 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24375",
+      "reference": "263727",
+      "sponsoredId": null,
+      "slug": "champana-vina-valdivieso-360-ml-extra-brut",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523"
+      ],
+      "brand": "Valdivieso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24691",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.375,
+          "price": 4750,
+          "listPrice": 4750,
+          "ppumPrice": 12667,
+          "ppumListPrice": 12667,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305762-250-250/Espumante-Brut-12%C2%B0-375-cc.jpg?v=638776381795870000"
+          ],
+          "name": "Espumante Valdivieso Brut 375 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "25087",
+      "reference": "1652935",
+      "sponsoredId": null,
+      "slug": "espumante-rimladonna-ruby-750-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "23175",
+        "24969",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "26954",
+        "26955",
+        "26956",
+        "27367",
+        "27445"
+      ],
+      "brand": "Riccadonna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25406",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 14690,
+          "listPrice": 14690,
+          "ppumPrice": 19587,
+          "ppumListPrice": 19587,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306202-250-250/Espumante-Ruby-750-cc.jpg?v=638776382120530000"
+          ],
+          "name": "Espumante Riccadonna Ruby 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24371",
+      "reference": "263733",
+      "sponsoredId": null,
+      "slug": "champana-valdivieso-750-ml-rose",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25501",
+        "25695",
+        "26912",
+        "27367"
+      ],
+      "brand": "Valdivieso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24687",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 6890,
+          "listPrice": 6890,
+          "ppumPrice": 9187,
+          "ppumListPrice": 9187,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305611-250-250/Espumante-Rose-12%C2%B0-750-cc.jpg?v=638776381688270000"
+          ],
+          "name": "Espumante Valdivieso Rosé 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11161",
+      "reference": "1407539",
+      "sponsoredId": null,
+      "slug": "vino-espumoso-moscatel-dulce-sensus-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "17846",
+        "22523"
+      ],
+      "brand": "Sensus",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11420",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 7987,
+          "ppumListPrice": 7987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/425359-250-250/Espumante-Sensus-Moscatel-9%C2%B0-750-cc.jpg?v=638810971217830000"
+          ],
+          "name": "Espumante Sensus Moscato 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "132347",
+      "reference": "1980565",
+      "sponsoredId": null,
+      "slug": "espum-undurr-sweet-moscato-u750cc-12-g-1980565",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "25500",
+        "25501",
+        "25741",
+        "25751"
+      ],
+      "brand": "Undurraga",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132629",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 5290,
+          "listPrice": 5290,
+          "ppumPrice": 7053,
+          "ppumListPrice": 7053,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321655-250-250/Espumante-Undurraga-Sweet-Moscato-12%C2%B0-750-cc.jpg?v=638776423838600000"
+          ],
+          "name": "Espumante Undurraga U Sweet Moscato 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "266",
+      "reference": "1536095",
+      "sponsoredId": null,
+      "slug": "brut-amaranta-375-cc-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "22523",
+        "25500",
+        "25501",
+        "26884",
+        "26912",
+        "27367",
+        "27487",
+        "27555"
+      ],
+      "brand": "Amaranta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "268",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.375,
+          "price": 4690,
+          "listPrice": 4690,
+          "ppumPrice": 12507,
+          "ppumListPrice": 12507,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/297794-250-250/Espumante-Brut-375-cc.jpg?v=638775743472130000"
+          ],
+          "name": "Espumante Amaranta Brut 375 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 2814,
+              "ppumPrice": 7504,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "75126",
+      "reference": "1769535",
+      "sponsoredId": null,
+      "slug": "esp-moscato-sweet-undurraga-13g-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "19270",
+        "25500",
+        "25501",
+        "25741",
+        "25751"
+      ],
+      "brand": "Undurraga",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75488",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 6690,
+          "listPrice": 6690,
+          "ppumPrice": 8920,
+          "ppumListPrice": 8920,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310505-250-250/Espumante-Moscato-Sweet-13%C2%B0-750-cc.jpg?v=638776391644970000"
+          ],
+          "name": "Espumante Undurraga Sweet Moscato 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24301",
+      "reference": "263721",
+      "sponsoredId": null,
+      "slug": "champana-veuve-clicquot-ponsardin-750-ml-brut",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "221",
+        "897"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Espumantes y Sidras",
+        "Vinos y Espumantes Destacados"
+      ],
+      "collections": [
+        "23278"
+      ],
+      "brand": "Veuve Clicquot",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24617",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 89990,
+          "listPrice": 89990,
+          "ppumPrice": 119987,
+          "ppumListPrice": 119987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305076-250-250/Espumante-Ponsardin-Brut-750-cc.jpg?v=638776381196600000"
+          ],
+          "name": "Champagne Método Tradicional Veuve Clicquot Brut 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "96510",
+      "reference": "1858259",
+      "sponsoredId": null,
+      "slug": "espumante-libre-de-alcohol-botella-750-cc-1858259",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221",
+        "794",
+        "795"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras",
+        "Sin Alcohol",
+        "Vinos y Espumantes sin Alcohol"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25500",
+        "25501",
+        "25741",
+        "25751"
+      ],
+      "brand": "Undurraga",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "96775",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 0.75,
+          "price": 7390,
+          "listPrice": 7390,
+          "ppumPrice": 9853,
+          "ppumListPrice": 9853,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/369488-250-250/Espumante-sin-alcohol-botella-750-cc.jpg?v=638776777589600000"
+          ],
+          "name": "Espumante Sin Alcohol Undurraga 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11141",
+      "reference": "1583069",
+      "sponsoredId": null,
+      "slug": "espumante-ice-rose-jp-chenet-750-cc-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "221",
+        "897"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Espumantes y Sidras",
+        "Vinos y Espumantes Destacados"
+      ],
+      "collections": [
+        "14878",
+        "14967",
+        "19218",
+        "24945",
+        "25500",
+        "25501",
+        "25969",
+        "25974",
+        "26912",
+        "27367"
+      ],
+      "brand": "JP Chenet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11400",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 8990,
+          "listPrice": 8990,
+          "ppumPrice": 11987,
+          "ppumListPrice": 11987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302046-250-250/Espumante-JP-Chenet-Ice-Rose-750-cc.jpg?v=638776375738300000"
+          ],
+          "name": "Espumante Jp Chenet Ice Rosé 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24369",
+      "reference": "263724",
+      "sponsoredId": null,
+      "slug": "champana-vina-valdivieso-750-ml-demi-sec",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "24969",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25501",
+        "25695",
+        "26912",
+        "27367"
+      ],
+      "brand": "Valdivieso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24685",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 6890,
+          "listPrice": 6890,
+          "ppumPrice": 9187,
+          "ppumListPrice": 9187,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305509-250-250/Espumante-Demi-Sec-12%C2%B0-750-cc.jpg?v=638776381618900000"
+          ],
+          "name": "Espumante Valdivieso Demisec 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "156391",
+      "reference": "2050099",
+      "sponsoredId": null,
+      "slug": "espumante-undurraga-moscato-310cc-11-5-2050099",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "25741",
+        "25751",
+        "26912",
+        "27367"
+      ],
+      "brand": "Undurraga",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156713",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.31,
+          "price": 2650,
+          "listPrice": 2650,
+          "ppumPrice": 8548,
+          "ppumListPrice": 8548,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/510285-250-250/ESPUMANTE-UNDURRAGA-MOSCATO-310CC-115%C2%B0.jpg?v=638940913250800000"
+          ],
+          "name": "Espumante Undurraga Moscato 11.5° 310 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "39707",
+      "reference": "1668413",
+      "sponsoredId": null,
+      "slug": "espumante-misiones-de-rengo-brut-12-5-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "25638",
+        "25639",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Misiones de Rengo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "42723",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 6790,
+          "listPrice": 6790,
+          "ppumPrice": 9053,
+          "ppumListPrice": 9053,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307541-250-250/Espumante-Misiones-de-Rengo-Brut-750-cc.jpg?v=638776384959400000"
+          ],
+          "name": "Espumante Misiones de Rengo Brut 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X10790 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 10790,
+              "unitPrice": 5395,
+              "ppumPrice": 7193,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "118965",
+      "reference": "1937590",
+      "sponsoredId": null,
+      "slug": "espum-vinamar-brut-rose-bot-750cc-12-g-1937590",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "221"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Espumantes y Sidras"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25638",
+        "25639",
+        "25695",
+        "26912",
+        "27122",
+        "27367"
+      ],
+      "brand": "Viñamar",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "119244",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 7390,
+          "listPrice": 7390,
+          "ppumPrice": 9853,
+          "ppumListPrice": 9853,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316856-250-250/Espumante-Vinamar-Brut-Rose-750-cc.jpg?v=638776410264730000"
+          ],
+          "name": "Espumante Viñamar Brut Rosé 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "125205",
+      "reference": "1937114",
+      "sponsoredId": null,
+      "slug": "espum-cava-j-serra-navid-11-5-bot-750cc-1937114",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "221",
+        "897"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Espumantes y Sidras",
+        "Vinos y Espumantes Destacados"
+      ],
+      "collections": [
+        "14878",
+        "14880",
+        "14967",
+        "18363",
+        "24961",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25500",
+        "25501",
+        "25695",
+        "26912",
+        "27367"
+      ],
+      "brand": "Jaume Serra",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "125502",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 10653,
+          "ppumListPrice": 10653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318693-250-250/Espumante-Cava-Jaume-Serra-Brut-115%C2%B0-botella-750-cc.jpg?v=638776415603870000"
+          ],
+          "name": "Espumante Jaume Serra Cava Brut 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Espumantes y Sidras",
+          "value": "/licores-bebidas-y-aguas/espumantes-y-sidras",
+          "selected": false,
+          "quantity": 201,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Espumantes y Sidras",
+          "value": "/licores-bebidas-y-aguas/espumantes-y-sidras",
+          "selected": false,
+          "quantity": 201,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Espumantes y Sidras",
+          "value": "/licores-bebidas-y-aguas/espumantes-y-sidras",
+          "selected": false,
+          "quantity": 201,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Amaranta",
+          "value": "Amaranta",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viñamar",
+          "value": "Viñamar",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carmen",
+          "value": "Carmen",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Riccadonna",
+          "value": "Riccadonna",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valdivieso",
+          "value": "Valdivieso",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Morandé",
+          "value": "Morandé",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Las Mulas",
+          "value": "Las Mulas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Diva",
+          "value": "Diva",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Undurraga",
+          "value": "Undurraga",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sensus",
+          "value": "Sensus",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rekorderlig",
+          "value": "Rekorderlig",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Miguel Torres",
+          "value": "Miguel Torres",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "JP Chenet",
+          "value": "JP Chenet",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Martini",
+          "value": "Martini",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doña Dominga",
+          "value": "Doña Dominga",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Copahue",
+          "value": "Copahue",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Freixenet",
+          "value": "Freixenet",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fresita",
+          "value": "Fresita",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Opera Prima",
+          "value": "Opera Prima",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tatié",
+          "value": "Tatié",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vionelli",
+          "value": "Vionelli",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Misiones de Rengo",
+          "value": "Misiones de Rengo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caballo Loco",
+          "value": "Caballo Loco",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Piccini",
+          "value": "Piccini",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ambassador",
+          "value": "Ambassador",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jaume Serra",
+          "value": "Jaume Serra",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Veuve Clicquot",
+          "value": "Veuve Clicquot",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Baron Lacroix",
+          "value": "Baron Lacroix",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Santa Carolina",
+          "value": "Santa Carolina",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Indomita",
+          "value": "Indomita",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Festillant",
+          "value": "Festillant",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Diablo",
+          "value": "Diablo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chandon",
+          "value": "Chandon",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "NVY",
+          "value": "NVY",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Broccato",
+          "value": "Broccato",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Misia Rosario",
+          "value": "Misia Rosario",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rocca dei Forti",
+          "value": "Rocca dei Forti",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Subercaseaux",
+          "value": "Subercaseaux",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Codorniu",
+          "value": "Codorniu",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Myla",
+          "value": "Myla",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dogma",
+          "value": "Dogma",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Eclat",
+          "value": "Eclat",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Montes",
+          "value": "Montes",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Callia",
+          "value": "Callia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Azur",
+          "value": "Azur",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Undurraga",
+          "value": "Viña Undurraga",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cinzano",
+          "value": "Cinzano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vardon kennett",
+          "value": "Vardon kennett",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Francisco de Aguirre",
+          "value": "Viña Francisco de Aguirre",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mumm",
+          "value": "Mumm",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rama Caída",
+          "value": "Rama Caída",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "MQ",
+          "value": "MQ",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Decordi",
+          "value": "Decordi",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sinzero",
+          "value": "Sinzero",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Outcider",
+          "value": "Outcider",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Casillero Del Diablo",
+          "value": "Casillero Del Diablo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dom Perignon",
+          "value": "Dom Perignon",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Moët & Chandon",
+          "value": "Moët & Chandon",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Henkell",
+          "value": "Henkell",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cepa",
+      "key": "Cepa",
+      "values": [
+        {
+          "displayName": "Brut",
+          "value": "Brut",
+          "selected": false,
+          "quantity": 58,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chardonnay",
+          "value": "Chardonnay",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Moscato",
+          "value": "Moscato",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rosé",
+          "value": "Rosé",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Extra-Brut",
+          "value": "Extra-Brut",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Demi Sec",
+          "value": "Demi Sec",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Prosecco",
+          "value": "Prosecco",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sauvignon Blanc",
+          "value": "Sauvignon Blanc",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brut Nature",
+          "value": "Brut Nature",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pinot Noir",
+          "value": "Pinot Noir",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lambrusco",
+          "value": "Lambrusco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Moscatel",
+          "value": "Moscatel",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ensamblaje",
+          "value": "Ensamblaje",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Asti",
+          "value": "Asti",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brut",
+          "value": "Brut",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brut Nature",
+          "value": "Brut Nature",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brut Rosé",
+          "value": "Brut Rosé",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Demi Sec",
+          "value": "Demi Sec",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dolce",
+          "value": "Dolce",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Extra Brut",
+          "value": "Extra Brut",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Extra-Brut",
+          "value": "Extra-Brut",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ice Blanc",
+          "value": "Ice Blanc",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ice Rosé",
+          "value": "Ice Rosé",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Love",
+          "value": "Love",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Moscato",
+          "value": "Moscato",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Premium Brut",
+          "value": "Premium Brut",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rosato",
+          "value": "Rosato",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rose",
+          "value": "Rose",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rosé",
+          "value": "Rosé",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sec",
+          "value": "Sec",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vita Brut",
+          "value": "Vita Brut",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella de vidrio",
+          "value": "Botella de vidrio",
+          "selected": false,
+          "quantity": 167,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lata",
+          "value": "Lata",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "700 a 750 cc",
+          "value": "700 a 750 cc",
+          "selected": false,
+          "quantity": 152,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "750 cc",
+          "value": "750 cc",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Menos de 699 cc",
+          "value": "Menos de 699 cc",
+          "selected": false,
+          "quantity": 33,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Más de 1000 cc",
+          "value": "Más de 1000 cc",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Espumantes",
+          "value": "Espumantes",
+          "selected": false,
+          "quantity": 169,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cócteles de Espumante",
+          "value": "Cócteles de Espumante",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sidras",
+          "value": "Sidras",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lambruscos",
+          "value": "Lambruscos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Espumantes Sin Alcohol",
+          "value": "Espumantes Sin Alcohol",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ponche",
+          "value": "Ponche",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contiene Alcohol",
+      "key": "containsAlcohol",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "No",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 187,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack",
+          "value": "Pack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Gasificado",
+      "key": "Gasificado",
+      "values": [
+        {
+          "displayName": "Con gas",
+          "value": "Con gas",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Gas",
+          "value": "Sin Gas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 133,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 131,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Francia",
+          "value": "Francia",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Polonia",
+          "value": "Polonia",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suecia",
+          "value": "Suecia",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "4 Unidades",
+          "value": "4",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6 Unidades",
+          "value": "6",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "750 cc",
+          "value": "750 cc",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Arándanos y Frambuesa",
+          "value": "Arándanos y Frambuesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Blanc",
+          "value": "Blanc",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brut",
+          "value": "Brut",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brut Nature",
+          "value": "Brut Nature",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brut Rosé",
+          "value": "Brut Rosé",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dsemisec",
+          "value": "Dsemisec",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Espumante Brut",
+          "value": "Espumante Brut",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Extra Brut",
+          "value": "Extra Brut",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fresco, afrutado con notas de frutos del bosque como fresa y frambuesa.",
+          "value": "Fresco, afrutado con notas de frutos del bosque como fresa y frambuesa.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limón",
+          "value": "Limón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manzana",
+          "value": "Manzana",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Maqui y arándanos",
+          "value": "Maqui y arándanos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Maracuyá",
+          "value": "Maracuyá",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Moscato",
+          "value": "Moscato",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Piña",
+          "value": "Piña",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rosato",
+          "value": "Rosato",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rosé",
+          "value": "Rosé",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 73,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Grado",
+      "key": "Grado",
+      "values": [
+        {
+          "displayName": "0,4° G.L.",
+          "value": "0,4° G.L.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "11,5° G.L.",
+          "value": "11,5° G.L.",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "12,0° G.L.",
+          "value": "12,0° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "12,5° G.L.",
+          "value": "12,5° G.L.",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "12° G.L.",
+          "value": "12° G.L.",
+          "selected": false,
+          "quantity": 57,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "4° G.L.",
+          "value": "4° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5,5° G.L.",
+          "value": "5,5° G.L.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5,8° G.L.",
+          "value": "5,8° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5,9° G.L.",
+          "value": "5,9° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5° G.L.",
+          "value": "5° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6,9° G.L.",
+          "value": "6,9° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "8,5° G.L.",
+          "value": "8,5° G.L.",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "9,5° G.L.",
+          "value": "9,5° G.L.",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "9° G.L.",
+          "value": "9° G.L.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "0,5° G.L.",
+          "value": "< 0,5° G.L.",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 0,2% vol.",
+          "value": "Alc. 0,2% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 10,5% vol.",
+          "value": "Alc. 10,5% vol.",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 11% vol.",
+          "value": "Alc. 11% vol.",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 11,4% vol.",
+          "value": "Alc. 11,4% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 11,5% vol.",
+          "value": "Alc. 11,5% vol.",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 12% vol.",
+          "value": "Alc. 12% vol.",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 12,0% vol.",
+          "value": "Alc. 12,0% vol.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 12,1% vol.",
+          "value": "Alc. 12,1% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 12,4% vol.",
+          "value": "Alc. 12,4% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 12,5% vol.",
+          "value": "Alc. 12,5% vol.",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 3,8% vol.",
+          "value": "Alc. 3,8% vol.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 4,00% vol.",
+          "value": "Alc. 4,00% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 4,5% vol.",
+          "value": "Alc. 4,5% vol.",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 4,9% vol.",
+          "value": "Alc. 4,9% vol.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 5,5% vol.",
+          "value": "Alc. 5,5% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 6% vol.",
+          "value": "Alc. 6% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 6,5% vol.",
+          "value": "Alc. 6,5% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 7% vol.",
+          "value": "Alc. 7% vol.",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 7,5% vol.",
+          "value": "Alc. 7,5% vol.",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 8% vol.",
+          "value": "Alc. 8% vol.",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 9% vol.",
+          "value": "Alc. 9% vol.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 9,5% vol.",
+          "value": "Alc. 9,5% vol.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. < 0,5% vol.",
+          "value": "Alc. < 0,5% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Orgánico",
+      "key": "Orgánico",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "NO",
+          "selected": false,
+          "quantity": 180,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1690,
+          "maxValue": 429990
+        }
+      ]
+    },
+    {
+      "label": "Valle",
+      "key": "Valle",
+      "values": [
+        {
+          "displayName": "Barcelona",
+          "value": "Barcelona",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Champagne",
+          "value": "Champagne",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gascony",
+          "value": "Gascony",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mendoza",
+          "value": "Mendoza",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pessione",
+          "value": "Pessione",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle Central",
+          "value": "Valle Central",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Casablanca",
+          "value": "Valle de Casablanca",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Colchagua",
+          "value": "Valle de Colchagua",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Curicó",
+          "value": "Valle de Curicó",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Leyda",
+          "value": "Valle de Leyda",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Lolol",
+          "value": "Valle de Lolol",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Uco",
+          "value": "Valle de Uco",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Bío-Bío",
+          "value": "Valle del Bío-Bío",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Cachapoal",
+          "value": "Valle del Cachapoal",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Elqui",
+          "value": "Valle del Elqui",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Itata",
+          "value": "Valle del Itata",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Limarí",
+          "value": "Valle del Limarí",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Maipo",
+          "value": "Valle del Maipo",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Maule",
+          "value": "Valle del Maule",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle Rio Negro",
+          "value": "Valle Rio Negro",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Líquido",
+          "value": "Líquido",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 201,
+  "metaTag": {
+    "title": "Espumantes y sidras: Rosé, sin alcohol y más | Jumbo.cl",
+    "description": "Los espumantes y sidras son bebidas burbujeantes perfectas para celebraciones. Están disponibles en versiones secas, dulces y refrescantes, incluyendo opciones sin alcohol."
+  }
+}

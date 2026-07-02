@@ -1,0 +1,3366 @@
+{
+  "products": [
+    {
+      "productId": "153624",
+      "reference": "2042524",
+      "sponsoredId": "DpKvsgoQBpoMKo5wdKOBBBgTxIr69hIQAZwExVcYeROSDy7wm4-O6hoQBjxud7meeX6HJFgq8MU0HiIKCgYxNTM5MzUQATCzrgFAtApIAVCIyOHfyTNgtApyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "hamburguesa-vacuno-la-crianza-6un-100gr-2042524",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25601",
+        "25670",
+        "25695",
+        "26736",
+        "26917",
+        "26954",
+        "27209",
+        "27210",
+        "27212",
+        "27281",
+        "27342",
+        "27455",
+        "27461",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27532",
+        "27537",
+        "27601"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153935",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.6,
+          "price": 5490,
+          "listPrice": 6590,
+          "ppumPrice": 9150,
+          "ppumListPrice": 10983,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/580199-250-250/Hamburguesa-de-Vacuno-La-Crianza-100-g-6-un.jpg?v=639071575803600000"
+          ],
+          "name": "Hamburguesa de Vacuno La Crianza 100 g 6 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5490,
+              "ppumPrice": 9150,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153622",
+      "reference": "2042522",
+      "sponsoredId": "mA_GnwoQBpoMKo5wdKOBBBgTxIr69hIQAZwExVcYeROSDy7wm4-O6hoQBjxud7meeX6HJFgq8MU0HiIKCgYxNTM5MzMQATCzrgFA5ARIAVCIyOHfyTNg5ARyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "hamburguesa-americana-la-crianza-100gr-2042522",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "24960",
+        "25333",
+        "25334",
+        "25422",
+        "25601",
+        "25695",
+        "26736",
+        "26816",
+        "26853",
+        "26916",
+        "26954",
+        "27209",
+        "27210",
+        "27212",
+        "27280",
+        "27296",
+        "27309",
+        "27342",
+        "27367",
+        "27455"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153933",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 11900,
+          "ppumListPrice": 11900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/554327-250-250/Hamburguesa-Americana-La-Crianza-100-g.jpg?v=639015101104670000"
+          ],
+          "name": "Hamburguesa Americana La Crianza 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1064",
+      "reference": "467186",
+      "sponsoredId": null,
+      "slug": "hamburguesa-la-crianza-de-vacuno-10-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25601",
+        "25622",
+        "25670",
+        "25695",
+        "25741",
+        "25748",
+        "26736",
+        "26917",
+        "26954",
+        "27209",
+        "27210",
+        "27281",
+        "27342",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27532",
+        "27537",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1066",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 9490,
+          "listPrice": 11150,
+          "ppumPrice": 9490,
+          "ppumListPrice": 11150,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298370-250-250/Hamburguesas-vacuno-caja-10-un-1-kg.jpg?v=638775751563370000"
+          ],
+          "name": "Hamburguesa de Vacuno La Crianza 1 kg 10 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 9490 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 9490,
+              "ppumPrice": 9490,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X17990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 17990,
+              "unitPrice": 8995,
+              "ppumPrice": 8995,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1061",
+      "reference": "1332050",
+      "sponsoredId": null,
+      "slug": "hamburguesa-de-vacuno-la-crianza-bolsa-185-g-mastodonte-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "22523",
+        "24960",
+        "25601",
+        "26736",
+        "26954",
+        "27209",
+        "27210",
+        "27342",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1063",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.185,
+          "price": 2050,
+          "listPrice": 2050,
+          "ppumPrice": 11081,
+          "ppumListPrice": 11081,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/579686-250-250/Hamburguesa-La-Crianza-Mastodonte-185-g.jpg?v=639071574461000000"
+          ],
+          "name": "Hamburguesa La Crianza Mastodonte 185 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3000 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3000,
+              "unitPrice": 1500,
+              "ppumPrice": 8108,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1065",
+      "reference": "581240",
+      "sponsoredId": null,
+      "slug": "hamburguesas-la-crianza-de-vacuno-light-la-crianza-10-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25601",
+        "25622",
+        "25670",
+        "25695",
+        "25741",
+        "25748",
+        "26736",
+        "26917",
+        "26954",
+        "27209",
+        "27210",
+        "27281",
+        "27342",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27532",
+        "27537",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1067",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 9490,
+          "listPrice": 12290,
+          "ppumPrice": 9490,
+          "ppumListPrice": 12290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298372-250-250/Hamburguesas-vacuno-light-caja-10-un-1-kg.jpg?v=638775751587070000"
+          ],
+          "name": "Hamburguesa de Vacuno La Crianza Light 1 kg 10 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 9490 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 9490,
+              "ppumPrice": 9490,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X17990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 17990,
+              "unitPrice": 8995,
+              "ppumPrice": 8995,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1059",
+      "reference": "467187",
+      "sponsoredId": null,
+      "slug": "hamburguesa-de-vacuno-la-crianza-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "24960",
+        "25601",
+        "26736",
+        "26954",
+        "27209",
+        "27210",
+        "27342"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1061",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1100,
+          "listPrice": 1100,
+          "ppumPrice": 11000,
+          "ppumListPrice": 11000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298358-250-250/Hamburguesa-de-vacuno-100-g.jpg?v=638775751438570000"
+          ],
+          "name": "Hamburguesa de Vacuno La Crianza 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "119443",
+      "reference": "1937181",
+      "sponsoredId": null,
+      "slug": "hamburguesa-vacuno-superbeef-100g-1937181",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26816",
+        "26853",
+        "26916",
+        "27280",
+        "27296",
+        "27309",
+        "27342",
+        "27367",
+        "27455",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Super Beef",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "119717",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 760,
+          "listPrice": 760,
+          "ppumPrice": 7600,
+          "ppumListPrice": 7600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/384852-250-250/Hamburguesa-vacuno-100-g.jpg?v=638776841861530000"
+          ],
+          "name": "Hamburguesa de Vacuno y Cerdo Super Beef Tradicional 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4X2500 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 2500,
+              "unitPrice": 625,
+              "ppumPrice": 6250,
+              "mQuantity": 4,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153623",
+      "reference": "2042523",
+      "sponsoredId": null,
+      "slug": "hamburguesa-americana-la-crianza-185gr-2042523",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "24960",
+        "25333",
+        "25334",
+        "25422",
+        "25601",
+        "25695",
+        "26736",
+        "26816",
+        "26853",
+        "26916",
+        "26954",
+        "27209",
+        "27210",
+        "27280",
+        "27296",
+        "27309",
+        "27342",
+        "27367",
+        "27455",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153934",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.185,
+          "price": 2050,
+          "listPrice": 2050,
+          "ppumPrice": 11081,
+          "ppumListPrice": 11081,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/554329-250-250/Hamburguesa-Americana-La-Crianza-185-g.jpg?v=639015101119570000"
+          ],
+          "name": "Hamburguesa Americana La Crianza 185 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3000 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3000,
+              "unitPrice": 1500,
+              "ppumPrice": 8108,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "105081",
+      "reference": "1897087",
+      "sponsoredId": null,
+      "slug": "hamburguesa-brisket-a-punto-1897087",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25638",
+        "25695",
+        "27342",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "A Punto",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "105350",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 2510,
+          "listPrice": 2510,
+          "ppumPrice": 2510,
+          "ppumListPrice": 2510,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/374849-250-250/HAMBURGUESA-BRISKET-A-PUNTO.jpg?v=638776801163570000"
+          ],
+          "name": "Hamburguesa de Vacuno A Punto Brisket 185 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3500 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3500,
+              "unitPrice": 1750,
+              "ppumPrice": 1750,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "45542",
+      "reference": "1722679",
+      "sponsoredId": null,
+      "slug": "hamburguesa-de-vacuno-la-crianza-150-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "24960",
+        "25354",
+        "25601",
+        "26736",
+        "26954",
+        "27209",
+        "27210",
+        "27342"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "45781",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 1790,
+          "listPrice": 1790,
+          "ppumPrice": 11933,
+          "ppumListPrice": 11933,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/357816-250-250/Hamburguesa-de-vacuno-150-g.jpg?v=638776720865000000"
+          ],
+          "name": "Hamburguesa de Vacuno La Crianza 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1089",
+      "reference": "1629058",
+      "sponsoredId": null,
+      "slug": "hamburguesa-de-vacuno-receta-del-abuelo-225-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "27342"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1092",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.225,
+          "price": 2850,
+          "listPrice": 2850,
+          "ppumPrice": 12667,
+          "ppumListPrice": 12667,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298384-250-250/Hamburguesa-de-vacuno-225-g.jpg?v=638775751756500000"
+          ],
+          "name": "Hamburguesa de Vacuno Receta del Abuelo 225 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "105083",
+      "reference": "1897089",
+      "sponsoredId": null,
+      "slug": "hamburguesa-smoked-a-punto-1897089",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25638",
+        "25695",
+        "27342",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "A Punto",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "105351",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 2510,
+          "listPrice": 2510,
+          "ppumPrice": 2510,
+          "ppumListPrice": 2510,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/374858-250-250/HAMBURGUESA-SMOKED-A-PUNTO.jpg?v=638776801192070000"
+          ],
+          "name": "Hamburguesa de Vacuno A Punto Smoked 185 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3500 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3500,
+              "unitPrice": 1750,
+              "ppumPrice": 1750,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1060",
+      "reference": "581241",
+      "sponsoredId": null,
+      "slug": "hamburguesas-de-vacuno-light-la-crianza-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "25601",
+        "26736",
+        "26954",
+        "27209",
+        "27210",
+        "27342"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1062",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1170,
+          "listPrice": 1170,
+          "ppumPrice": 11700,
+          "ppumListPrice": 11700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298361-250-250/Hamburguesa-de-vacuno-light-100-g.jpg?v=638775751477370000"
+          ],
+          "name": "Hamburguesa de Vacuno La Crianza Light 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "119442",
+      "reference": "1937182",
+      "sponsoredId": null,
+      "slug": "hamburguesa-vacuno-superbeef-185g-1937182",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "23175",
+        "25354",
+        "27342",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Super Beef",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "119716",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.185,
+          "price": 1590,
+          "listPrice": 1590,
+          "ppumPrice": 8595,
+          "ppumListPrice": 8595,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/384850-250-250/Hamburguesa-vacuno-185-g.jpg?v=638776841854470000"
+          ],
+          "name": "Hamburguesa de Vacuno Super Beef 185 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X2500 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 2500,
+              "unitPrice": 1250,
+              "ppumPrice": 6757,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "142840",
+      "reference": "2010218",
+      "sponsoredId": null,
+      "slug": "caja-hamburguesa-grill-taste-lp-2010218",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25969",
+        "25974",
+        "27342"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "143146",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 10390,
+          "listPrice": 10390,
+          "ppumPrice": 10390,
+          "ppumListPrice": 10390,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/337570-250-250/CAJA-HAMBURGUESA-GRILL-TASTE-LP.jpg?v=638776438718670000"
+          ],
+          "name": "Hamburguesa de Vacuno La Preferida Grill Taste Caja 1 kg 10 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "17312",
+      "reference": "1650342",
+      "sponsoredId": null,
+      "slug": "hamburguesa-con-carne-angus-la-preferida-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "23175",
+        "27342",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "14642",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1250,
+          "listPrice": 1250,
+          "ppumPrice": 12500,
+          "ppumListPrice": 12500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303443-250-250/Hamburguesa-con-Carne-Angus-La-Preferida-100-g.jpg?v=638776377337830000"
+          ],
+          "name": "Hamburguesa La Preferida Carne Angus 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mxn",
+              "value": 2500,
+              "unitPrice": 833,
+              "ppumPrice": 8330,
+              "mQuantity": 3,
+              "nQuantity": 2,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "142841",
+      "reference": "2011535",
+      "sponsoredId": null,
+      "slug": "hamburguesa-grill-taste-lp-2011535",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "27342",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "143139",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1250,
+          "listPrice": 1250,
+          "ppumPrice": 1250,
+          "ppumListPrice": 1250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/338237-250-250/Hamburguesa-de-Vacuno-La-Preferida-Grill-Taste--100-g.jpg?v=638776439183130000"
+          ],
+          "name": "Hamburguesa de Vacuno La Preferida Grill Taste 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mxn",
+              "value": 2500,
+              "unitPrice": 833,
+              "ppumPrice": 833,
+              "mQuantity": 3,
+              "nQuantity": 2,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "17321",
+      "reference": "1616539",
+      "sponsoredId": null,
+      "slug": "hamburguesa-receta-del-abuelo-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "27342",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "14651",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 990,
+          "listPrice": 1150,
+          "ppumPrice": 9900,
+          "ppumListPrice": 11500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303452-250-250/Hamburguesa-vacuno-100-g.jpg?v=638776377369100000"
+          ],
+          "name": "Hamburguesa de Vacuno Receta del Abuelo 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 990,
+              "ppumPrice": 9900,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "105082",
+      "reference": "1897088",
+      "sponsoredId": null,
+      "slug": "hamburguesa-chuckroll-a-punto-1897088",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25638",
+        "25695",
+        "27342",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "A Punto",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "105348",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 2510,
+          "listPrice": 2510,
+          "ppumPrice": 2510,
+          "ppumListPrice": 2510,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/374851-250-250/HAMBURGUESA-CHUCKROLL-A-PUNTO.jpg?v=638776801164370000"
+          ],
+          "name": "Hamburguesa de Vacuno A Punto Chuck Roll 185 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3500 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3500,
+              "unitPrice": 1750,
+              "ppumPrice": 1750,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "52841",
+      "reference": "1747571",
+      "sponsoredId": null,
+      "slug": "hamburguesa-de-vacuno-receta-del-abuelo-10-unid-de-100-g-c-u",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "19270",
+        "27342"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "50079",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 11290,
+          "listPrice": 11290,
+          "ppumPrice": 11290,
+          "ppumListPrice": 11290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308180-250-250/Hamburguesa-vacuno-10-un-100-g-c-u.jpg?v=638776386398070000"
+          ],
+          "name": "Hamburguesa de Vacuno Receta del Abuelo 100 g 10 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "17305",
+      "reference": "1018304",
+      "sponsoredId": null,
+      "slug": "hamburguesa-premium-pampa-verde-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "27342"
+      ],
+      "brand": "Pampa Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "14635",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 9900,
+          "ppumListPrice": 9900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/423315-250-250/Hamburguesa-premium-Pampa-Verde-100-g.jpg?v=638809597070600000"
+          ],
+          "name": "Hamburguesa Premium Pampa Verde 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "125313",
+      "reference": "1959100",
+      "sponsoredId": null,
+      "slug": "estuche-hamburguesa-super-beef-10un-1kg-1959100",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "27342"
+      ],
+      "brand": "Super Beef",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "125607",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 7990,
+          "ppumListPrice": 7990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/391133-250-250/Hamburguesa-vacuno-10-un-100-g-c-u.jpg?v=638776866385370000"
+          ],
+          "name": "Hamburguesa de Vacuno Super Beef 100 g 10 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1069",
+      "reference": "1650346",
+      "sponsoredId": null,
+      "slug": "hamburguesa-con-carne-la-preferida-100-g-cu-caja-10-unid-angus-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25969",
+        "25974",
+        "27342"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1072",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 10390,
+          "listPrice": 10390,
+          "ppumPrice": 10390,
+          "ppumListPrice": 10390,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298376-250-250/Hamburguesas-Carne-Angus-caja-10-un-1-kg.jpg?v=638775751638470000"
+          ],
+          "name": "Hamburguesa de Vacuno y Cerdo La Preferida Carne Angus 1 kg 10 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "53803",
+      "reference": "1708149",
+      "sponsoredId": null,
+      "slug": "hamburguesa-mollendo-185-g-angus-black-beef",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "27342"
+      ],
+      "brand": "Mollendo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "54169",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.185,
+          "price": 2950,
+          "listPrice": 2950,
+          "ppumPrice": 15946,
+          "ppumListPrice": 15946,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/359226-250-250/principal-435351.jpg?v=638776727403530000"
+          ],
+          "name": "Hamburguesa Mollendo Angus Black Beef 185 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1071",
+      "reference": "966146",
+      "sponsoredId": null,
+      "slug": "hamburguesas-de-vacuno-llanquihue-bolsa-100-g-congelado-premium-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "27342"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1074",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1090,
+          "listPrice": 1090,
+          "ppumPrice": 10900,
+          "ppumListPrice": 10900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298378-250-250/Principal-4512.jpg?v=638775751676400000"
+          ],
+          "name": "Hamburguesa de Vacuno Llanquihue 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "147264",
+      "reference": "2025347",
+      "sponsoredId": null,
+      "slug": "hamburguesa-vacuno-sadia-600gr-2025347",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "27342",
+        "27478",
+        "27487"
+      ],
+      "brand": "Sadia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147558",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.6,
+          "price": 7090,
+          "listPrice": 7090,
+          "ppumPrice": 11817,
+          "ppumListPrice": 11817,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/404970-250-250/HAMBURGUESA-VACUNO-SADIA-600GR.jpg?v=638779826925270000"
+          ],
+          "name": "Hamburguesa de Vacuno Sadia 600 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB  24022026 AL 02032026",
+              "description": "JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 5672,
+              "ppumPrice": 9453,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1088",
+      "reference": "1613665",
+      "sponsoredId": null,
+      "slug": "hamburguesa-de-vacuno-receta-del-abuelo-185-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "17846",
+        "27342"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1091",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.185,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 11838,
+          "ppumListPrice": 11838,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298383-250-250/Hamburguesa-de-Vacuno-Receta-del-Abuelo-185-g.jpg?v=638775751742200000"
+          ],
+          "name": "Hamburguesa de Vacuno Receta del Abuelo 185 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "88745",
+      "reference": "1842168",
+      "sponsoredId": null,
+      "slug": "bolsa-hamburguesa-vacuno-san-jorge-900g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "23175",
+        "27342",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "San Jorge",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "89014",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.9,
+          "price": 5590,
+          "listPrice": 6990,
+          "ppumPrice": 6211,
+          "ppumListPrice": 7767,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/366914-250-250/Bolsa-hamburguesa-vacuno-900-g.jpg?v=638776765440870000"
+          ],
+          "name": "Hamburguesa de Vacuno San Jorge 900 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5590 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5590,
+              "ppumPrice": 6211,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 4990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4990,
+              "ppumPrice": 5544,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "147263",
+      "reference": "2025346",
+      "sponsoredId": null,
+      "slug": "hamburguesa-vacuno-sadia-185gr-2025346",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "23175",
+        "27342",
+        "27478",
+        "27487"
+      ],
+      "brand": "Sadia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147557",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.185,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 10757,
+          "ppumListPrice": 10757,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/404964-250-250/HAMBURGUESA-VACUNO-SADIA-185GR.jpg?v=638779826920270000"
+          ],
+          "name": "Hamburguesa de Vacuno Sadia 185 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB  24022026 AL 02032026",
+              "description": "JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 1592,
+              "ppumPrice": 8605,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "158874",
+      "reference": "2055035",
+      "sponsoredId": null,
+      "slug": "hamburguesa-grill-taste-la-preferi-185gr-2055035",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "27342"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159205",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.185,
+          "price": 2290,
+          "listPrice": 2290,
+          "ppumPrice": 12378,
+          "ppumListPrice": 12378,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/533492-250-250/Hamburguesa-La-Preferida-Grill-Taste-185-g.jpg?v=638979415452770000"
+          ],
+          "name": "Hamburguesa La Preferida Grill Taste 185 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153621",
+      "reference": "2042521",
+      "sponsoredId": null,
+      "slug": "hamburguesa-fungi-la-crianza-100gr-2042521",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "25354",
+        "25601",
+        "26736",
+        "26954",
+        "27209",
+        "27210",
+        "27342"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153931",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1490,
+          "listPrice": 1490,
+          "ppumPrice": 14900,
+          "ppumListPrice": 14900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/554323-250-250/Hamburguesa-Fungi-La-Crianza-100-g.jpg?v=639015101089870000"
+          ],
+          "name": "Hamburguesa Fungi La Crianza 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "151191",
+      "reference": "2041288",
+      "sponsoredId": null,
+      "slug": "hamburguesa-100gr-2041288",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27342"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "151490",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.09,
+          "price": 790,
+          "listPrice": 790,
+          "ppumPrice": 8778,
+          "ppumListPrice": 8778,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/461286-250-250/HAMBURGUESA-100GR.jpg?v=638866437901400000"
+          ],
+          "name": "Hamburguesa PF Vacuno 90 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "147262",
+      "reference": "2025345",
+      "sponsoredId": null,
+      "slug": "hamburguesa-vacuno-sadia-100gr-2025345",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "23175",
+        "27342",
+        "27478",
+        "27487"
+      ],
+      "brand": "Sadia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147556",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1290,
+          "listPrice": 1290,
+          "ppumPrice": 12900,
+          "ppumListPrice": 12900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/404967-250-250/HAMBURGUESA-VACUNO-SADIA-100GR.jpg?v=638779826922770000"
+          ],
+          "name": "Hamburguesa de Vacuno Sadia 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB  24022026 AL 02032026",
+              "description": "JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 1032,
+              "ppumPrice": 10320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "151192",
+      "reference": "2041290",
+      "sponsoredId": null,
+      "slug": "hamburguesa-10un-2041290",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "27342"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "151491",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 9,
+          "price": 7690,
+          "listPrice": 7690,
+          "ppumPrice": 854,
+          "ppumListPrice": 854,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/461288-250-250/HAMBURGUESA-10UN.jpg?v=638866437915970000"
+          ],
+          "name": "Pack 10 un. Hamburguesa PF Vacuno 900 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1086",
+      "reference": "1635075",
+      "sponsoredId": null,
+      "slug": "hamburguesa-de-vacuno-receta-del-abuelo-100-g-bacon-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "22523",
+        "27342",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1089",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 990,
+          "listPrice": 1190,
+          "ppumPrice": 9900,
+          "ppumListPrice": 11900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298382-250-250/Hamburguesa-de-vacuno-bacon-100-g.jpg?v=638775751733900000"
+          ],
+          "name": "Hamburguesa de Vacuno Receta del Abuelo Bacon 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 990,
+              "ppumPrice": 9900,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "142427",
+      "reference": "2008279",
+      "sponsoredId": null,
+      "slug": "hamburguesa-big-montina-vacuno-150gr-2008279",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "23175",
+        "27342",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Montina",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142722",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 990,
+          "listPrice": 1290,
+          "ppumPrice": 6600,
+          "ppumListPrice": 8600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/336989-250-250/HAMBURGUESA-BIG-MONTINA-VACUNO-150GR.jpg?v=638776438176170000"
+          ],
+          "name": "Hamburguesa de Vacuno Montina 150 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 990,
+              "ppumPrice": 6600,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "69831",
+      "reference": "1775289",
+      "sponsoredId": null,
+      "slug": "hamburguesa-san-jorge-bronto-burger-185-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "27342"
+      ],
+      "brand": "San Jorge",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "70087",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 0.185,
+          "price": 1490,
+          "listPrice": 1490,
+          "ppumPrice": 8054,
+          "ppumListPrice": 8054,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309858-250-250/Hamburguesa-San-Jorge-Bronto-185-g.jpg?v=638776390074670000"
+          ],
+          "name": "Hamburguesa San Jorge Bronto 185 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138728",
+      "reference": "2002044",
+      "sponsoredId": null,
+      "slug": "hamburguesa-de-carne-vacuno-plate-109gr-2002044",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "27342"
+      ],
+      "brand": "PUL",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139026",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.109,
+          "price": 1090,
+          "listPrice": 1090,
+          "ppumPrice": 10000,
+          "ppumListPrice": 10000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/458727-250-250/Hamburguesa-de-Vacuno-Plate-109-g.jpg?v=638858941816270000"
+          ],
+          "name": "Hamburguesa de Vacuno Pul 109 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "88744",
+      "reference": "1842167",
+      "sponsoredId": null,
+      "slug": "hamburguesa-vacuno-san-jorge-90g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "27342"
+      ],
+      "brand": "San Jorge",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "89013",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.09,
+          "price": 790,
+          "listPrice": 790,
+          "ppumPrice": 8778,
+          "ppumListPrice": 8778,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/366912-250-250/Hamburguesa-vacuno-90-g.jpg?v=638776765438370000"
+          ],
+          "name": "Hamburguesa de Vacuno San Jorge 90 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "119444",
+      "reference": "1937180",
+      "sponsoredId": null,
+      "slug": "hamb-vacuno-cerdo-la-crianza-100g-1937180",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1139",
+        "1141"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Hamburguesas",
+        "Hamburguesas de Vacuno"
+      ],
+      "collections": [
+        "22523",
+        "24960",
+        "25601",
+        "26736",
+        "26954",
+        "27209",
+        "27210",
+        "27342"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "119718",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1100,
+          "listPrice": 1100,
+          "ppumPrice": 11000,
+          "ppumListPrice": 11000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/384848-250-250/HAMB-VACUNO-CERDO-LA-CRIANZA-100G.jpg?v=638776841853530000"
+          ],
+          "name": "Hamburguesa de Vacuno La Crianza Extratasty 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Hamburguesas de Vacuno",
+          "value": "/lacteos-huevos-y-congelados/hamburguesas/hamburguesas-de-vacuno",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Hamburguesas de Vacuno",
+          "value": "/lacteos-huevos-y-congelados/hamburguesas/hamburguesas-de-vacuno",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Hamburguesas de Vacuno",
+          "value": "/lacteos-huevos-y-congelados/hamburguesas/hamburguesas-de-vacuno",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Crianza",
+          "value": "La Crianza",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Super Beef",
+          "value": "Super Beef",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Preferida",
+          "value": "La Preferida",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Receta del Abuelo",
+          "value": "Receta del Abuelo",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "A Punto",
+          "value": "A Punto",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pampa Verde",
+          "value": "Pampa Verde",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mollendo",
+          "value": "Mollendo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Llanquihue",
+          "value": "Llanquihue",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Jorge",
+          "value": "San Jorge",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "PF",
+          "value": "PF",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "PUL",
+          "value": "PUL",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sadia",
+          "value": "Sadia",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Montina",
+          "value": "Montina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "1 kg",
+          "value": "1 kg",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "100 g",
+          "value": "100 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "109 g",
+          "value": "109 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "120 g",
+          "value": "120 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "185 g",
+          "value": "185 g",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "900 g",
+          "value": "900 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 35,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 35,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "6 Unidades",
+          "value": "6",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "10 Unidades",
+          "value": "10 un.",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sobre",
+          "value": "Sobre",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 760,
+          "maxValue": 11290
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brasil",
+          "value": "Brasil",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entera",
+          "value": "Entera",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Envasado",
+          "value": "ENVASADO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Familar",
+          "value": "Familar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Hamburguesas de Vacuno",
+          "value": "Hamburguesas de Vacuno",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hamburguesa",
+          "value": "Hamburguesa",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Vacuno",
+          "value": "Vacuno",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Congelados",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "XL",
+          "value": "XL",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Carne Congelada",
+          "value": "Carne Congelada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hamburguesa Angus y Hereford",
+          "value": "Hamburguesa Angus y Hereford",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Premium",
+          "value": "Premium",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tradicional",
+          "value": "Tradicional",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "Carne de vacuno y cerdo, molida y condimentada.",
+          "value": "Carne de vacuno y cerdo, molida y condimentada.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 46,
+  "metaTag": {
+    "title": "Hamburguesas de Vacuno | Jumbo.cl",
+    "description": "Disfruta de unas jugosas e irresistibles hamburguesas de vacuno cuando quieras. ¡Consíguelas en Jumbo.cl y acompáñalas con tus ingredientes favoritos!"
+  }
+}

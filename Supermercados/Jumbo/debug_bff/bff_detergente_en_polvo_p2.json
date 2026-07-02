@@ -1,0 +1,439 @@
+{
+  "products": [
+    {
+      "productId": "122804",
+      "reference": "1952507",
+      "sponsoredId": null,
+      "slug": "omo-matic-pvo-bolsa-1bolsa-8-kg-1952507",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "263",
+        "272"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Limpieza de Ropa",
+        "Detergente en Polvo"
+      ],
+      "collections": [
+        "19270",
+        "21278",
+        "21408",
+        "22523",
+        "23175",
+        "25159",
+        "25333",
+        "25334",
+        "25422",
+        "25455",
+        "25461",
+        "25695",
+        "25793",
+        "25796",
+        "26948",
+        "27400",
+        "27414",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601",
+        "27621"
+      ],
+      "brand": "OMO",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "123102",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 8,
+          "price": 19590,
+          "listPrice": 21590,
+          "ppumPrice": 2449,
+          "ppumListPrice": 2699,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318347-250-250/Detergente-Polvo-Omo-Matic-Ultra-Power-Bolsa-8-kg.jpg?v=638776414118970000"
+          ],
+          "name": "Detergente Polvo Omo Matic Ultra Power Bolsa 8 kg",
+          "stock": false,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 19590 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 19590,
+              "ppumPrice": 2449,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137184",
+      "reference": "1995113",
+      "sponsoredId": null,
+      "slug": "omo-dt-pvo-bicarbonato-2-7kg-1995113",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "263",
+        "272"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Limpieza de Ropa",
+        "Detergente en Polvo"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21408",
+        "25417",
+        "26948"
+      ],
+      "brand": "OMO",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137476",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 2.7,
+          "price": 9190,
+          "listPrice": 9190,
+          "ppumPrice": 3404,
+          "ppumListPrice": 3404,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/328375-250-250/OMO-DT-PVO-BICARBONATO-27KG.jpg?v=638776430830670000"
+          ],
+          "name": "Detergente Polvo Omo con Bicarbonato 2.7 kg",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "45503",
+      "reference": "1727665",
+      "sponsoredId": null,
+      "slug": "detergente-drive-matic-bolsa-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "263",
+        "272"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Limpieza de Ropa",
+        "Detergente en Polvo"
+      ],
+      "collections": [
+        "17846",
+        "21278",
+        "22523",
+        "23175",
+        "25159",
+        "25333",
+        "25334",
+        "25417",
+        "25422",
+        "25455",
+        "25461",
+        "25695",
+        "26948",
+        "27400",
+        "27414",
+        "27486",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Drive",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "45740",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3690,
+          "listPrice": 4390,
+          "ppumPrice": 3690,
+          "ppumListPrice": 4390,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/357791-250-250/Detergente-polvo-Perfect-Results-1-kg.jpg?v=638776720782070000"
+          ],
+          "name": "Detergente Polvo Drive Perfect Results 1 kg",
+          "stock": false,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3690,
+              "ppumPrice": 3690,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Detergente en Polvo",
+          "value": "/limpieza/limpieza-de-ropa/detergente-en-polvo",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Detergente en Polvo",
+          "value": "/limpieza/limpieza-de-ropa/detergente-en-polvo",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Detergente en Polvo",
+          "value": "/limpieza/limpieza-de-ropa/detergente-en-polvo",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Ariel",
+          "value": "Ariel",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Drive",
+          "value": "Drive",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "OMO",
+          "value": "OMO",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Popeye",
+          "value": "Popeye",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kirkland Signature",
+          "value": "Kirkland Signature",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rinso",
+          "value": "Rinso",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Biofrescura",
+          "value": "Biofrescura",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Persil",
+          "value": "Persil",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Seco / Polvo",
+          "value": "Seco / Polvo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1690,
+          "maxValue": 47992
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Detergentes en Polvo",
+          "value": "Detergentes en Polvo",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 19,
+  "metaTag": {
+    "title": "Detergente en Polvo | Jumbo.cl",
+    "description": "Con el detergente en polvo podrás remover las manchas difíciles de tu ropa blanca o de color. ¡Visita Jumbo.cl y luce tenidas impecables!"
+  }
+}

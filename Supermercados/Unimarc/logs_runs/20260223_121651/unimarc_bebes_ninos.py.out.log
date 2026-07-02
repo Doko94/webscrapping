@@ -1,0 +1,54 @@
+No pude extraer links desde el menú (headless). Usando Plan B (slugify).
+
+Subcategorías detectadas en [Bebés y Niños]: 12
+ - Alimentacion | Colados y picados -> https://www.unimarc.cl/category/bebes-y-ninos/alimentacion/colados-y-picados
+ - Alimentacion | Cereales y postres -> https://www.unimarc.cl/category/bebes-y-ninos/alimentacion/cereales-y-postres
+ - Alimentacion | Leches y fórmulas -> https://www.unimarc.cl/category/bebes-y-ninos/alimentacion/leches-y-formulas
+ - Alimentacion | Mamaderas, chupetes y accesorios -> https://www.unimarc.cl/category/bebes-y-ninos/alimentacion/mamaderas-chupetes-y-accesorios
+ - Panales Y Toallas Humedas | Pañales -> https://www.unimarc.cl/category/bebes-y-ninos/panales-y-toallas-humedas/panales
+ - Panales Y Toallas Humedas | Toallas húmedas -> https://www.unimarc.cl/category/bebes-y-ninos/panales-y-toallas-humedas/toallas-humedas
+ - Perfumeria | Shampoo y acondicionadores -> https://www.unimarc.cl/category/bebes-y-ninos/perfumeria/shampoo-y-acondicionadores
+ - Perfumeria | Jabones -> https://www.unimarc.cl/category/bebes-y-ninos/perfumeria/jabones
+ - Perfumeria | Perfumes y colonias -> https://www.unimarc.cl/category/bebes-y-ninos/perfumeria/perfumes-y-colonias
+ - Perfumeria | Talco, pomadas y varitas de algodón -> https://www.unimarc.cl/category/bebes-y-ninos/perfumeria/talco-pomadas-y-varitas-de-algodon
+ - Perfumeria | Cremas y aceites -> https://www.unimarc.cl/category/bebes-y-ninos/perfumeria/cremas-y-aceites
+ - Perfumeria | Ropa y accesorios -> https://www.unimarc.cl/category/bebes-y-ninos/perfumeria/ropa-y-accesorios
+
+Scrape: [Alimentacion] Colados y picados
+  productos únicos: 21
+
+Scrape: [Alimentacion] Cereales y postres
+  productos únicos: 18
+
+Scrape: [Alimentacion] Leches y fórmulas
+  productos únicos: 7
+
+Scrape: [Alimentacion] Mamaderas, chupetes y accesorios
+  productos únicos: 16
+
+Scrape: [Panales Y Toallas Humedas] Pañales
+  productos únicos: 82
+
+Scrape: [Panales Y Toallas Humedas] Toallas húmedas
+  productos únicos: 17
+
+Scrape: [Perfumeria] Shampoo y acondicionadores
+  productos únicos: 27
+
+Scrape: [Perfumeria] Jabones
+  productos únicos: 5
+
+Scrape: [Perfumeria] Perfumes y colonias
+  productos únicos: 10
+
+Scrape: [Perfumeria] Talco, pomadas y varitas de algodón
+  productos únicos: 8
+
+Scrape: [Perfumeria] Cremas y aceites
+  productos únicos: 8
+
+Scrape: [Perfumeria] Ropa y accesorios
+  productos únicos: 5
+
+Total filas: 224
+CSV generado: output\bebes_ninos\unimarc_bebes-y-ninos_subcats_20260223_121823.csv

@@ -1,0 +1,982 @@
+{
+  "products": [
+    {
+      "productId": "4239",
+      "reference": "266979",
+      "sponsoredId": null,
+      "slug": "polvos-de-hornear-imperial-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "1088"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Polvo de Hornear y Levadura"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "27105",
+        "27507"
+      ],
+      "brand": "Imperial",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4248",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 2750,
+          "listPrice": 2750,
+          "ppumPrice": 13750,
+          "ppumListPrice": 13750,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347177-250-250/Polvos-de-hornear-200-g.jpg?v=638776468066900000"
+          ],
+          "name": "Polvos de Hornear Imperial 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "14917",
+      "reference": "1647815",
+      "sponsoredId": null,
+      "slug": "polvos-de-hornear-gourmet-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "1088"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Polvo de Hornear y Levadura"
+      ],
+      "collections": [
+        "21672",
+        "23431",
+        "23611",
+        "23702",
+        "23928",
+        "24281",
+        "24282",
+        "24493",
+        "24533",
+        "25296",
+        "27605"
+      ],
+      "brand": "Gourmet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "16249",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 9900,
+          "ppumListPrice": 9900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303580-250-250/Polvos-de-Hornear-Gourmet-100-g.jpg?v=638776377663200000"
+          ],
+          "name": "Polvos de Hornear Gourmet 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "4253",
+      "reference": "382618",
+      "sponsoredId": null,
+      "slug": "levadura-en-polvo-lefersa-sobre-10-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "1088"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Polvo de Hornear y Levadura"
+      ],
+      "collections": [],
+      "brand": "Lefersa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4262",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 290,
+          "listPrice": 290,
+          "ppumPrice": 290,
+          "ppumListPrice": 290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347183-250-250/Levadura-seca-10-g.jpg?v=638776468146270000"
+          ],
+          "name": "Levadura Seca Lefersa 10 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "15175",
+      "reference": "266976",
+      "sponsoredId": null,
+      "slug": "polvos-de-hornear-imperial-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "1088"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Polvo de Hornear y Levadura"
+      ],
+      "collections": [
+        "21672",
+        "25347",
+        "25519",
+        "25520",
+        "27105",
+        "27507"
+      ],
+      "brand": "Imperial",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "16507",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1080,
+          "listPrice": 1080,
+          "ppumPrice": 10800,
+          "ppumListPrice": 10800,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352437-250-250/Polvos-de-hornear-100-g.jpg?v=638776692884070000"
+          ],
+          "name": "Polvo de Hornear Imperial 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "15177",
+      "reference": "448569",
+      "sponsoredId": null,
+      "slug": "levadura-seca-collico-125-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "1088"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Polvo de Hornear y Levadura"
+      ],
+      "collections": [],
+      "brand": "Collico",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "16509",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 2320,
+          "listPrice": 2320,
+          "ppumPrice": 18560,
+          "ppumListPrice": 18560,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352443-250-250/Levadura-seca-125-g.jpg?v=638776692902570000"
+          ],
+          "name": "Levadura Seca Collico 125 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "88315",
+      "reference": "1845605",
+      "sponsoredId": null,
+      "slug": "levadura-seca-10-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "1088"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Polvo de Hornear y Levadura"
+      ],
+      "collections": [
+        "27452"
+      ],
+      "brand": "Collico",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "88545",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 260,
+          "listPrice": 260,
+          "ppumPrice": 260,
+          "ppumListPrice": 260,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/366715-250-250/Levadura-seca-10-g.jpg?v=638776764508300000"
+          ],
+          "name": "Levadura Seca Collico 10 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73816",
+      "reference": "1771639",
+      "sponsoredId": null,
+      "slug": "levadura-nutricional-manare-100gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "831",
+        "999",
+        "1008",
+        "1088"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Suplementos Nutricionales",
+        "Polvo de Hornear y Levadura"
+      ],
+      "collections": [
+        "1048",
+        "21771"
+      ],
+      "brand": "Manare",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74071",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 7890,
+          "listPrice": 7890,
+          "ppumPrice": 78900,
+          "ppumListPrice": 78900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/523619-250-250/Levadura-Manare-Nutricional-100-g.jpg?v=638959916346570000"
+          ],
+          "name": "Levadura Manare Nutricional 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "4251",
+      "reference": "266320",
+      "sponsoredId": null,
+      "slug": "levadura-en-polvo-lefersa-doypack-125-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "1088"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Polvo de Hornear y Levadura"
+      ],
+      "collections": [
+        "23175"
+      ],
+      "brand": "Lefersa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4260",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 2450,
+          "listPrice": 2450,
+          "ppumPrice": 19600,
+          "ppumListPrice": 19600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347182-250-250/Levadura-en-polvo-doypack-125-g.jpg?v=638776468130770000"
+          ],
+          "name": "Levadura en Polvo Lefersa Doypack 125 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "113424",
+      "reference": "1901947",
+      "sponsoredId": null,
+      "slug": "polvos-de-hornear-biozentrale-51gr-1901947",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "831",
+        "999",
+        "1005",
+        "1088"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Orgánico",
+        "Polvo de Hornear y Levadura"
+      ],
+      "collections": [
+        "1054",
+        "14878",
+        "14879",
+        "14967",
+        "18357",
+        "21130"
+      ],
+      "brand": "Bio Zentrale",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "113690",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.051,
+          "price": 1790,
+          "listPrice": 1790,
+          "ppumPrice": 35098,
+          "ppumListPrice": 35098,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316015-250-250/Polvos-de-hornear-organicos-51-g.jpg?v=638776407176830000"
+          ],
+          "name": "Polvos de Hornear Bio Zentrale Orgánico 51 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "4252",
+      "reference": "506429",
+      "sponsoredId": null,
+      "slug": "levadura-en-polvo-lefersa-doypack-250-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "1088"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Polvo de Hornear y Levadura"
+      ],
+      "collections": [],
+      "brand": "Lefersa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4261",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 4690,
+          "listPrice": 4690,
+          "ppumPrice": 18760,
+          "ppumListPrice": 18760,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300126-250-250/Levadura-En-Polvo-Lefersa-Doypack-250-g.jpg?v=638776371828200000"
+          ],
+          "name": "Levadura en Polvo Lefersa Doypack 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Polvo de Hornear y Levadura",
+          "value": "/despensa/harinas-postres-y-reposteria/polvo-de-hornear-y-levadura",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Polvo de Hornear y Levadura",
+          "value": "/despensa/harinas-postres-y-reposteria/polvo-de-hornear-y-levadura",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Polvo de Hornear y Levadura",
+          "value": "/despensa/harinas-postres-y-reposteria/polvo-de-hornear-y-levadura",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Levadura Seca",
+          "value": "Levadura Seca",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Polvos de Hornear",
+          "value": "Polvos de Hornear",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Linaza",
+          "value": "Linaza",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "México",
+          "value": "México",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "100 g",
+          "value": "100 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "51 g",
+          "value": "51 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 260,
+          "maxValue": 7890
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Lefersa",
+          "value": "Lefersa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Imperial",
+          "value": "Imperial",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gourmet",
+          "value": "Gourmet",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Collico",
+          "value": "Collico",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bio Zentrale",
+          "value": "Bio Zentrale",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manare",
+          "value": "Manare",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frasco",
+          "value": "Frasco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sobre",
+          "value": "Sobre",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tarro",
+          "value": "Tarro",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "51 g",
+          "value": "51 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Linaza",
+          "value": "Linaza",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 10,
+  "metaTag": {
+    "title": "Polvo de Hornear y Levadura | Jumbo.cl",
+    "description": "El polvo de hornear, la levadura y el almidón son ingredientes esenciales para lograr resultados perfectos en tus preparaciones. ¡Consíguelos por Jumbo.cl!"
+  }
+}

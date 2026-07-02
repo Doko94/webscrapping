@@ -1,0 +1,1379 @@
+{
+  "products": [
+    {
+      "productId": "134764",
+      "reference": "1994050",
+      "sponsoredId": null,
+      "slug": "deo-dove-men-fm-sti-invisible-dry-45g-1994050",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "236",
+        "636",
+        "638",
+        "1011"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Masculino",
+        "Desodorantes",
+        "Desodorantes en Barra",
+        "Desodorantes Hombres"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "22523",
+        "23175",
+        "25160",
+        "25177",
+        "25333",
+        "25334",
+        "25422",
+        "25456",
+        "25460",
+        "25472",
+        "25475",
+        "25477",
+        "25695",
+        "25788",
+        "25792",
+        "25794",
+        "25797",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27634"
+      ],
+      "brand": "Dove",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135064",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.045,
+          "price": 2793,
+          "listPrice": 3990,
+          "ppumPrice": 6207,
+          "ppumListPrice": 8867,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/323653-250-250/Desodorante-Dove-Men-Fm-Stick-Invisible-Dry-45-g.jpg?v=638776427042970000"
+          ],
+          "name": "Desodorante Barra Dove Men Fm Stick Invisible Dry 45 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 02032026 AL 04032026",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 2793,
+              "ppumPrice": 6207,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "48452",
+      "reference": "498222010",
+      "sponsoredId": null,
+      "slug": "desodorante-femenino-rexona-50-g-barra-active-emotion",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "636",
+        "638"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Desodorantes",
+        "Desodorantes en Barra"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "22523",
+        "23175",
+        "25161",
+        "25177",
+        "25333",
+        "25334",
+        "25422",
+        "25457",
+        "25460",
+        "25472",
+        "25475",
+        "25695",
+        "25789",
+        "25792",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Rexona",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "48757",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.05,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 7980,
+          "ppumListPrice": 7980,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308059-250-250/Antitranspirante-Rexona-Women-Active-Emotion-Barra-50-g.jpg?v=638776386099200000"
+          ],
+          "name": "Antitranspirante Barra Rexona Women Active Emotion 50 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2x5990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 5990,
+              "unitPrice": 2995,
+              "ppumPrice": 5990,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "9529",
+      "reference": "1548052",
+      "sponsoredId": null,
+      "slug": "desodorante-old-spice-fresh-barra-50g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "236",
+        "636",
+        "638",
+        "1011"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Masculino",
+        "Desodorantes",
+        "Desodorantes en Barra",
+        "Desodorantes Hombres"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "23175",
+        "25291",
+        "25292",
+        "25333",
+        "25334",
+        "25422",
+        "25672",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27620",
+        "27628"
+      ],
+      "brand": "Old Spice",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9753",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 3790,
+          "listPrice": 3790,
+          "ppumPrice": 3790,
+          "ppumListPrice": 3790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/480109-250-250/Desodorante-Barra-Old-Spice-Fresh-50-g.jpg?v=638881418276530000"
+          ],
+          "name": "Desodorante Barra Old Spice Fresh 50 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2x5690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 5690,
+              "unitPrice": 2845,
+              "ppumPrice": 2845,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138484",
+      "reference": "2000454",
+      "sponsoredId": null,
+      "slug": "des-dr-teals-sin-aluminio-coco-75g-2000454",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "636",
+        "638"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Desodorantes",
+        "Desodorantes en Barra"
+      ],
+      "collections": [],
+      "brand": "Dr Teal's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138779",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.075,
+          "price": 9450,
+          "listPrice": 9450,
+          "ppumPrice": 12600,
+          "ppumListPrice": 12600,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/330707-250-250/DESDR-TEALS-SIN-ALUMINIO-COCO-75G.jpg?v=638776432629230000"
+          ],
+          "name": "Desodorante Barra Dr Teal's Sin Aluminio Coco 75 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134378",
+      "reference": "1988690",
+      "sponsoredId": null,
+      "slug": "deo-old-spice-barra-oceanlgnd-50gr-1988690",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "236",
+        "636",
+        "638",
+        "1011"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Masculino",
+        "Desodorantes",
+        "Desodorantes en Barra",
+        "Desodorantes Hombres"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "25291",
+        "25292",
+        "25333",
+        "25334",
+        "25422",
+        "25672",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27620",
+        "27628"
+      ],
+      "brand": "Old Spice",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134671",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.05,
+          "price": 3790,
+          "listPrice": 3790,
+          "ppumPrice": 7580,
+          "ppumListPrice": 7580,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/322897-250-250/Desodorante-Barra-Old-Spice-Ocean-Legend-50-g.jpg?v=638776426493230000"
+          ],
+          "name": "Desodorante Barra Old Spice Ocean Legend 50 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2x5690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 5690,
+              "unitPrice": 2845,
+              "ppumPrice": 5690,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "48451",
+      "reference": "498221007",
+      "sponsoredId": null,
+      "slug": "desodorante-en-barra-rexona-50-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "236",
+        "636",
+        "638",
+        "1011"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Masculino",
+        "Desodorantes",
+        "Desodorantes en Barra",
+        "Desodorantes Hombres"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "22523",
+        "23175",
+        "25161",
+        "25177",
+        "25333",
+        "25334",
+        "25422",
+        "25457",
+        "25460",
+        "25472",
+        "25475",
+        "25695",
+        "25789",
+        "25792",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Rexona",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "48756",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.05,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 7980,
+          "ppumListPrice": 7980,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308047-250-250/Desodorante-Barra-Rexona-Men-V8-50-g.jpg?v=638776386064600000"
+          ],
+          "name": "Desodorante Barra Rexona Men V8 50 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2x5990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 5990,
+              "unitPrice": 2995,
+              "ppumPrice": 5990,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "9538",
+      "reference": "498222005",
+      "sponsoredId": null,
+      "slug": "desodorante-femenino-rexona-barra-50-g-women-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "636",
+        "638"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Desodorantes",
+        "Desodorantes en Barra"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "22523",
+        "23175",
+        "25161",
+        "25177",
+        "25333",
+        "25334",
+        "25422",
+        "25457",
+        "25460",
+        "25472",
+        "25475",
+        "25695",
+        "25789",
+        "25792",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Rexona",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9762",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.05,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 7980,
+          "ppumListPrice": 7980,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301393-250-250/Desodorante-Barra-Rexona-Bamboo-50-g.jpg?v=638776374905970000"
+          ],
+          "name": "Desodorante Barra Rexona Bamboo 50 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2x5990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 5990,
+              "unitPrice": 2995,
+              "ppumPrice": 5990,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "9566",
+      "reference": "498212004",
+      "sponsoredId": null,
+      "slug": "desodorante-masculino-fresh-speed-stick-60-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "236",
+        "636",
+        "638",
+        "1011"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Masculino",
+        "Desodorantes",
+        "Desodorantes en Barra",
+        "Desodorantes Hombres"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "23175",
+        "25333",
+        "25334",
+        "25357",
+        "25421",
+        "25422",
+        "25624",
+        "25695",
+        "25786",
+        "27121"
+      ],
+      "brand": "Speed Stick",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9792",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.06,
+          "price": 4490,
+          "listPrice": 4490,
+          "ppumPrice": 7483,
+          "ppumListPrice": 7483,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/493356-250-250/Desodorante-Barra-Speed-Stick-Fresh-Proteccion-24-Horas-60-g.jpg?v=638906472758970000"
+          ],
+          "name": "Desodorante Barra Speed Stick Fresh Protección 24 Horas 60 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138482",
+      "reference": "2000452",
+      "sponsoredId": null,
+      "slug": "des-dr-teals-sin-aluminio-eucalipto-75g-2000452",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "636",
+        "638"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Desodorantes",
+        "Desodorantes en Barra"
+      ],
+      "collections": [],
+      "brand": "Dr Teal's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138775",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.075,
+          "price": 9450,
+          "listPrice": 9450,
+          "ppumPrice": 12600,
+          "ppumListPrice": 12600,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/330533-250-250/DESDR-TEALS-SIN-ALUMINIO-EUCALIPTO-75G.jpg?v=638776432504900000"
+          ],
+          "name": "Desodorante Barra Dr Teal's Sin Aluminio Eucalipto 75 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "9535",
+      "reference": "274334",
+      "sponsoredId": null,
+      "slug": "desodorante-femenino-antitranspirante-24-hrs-inten",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "636",
+        "638"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Desodorantes",
+        "Desodorantes en Barra"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "22523",
+        "23175",
+        "25472",
+        "25475"
+      ],
+      "brand": "Rexona",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9759",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.05,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 7980,
+          "ppumListPrice": 7980,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301326-250-250/Desodorante-Barra-Rexona-Powder-Dry-50-g.jpg?v=638776374824130000"
+          ],
+          "name": "Desodorante Barra Rexona Powder Dry 50 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "9563",
+      "reference": "274369",
+      "sponsoredId": null,
+      "slug": "desodorante-masculino-speed-stick-barra-50-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "236",
+        "636",
+        "638",
+        "1011"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Masculino",
+        "Desodorantes",
+        "Desodorantes en Barra",
+        "Desodorantes Hombres"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "23175",
+        "25333",
+        "25334",
+        "25357",
+        "25421",
+        "25422",
+        "25624",
+        "25695",
+        "25786"
+      ],
+      "brand": "Speed Stick",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9789",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.05,
+          "price": 4490,
+          "listPrice": 4490,
+          "ppumPrice": 8980,
+          "ppumListPrice": 8980,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/411451-250-250/Desodorante-Barra-Speed-Stick-Hipoalergenico-50-g.jpg?v=638791317488100000"
+          ],
+          "name": "Desodorante Barra Speed Stick Hipoalergénico 50 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "9496",
+      "reference": "643627001",
+      "sponsoredId": null,
+      "slug": "desodorante-femenino-lady-speed-stick-gel-65-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "636",
+        "638"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Desodorantes",
+        "Desodorantes en Barra"
+      ],
+      "collections": [
+        "25786"
+      ],
+      "brand": "Lady Speed Stick",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9715",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.065,
+          "price": 5690,
+          "listPrice": 5690,
+          "ppumPrice": 8754,
+          "ppumListPrice": 8754,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/509396-250-250/Desodorante-Barra-Lady-Speed-Stick-24-7-Active-Fresh-65-g.jpg?v=638935590065930000"
+          ],
+          "name": "Desodorante Barra Lady Speed Stick 24/7 Active Fresh 65 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "12087",
+      "reference": "1667011",
+      "sponsoredId": null,
+      "slug": "desodorante-barra-rexona-motion-sense-invisible-50-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "636",
+        "638"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Desodorantes",
+        "Desodorantes en Barra"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "22523",
+        "23175",
+        "25161",
+        "25177",
+        "25333",
+        "25334",
+        "25422",
+        "25457",
+        "25460",
+        "25472",
+        "25475",
+        "25695",
+        "25789",
+        "25792",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Rexona",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "12329",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.05,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 7980,
+          "ppumListPrice": 7980,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303297-250-250/Desodorante-Barra-Rexona-Invisible-50-g.jpg?v=638776376924230000"
+          ],
+          "name": "Desodorante Barra Rexona Invisible 50 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2x5990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 5990,
+              "unitPrice": 2995,
+              "ppumPrice": 5990,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134681",
+      "reference": "1993535",
+      "sponsoredId": null,
+      "slug": "deo-secret-barra-antitr-pow-prot-alg-45g-1993535",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "636",
+        "638"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Desodorantes",
+        "Desodorantes en Barra"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "22523",
+        "25291",
+        "25292",
+        "25333",
+        "25334",
+        "25422",
+        "25672",
+        "25695"
+      ],
+      "brand": "Secret",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134975",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.045,
+          "price": 4090,
+          "listPrice": 4090,
+          "ppumPrice": 9089,
+          "ppumListPrice": 9089,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/322991-250-250/Antitranspirante-Barra-Secret-Powder-Protect-Cotton-45-g.jpg?v=638776426574730000"
+          ],
+          "name": "Antitranspirante Barra Secret Powder Protect Cotton 45 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "9499",
+      "reference": "274267",
+      "sponsoredId": null,
+      "slug": "desodorante-femenino-antitranspirante-wild-freesia",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "636",
+        "638"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Desodorantes",
+        "Desodorantes en Barra"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "23175",
+        "25333",
+        "25334",
+        "25357",
+        "25421",
+        "25422",
+        "25624",
+        "25695",
+        "25786",
+        "27121"
+      ],
+      "brand": "Lady Speed Stick",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9718",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.045,
+          "price": 4490,
+          "listPrice": 4490,
+          "ppumPrice": 9978,
+          "ppumListPrice": 9978,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301636-250-250/Desodorante-Barra-Lady-Speed-Stick-Pro5-45-g.jpg?v=638776375153630000"
+          ],
+          "name": "Desodorante Barra Lady Speed Stick Wild Freesia Barra 45 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146578",
+      "reference": "2027156",
+      "sponsoredId": null,
+      "slug": "desodorante-lady-speed-stick-floral-65gr-2027156",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "636",
+        "638"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Desodorantes",
+        "Desodorantes en Barra"
+      ],
+      "collections": [
+        "25786"
+      ],
+      "brand": "Lady Speed Stick",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146872",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.065,
+          "price": 5790,
+          "listPrice": 5790,
+          "ppumPrice": 8908,
+          "ppumListPrice": 8908,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346191-250-250/Desodorante-Barra-Lady-Speed-Stick-Floral-Fresh-Gel-65-g.jpg?v=638776445467900000"
+          ],
+          "name": "Desodorante Barra Lady Speed Stick Floral Fresh Gel 65 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Desodorantes en Barra",
+          "value": "/cuidado-personal-y-bebe/desodorantes/desodorantes-en-barra",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Desodorantes en Barra",
+          "value": "/cuidado-personal-y-bebe/desodorantes/desodorantes-en-barra",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Desodorantes en Barra",
+          "value": "/cuidado-personal-y-bebe/desodorantes/desodorantes-en-barra",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Nivea",
+          "value": "Nivea",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dove",
+          "value": "Dove",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Old Spice",
+          "value": "Old Spice",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rexona",
+          "value": "Rexona",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lady Speed Stick",
+          "value": "Lady Speed Stick",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dr Teal's",
+          "value": "Dr Teal's",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Speed Stick",
+          "value": "Speed Stick",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Secret",
+          "value": "Secret",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Axe",
+          "value": "Axe",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Eminence",
+          "value": "Eminence",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Desodorantes",
+          "value": "Desodorantes",
+          "selected": false,
+          "quantity": 67,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Eau de Parfum",
+          "value": "Eau de Parfum",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 38,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2793,
+          "maxValue": 13190
+        }
+      ]
+    },
+    {
+      "label": "Modelo",
+      "key": "Modelo",
+      "values": [
+        {
+          "displayName": "Active Fresh",
+          "value": "Active Fresh",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hidrofugal",
+          "value": "Hidrofugal",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 68,
+  "metaTag": {
+    "title": "Desodorante en Barra | Jumbo.cl",
+    "description": "Explora nuestra variedad de desodorantes en barra para una protección duradera y frescura todo el día. ¡Compra en Jumbo.cl y mantén la confianza en cada paso!"
+  }
+}

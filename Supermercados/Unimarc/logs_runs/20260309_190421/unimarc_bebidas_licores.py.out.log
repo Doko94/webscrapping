@@ -1,0 +1,130 @@
+No pude extraer links desde el menú (headless). Usando Plan B (slugify).
+
+Subcategorías detectadas en [Bebidas y Licores]: 31
+ - Aguas | Agua sin gas -> https://www.unimarc.cl/category/bebidas-y-licores/aguas/agua-sin-gas
+ - Aguas | Agua con gas -> https://www.unimarc.cl/category/bebidas-y-licores/aguas/agua-con-gas
+ - Aguas | Agua saborizada -> https://www.unimarc.cl/category/bebidas-y-licores/aguas/agua-saborizada
+ - Aguas | Bidones -> https://www.unimarc.cl/category/bebidas-y-licores/aguas/bidones
+ - Bebidas | Bebidas regulares -> https://www.unimarc.cl/category/bebidas-y-licores/bebidas/bebidas-regulares
+ - Bebidas | Bebidas light y zero -> https://www.unimarc.cl/category/bebidas-y-licores/bebidas/bebidas-light-y-zero
+ - Bebidas | Energéticas -> https://www.unimarc.cl/category/bebidas-y-licores/bebidas/energeticas
+ - Bebidas | Funcionales -> https://www.unimarc.cl/category/bebidas-y-licores/bebidas/funcionales
+ - Jugos | Jugos frescos -> https://www.unimarc.cl/category/bebidas-y-licores/jugos/jugos-frescos
+ - Jugos | Jugos y néctares -> https://www.unimarc.cl/category/bebidas-y-licores/jugos/jugos-y-nectares
+ - Jugos | Té líquido -> https://www.unimarc.cl/category/bebidas-y-licores/jugos/te-liquido
+ - Jugos | Jugos en polvo -> https://www.unimarc.cl/category/bebidas-y-licores/jugos/jugos-en-polvo
+ - Jugos | Jugos colación -> https://www.unimarc.cl/category/bebidas-y-licores/jugos/jugos-colacion
+ - Cervezas | Cerveza nacional -> https://www.unimarc.cl/category/bebidas-y-licores/cervezas/cerveza-nacional
+ - Cervezas | Cerveza importada -> https://www.unimarc.cl/category/bebidas-y-licores/cervezas/cerveza-importada
+ - Cervezas | Cerveza artesanal -> https://www.unimarc.cl/category/bebidas-y-licores/cervezas/cerveza-artesanal
+ - Cervezas | Cerveza sin alcohol -> https://www.unimarc.cl/category/bebidas-y-licores/cervezas/cerveza-sin-alcohol
+ - Vinos y espumantes | Vino tinto -> https://www.unimarc.cl/category/bebidas-y-licores/vinos-y-espumantes/vino-tinto
+ - Vinos y espumantes | Vino blanco -> https://www.unimarc.cl/category/bebidas-y-licores/vinos-y-espumantes/vino-blanco
+ - Vinos y espumantes | Vino caja -> https://www.unimarc.cl/category/bebidas-y-licores/vinos-y-espumantes/vino-caja
+ - Vinos y espumantes | Espumantes -> https://www.unimarc.cl/category/bebidas-y-licores/vinos-y-espumantes/espumantes
+ - Vinos y espumantes | Vinos botellón y otros -> https://www.unimarc.cl/category/bebidas-y-licores/vinos-y-espumantes/vinos-botellon-y-otros
+ - Vinos y espumantes | Vino Late harvest -> https://www.unimarc.cl/category/bebidas-y-licores/vinos-y-espumantes/vino-late-harvest
+ - Vinos y espumantes | Vino rosé -> https://www.unimarc.cl/category/bebidas-y-licores/vinos-y-espumantes/vino-rose
+ - Destilados y licores | Cóctel -> https://www.unimarc.cl/category/bebidas-y-licores/destilados-y-licores/coctel
+ - Destilados y licores | Piscos -> https://www.unimarc.cl/category/bebidas-y-licores/destilados-y-licores/piscos
+ - Destilados y licores | Ron -> https://www.unimarc.cl/category/bebidas-y-licores/destilados-y-licores/ron
+ - Destilados y licores | Vodka -> https://www.unimarc.cl/category/bebidas-y-licores/destilados-y-licores/vodka
+ - Destilados y licores | Gin -> https://www.unimarc.cl/category/bebidas-y-licores/destilados-y-licores/gin
+ - Destilados y licores | Whisky -> https://www.unimarc.cl/category/bebidas-y-licores/destilados-y-licores/whisky
+ - Destilados y licores | Otros licores -> https://www.unimarc.cl/category/bebidas-y-licores/destilados-y-licores/otros-licores
+
+Scrape: [Aguas] Agua sin gas
+  productos únicos: 12
+
+Scrape: [Aguas] Agua con gas
+  productos únicos: 21
+
+Scrape: [Aguas] Agua saborizada
+  productos únicos: 41
+
+Scrape: [Aguas] Bidones
+  productos únicos: 2
+
+Scrape: [Bebidas] Bebidas regulares
+  productos únicos: 80
+
+Scrape: [Bebidas] Bebidas light y zero
+  productos únicos: 65
+
+Scrape: [Bebidas] Energéticas
+  productos únicos: 27
+
+Scrape: [Bebidas] Funcionales
+  productos únicos: 43
+
+Scrape: [Jugos] Jugos frescos
+  productos únicos: 27
+
+Scrape: [Jugos] Jugos y néctares
+  productos únicos: 79
+
+Scrape: [Jugos] Té líquido
+  productos únicos: 12
+
+Scrape: [Jugos] Jugos en polvo
+  productos únicos: 43
+
+Scrape: [Jugos] Jugos colación
+  productos únicos: 28
+
+Scrape: [Cervezas] Cerveza nacional
+  productos únicos: 37
+
+Scrape: [Cervezas] Cerveza importada
+  productos únicos: 46
+
+Scrape: [Cervezas] Cerveza artesanal
+  productos únicos: 57
+
+Scrape: [Cervezas] Cerveza sin alcohol
+  productos únicos: 16
+
+Scrape: [Vinos y espumantes] Vino tinto
+  productos únicos: 100
+
+Scrape: [Vinos y espumantes] Vino blanco
+  productos únicos: 72
+
+Scrape: [Vinos y espumantes] Vino caja
+  productos únicos: 28
+
+Scrape: [Vinos y espumantes] Espumantes
+  productos únicos: 67
+
+Scrape: [Vinos y espumantes] Vinos botellón y otros
+  productos únicos: 47
+
+Scrape: [Vinos y espumantes] Vino Late harvest
+  productos únicos: 11
+
+Scrape: [Vinos y espumantes] Vino rosé
+  productos únicos: 8
+
+Scrape: [Destilados y licores] Cóctel
+  productos únicos: 75
+
+Scrape: [Destilados y licores] Piscos
+  productos únicos: 65
+
+Scrape: [Destilados y licores] Ron
+  productos únicos: 19
+
+Scrape: [Destilados y licores] Vodka
+  productos únicos: 17
+
+Scrape: [Destilados y licores] Gin
+  productos únicos: 28
+
+Scrape: [Destilados y licores] Whisky
+  productos únicos: 49
+
+Scrape: [Destilados y licores] Otros licores
+  productos únicos: 41
+
+Total filas: 1263
+CSV generado: output\bebidas_licores\unimarc_bebidas-y-licores_subcats_20260309_191231.csv

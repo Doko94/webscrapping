@@ -1,0 +1,2723 @@
+{
+  "products": [
+    {
+      "productId": "10944",
+      "reference": "940726",
+      "sponsoredId": null,
+      "slug": "salchichas-premium-rda-250-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "26912",
+        "27367"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11203",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 4450,
+          "listPrice": 4450,
+          "ppumPrice": 17800,
+          "ppumListPrice": 17800,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350876-250-250/Salchichas-premium-5-un-250-g.jpg?v=638776683092170000"
+          ],
+          "name": "Salchichas Receta del Abuelo Premium 250 g 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10935",
+      "reference": "298136",
+      "sponsoredId": null,
+      "slug": "salchicha-tradicional-llanquihue-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25422",
+        "25434",
+        "25741",
+        "25750",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11194",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 5590,
+          "listPrice": 6850,
+          "ppumPrice": 11180,
+          "ppumListPrice": 13700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350863-250-250/Salchicha-tradicional-500-g.jpg?v=638776683043100000"
+          ],
+          "name": "Salchicha Llanquihue Tradicional 10 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5590 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5590,
+              "ppumPrice": 11180,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 4990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4990,
+              "ppumPrice": 9980,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "110826",
+      "reference": "1905127",
+      "sponsoredId": null,
+      "slug": "salchicha-surena-rda-250g-1905127",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "26912",
+        "27367"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "111093",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 2850,
+          "listPrice": 2850,
+          "ppumPrice": 11400,
+          "ppumListPrice": 11400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/378151-250-250/SALCHICHA-SURE%C3%91A-RDA-250G.jpg?v=638776813973030000"
+          ],
+          "name": "Salchicha Sureña Receta del Abuelo 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10934",
+      "reference": "298135",
+      "sponsoredId": null,
+      "slug": "salchichas-llanquihue-250-g-5-unida-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "25422",
+        "25434",
+        "25741",
+        "25750"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11193",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3650,
+          "listPrice": 3650,
+          "ppumPrice": 14600,
+          "ppumListPrice": 14600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350865-250-250/Salchichas-5-un-250-g.jpg?v=638776683045130000"
+          ],
+          "name": "Salchicha Llanquihue Tradicional 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10932",
+      "reference": "298134",
+      "sponsoredId": null,
+      "slug": "salchichas-tradicional-llanquihue-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "23175",
+        "25422",
+        "25434",
+        "25741",
+        "25750",
+        "25969",
+        "25974",
+        "27363",
+        "27367"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11191",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 12990,
+          "listPrice": 12990,
+          "ppumPrice": 12990,
+          "ppumListPrice": 12990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350861-250-250/Salchichas-tradicional-Llanquihue-1-kg.jpg?v=638776683042730000"
+          ],
+          "name": "Salchicha Llanquihue Tradicional 20 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10924",
+      "reference": "298182",
+      "sponsoredId": null,
+      "slug": "vienesas-la-preferida-sin-piel-14-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11183",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.76,
+          "price": 6990,
+          "listPrice": 6990,
+          "ppumPrice": 9197,
+          "ppumListPrice": 9197,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302053-250-250/Vienesas-La-Preferida-sin-piel-14-Unid-760-g.jpg?v=638776375753670000"
+          ],
+          "name": "Vienesas La Preferida Sin Piel 760 g 14 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "81639",
+      "reference": "1820464",
+      "sponsoredId": null,
+      "slug": "salchichas-premium-750-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "23175",
+        "26912",
+        "27367"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81942",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.75,
+          "price": 6690,
+          "listPrice": 6690,
+          "ppumPrice": 8920,
+          "ppumListPrice": 8920,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/364827-250-250/Salchichas-Premium-750-g.jpg?v=638776755879000000"
+          ],
+          "name": "Salchichas Receta del Abuelo Premium 750 g 15 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10946",
+      "reference": "527531",
+      "sponsoredId": null,
+      "slug": "salchichas-surenas-pf-250-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11205",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 1360,
+          "listPrice": 1360,
+          "ppumPrice": 5440,
+          "ppumListPrice": 5440,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350875-250-250/Salchichas-Sure%C3%B1as-PF-5-Unid-250-g.jpg?v=638776683091070000"
+          ],
+          "name": "Salchicha Sureñas PF 250 g 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10930",
+      "reference": "302331",
+      "sponsoredId": null,
+      "slug": "vienesas-la-preferida-sin-piel-380-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11189",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.38,
+          "price": 2990,
+          "listPrice": 3990,
+          "ppumPrice": 7868,
+          "ppumListPrice": 10500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302144-250-250/Vienesas-La-Preferida-sin-piel-7-Unid-380-g.jpg?v=638776375837770000"
+          ],
+          "name": "Vienesas La Preferida Sin Piel 380 g 7 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 3",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2990,
+              "ppumPrice": 7868,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "18270",
+      "reference": "298185",
+      "sponsoredId": null,
+      "slug": "salchichas-san-jorge-250-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "25295",
+        "26912",
+        "27367"
+      ],
+      "brand": "San Jorge",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "18596",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 1300,
+          "listPrice": 1300,
+          "ppumPrice": 5200,
+          "ppumListPrice": 5200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304005-250-250/Salchichas-250-g.jpg?v=638776378596000000"
+          ],
+          "name": "Salchichas San Jorge 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10951",
+      "reference": "298184",
+      "sponsoredId": null,
+      "slug": "salchichas-san-jorge-1-kg-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "22523",
+        "26912",
+        "27367"
+      ],
+      "brand": "San Jorge",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11210",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 4290,
+          "listPrice": 4290,
+          "ppumPrice": 4290,
+          "ppumListPrice": 4290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302023-250-250/Salchichas-San-Jorge-20-Unid-1-kg.jpg?v=638776375704100000"
+          ],
+          "name": "Salchichas San Jorge 1 kg 20 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10929",
+      "reference": "987945",
+      "sponsoredId": null,
+      "slug": "salchichas-surenas-la-preferida-500-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11188",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3790,
+          "listPrice": 4590,
+          "ppumPrice": 7580,
+          "ppumListPrice": 9180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302117-250-250/Salchichas-Sure%C3%B1as-10-un-500-g.jpg?v=638776375811770000"
+          ],
+          "name": "Salchichas Sureñas La Preferida 10 un. 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3790 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3790,
+              "ppumPrice": 7580,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10938",
+      "reference": "1623073",
+      "sponsoredId": null,
+      "slug": "salchichas-montina-1-kg-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367"
+      ],
+      "brand": "Montina",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11197",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 4850,
+          "listPrice": 4850,
+          "ppumPrice": 4850,
+          "ppumListPrice": 4850,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/523570-250-250/Salchicha-Montina-1-kg-20-un.jpg?v=638959916259200000"
+          ],
+          "name": "Salchicha Tradicional Montina 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134503",
+      "reference": "1988673",
+      "sponsoredId": null,
+      "slug": "salch-pollo-campest-montina-artesana250g-1988673",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367"
+      ],
+      "brand": "La Montina",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134796",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 7560,
+          "ppumListPrice": 7560,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/323008-250-250/Salchicha-Pollo-Montina-Campestre-Artesanal-250-g.jpg?v=638776426584570000"
+          ],
+          "name": "Salchicha Pollo La Montina Campestre Artesanal 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10947",
+      "reference": "1599633",
+      "sponsoredId": null,
+      "slug": "salchichas-receta-del-abuelo-500-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "19270"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11206",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 4790,
+          "listPrice": 4790,
+          "ppumPrice": 9580,
+          "ppumListPrice": 9580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350877-250-250/Salchichas-10-un-500-g.jpg?v=638776683092630000"
+          ],
+          "name": "Salchichas Receta del Abuelo Premium 500 g 10 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "144679",
+      "reference": "2020081",
+      "sponsoredId": null,
+      "slug": "salchicha-surena-la-pref-red-sodio-500gr-2020081",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144974",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3790,
+          "listPrice": 4690,
+          "ppumPrice": 7580,
+          "ppumListPrice": 9380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/341887-250-250/Salchicha-Sure%C3%B1a-La-Preferida-Reduccion-de-Sodio-500-g.jpg?v=638776442054830000"
+          ],
+          "name": "Salchicha Sureña La Preferida Reducción de Sodio 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3790 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3790,
+              "ppumPrice": 7580,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75191",
+      "reference": "1800535",
+      "sponsoredId": null,
+      "slug": "gordas-surenas-schwencke-360-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [],
+      "brand": "Schwencke",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75426",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.36,
+          "price": 3890,
+          "listPrice": 3890,
+          "ppumPrice": 10806,
+          "ppumListPrice": 10806,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363147-250-250/Gordas-sure%C3%B1as-360-g.jpg?v=638776746672070000"
+          ],
+          "name": "Gordas Sureñas Schwencke 360 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "43169",
+      "reference": "1709875",
+      "sponsoredId": null,
+      "slug": "salchicha-surena-san-jorge-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "22523",
+        "26912",
+        "27367"
+      ],
+      "brand": "San Jorge",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25611",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 4790,
+          "listPrice": 4790,
+          "ppumPrice": 4790,
+          "ppumListPrice": 4790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306254-250-250/Salchicha-sure%C3%B1a-20-un-1-kg.jpg?v=638776382174330000"
+          ],
+          "name": "Salchicha Sureña San Jorge 1 kg 20 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10920",
+      "reference": "298161",
+      "sponsoredId": null,
+      "slug": "salchicha-de-ave-la-montina-1-kg-20-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Montina",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11179",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3990,
+          "listPrice": 4850,
+          "ppumPrice": 3990,
+          "ppumListPrice": 4850,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/523964-250-250/Salchicha-de-Ave-Montina-20-un-1-kg.jpg?v=638959917431800000"
+          ],
+          "name": "Salchicha de Pollo Montina 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 3990,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "99701",
+      "reference": "1846224",
+      "sponsoredId": null,
+      "slug": "salchicha-surena-pollo-montina-1kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "26912",
+        "27367"
+      ],
+      "brand": "Montina",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "99968",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 5190,
+          "listPrice": 5190,
+          "ppumPrice": 5190,
+          "ppumListPrice": 5190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/372128-250-250/Salchicha-pollo-sure%C3%B1a-1-kg.jpg?v=638776790023000000"
+          ],
+          "name": "Salchicha Pollo Montina Sureña 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "18385",
+      "reference": "1053295",
+      "sponsoredId": null,
+      "slug": "salchichas-schwencke-10-unid-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "23175"
+      ],
+      "brand": "Schwencke",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "18711",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 6490,
+          "listPrice": 6490,
+          "ppumPrice": 12980,
+          "ppumListPrice": 12980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352960-250-250/1053295.jpg?v=638776695313530000"
+          ],
+          "name": "Salchichas Schwencke 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10945",
+      "reference": "507641",
+      "sponsoredId": null,
+      "slug": "salchichas-surenas-pf-1-kg-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11204",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3990,
+          "listPrice": 5190,
+          "ppumPrice": 3990,
+          "ppumListPrice": 5190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350874-250-250/Salchicha-sure%C3%B1a-1-kg.jpg?v=638776683090930000"
+          ],
+          "name": "Salchicha Sureña PF 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 3990,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "40735",
+      "reference": "1675484",
+      "sponsoredId": null,
+      "slug": "salchicha-surena-pf-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "33207",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 2850,
+          "listPrice": 2850,
+          "ppumPrice": 5700,
+          "ppumListPrice": 5700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/356329-250-250/Salchicha-sure%C3%B1a-PF-10-Unid-500-g.jpg?v=638776711933470000"
+          ],
+          "name": "Salchicha Sureña PF 500 g 10 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "106519",
+      "reference": "1898637",
+      "sponsoredId": null,
+      "slug": "salchicha-pollo-winter-1kg-1898637",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [],
+      "brand": "Winter",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "106787",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 3990,
+          "ppumListPrice": 3990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314908-250-250/Salchichas-de-pollo-1-kg.jpg?v=638776403180930000"
+          ],
+          "name": "Salchichas Pollo Winter 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "105006",
+      "reference": "1877236",
+      "sponsoredId": null,
+      "slug": "salchicha-surena-pollo-big-montina-800gr-1877236",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Montina",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "105276",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 3990,
+          "listPrice": 4790,
+          "ppumPrice": 4988,
+          "ppumListPrice": 5988,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/374827-250-250/Salchicha-sure%C3%B1a-pollo-800-g.jpg?v=638776801040270000"
+          ],
+          "name": "Salchicha Pollo Montina Sureña 800 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 4988,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "106547",
+      "reference": "1898638",
+      "sponsoredId": null,
+      "slug": "salchicha-tradicional-winter-1kg-1898638",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "26912",
+        "27367"
+      ],
+      "brand": "Winter",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "106815",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 3990,
+          "ppumListPrice": 3990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314983-250-250/Salchicha-tradicional-1-kg.jpg?v=638776403444970000"
+          ],
+          "name": "Salchicha Winter Tradicional 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10927",
+      "reference": "895078",
+      "sponsoredId": null,
+      "slug": "salchichas-surenas-ahumadas-la-preferida-225-g-5-unidades-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11186",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 2850,
+          "listPrice": 2850,
+          "ppumPrice": 11400,
+          "ppumListPrice": 11400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302086-250-250/Salchichas-Sure%C3%B1as-5-un-250-g.jpg?v=638776375785600000"
+          ],
+          "name": "Salchichas Sureñas La Preferida 5 un. 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "163015",
+      "reference": "2059338",
+      "sponsoredId": null,
+      "slug": "salchicha-sj-475gr-2059338",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [],
+      "brand": "San Jorge",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "163395",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.475,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 5663,
+          "ppumListPrice": 5663,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/563348-250-250/SALCHICHA-SJ-475GR.jpg?v=639035296834300000"
+          ],
+          "name": "Salchicha San Jorge Bronto 475 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10937",
+      "reference": "1599637",
+      "sponsoredId": null,
+      "slug": "salchichas-de-pavo-montina-1-kg-20-unidades-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Montina",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11196",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 4490,
+          "listPrice": 5490,
+          "ppumPrice": 4490,
+          "ppumListPrice": 5490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350868-250-250/Salchichas-de-Pavo-Montina-20-Unid-1-kg.jpg?v=638776683069970000"
+          ],
+          "name": "Salchicha Pavo Montina 1 kg 20 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4490 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4490,
+              "ppumPrice": 4490,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "108141",
+      "reference": "1898674",
+      "sponsoredId": null,
+      "slug": "salchicha-refoods-250gr-1898674",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "22523",
+        "26912",
+        "27367"
+      ],
+      "brand": "Refoods",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "108408",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3050,
+          "listPrice": 3050,
+          "ppumPrice": 12200,
+          "ppumListPrice": 12200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/376650-250-250/Salchicha-Refoods-250-g.jpg?v=638776808545370000"
+          ],
+          "name": "Salchicha Refoods 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103798",
+      "reference": "298167",
+      "sponsoredId": null,
+      "slug": "salchicha-trad-pf-6x1kg-298167",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "104066",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3890,
+          "listPrice": 4950,
+          "ppumPrice": 3890,
+          "ppumListPrice": 4950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/374286-250-250/Salchicha-tradicional-1-kg.jpg?v=638776799055570000"
+          ],
+          "name": "Salchicha Tradicional PF 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3890 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3890,
+              "ppumPrice": 3890,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134513",
+      "reference": "1988675",
+      "sponsoredId": null,
+      "slug": "salch-pollo-crioll-montina-artesana-250g-1988675",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367"
+      ],
+      "brand": "La Montina",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134805",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 7560,
+          "ppumListPrice": 7560,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/322741-250-250/Salchicha-Pollo-Montina-Criolla-Artesanal-250-g.jpg?v=638776426374530000"
+          ],
+          "name": "Salchicha Pollo La Montina Criolla Artesanal 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132418",
+      "reference": "1983583",
+      "sponsoredId": null,
+      "slug": "salchicha-surena-la-preferida-750g-1983583",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132700",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.75,
+          "price": 6490,
+          "listPrice": 6490,
+          "ppumPrice": 8653,
+          "ppumListPrice": 8653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321559-250-250/Salchicha-Sure%C3%B1a-La-Preferida-750-g.jpg?v=638776423644100000"
+          ],
+          "name": "Salchicha Sureña La Preferida 750 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10939",
+      "reference": "999119",
+      "sponsoredId": null,
+      "slug": "salchichas-pacel-500-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Pacel",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11198",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 5590,
+          "listPrice": 7550,
+          "ppumPrice": 11180,
+          "ppumListPrice": 15100,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350869-250-250/Salchichas-500-g.jpg?v=638776683071700000"
+          ],
+          "name": "Salchichas Pacel 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5590 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5590,
+              "ppumPrice": 11180,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "98755",
+      "reference": "1842268",
+      "sponsoredId": null,
+      "slug": "salchicha-surena-sj-250gr-1842268",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [],
+      "brand": "San Jorge",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "99022",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 1490,
+          "listPrice": 1490,
+          "ppumPrice": 5960,
+          "ppumListPrice": 5960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313246-250-250/Salchicha-sure%C3%B1a-250-g.jpg?v=638776399149230000"
+          ],
+          "name": "Salchicha Sureña San Jorge 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "43166",
+      "reference": "1709872",
+      "sponsoredId": null,
+      "slug": "salchicha-surena-receta-del-abuelo-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [
+        "19270"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25608",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 4790,
+          "listPrice": 4790,
+          "ppumPrice": 9580,
+          "ppumListPrice": 9580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/355130-250-250/Salchicha-sure%C3%B1a-Receta-del-Abuelo-10-unid-500-g.jpg?v=638776705329070000"
+          ],
+          "name": "Salchicha Sureña Receta del Abuelo 500 g 10 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "99191",
+      "reference": "1844412",
+      "sponsoredId": null,
+      "slug": "vienesas-emporio-5un-250gr-1844412",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [],
+      "brand": "Emporio Alemán",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "99458",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 2950,
+          "listPrice": 2950,
+          "ppumPrice": 11800,
+          "ppumListPrice": 11800,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/372002-250-250/Vienesas-5-un-250-g.jpg?v=638776789536800000"
+          ],
+          "name": "Vienesas Emporio Alemán 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "18371",
+      "reference": "976470",
+      "sponsoredId": null,
+      "slug": "salchichas-villa-baviera-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [],
+      "brand": "Villa Baviera",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "18697",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 10950,
+          "ppumListPrice": 10950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352948-250-250/976470.jpg?v=638776695209600000"
+          ],
+          "name": "Salchichas Villa Baviera 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159931",
+      "reference": "2054223",
+      "sponsoredId": null,
+      "slug": "salchichilla-140gr-2054223",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas"
+      ],
+      "collections": [],
+      "brand": "Super Pollo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160288",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 14214,
+          "ppumListPrice": 14214,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/554173-250-250/Longanicilla-Super-Pollo-140-g.jpg?v=639015096495030000"
+          ],
+          "name": "Longanicilla Super Pollo 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "65363",
+      "reference": "1750299",
+      "sponsoredId": null,
+      "slug": "wieners-tradicional-jumbo-artesanal-250g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "98",
+        "99",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Salchichas y Parrilleros",
+        "Salchichas",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "25334",
+        "25422",
+        "25638",
+        "26943",
+        "27599",
+        "27601"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "65521",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 15960,
+          "ppumListPrice": 15960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309841-250-250/Vienna-Tradicional-Al-Vacio-250-g.jpg?v=638776390021830000"
+          ],
+          "name": "Vienna Tradicional Al Vacío 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Salchichas",
+          "value": "/quesos-y-fiambres/salchichas-y-parrilleros/salchichas",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Salchichas",
+          "value": "/quesos-y-fiambres/salchichas-y-parrilleros/salchichas",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Salchichas",
+          "value": "/quesos-y-fiambres/salchichas-y-parrilleros/salchichas",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Receta del Abuelo",
+          "value": "Receta del Abuelo",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Llanquihue",
+          "value": "Llanquihue",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Preferida",
+          "value": "La Preferida",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "PF",
+          "value": "PF",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Jorge",
+          "value": "San Jorge",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Montina",
+          "value": "Montina",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Montina",
+          "value": "La Montina",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Schwencke",
+          "value": "Schwencke",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Winter",
+          "value": "Winter",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Refoods",
+          "value": "Refoods",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pacel",
+          "value": "Pacel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Emporio Alemán",
+          "value": "Emporio Alemán",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Villa Baviera",
+          "value": "Villa Baviera",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Super Pollo",
+          "value": "Super Pollo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo Artesanal",
+          "value": "Jumbo Artesanal",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Salchichas",
+          "value": "Salchichas",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Longanicillas",
+          "value": "Longanicillas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Parrilleros",
+          "value": "Parrilleros",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Premium",
+          "value": "Premium",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Saborizada",
+          "value": "Saborizada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sureña",
+          "value": "Sureña",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sureña Reducción de Sodio",
+          "value": "Sureña Reducción de Sodio",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sureñas",
+          "value": "Sureñas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tradicional",
+          "value": "Tradicional",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1300,
+          "maxValue": 12990
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 47,
+  "metaTag": {
+    "title": "Salchichas | Jumbo.cl",
+    "description": "Las salchichas son una opción deliciosa y fácil de preparar que no puede faltar en tu refrigerador. ¡Pídelas por Jumbo.cl y deleita tu paladar!"
+  }
+}

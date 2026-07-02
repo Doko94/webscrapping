@@ -1,0 +1,1218 @@
+{
+  "products": [
+    {
+      "productId": "125311",
+      "reference": "1960540002",
+      "sponsoredId": null,
+      "slug": "jalea-goodnes-multipack-4x110gr-man-dur-1960540002",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "12",
+        "694"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Postres Refrigerados",
+        "Jaleas y Compotas"
+      ],
+      "collections": [
+        "17846",
+        "22681",
+        "25347",
+        "25520",
+        "27105",
+        "27507"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "125603",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.44,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 4523,
+          "ppumListPrice": 4523,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/503356-250-250/Pack-4-un-Jalea-Nestle-Goodnes-Durazno-110-g.jpg?v=638926278952930000"
+          ],
+          "name": "Pack 4 un. Jalea Nestlé Goodnes Mango Durazno 110 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "83511",
+      "reference": "1829132002",
+      "sponsoredId": null,
+      "slug": "compota-pera-120-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "12",
+        "694"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Postres Refrigerados",
+        "Jaleas y Compotas"
+      ],
+      "collections": [
+        "22681",
+        "25347",
+        "25520",
+        "27105",
+        "27507"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "83774",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 520,
+          "listPrice": 520,
+          "ppumPrice": 4333,
+          "ppumListPrice": 4333,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365392-250-250/Compota-pera-120-g.jpg?v=638776758888800000"
+          ],
+          "name": "Compota Nestlé Pera 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "44055",
+      "reference": "1394555003-PAK",
+      "sponsoredId": null,
+      "slug": "pack-jalea-regimel-arandano-100-g-4-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "12",
+        "694"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Postres Refrigerados",
+        "Jaleas y Compotas"
+      ],
+      "collections": [
+        "27564",
+        "27565"
+      ],
+      "brand": "Regimel",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "44040",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2090,
+          "listPrice": 2090,
+          "ppumPrice": 5225,
+          "ppumListPrice": 5225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307710-250-250/Pack-Jalea-Regimel-Arandano-100-g-4-un.jpg?v=638776385232900000"
+          ],
+          "name": "Pack 4 un. Jalea Regimel Arándano 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1800 - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 2 PRIME DESDE EL 3 AL 9  03032026 AL 09032026",
+              "description": "JUMBO CICLO PRIME CICLO 2 PRIME DESDE EL 3 AL 9 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1800,
+              "ppumPrice": 4500,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "83510",
+      "reference": "1829132001",
+      "sponsoredId": null,
+      "slug": "compota-manzana-120-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "12",
+        "694"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Postres Refrigerados",
+        "Jaleas y Compotas"
+      ],
+      "collections": [
+        "22681",
+        "25347",
+        "25520",
+        "27105",
+        "27507"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "83773",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 520,
+          "listPrice": 520,
+          "ppumPrice": 4333,
+          "ppumListPrice": 4333,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365390-250-250/Compota-manzana-120-g.jpg?v=638776758872830000"
+          ],
+          "name": "Compota Nestlé Manzana 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "149912",
+      "reference": "2037776",
+      "sponsoredId": null,
+      "slug": "jalea-lim-100g-c-and-c-2037776",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "12",
+        "694",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Postres Refrigerados",
+        "Jaleas y Compotas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25781",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27323",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150206",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 290,
+          "listPrice": 290,
+          "ppumPrice": 2900,
+          "ppumListPrice": 2900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/500437-250-250/Jalea-de-Limon-Cuisine---Co-100-g.jpg?v=638917623904100000"
+          ],
+          "name": "Jalea Cuisine & Co Limón 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "149913",
+      "reference": "2037777",
+      "sponsoredId": null,
+      "slug": "jalea-gui-100g-c-and-c-2037777",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "12",
+        "694",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Postres Refrigerados",
+        "Jaleas y Compotas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25781",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27323",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150208",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 290,
+          "listPrice": 290,
+          "ppumPrice": 2900,
+          "ppumListPrice": 2900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/500439-250-250/Jalea-de-Guinda-Cuisine---Co-100-g.jpg?v=638917623912330000"
+          ],
+          "name": "Jalea Cuisine & Co Guinda 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "158457",
+      "reference": "2050309",
+      "sponsoredId": null,
+      "slug": "pack-jalea-nestle-prot-guinda-4x110gr-2050309",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "12",
+        "694"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Postres Refrigerados",
+        "Jaleas y Compotas"
+      ],
+      "collections": [
+        "27323"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "158778",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.44,
+          "price": 2800,
+          "listPrice": 2800,
+          "ppumPrice": 6364,
+          "ppumListPrice": 6364,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/547341-250-250/Pack-4-un-Jalea-Nestle-Proteina-Guinda-110-g.jpg?v=638999703871270000"
+          ],
+          "name": "Pack 4 un. Jalea Nestlé Proteína Guinda 110 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "147294",
+      "reference": "2029573",
+      "sponsoredId": null,
+      "slug": "jalea-uno-soprole-frambuesa-4x110-gr-2029573",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "12",
+        "694"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Postres Refrigerados",
+        "Jaleas y Compotas"
+      ],
+      "collections": [
+        "23175",
+        "27323"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147588",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.44,
+          "price": 1780,
+          "listPrice": 1780,
+          "ppumPrice": 4045,
+          "ppumListPrice": 4045,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/404985-250-250/2029573-01_704722.jpg?v=638779826997470000"
+          ],
+          "name": "Pack 4 un. Jalea Prebiótica Uno Frambuesa110 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "149914",
+      "reference": "2037778",
+      "sponsoredId": null,
+      "slug": "jalea-fra-100g-c-and-c-2037778",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "12",
+        "694",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Postres Refrigerados",
+        "Jaleas y Compotas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25781",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27323",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150209",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 290,
+          "listPrice": 290,
+          "ppumPrice": 2900,
+          "ppumListPrice": 2900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/500442-250-250/Jalea-de-Frambuesa-Cuisine---Co-100-g.jpg?v=638917623921370000"
+          ],
+          "name": "Jalea Cuisine & Co Frambuesa 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "149911",
+      "reference": "2037775",
+      "sponsoredId": null,
+      "slug": "jalea-nar-100g-c-and-c-2037775",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "12",
+        "694",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Postres Refrigerados",
+        "Jaleas y Compotas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25781",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27323",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150207",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 290,
+          "listPrice": 290,
+          "ppumPrice": 2900,
+          "ppumListPrice": 2900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/500435-250-250/Jalea-de-Naranja-Cuisine---Co-100-g.jpg?v=638917623896300000"
+          ],
+          "name": "Jalea Cuisine & Co Naranja 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146479",
+      "reference": "2026690",
+      "sponsoredId": null,
+      "slug": "mix-frutipop-ama-time-organico-4-70gr-2026690",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "12",
+        "694",
+        "831",
+        "999",
+        "1002"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Postres Refrigerados",
+        "Jaleas y Compotas",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Azúcar Añadida"
+      ],
+      "collections": [
+        "21498",
+        "24498",
+        "27376",
+        "27386",
+        "27542"
+      ],
+      "brand": "Ama",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146772",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.32,
+          "price": 3390,
+          "listPrice": 4650,
+          "ppumPrice": 10594,
+          "ppumListPrice": 14531,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/404307-250-250/Pure-de-Fruta-Organico-Ama-Time-Congelable-4-x-280-g.jpg?v=638776918206670000"
+          ],
+          "name": "Puré de Fruta Orgánico Ama Time Congelable 4 x 280 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3390 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3390,
+              "ppumPrice": 10594,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6882",
+      "reference": "992979001",
+      "sponsoredId": null,
+      "slug": "jalea-soprole-sabor-pina-pote-110-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "12",
+        "694"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Postres Refrigerados",
+        "Jaleas y Compotas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "27559"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6970",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 350,
+          "listPrice": 350,
+          "ppumPrice": 3182,
+          "ppumListPrice": 3182,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348685-250-250/Jalea-pi%C3%B1a-110-g.jpg?v=638776487466330000"
+          ],
+          "name": "Jalea Soprole Piña 110 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6881",
+      "reference": "992979004",
+      "sponsoredId": null,
+      "slug": "jaleasoprole-sabor-guinda-pote-110-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "12",
+        "694"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Postres Refrigerados",
+        "Jaleas y Compotas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "27559"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6969",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 350,
+          "listPrice": 350,
+          "ppumPrice": 3182,
+          "ppumListPrice": 3182,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348684-250-250/Jalea-guinda-110-g.jpg?v=638776487451800000"
+          ],
+          "name": "Jalea Soprole Guinda 110 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "158461",
+      "reference": "2050308",
+      "sponsoredId": null,
+      "slug": "pack-jalea-nestle-prot-naranja-4x110gr-2050308",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "12",
+        "694"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Postres Refrigerados",
+        "Jaleas y Compotas"
+      ],
+      "collections": [
+        "27323"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "158787",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.44,
+          "price": 2800,
+          "listPrice": 2800,
+          "ppumPrice": 6364,
+          "ppumListPrice": 6364,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/547328-250-250/Pack-4-un-Jalea-Nestle-Proteina-Naranja-110-g.jpg?v=638999703844770000"
+          ],
+          "name": "Pack 4 un. Jalea Nestlé Proteína Naranja 110 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Jaleas y Compotas",
+          "value": "/lacteos-huevos-y-congelados/postres-refrigerados/jaleas-y-compotas",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Jaleas y Compotas",
+          "value": "/lacteos-huevos-y-congelados/postres-refrigerados/jaleas-y-compotas",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Jaleas y Compotas",
+          "value": "/lacteos-huevos-y-congelados/postres-refrigerados/jaleas-y-compotas",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nestlé",
+          "value": "Nestlé",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Soprole",
+          "value": "Soprole",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Regimel",
+          "value": "Regimel",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Colun",
+          "value": "Colun",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Loncoleche",
+          "value": "Loncoleche",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ama",
+          "value": "Ama",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Jaleas",
+          "value": "Jaleas",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Compotas",
+          "value": "Compotas",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Guindas",
+          "value": "Guindas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 290,
+          "maxValue": 3390
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Maduración Quesos",
+      "key": "Maduración Quesos",
+      "values": [
+        {
+          "displayName": "De 1 a 3 meses",
+          "value": "De 1 a 3 meses",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 30,
+  "metaTag": {
+    "title": "Jaleas y Compotas | Jumbo.cl",
+    "description": "Los postres frutales son las opciones saludables y exquisitas que necesitas para acompañar tu día de sabor. ¡Consigue jaleas y compotas! ¡Están en Jumbo.cl!"
+  }
+}

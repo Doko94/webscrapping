@@ -1,0 +1,2353 @@
+{
+  "products": [
+    {
+      "productId": "75302",
+      "reference": "1800621",
+      "sponsoredId": null,
+      "slug": "infusion-arandano-kombuchacha-500-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "1045",
+        "25770",
+        "27323",
+        "27418"
+      ],
+      "brand": "Kombuchacha",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75559",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 3050,
+          "listPrice": 3050,
+          "ppumPrice": 6100,
+          "ppumListPrice": 6100,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310536-250-250/Infusion-Kombuchacha-Arandano-500-ml.jpg?v=638776391719500000"
+          ],
+          "name": "Infusión Kombuchacha Arándano 500 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122248",
+      "reference": "1927409",
+      "sponsoredId": null,
+      "slug": "kombuchacha-cero-arandano-lata-350ml-1927409",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "1045",
+        "25770",
+        "27323",
+        "27418",
+        "27499",
+        "27501",
+        "27553"
+      ],
+      "brand": "Kombuchacha",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122525",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 2330,
+          "listPrice": 2330,
+          "ppumPrice": 6657,
+          "ppumListPrice": 6657,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317966-250-250/Infusion-Kombuchacha-Cero-Arandano-350-ml.jpg?v=638776413470800000"
+          ],
+          "name": "Infusión Kombuchacha Cero Arándano 355 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3290,
+              "unitPrice": 1645,
+              "ppumPrice": 4700,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75303",
+      "reference": "1800622",
+      "sponsoredId": null,
+      "slug": "infusion-cedron-kombuchacha-500-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "1045",
+        "25770",
+        "27323",
+        "27418"
+      ],
+      "brand": "Kombuchacha",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75560",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 3050,
+          "listPrice": 3050,
+          "ppumPrice": 6100,
+          "ppumListPrice": 6100,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310544-250-250/Infusion-Kombuchacha-Cedron-500-ml.jpg?v=638776391751530000"
+          ],
+          "name": "Infusión Kombuchacha Cedrón 500 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146145",
+      "reference": "2023271",
+      "sponsoredId": null,
+      "slug": "kombuchacha-cero-frambuesa-500ml-2023271",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "25770",
+        "27323",
+        "27418"
+      ],
+      "brand": "Kombuchacha",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146440",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 2980,
+          "listPrice": 2980,
+          "ppumPrice": 5960,
+          "ppumListPrice": 5960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/345453-250-250/KOMBUCHACHA-CERO-FRAMBUESA-500ML.jpg?v=638776444715800000"
+          ],
+          "name": "Kombuchacha Cero Frambuesa 500 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "101096",
+      "reference": "1858350",
+      "sponsoredId": null,
+      "slug": "infusion-dr-kombu-manzana-jengibr-475ml-1858350",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25770",
+        "25969",
+        "25974",
+        "27323",
+        "27418"
+      ],
+      "brand": "Dr Kombú",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "101365",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.475,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 6505,
+          "ppumListPrice": 6505,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/372534-250-250/Infusion-Kombucha-Manzana-Jengibre-475-ml.jpg?v=638776791695230000"
+          ],
+          "name": "Infusión Kombucha Manzana Jengibre 475 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "102716",
+      "reference": "1862158",
+      "sponsoredId": null,
+      "slug": "infus-ferm-ghali-komb-limon-jengibre-1l-1862158",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "1045",
+        "1057",
+        "25770",
+        "27418"
+      ],
+      "brand": "Ghali",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102985",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 5460,
+          "listPrice": 5460,
+          "ppumPrice": 5460,
+          "ppumListPrice": 5460,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/373438-250-250/1862158-01_589997.jpg?v=638776795772430000"
+          ],
+          "name": "Infusión Kombucha Limón Jengibre 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122370",
+      "reference": "1927413",
+      "sponsoredId": null,
+      "slug": "kombuchacha-cero-jengibre-lata-350ml-1927413",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "1045",
+        "25770",
+        "27323",
+        "27418",
+        "27499",
+        "27501",
+        "27553"
+      ],
+      "brand": "Kombuchacha",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122646",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 2330,
+          "listPrice": 2330,
+          "ppumPrice": 6657,
+          "ppumListPrice": 6657,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/422564-250-250/Infusion-Kombucha-Cero-Jengibre-350-ml.jpg?v=638809579735730000"
+          ],
+          "name": "Infusión Kombuchacha Cero Jengibre 355 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3290,
+              "unitPrice": 1645,
+              "ppumPrice": 4700,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "112611",
+      "reference": "1926580",
+      "sponsoredId": null,
+      "slug": "infusion-kombuchacha-jengibre-500-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "1045",
+        "25770",
+        "27323",
+        "27418"
+      ],
+      "brand": "Kombuchacha",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112878",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 3050,
+          "listPrice": 3050,
+          "ppumPrice": 6100,
+          "ppumListPrice": 6100,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/315803-250-250/Infusion-Kombucha-Organica-Jengibre-500-ml.jpg?v=638776406379330000"
+          ],
+          "name": "Infusión Kombuchacha Orgánica Jengibre 500 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122368",
+      "reference": "1927411",
+      "sponsoredId": null,
+      "slug": "kombuchacha-cero-te-verde-lata-350ml-1927411",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "1045",
+        "25770",
+        "27323",
+        "27418"
+      ],
+      "brand": "Kombuchacha",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122644",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 2320,
+          "listPrice": 2320,
+          "ppumPrice": 6629,
+          "ppumListPrice": 6629,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318018-250-250/Infusion-Kombuchacha-Cero-Te-Verde-350-ml.jpg?v=638776413542070000"
+          ],
+          "name": "Infusión Kombuchacha Cero Té Verde 355 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "148835",
+      "reference": "2038114",
+      "sponsoredId": null,
+      "slug": "infusion-355ml-2038114",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25770",
+        "25969",
+        "25974",
+        "27323",
+        "27418"
+      ],
+      "brand": "Dr Kombú",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149129",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.355,
+          "price": 2290,
+          "listPrice": 2290,
+          "ppumPrice": 6451,
+          "ppumListPrice": 6451,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/434618-250-250/Infusion-Dr-Kombu-Mix-de-Berries-355-ml.jpg?v=638823548697630000"
+          ],
+          "name": "Infusión Dr Kombú Mix de Berries 355 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "102839",
+      "reference": "1862159",
+      "sponsoredId": null,
+      "slug": "infusion-ferm-ghali-komb-berries-1l-1862159",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "1045",
+        "1057",
+        "25770",
+        "27418"
+      ],
+      "brand": "Ghali",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103107",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 5460,
+          "listPrice": 5460,
+          "ppumPrice": 5460,
+          "ppumListPrice": 5460,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/373520-250-250/1862159-01_589998.jpg?v=638776796137800000"
+          ],
+          "name": "Infusión Ferm Ghali Komb Berries 1L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "125962",
+      "reference": "1950942",
+      "sponsoredId": null,
+      "slug": "kombucha-mang-marcuya-ghali-500cc-1950942",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25770",
+        "27323",
+        "27418",
+        "27499",
+        "27501",
+        "27553"
+      ],
+      "brand": "Ghali",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126279",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 3290,
+          "listPrice": 3890,
+          "ppumPrice": 6580,
+          "ppumListPrice": 7780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/391705-250-250/KOMBUCHA-MANG-MARCUYA-GHALI-500CC.jpg?v=638776868649630000"
+          ],
+          "name": "Kombucha Ghali Mango Maracuyá 500 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3290,
+              "ppumPrice": 6580,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "125977",
+      "reference": "1950943",
+      "sponsoredId": null,
+      "slug": "kombucha-limon-jengbre-ghali-500cc-1950943",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25770",
+        "27323",
+        "27418",
+        "27499",
+        "27501",
+        "27553"
+      ],
+      "brand": "Ghali",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126288",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 3290,
+          "listPrice": 3890,
+          "ppumPrice": 6580,
+          "ppumListPrice": 7780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/391714-250-250/KOMBUCHA-LIMON-JENGBRE-GHALI-500CC.jpg?v=638776868695330000"
+          ],
+          "name": "Kombucha Ghali Limón Gengibre 500 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3290,
+              "ppumPrice": 6580,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75304",
+      "reference": "1800623",
+      "sponsoredId": null,
+      "slug": "infusion-te-verde-kombuchacha500-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "1045",
+        "25770",
+        "27323",
+        "27418"
+      ],
+      "brand": "Kombuchacha",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75561",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 3050,
+          "listPrice": 3050,
+          "ppumPrice": 6100,
+          "ppumListPrice": 6100,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310559-250-250/Infusion-Kombuchacha-Te-Verde-500-ml.jpg?v=638776391783130000"
+          ],
+          "name": "Infusión Kombuchacha Té Verde 500 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122249",
+      "reference": "1927410",
+      "sponsoredId": null,
+      "slug": "kombuchacha-cero-cedron-lata-350ml-1927410",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "1045",
+        "25770",
+        "27323",
+        "27418",
+        "27499",
+        "27501",
+        "27553"
+      ],
+      "brand": "Kombuchacha",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122524",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 2330,
+          "listPrice": 2330,
+          "ppumPrice": 6657,
+          "ppumListPrice": 6657,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317955-250-250/Infusion-Kombuchacha-Cero-Cedron-350-ml.jpg?v=638776413444770000"
+          ],
+          "name": "Infusión Kombuchacha Cero Cedrón 355 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3290,
+              "unitPrice": 1645,
+              "ppumPrice": 4700,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "101110",
+      "reference": "1858351",
+      "sponsoredId": null,
+      "slug": "infusion-dr-kombu-mix-de-berries-475ml-1858351",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25770",
+        "25969",
+        "25974",
+        "27323",
+        "27418"
+      ],
+      "brand": "Dr Kombú",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "101379",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.475,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 6505,
+          "ppumListPrice": 6505,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/372542-250-250/Infusion-Kombucha-Mix-de-Berries-475-ml.jpg?v=638776791721130000"
+          ],
+          "name": "Infusión Kombucha Mix de Berries 475 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127793",
+      "reference": "1968832",
+      "sponsoredId": null,
+      "slug": "infusion-dr-kombu-lima-framb-jengi-475ml-1968832",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25770",
+        "25969",
+        "25974",
+        "27323",
+        "27418"
+      ],
+      "brand": "Dr Kombú",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128088",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.475,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 6505,
+          "ppumListPrice": 6505,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393923-250-250/Infusion-Dr-Kombu-Lima-Frambuesa-Jengibre-475-ml.jpg?v=638776876725600000"
+          ],
+          "name": "Infusión Dr Kombu Lima Frambuesa Jengibre 475 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75854",
+      "reference": "1787122",
+      "sponsoredId": null,
+      "slug": "kombucha-refrigerada-limon-ghali-330-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "1045",
+        "1057",
+        "19270",
+        "22523",
+        "25770",
+        "27323",
+        "27418",
+        "27499",
+        "27501",
+        "27553"
+      ],
+      "brand": "Ghali",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "76109",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 2100,
+          "listPrice": 2490,
+          "ppumPrice": 6364,
+          "ppumListPrice": 7545,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363566-250-250/Kombucha-refrigerada-limon-Ghali-330-ml-1-62688557.jpg?v=638776748931930000"
+          ],
+          "name": "Infusión Kombucha Refrigerada Limón 330 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2100 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2100,
+              "ppumPrice": 6364,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "83507",
+      "reference": "1829131",
+      "sponsoredId": null,
+      "slug": "infusion-fermentada-kombucha-guarana-330-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25770",
+        "27323",
+        "27418",
+        "27499",
+        "27501",
+        "27553"
+      ],
+      "brand": "Ghali",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "83770",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 2100,
+          "listPrice": 2490,
+          "ppumPrice": 6364,
+          "ppumListPrice": 7545,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365391-250-250/Infusion-fermentada-Kombucha-guarana-330-ml-1-145930682.jpg?v=638776758873300000"
+          ],
+          "name": "Infusión Kombucha Refrigerada Guaraná 330 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2100 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2100,
+              "ppumPrice": 6364,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146149",
+      "reference": "2023272",
+      "sponsoredId": null,
+      "slug": "kombuchacha-cero-frambuesa-lata-355ml-2023272",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "25770",
+        "27323",
+        "27418",
+        "27499",
+        "27501",
+        "27553"
+      ],
+      "brand": "Kombuchacha",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146444",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.355,
+          "price": 2270,
+          "listPrice": 2270,
+          "ppumPrice": 6394,
+          "ppumListPrice": 6394,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/344929-250-250/KOMBUCHACHA-CERO-FRAMBUESA-LATA-355ML.jpg?v=638776444323370000"
+          ],
+          "name": "Kombuchacha Cero Frambuesa Lata 355 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3290,
+              "unitPrice": 1645,
+              "ppumPrice": 4634,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75855",
+      "reference": "1787123",
+      "sponsoredId": null,
+      "slug": "kombucha-refrigerada-frabuesa-ghali-330-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "1045",
+        "1057",
+        "19270",
+        "22523",
+        "25770",
+        "27323",
+        "27418",
+        "27499",
+        "27501",
+        "27553"
+      ],
+      "brand": "Ghali",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "76110",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 2100,
+          "listPrice": 2490,
+          "ppumPrice": 6364,
+          "ppumListPrice": 7545,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363572-250-250/Kombucha-refrigerada-frabuesa-Ghali-330-ml.jpg?v=638776748958530000"
+          ],
+          "name": "Infusión Kombucha Refrigerada Frambuesa 330 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2100 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2100,
+              "ppumPrice": 6364,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "125141",
+      "reference": "1955413",
+      "sponsoredId": null,
+      "slug": "kombucha-ghali-guarana-500cc-1955413",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25770",
+        "27323",
+        "27418",
+        "27499",
+        "27501",
+        "27553"
+      ],
+      "brand": "Ghali",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "125401",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 3290,
+          "listPrice": 3690,
+          "ppumPrice": 6580,
+          "ppumListPrice": 7380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/390994-250-250/Kombucha-Ghali-Guarana-500-ml.jpg?v=638776865786000000"
+          ],
+          "name": "Kombucha Ghali Guaraná 500 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3290,
+              "ppumPrice": 6580,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75853",
+      "reference": "1787121",
+      "sponsoredId": null,
+      "slug": "kombucha-refrigerada-naranja-ghali-330-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "1045",
+        "1057",
+        "19270",
+        "22523",
+        "25770",
+        "27323",
+        "27418",
+        "27499",
+        "27501",
+        "27553"
+      ],
+      "brand": "Ghali",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "76108",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 2100,
+          "listPrice": 2490,
+          "ppumPrice": 6364,
+          "ppumListPrice": 7545,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363565-250-250/Kombucha-refrigerada-naranja-Ghali-330-ml-1-62688556.jpg?v=638776748929730000"
+          ],
+          "name": "Infusión Kombucha Refrigerada Naranja 330 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2100 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2100,
+              "ppumPrice": 6364,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "148834",
+      "reference": "2037552",
+      "sponsoredId": null,
+      "slug": "infusion-355ml-2037552",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "966",
+        "967"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Infusiones Frías",
+        "Kombucha"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25770",
+        "25969",
+        "25974",
+        "27323",
+        "27418"
+      ],
+      "brand": "Dr Kombú",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149128",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.355,
+          "price": 2290,
+          "listPrice": 2290,
+          "ppumPrice": 6451,
+          "ppumListPrice": 6451,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/434609-250-250/Infusion-Dr-Kombu-Manzana-Jengibre-355-ml.jpg?v=638823548592300000"
+          ],
+          "name": "Infusión Dr Kombú Manzana Jengibre 355 ml",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146435",
+      "reference": "2025038",
+      "sponsoredId": null,
+      "slug": "kombucha-captain-gutsy-durazno-400ml-2025038",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "831",
+        "966",
+        "967",
+        "999",
+        "1005"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Experiencias Jumbo",
+        "Infusiones Frías",
+        "Kombucha",
+        "Mundo Bio Natura",
+        "Orgánico"
+      ],
+      "collections": [
+        "23175"
+      ],
+      "brand": "Gutsy Captain",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146729",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.4,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 7475,
+          "ppumListPrice": 7475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/404764-250-250/Kombucha-Captain-Gutsy-Durazno-Organica-400-ml.jpg?v=638779826422270000"
+          ],
+          "name": "Kombucha Captain Gutsy Durazno Orgánica 400 ml",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146437",
+      "reference": "2025036",
+      "sponsoredId": null,
+      "slug": "kombucha-captain-gutsy-jeng-limon-400ml-2025036",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "831",
+        "966",
+        "967",
+        "999",
+        "1005"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Experiencias Jumbo",
+        "Infusiones Frías",
+        "Kombucha",
+        "Mundo Bio Natura",
+        "Orgánico"
+      ],
+      "collections": [
+        "23175"
+      ],
+      "brand": "Gutsy Captain",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146731",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.4,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 7475,
+          "ppumListPrice": 7475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/404757-250-250/Kombucha-Captain-Gutsy-Jengibre-y-Limon-Organica-400-ml.jpg?v=638779826415570000"
+          ],
+          "name": "Kombucha Captain Gutsy Jengibre y Limón Orgánica 400 ml",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146438",
+      "reference": "2025037",
+      "sponsoredId": null,
+      "slug": "kombucha-captain-gutsy-original-400ml-2025037",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "831",
+        "966",
+        "967",
+        "999",
+        "1005"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Experiencias Jumbo",
+        "Infusiones Frías",
+        "Kombucha",
+        "Mundo Bio Natura",
+        "Orgánico"
+      ],
+      "collections": [
+        "23175"
+      ],
+      "brand": "Gutsy Captain",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146732",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.4,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 7475,
+          "ppumListPrice": 7475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/404763-250-250/Kombucha-Captain-Gutsy-Original-Organica-400-ml.jpg?v=638779826421970000"
+          ],
+          "name": "Kombucha Captain Gutsy Original Orgánica 400 ml",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146436",
+      "reference": "2025035",
+      "sponsoredId": null,
+      "slug": "kombucha-captain-gutsy-frambuesa-400ml-2025035",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "831",
+        "966",
+        "967",
+        "999",
+        "1005"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Experiencias Jumbo",
+        "Infusiones Frías",
+        "Kombucha",
+        "Mundo Bio Natura",
+        "Orgánico"
+      ],
+      "collections": [
+        "23175"
+      ],
+      "brand": "Gutsy Captain",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146730",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.4,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 7475,
+          "ppumListPrice": 7475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/404765-250-250/Kombucha-Captain-Gutsy-Frambuesa-Organica-400-ml.jpg?v=638779826422270000"
+          ],
+          "name": "Kombucha Captain Gutsy Frambuesa Orgánica 400 ml",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Kombucha",
+          "value": "/licores-bebidas-y-aguas/infusiones-frias/kombucha",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Kombucha",
+          "value": "/licores-bebidas-y-aguas/infusiones-frias/kombucha",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Kombucha",
+          "value": "/licores-bebidas-y-aguas/infusiones-frias/kombucha",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Kombuchacha",
+          "value": "Kombuchacha",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dr Kombú",
+          "value": "Dr Kombú",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ghali",
+          "value": "Ghali",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gutsy Captain",
+          "value": "Gutsy Captain",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Arándano cero",
+          "value": "Arándano cero",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cedrón cero",
+          "value": "Cedrón cero",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Durazno",
+          "value": "Durazno",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frambuesa",
+          "value": "Frambuesa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Guarana",
+          "value": "Guarana",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jengibre",
+          "value": "Jengibre",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jengibre cero",
+          "value": "Jengibre cero",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jengibre Limón",
+          "value": "Jengibre Limón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "KOMBUCHA . LIMA, GENGIBRE Y FRAMBUESA",
+          "value": "KOMBUCHA . LIMA, GENGIBRE Y FRAMBUESA",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limón-Jengibre",
+          "value": "Limón-Jengibre",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mango-Maracuya",
+          "value": "Mango-Maracuya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manzana Jengibre",
+          "value": "Manzana Jengibre",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "mix de berries",
+          "value": "mix de berries",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Original",
+          "value": "Original",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Té verde cero",
+          "value": "Té verde cero",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella de vidrio",
+          "value": "Botella de vidrio",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella plástico desechable",
+          "value": "Botella plástico desechable (bebidas)",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lata",
+          "value": "Lata",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "PET",
+          "value": "PET",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2100,
+          "maxValue": 5460
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Gasificado",
+      "key": "Gasificado",
+      "values": [
+        {
+          "displayName": "Con gas",
+          "value": "Con gas",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Gas",
+          "value": "Sin Gas",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Portugal",
+          "value": "Portugal",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Kombucha",
+          "value": "Kombucha",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Infusiones",
+          "value": "Infusiones",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "Entre 1 y 2 lt",
+          "value": "Entre 1 y 2 lt",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Menor a 1 lt",
+          "value": "Menor a 1 lt",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 28,
+  "metaTag": {
+    "title": "Kombuchas y Bebidas Fermentadas | Jumbo.cl",
+    "description": "Prueba kombuchas naturales en variedad de sabores frutales y herbales. Bebida fermentada refrescante y saludable. Ingresa a Jumbo.cl y descubre las ofertas que tenemos para ti"
+  }
+}

@@ -1,0 +1,1508 @@
+{
+  "products": [
+    {
+      "productId": "6591",
+      "reference": "302682",
+      "sponsoredId": null,
+      "slug": "huevos-grandes-blancos-santa-marta-bandeja-12-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "692"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos Tradicionales"
+      ],
+      "collections": [
+        "8865",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Santa Marta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6679",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 12,
+          "price": 3290,
+          "listPrice": 3990,
+          "ppumPrice": 274,
+          "ppumListPrice": 333,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/472952-250-250/Huevos-Santa-Marta-Grandes-Blancos-12-un.jpg?v=638871622429400000"
+          ],
+          "name": "Huevos Santa Marta Grandes Blancos 12 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3290,
+              "ppumPrice": 274,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "100436",
+      "reference": "1863084",
+      "sponsoredId": null,
+      "slug": "huevos-grandes-color-bandeja-12-un-cuisine-and-co-1863084",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "692",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos Tradicionales",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "8866",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "100705",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 12,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 333,
+          "ppumListPrice": 333,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/495095-250-250/Huevos-Cuisine---Co-Grandes-Color-12-un.jpg?v=638908740212770000"
+          ],
+          "name": "Huevos Cuisine & Co Grandes Color 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126287",
+      "reference": "1960680",
+      "sponsoredId": null,
+      "slug": "huevo-del-granero-gall-libr-extra-20un-1960680",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "840"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos de Campo y Gallina Libre"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Huevos del Granero",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126582",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 20,
+          "price": 7690,
+          "listPrice": 9120,
+          "ppumPrice": 385,
+          "ppumListPrice": 456,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/391944-250-250/Huevos-del-Granero-Gallina-Libre-Extra-20-un.jpg?v=638776869673730000"
+          ],
+          "name": "Huevos del Granero Gallinas Libres Extra Color 20 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 7690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 7690,
+              "ppumPrice": 385,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75290",
+      "reference": "1796259",
+      "sponsoredId": null,
+      "slug": "huevos-color-gallina-libre-la-castellana-20-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "840"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos de Campo y Gallina Libre"
+      ],
+      "collections": [
+        "8868"
+      ],
+      "brand": "La Castellana",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75547",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 20,
+          "price": 9180,
+          "listPrice": 9180,
+          "ppumPrice": 459,
+          "ppumListPrice": 459,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/512615-250-250/Huevos-La-Castellana-Color-Gallina-Libre-20-un.jpg?v=638944437974000000"
+          ],
+          "name": "Huevos La Castellana Color Gallina Libre 20 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "88025",
+      "reference": "1842649",
+      "sponsoredId": null,
+      "slug": "huevo-grande-blanco-30-un",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "692"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos Tradicionales"
+      ],
+      "collections": [
+        "8865",
+        "25638",
+        "25669",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Coliumo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "88296",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 30,
+          "price": 8790,
+          "listPrice": 9620,
+          "ppumPrice": 293,
+          "ppumListPrice": 321,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/512617-250-250/Huevos-Coliumo-Premium-Grandes-Blancos-30-un.jpg?v=638944437991270000"
+          ],
+          "name": "Huevos Coliumo Premium Grandes Blancos 30 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 8790 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 8790,
+              "ppumPrice": 293,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "108536",
+      "reference": "1904093",
+      "sponsoredId": null,
+      "slug": "huevo-grande-ext-gall-lib-cintazul-20un-1904093",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "840"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos de Campo y Gallina Libre"
+      ],
+      "collections": [
+        "8868"
+      ],
+      "brand": "Cintazul",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "108803",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 20,
+          "price": 8620,
+          "listPrice": 8620,
+          "ppumPrice": 431,
+          "ppumListPrice": 431,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/377065-250-250/HUEVO-GRANDE-EXT-GALL-LIB-CINTAZUL-20UN.jpg?v=638776810311770000"
+          ],
+          "name": "Huevos Cintazul Gallinas Libres de Jaula Extra 20 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "82352",
+      "reference": "1819205",
+      "sponsoredId": null,
+      "slug": "huevos-gallina-libre-20-un",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "840"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos de Campo y Gallina Libre"
+      ],
+      "collections": [
+        "8868",
+        "25338"
+      ],
+      "brand": "Ecoterra",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "82620",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 20,
+          "price": 10650,
+          "listPrice": 10650,
+          "ppumPrice": 533,
+          "ppumListPrice": 533,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/509222-250-250/Huevos-Ecoterra-Gallinas-Libres-20-un.jpg?v=638935589183970000"
+          ],
+          "name": "Huevos Ecoterra Gallinas Libres 20 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6579",
+      "reference": "1336632",
+      "sponsoredId": null,
+      "slug": "huevos-gallina-feliz-bandeja-12-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "840"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos de Campo y Gallina Libre"
+      ],
+      "collections": [
+        "8868"
+      ],
+      "brand": "Gallina Feliz",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6667",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 12,
+          "price": 6590,
+          "listPrice": 6590,
+          "ppumPrice": 549,
+          "ppumListPrice": 549,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348487-250-250/Huevos-Gallina-Feliz-12-unid.jpg?v=638776484832070000"
+          ],
+          "name": "Huevos Gallina Feliz Extra Grandes 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6592",
+      "reference": "302689",
+      "sponsoredId": null,
+      "slug": "huevos-grandes-blancos-santa-marta-bandeja-30-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "692"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos Tradicionales"
+      ],
+      "collections": [
+        "8865"
+      ],
+      "brand": "Santa Marta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6680",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 30,
+          "price": 9880,
+          "listPrice": 9880,
+          "ppumPrice": 329,
+          "ppumListPrice": 329,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348500-250-250/Huevos-grandes-blancos-Santa-Marta-30-unid.jpg?v=638776484999070000"
+          ],
+          "name": "Huevos Santa Marta Grandes Blancos 30 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "106337",
+      "reference": "1897091",
+      "sponsoredId": null,
+      "slug": "huevo-g-l-18un-gallina-feliz-1897091",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "840"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos de Campo y Gallina Libre"
+      ],
+      "collections": [
+        "8868"
+      ],
+      "brand": "Gallina Feliz",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "106602",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 18,
+          "price": 9490,
+          "listPrice": 9490,
+          "ppumPrice": 527,
+          "ppumListPrice": 527,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/375917-250-250/Huevos-gallina-libre-18-un.jpg?v=638776805502000000"
+          ],
+          "name": "Huevos Gallina Feliz Grandes 18 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6575",
+      "reference": "302672",
+      "sponsoredId": null,
+      "slug": "huevos-grandes-color-cintazul-bandeja-30-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "692"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos Tradicionales"
+      ],
+      "collections": [
+        "8866"
+      ],
+      "brand": "Cintazul",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6663",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 30,
+          "price": 9990,
+          "listPrice": 9990,
+          "ppumPrice": 333,
+          "ppumListPrice": 333,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348486-250-250/Principal-10011.jpg?v=638776484796800000"
+          ],
+          "name": "Huevos Cintazul Grandes Color 30 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6586",
+      "reference": "302687",
+      "sponsoredId": null,
+      "slug": "huevos-grandes-color-omega-3-bandeja-12-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "692"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos Tradicionales"
+      ],
+      "collections": [
+        "8867"
+      ],
+      "brand": "Omega 3",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6674",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 12,
+          "price": 4090,
+          "listPrice": 4090,
+          "ppumPrice": 341,
+          "ppumListPrice": 341,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348489-250-250/Huevos-grandes-color-Omega-3-12-unid.jpg?v=638776484872200000"
+          ],
+          "name": "Huevos Omega3 grandes Color 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "56770",
+      "reference": "1649053",
+      "sponsoredId": null,
+      "slug": "huevo-g-l-6-un-color-la-granja",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "840"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos de Campo y Gallina Libre"
+      ],
+      "collections": [
+        "8868"
+      ],
+      "brand": "La Granja",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "57086",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 6,
+          "price": 3050,
+          "listPrice": 3050,
+          "ppumPrice": 508,
+          "ppumListPrice": 508,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360133-250-250/Huevo-grande-La-Granja-color-6-unid.jpg?v=638776731273770000"
+          ],
+          "name": "Huevos La Granja Grandes Color 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6571",
+      "reference": "302674",
+      "sponsoredId": null,
+      "slug": "huevos-grandes-blancos-cintazul-bandeja-12-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "692"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos Tradicionales"
+      ],
+      "collections": [
+        "8865"
+      ],
+      "brand": "Cintazul",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6659",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 12,
+          "price": 4290,
+          "listPrice": 4290,
+          "ppumPrice": 358,
+          "ppumListPrice": 358,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348483-250-250/Huevos-grandes-blancos-12-un.jpg?v=638776484748130000"
+          ],
+          "name": "Huevos Cintazul Grandes Blancos 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "123817",
+      "reference": "1958064",
+      "sponsoredId": null,
+      "slug": "huevos-circulares-10un-ecoterra-1958064",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "831",
+        "840",
+        "999",
+        "1000"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Experiencias Jumbo",
+        "Huevos de Campo y Gallina Libre",
+        "Mundo Bio Natura",
+        "Eco Friendly"
+      ],
+      "collections": [
+        "25338"
+      ],
+      "brand": "Ecoterra",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "124104",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 10,
+          "price": 5850,
+          "listPrice": 5850,
+          "ppumPrice": 585,
+          "ppumListPrice": 585,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318604-250-250/Huevos-Circulares-10-un.jpg?v=638776415087570000"
+          ],
+          "name": "Huevos Ecoterra Gallinas Libres Circulares 10 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75289",
+      "reference": "1796258",
+      "sponsoredId": null,
+      "slug": "huevos-color-gallina-libre-la-castellana-12-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "19",
+        "840"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Huevos",
+        "Huevos de Campo y Gallina Libre"
+      ],
+      "collections": [
+        "8868",
+        "23175",
+        "25638"
+      ],
+      "brand": "La Castellana",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75546",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 5130,
+          "listPrice": 5130,
+          "ppumPrice": 5130,
+          "ppumListPrice": 5130,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/512614-250-250/Huevos-La-Castellana-Color-Gallina-Libre-12-un.jpg?v=638944437969170000"
+          ],
+          "name": "Huevos La Castellana Color Gallina Libre 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Huevos Tradicionales",
+          "value": "/lacteos-huevos-y-congelados/huevos/huevos-tradicionales",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huevos de Campo y Gallina Libre",
+          "value": "/lacteos-huevos-y-congelados/huevos/huevos-de-campo-y-gallina-libre",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huevos de Codorniz",
+          "value": "/lacteos-huevos-y-congelados/huevos/huevos-de-codorniz",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huevo en Polvo",
+          "value": "/lacteos-huevos-y-congelados/huevos/huevo-en-polvo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Huevos Tradicionales",
+          "value": "/lacteos-huevos-y-congelados/huevos/huevos-tradicionales",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huevos de Campo y Gallina Libre",
+          "value": "/lacteos-huevos-y-congelados/huevos/huevos-de-campo-y-gallina-libre",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huevos de Codorniz",
+          "value": "/lacteos-huevos-y-congelados/huevos/huevos-de-codorniz",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huevo en Polvo",
+          "value": "/lacteos-huevos-y-congelados/huevos/huevo-en-polvo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Huevos Tradicionales",
+          "value": "/lacteos-huevos-y-congelados/huevos/huevos-tradicionales",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huevos de Campo y Gallina Libre",
+          "value": "/lacteos-huevos-y-congelados/huevos/huevos-de-campo-y-gallina-libre",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huevos de Codorniz",
+          "value": "/lacteos-huevos-y-congelados/huevos/huevos-de-codorniz",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huevo en Polvo",
+          "value": "/lacteos-huevos-y-congelados/huevos/huevo-en-polvo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cintazul",
+          "value": "Cintazul",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Granja",
+          "value": "La Granja",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Santa Marta",
+          "value": "Santa Marta",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huevos del Granero",
+          "value": "Huevos del Granero",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Castellana",
+          "value": "La Castellana",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Coliumo",
+          "value": "Coliumo",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ecoterra",
+          "value": "Ecoterra",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gallina Feliz",
+          "value": "Gallina Feliz",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Omega 3",
+          "value": "Omega 3",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yemita",
+          "value": "Yemita",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Orgran",
+          "value": "Orgran",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Don Guillermo",
+          "value": "Don Guillermo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doña Blanca",
+          "value": "Doña Blanca",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Talagante",
+          "value": "Talagante",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Huevo de Gallina Libre/Feliz",
+          "value": "Huevo de Gallina Libre/Feliz",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huevo de Gallina",
+          "value": "Huevo de Gallina",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huevo de Codorniz",
+          "value": "Huevo de Codorniz",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huevo Vegano o Sustituto de Huevo",
+          "value": "Huevo Vegano o Sustituto de Huevo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 67,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 67,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2570,
+          "maxValue": 18990
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Blanco",
+          "value": "Blanco",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Color",
+          "value": "Color",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manchado",
+          "value": "Manchado",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "6 Unidades",
+          "value": "6",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "20 Unidades",
+          "value": "20",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "24 Unidades",
+          "value": "24",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "10 Unidades",
+          "value": "10 un.",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "12 Unidades",
+          "value": "12 colores",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "15 Unidades",
+          "value": "15 colgadores",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "18 Unidades",
+          "value": "18 collets",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "30 Unidades",
+          "value": "30 Unidades",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "40 Unidades.",
+          "value": "40 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "60 Unidades",
+          "value": "60 unidades",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Extra Grande",
+          "value": "Extra Grande",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Grande",
+          "value": "Grande",
+          "selected": false,
+          "quantity": 35,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mediano",
+          "value": "Mediano",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Único",
+          "value": "Único",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 70,
+  "metaTag": {
+    "title": "Huevos | Jumbo.cl",
+    "description": "¡Los huevos son el aporte nutritivo y versátil que tus menús necesitan! Encuentra huevos de gallina, huevos de codorniz y más en Jumbo."
+  }
+}

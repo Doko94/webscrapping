@@ -1,0 +1,4513 @@
+{
+  "products": [
+    {
+      "productId": "150348",
+      "reference": "2039858",
+      "sponsoredId": "VNaD6goQBpnzmaUdeCSFBIDIuB7h7hIQAZuyynjfd3Gozx4Vbf4vLhoQBjxues0Ed1-QJGMZ8MU0HiIKCgYxNTA2NDYQATCtsgFAkAdIAVDnheSvyTNgkAdyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "galleta-bipack-vai-2039858",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "26846",
+        "26888",
+        "27105",
+        "27507",
+        "27541"
+      ],
+      "brand": "Triton Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150646",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.19,
+          "price": 1000,
+          "listPrice": 1390,
+          "ppumPrice": 5263,
+          "ppumListPrice": 7316,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/458926-250-250/GALLETA-BIPACK-VAI.jpg?v=638863171076600000"
+          ],
+          "name": "Pack 2 un. Galleta Tritón Sabor Vainilla 95 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1000 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 21012026 AL 02052026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1000,
+              "ppumPrice": 5263,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "149236",
+      "reference": "2033069",
+      "sponsoredId": "iLGakwoQBpnzmaUdeCSFBIDIuB7h7hIQAZuyynjfd3Gozx4Vbf4vLhoQBjxues0Ed1-QJGMZ8MU0HiIKCgYxNDk1MzIQATCtsgFA4w5IAVDnheSvyTNg4w5yEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "galleta-tripack-2033069",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "25718",
+        "26846",
+        "26888",
+        "26912",
+        "27105",
+        "27367",
+        "27507"
+      ],
+      "brand": "Triton Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149532",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.348,
+          "price": 2500,
+          "listPrice": 2500,
+          "ppumPrice": 7184,
+          "ppumListPrice": 7184,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/444710-250-250/GALLETA-TRIPACK.jpg?v=638836335207630000"
+          ],
+          "name": "Pack 3 un. Galleta Triton Vainilla 116 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "148798",
+      "reference": "2033066",
+      "sponsoredId": "yJLzMwoQBpnzmaUdeCSFBIDIuB7h7hIQAZuyynjfd3Gozx4Vbf4vLhoQBjxues0Ed1-QJGMZ8MU0HiIKCgYxNDkwOTIQATCtsgFAyQlIAVDnheSvyTNgyQlyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "galleta-triton-vai-2033066",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "23175",
+        "23866",
+        "25347",
+        "25519",
+        "25520",
+        "25670",
+        "25718",
+        "26846",
+        "26888",
+        "26917",
+        "27105",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27507",
+        "27509",
+        "27518",
+        "27537",
+        "27541",
+        "27563"
+      ],
+      "brand": "Triton Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149092",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.116,
+          "price": 900,
+          "listPrice": 900,
+          "ppumPrice": 7759,
+          "ppumListPrice": 7759,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/434536-250-250/Galleta-Triton-Vainilla-116-g.jpg?v=638823547989600000"
+          ],
+          "name": "Galleta Triton Vainilla 116 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4X2400 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 2400,
+              "unitPrice": 600,
+              "ppumPrice": 5172,
+              "mQuantity": 4,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "150349",
+      "reference": "2039859",
+      "sponsoredId": "vhbHDQoQBpnzmaUdeCSFBIDIuB7h7hIQAZuyynjfd3Gozx4Vbf4vLhoQBjxues0Ed1-QJGMZ8MU0HiIKCgYxNTA2NDcQATCtsgFA_AVIAVDnheSvyTNg_AVyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "galleta-bipack-cho-2039859",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "26846",
+        "26888",
+        "27105",
+        "27507",
+        "27541"
+      ],
+      "brand": "Triton Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150647",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.19,
+          "price": 1000,
+          "listPrice": 1390,
+          "ppumPrice": 5263,
+          "ppumListPrice": 7316,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/458927-250-250/GALLETA-BIPACK-CHO.jpg?v=638863171086270000"
+          ],
+          "name": "Pack 2 un. Galleta Tritón Sabor Chocolate 95 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1000 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 21012026 AL 02052026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1000,
+              "ppumPrice": 5263,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "153040",
+      "reference": "2041541",
+      "sponsoredId": "ngFfXAoQBpnzmaUdeCSFBIDIuB7h7hIQAZuyynjfd3Gozx4Vbf4vLhoQBjxues0Ed1-QJGMZ8MU0HiIKCgYxNTMzMzcQATCtsgFAmwpIAVDnheSvyTNgmwpyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "galleta-tripack-triton-chocolate-348gr-2041541",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "25718",
+        "26846",
+        "26888",
+        "26912",
+        "27105",
+        "27367",
+        "27507"
+      ],
+      "brand": "Triton Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153337",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.348,
+          "price": 2500,
+          "listPrice": 2500,
+          "ppumPrice": 7184,
+          "ppumListPrice": 7184,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/478687-250-250/GALLETA-TRIPACK-TRITON-CHOCOLATE-348GR.jpg?v=638877184148000000"
+          ],
+          "name": "Pack 3 un. Galleta Triton Sabor Chocolate 116 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "139666",
+      "reference": "2004369",
+      "sponsoredId": null,
+      "slug": "galleta-frac-chocolate-110gr-2004369",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "17846",
+        "22087",
+        "22523",
+        "25333",
+        "25334",
+        "25354",
+        "25422",
+        "25670",
+        "25695",
+        "26816",
+        "26853",
+        "26912",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27541"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139959",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 820,
+          "listPrice": 820,
+          "ppumPrice": 7455,
+          "ppumListPrice": 7455,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/333001-250-250/Galleta-Frac-Chocolate-110-g.jpg?v=638776434500800000"
+          ],
+          "name": "Galleta Frac Chocolate 110 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X1890 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 1890,
+              "unitPrice": 630,
+              "ppumPrice": 5727,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "115631",
+      "reference": "1932773",
+      "sponsoredId": null,
+      "slug": "galleta-oreo-regular-108-gr-1932773",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "19270",
+        "22087",
+        "22523",
+        "23175",
+        "25300",
+        "25302",
+        "25333",
+        "25334",
+        "25354",
+        "25375",
+        "25422",
+        "25594",
+        "25597",
+        "25670",
+        "25695",
+        "25708",
+        "25833",
+        "25997",
+        "26124",
+        "26816",
+        "26853",
+        "26912",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27375",
+        "27376",
+        "27453",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27529",
+        "27537",
+        "27541",
+        "27556",
+        "27563"
+      ],
+      "brand": "Oreo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115901",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.108,
+          "price": 850,
+          "listPrice": 850,
+          "ppumPrice": 7870,
+          "ppumListPrice": 7870,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/563450-250-250/Galletas-Oreo-Rollo-Sabor-Original-108-g.jpg?v=639036608874930000"
+          ],
+          "name": "Galletas Oreo Rollo Sabor Original 108 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6X4 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mxn",
+              "value": 3400,
+              "unitPrice": 567,
+              "ppumPrice": 5250,
+              "mQuantity": 6,
+              "nQuantity": 4,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4006",
+      "reference": "887653",
+      "sponsoredId": null,
+      "slug": "galletas-griesson-500-g-crema-de-cacao",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "18357",
+        "19606",
+        "22087",
+        "25333",
+        "25334",
+        "25422",
+        "25638",
+        "25695",
+        "26912",
+        "27367"
+      ],
+      "brand": "Griesson Duo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4015",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 6980,
+          "ppumListPrice": 6980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299908-250-250/Galletas-duo-chocolate-500-g.jpg?v=638776371388370000"
+          ],
+          "name": "Galletas Griesson Duo Chocolate 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "148800",
+      "reference": "2033068",
+      "sponsoredId": "_AcJdQoQBpnzmaUdeCSFBIDIuB7h7hIQAZuyynjfd3Gozx4Vbf4vLhoQBjxues0Ed1-QJGMZ8MU0HiIKCgYxNDkwOTQQATCtsgFA2wZIAVDnheSvyTNg2wZyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "galleta-triton-nar-2033068",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "23175",
+        "25347",
+        "25519",
+        "25520",
+        "25670",
+        "25718",
+        "26846",
+        "26888",
+        "26917",
+        "27105",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27507",
+        "27509",
+        "27518",
+        "27537",
+        "27541",
+        "27563"
+      ],
+      "brand": "Triton Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149094",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.116,
+          "price": 900,
+          "listPrice": 900,
+          "ppumPrice": 7759,
+          "ppumListPrice": 7759,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/434540-250-250/Galleta-Triton-Naranja-116-g.jpg?v=638823548022630000"
+          ],
+          "name": "Galleta Triton Naranja 116 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4X2400 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 2400,
+              "unitPrice": 600,
+              "ppumPrice": 5172,
+              "mQuantity": 4,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3926",
+      "reference": "1031150",
+      "sponsoredId": null,
+      "slug": "galletas-dulces-costa-100-g-donuts-chocolate-de-leche",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "17846",
+        "22085",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25670",
+        "25695",
+        "26816",
+        "26853",
+        "26912",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27541",
+        "27563"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3935",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1190,
+          "listPrice": 1450,
+          "ppumPrice": 11900,
+          "ppumListPrice": 14500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347032-250-250/Galletas-Donuts-leche-100-g.jpg?v=638776466150270000"
+          ],
+          "name": "Galletas Donuts Chocolate 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1190 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1190,
+              "ppumPrice": 11900,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X2200 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 2200,
+              "unitPrice": 1100,
+              "ppumPrice": 11000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3940",
+      "reference": "269339",
+      "sponsoredId": null,
+      "slug": "galletas-dulces-costa-85-g-obsesion",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "19270",
+        "22085"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3949",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 1290,
+          "listPrice": 1290,
+          "ppumPrice": 15176,
+          "ppumListPrice": 15176,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347044-250-250/Galletas-Obsesion-85-g.jpg?v=638776466312630000"
+          ],
+          "name": "Galletas Obsesión Clásica 85 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4147",
+      "reference": "462227",
+      "sponsoredId": null,
+      "slug": "galletas-rigochoc-arcor-113-g-9-unid-banadas-chocolate-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "17846",
+        "22085",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25709",
+        "26912",
+        "27367"
+      ],
+      "brand": "Rigochoc Arcor",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4156",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.113,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 12301,
+          "ppumListPrice": 12301,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/523965-250-250/Galleta-Dos-en-Uno-Rigochoc-113-g.jpg?v=638959917441000000"
+          ],
+          "name": "Galleta Dos en Uno Rigóchoc 113 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "152951",
+      "reference": "2041416",
+      "sponsoredId": "DwV4cwoQBpnzmaUdeCSFBIDIuB7h7hIQAZuyynjfd3Gozx4Vbf4vLhoQBjxues0Ed1-QJGMZ8MU0HiIKCgYxNTMyNTAQATCtsgFAoAZIAVDnheSvyTNgoAZyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "galleta-triton-2041416",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "25670",
+        "25718",
+        "26846",
+        "26888",
+        "26917",
+        "27105",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27507",
+        "27509",
+        "27518",
+        "27537",
+        "27541",
+        "27563"
+      ],
+      "brand": "Triton Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153250",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.116,
+          "price": 900,
+          "listPrice": 900,
+          "ppumPrice": 7759,
+          "ppumListPrice": 7759,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/478680-250-250/GALLETA-TRITON.jpg?v=638877184106900000"
+          ],
+          "name": "Galleta Triton Sabor Frutilla 116 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4X2400 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 2400,
+              "unitPrice": 600,
+              "ppumPrice": 5172,
+              "mQuantity": 4,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3952",
+      "reference": "437680",
+      "sponsoredId": null,
+      "slug": "galletas-gretel-costa-85-g-rellenas-con-crema-de-chocolate-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22085"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3961",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 1450,
+          "listPrice": 1450,
+          "ppumPrice": 17059,
+          "ppumListPrice": 17059,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347053-250-250/Galletas-Gretel-rellenas-con-chocolate-85-g.jpg?v=638776466433430000"
+          ],
+          "name": "Galletas Gretel Chocolate 85 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "112461",
+      "reference": "1904036",
+      "sponsoredId": null,
+      "slug": "galleta-wafers-chocolate-cuisine-and-co-150g-1904036",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "894",
+        "895",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "22085",
+        "25689",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27047",
+        "27048",
+        "27049",
+        "27051",
+        "27056",
+        "27057",
+        "27060",
+        "27061",
+        "27065",
+        "27066",
+        "27067",
+        "27068",
+        "27070",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112729",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 1000,
+          "listPrice": 1590,
+          "ppumPrice": 6667,
+          "ppumListPrice": 10600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/379700-250-250/Galletas-wafers-chocolate-150-g.jpg?v=638776820216770000"
+          ],
+          "name": "Galletas Wafers Cuisine & Co Chocolate 150 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1000 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO CICLO 1 DESDE EL 25 FE 25022026 AL 02032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO CICLO 1 DESDE EL 25 FE",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1000,
+              "ppumPrice": 6667,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "139659",
+      "reference": "2004368",
+      "sponsoredId": null,
+      "slug": "galleta-frac-clasica-110-gr-2004368",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "17846",
+        "22087",
+        "22523",
+        "25333",
+        "25334",
+        "25354",
+        "25422",
+        "25670",
+        "25695",
+        "26816",
+        "26853",
+        "26912",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27541"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139950",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 820,
+          "listPrice": 820,
+          "ppumPrice": 7455,
+          "ppumListPrice": 7455,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/332620-250-250/Galleta-Frac-Clasica-110-g.jpg?v=638776434205270000"
+          ],
+          "name": "Galleta Frac Clásica 110 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X1890 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 1890,
+              "unitPrice": 630,
+              "ppumPrice": 5727,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3927",
+      "reference": "1035074",
+      "sponsoredId": null,
+      "slug": "galletas-dulces-costa-100-g-donuts-orange-bitter",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "17846",
+        "22085",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25670",
+        "25695",
+        "26816",
+        "26853",
+        "26912",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27541",
+        "27563"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3936",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1190,
+          "listPrice": 1450,
+          "ppumPrice": 11900,
+          "ppumListPrice": 14500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347033-250-250/Galletas-Donuts-Orange-bitter-100-g.jpg?v=638776466163500000"
+          ],
+          "name": "Galletas Donuts Orange Bitter 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1190 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1190,
+              "ppumPrice": 11900,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X2200 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 2200,
+              "unitPrice": 1100,
+              "ppumPrice": 11000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4026",
+      "reference": "269405",
+      "sponsoredId": null,
+      "slug": "galletas-holanda-dos-en-uno-bolsa-300-g-bocaditos-con-mermelada-de-membrillo",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "19270",
+        "22085",
+        "22523",
+        "25709"
+      ],
+      "brand": "Dos en Uno",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4035",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 2590,
+          "listPrice": 2590,
+          "ppumPrice": 8633,
+          "ppumListPrice": 8633,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347082-250-250/Galletas-300-g.jpg?v=638776466839200000"
+          ],
+          "name": "Galletas Bocaditos 300 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "18870",
+      "reference": "1441648",
+      "sponsoredId": null,
+      "slug": "galleta-gustino-125-g-sabor-choco-rolls",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "18357",
+        "19270",
+        "22085",
+        "27261",
+        "27305"
+      ],
+      "brand": "Gottena",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "19194",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 1890,
+          "listPrice": 3190,
+          "ppumPrice": 15120,
+          "ppumListPrice": 25520,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304135-250-250/Galletas-choco-rolls-125-g.jpg?v=638776379148200000"
+          ],
+          "name": "Rollitos de Barquillos Gottena Choco Rolls 125 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1890 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 24022026 AL 09032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1890,
+              "ppumPrice": 15120,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "139658",
+      "reference": "2004367",
+      "sponsoredId": null,
+      "slug": "galleta-frac-vainilla-110-gr-2004367",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "17846",
+        "22087",
+        "22523",
+        "25333",
+        "25334",
+        "25354",
+        "25422",
+        "25670",
+        "25695",
+        "26816",
+        "26853",
+        "26912",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27541",
+        "27563"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139949",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 820,
+          "listPrice": 820,
+          "ppumPrice": 7455,
+          "ppumListPrice": 7455,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/332583-250-250/Galleta-Frac-Vainilla-110-g.jpg?v=638776434180100000"
+          ],
+          "name": "Galleta Frac Vainilla 110 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X1890 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 1890,
+              "unitPrice": 630,
+              "ppumPrice": 5727,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3928",
+      "reference": "269350",
+      "sponsoredId": null,
+      "slug": "galletas-dulces-costa-120-g-tuareg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22087",
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25354",
+        "25422",
+        "25695"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3937",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 730,
+          "listPrice": 730,
+          "ppumPrice": 6083,
+          "ppumListPrice": 6083,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347034-250-250/Galletas-Tuareg-120-g.jpg?v=638776466176500000"
+          ],
+          "name": "Galletas Tuareg Coco 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4007",
+      "reference": "887654",
+      "sponsoredId": null,
+      "slug": "galletas-griesson-500-g-crema-de-vainilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "18357",
+        "19606",
+        "22087",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367"
+      ],
+      "brand": "Griesson Duo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4016",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 6980,
+          "ppumListPrice": 6980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299923-250-250/Galletas-duo-vainilla-500-g.jpg?v=638776371416500000"
+          ],
+          "name": "Galletas Griesson Duo Vainilla 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "106025",
+      "reference": "1898634",
+      "sponsoredId": null,
+      "slug": "galleta-chokita-mckay-10-un-300-gr-1898634",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "22085",
+        "22523",
+        "25347",
+        "25519",
+        "25520",
+        "26777",
+        "26793",
+        "26794",
+        "26912",
+        "27105",
+        "27367",
+        "27499",
+        "27501",
+        "27507",
+        "27512",
+        "27541",
+        "27563"
+      ],
+      "brand": "Chokita",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "106292",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 3590,
+          "listPrice": 4490,
+          "ppumPrice": 11967,
+          "ppumListPrice": 14967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/375497-250-250/1898634-01_610808.jpg?v=638776803909170000"
+          ],
+          "name": "Galleta Rellena Chokita Bañada Chocolate 300 g 10 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3590 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3590,
+              "ppumPrice": 11967,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3884",
+      "reference": "1418041",
+      "sponsoredId": null,
+      "slug": "galletas-arcor-95-g-bon-o-bon",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "19270",
+        "22085",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25709",
+        "27499",
+        "27501",
+        "27541"
+      ],
+      "brand": "Arcor",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3893",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.095,
+          "price": 1290,
+          "listPrice": 1600,
+          "ppumPrice": 13579,
+          "ppumListPrice": 16842,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/523430-250-250/Galleta-Bon-O-Bon-95-g.jpg?v=638959915903070000"
+          ],
+          "name": "Galleta Bon O Bon 95 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1290,
+              "ppumPrice": 13579,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "113175",
+      "reference": "1926087",
+      "sponsoredId": null,
+      "slug": "galletas-delicias-rec-de-la-abuela-220-g-1926087",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "19270",
+        "22085",
+        "22523",
+        "25709"
+      ],
+      "brand": "Arcor",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "113444",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.22,
+          "price": 2490,
+          "listPrice": 2490,
+          "ppumPrice": 11318,
+          "ppumListPrice": 11318,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/380404-250-250/Galletas-Delicias-Receta-de-la-Abuela-220-g.jpg?v=638776823104200000"
+          ],
+          "name": "Galletas Delicias Receta de La Abuela 220 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3941",
+      "reference": "537050",
+      "sponsoredId": null,
+      "slug": "galletas-dulces-costa-85-g-obsesion-mani",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22085"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3950",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 1450,
+          "listPrice": 1450,
+          "ppumPrice": 17059,
+          "ppumListPrice": 17059,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347045-250-250/537050.jpg?v=638776466324400000"
+          ],
+          "name": "Galletas Obsesión Maní 85 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "127566",
+      "reference": "1968683",
+      "sponsoredId": null,
+      "slug": "galleta-cubierta-trencito-130gr-1968683",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "17846",
+        "22085",
+        "23175",
+        "25347",
+        "25519",
+        "25520",
+        "26816",
+        "26853",
+        "26916",
+        "27092",
+        "27105",
+        "27280",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27507"
+      ],
+      "brand": "Trencito",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127860",
+          "cartLimit": 9,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 1790,
+          "listPrice": 1790,
+          "ppumPrice": 14917,
+          "ppumListPrice": 14917,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393639-250-250/Galletas-Trencito-Cubierta-de-Chocolate-130-g.jpg?v=638776875448330000"
+          ],
+          "name": "Galletas Trencito Cubierta de Chocolate 130 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4005",
+      "reference": "887656",
+      "sponsoredId": null,
+      "slug": "galletas-griesson-150-g-en-forma-de-baston-cubiertos-de-chocolate",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "18357",
+        "19606",
+        "22085",
+        "26912",
+        "27367"
+      ],
+      "brand": "Griesson",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4014",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 2790,
+          "listPrice": 2790,
+          "ppumPrice": 18600,
+          "ppumListPrice": 18600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300151-250-250/Galletas-con-chocolate-sticks-150-g.jpg?v=638776371875030000"
+          ],
+          "name": "Galletas Griesson con Chocolate Sticks 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "55115",
+      "reference": "1698144",
+      "sponsoredId": null,
+      "slug": "galletas-merba-apple-pie-225-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "14967",
+        "22085",
+        "24952"
+      ],
+      "brand": "Merba",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55405",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.225,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 15511,
+          "ppumListPrice": 15511,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308872-250-250/Galletas-apple-pie-225-g.jpg?v=638776387711500000"
+          ],
+          "name": "Galletas Merba Apple Pie 225 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "87431",
+      "reference": "1821202",
+      "sponsoredId": null,
+      "slug": "galleta-frambuesa-suave-300-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "18357",
+        "19270",
+        "22085"
+      ],
+      "brand": "Gottena",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "87702",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 13300,
+          "ppumListPrice": 13300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311703-250-250/Galletas-frambuesa-suave-300-g.jpg?v=638776394397330000"
+          ],
+          "name": "Galletas Gottena Frambuesa Suave 300 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "115590",
+      "reference": "1932468",
+      "sponsoredId": null,
+      "slug": "galleta-oreo-c-and-c-108-gr-1932468",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22087",
+        "22523",
+        "23175",
+        "25300",
+        "25302",
+        "25333",
+        "25334",
+        "25354",
+        "25375",
+        "25422",
+        "25594",
+        "25597",
+        "25670",
+        "25695",
+        "25708",
+        "25833",
+        "25997",
+        "26124",
+        "26816",
+        "26853",
+        "26912",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27375",
+        "27376",
+        "27453",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27529",
+        "27537",
+        "27541",
+        "27556"
+      ],
+      "brand": "Oreo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115865",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.108,
+          "price": 920,
+          "listPrice": 920,
+          "ppumPrice": 8519,
+          "ppumListPrice": 8519,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/510445-250-250/Galletas-Oreo-Rollo-Sabor-Cookies---Cream-108-g.jpg?v=638940923054570000"
+          ],
+          "name": "Galletas Oreo Rollo Sabor Cookies & Cream 108 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6X4 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mxn",
+              "value": 3680,
+              "unitPrice": 613,
+              "ppumPrice": 5676,
+              "mQuantity": 6,
+              "nQuantity": 4,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "157579",
+      "reference": "2052098",
+      "sponsoredId": null,
+      "slug": "galleta-kuky-150-gr-2052098",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27541",
+        "27563"
+      ],
+      "brand": "Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "157899",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 1000,
+          "listPrice": 1390,
+          "ppumPrice": 6667,
+          "ppumListPrice": 9267,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/516253-250-250/GALLETA-KUKY-150-GR.jpg?v=638947492824400000"
+          ],
+          "name": "Galletas Kuky 150 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1000 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 21012026 AL 02052026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1000,
+              "ppumPrice": 6667,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "140120",
+      "reference": "2004371",
+      "sponsoredId": null,
+      "slug": "galleta-frac-bi-frutilla-110gr-2004371",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "17846",
+        "22087",
+        "22523",
+        "25333",
+        "25334",
+        "25354",
+        "25422",
+        "25670",
+        "25695",
+        "26816",
+        "26853",
+        "26912",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27541",
+        "27563"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "140413",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 820,
+          "listPrice": 820,
+          "ppumPrice": 7455,
+          "ppumListPrice": 7455,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/334213-250-250/GALLETA-FRAC-BI-FRUTILLA-110GR.jpg?v=638776435487700000"
+          ],
+          "name": "Galleta Frac Bi Frutilla 110 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X1890 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 1890,
+              "unitPrice": 630,
+              "ppumPrice": 5727,
+              "mQuantity": 3,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "112460",
+      "reference": "1904037",
+      "sponsoredId": null,
+      "slug": "galleta-wafers-avellana-cuisine-and-co-150g-1904037",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "894",
+        "895",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "22085",
+        "25689",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27047",
+        "27048",
+        "27049",
+        "27051",
+        "27056",
+        "27057",
+        "27060",
+        "27061",
+        "27065",
+        "27066",
+        "27067",
+        "27068",
+        "27070",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112726",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 1000,
+          "listPrice": 1590,
+          "ppumPrice": 6667,
+          "ppumListPrice": 10600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/379692-250-250/Galletas-wafers-avellana-150-g.jpg?v=638776820147670000"
+          ],
+          "name": "Galletas Wafers Cuisine & Co Avellana 150 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1000 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO CICLO 1 DESDE EL 25 FE 25022026 AL 02032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO CICLO 1 DESDE EL 25 FE",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1000,
+              "ppumPrice": 6667,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4133",
+      "reference": "1222063",
+      "sponsoredId": null,
+      "slug": "sixpack-galleta-oreo-vainilla-6-unid-36-g-cu-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "22087",
+        "25300",
+        "25302",
+        "25594",
+        "25597",
+        "25997",
+        "26912",
+        "27367",
+        "27375",
+        "27376",
+        "27453",
+        "27455",
+        "27499",
+        "27501",
+        "27541",
+        "27556",
+        "27563"
+      ],
+      "brand": "Oreo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4142",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.216,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 10139,
+          "ppumListPrice": 10139,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300158-250-250/Galletas-Oreo-Sabor-Original-Sixpack-de-36g-c-u.jpg?v=638776371891730000"
+          ],
+          "name": "Pack Galletas Oreo Sabor Original 36 g 6 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4X5990 - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 23022026 AL 25022026",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "mx",
+              "value": 5990,
+              "unitPrice": 1498,
+              "ppumPrice": 6935,
+              "mQuantity": 4,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "112462",
+      "reference": "1904038",
+      "sponsoredId": null,
+      "slug": "galleta-wafers-coco-cuisine-and-co-150g-1904038",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "894",
+        "895",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "22085",
+        "25689",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27047",
+        "27048",
+        "27049",
+        "27051",
+        "27056",
+        "27057",
+        "27060",
+        "27061",
+        "27065",
+        "27066",
+        "27067",
+        "27068",
+        "27070",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112727",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 1000,
+          "listPrice": 1590,
+          "ppumPrice": 6667,
+          "ppumListPrice": 10600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/379689-250-250/Galletas-wafers-coco-150-g.jpg?v=638776820146100000"
+          ],
+          "name": "Galletas Wafers Cuisine & Co Coco 150 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1000 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO CICLO 1 DESDE EL 25 FE 25022026 AL 02032026",
+              "description": "JUMBO CICLO SEMANAL JUMBO CICLO 1 DESDE EL 25 FE",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1000,
+              "ppumPrice": 6667,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "115343",
+      "reference": "1934087",
+      "sponsoredId": null,
+      "slug": "galleta-oreo-golden-108gr-1934087",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22087",
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25354",
+        "25375",
+        "25422",
+        "25670",
+        "25695",
+        "26816",
+        "26853",
+        "26912",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27375",
+        "27376",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27529",
+        "27537",
+        "27541",
+        "27563"
+      ],
+      "brand": "Oreo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115606",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.108,
+          "price": 920,
+          "listPrice": 920,
+          "ppumPrice": 8519,
+          "ppumListPrice": 8519,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/510458-250-250/Galletas-Oreo-Rollo-Sabor-Vainilla-108-g.jpg?v=638940923163100000"
+          ],
+          "name": "Galletas Oreo Rollo Sabor Vainilla 108 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6X4 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mxn",
+              "value": 3680,
+              "unitPrice": 613,
+              "ppumPrice": 5676,
+              "mQuantity": 6,
+              "nQuantity": 4,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "91859",
+      "reference": "1842612",
+      "sponsoredId": null,
+      "slug": "galleta-choco-rolls-amargo-gustino-125-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "18357",
+        "19270",
+        "22085",
+        "27261",
+        "27305"
+      ],
+      "brand": "Gustino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "92106",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 1890,
+          "listPrice": 3190,
+          "ppumPrice": 15120,
+          "ppumListPrice": 25520,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312288-250-250/Galletas-choco-rolls-con-chocolate-amargo-125-g.jpg?v=638776396079400000"
+          ],
+          "name": "Galletas Gustino Choco Rolls con Chocolate Amargo 125 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1890 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 24022026 AL 09032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1890,
+              "ppumPrice": 15120,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3942",
+      "reference": "1027136",
+      "sponsoredId": null,
+      "slug": "galletas-dulces-costa-95-g-individual-donuts-coco-crunch-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "17846",
+        "22085",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25670",
+        "25695",
+        "26816",
+        "26853",
+        "26912",
+        "26916",
+        "26917",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27541",
+        "27563"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3951",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.095,
+          "price": 1190,
+          "listPrice": 1450,
+          "ppumPrice": 12526,
+          "ppumListPrice": 15263,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347046-250-250/Galletas-Donuts-coco-crunch-95-g.jpg?v=638776466339930000"
+          ],
+          "name": "Galletas Donuts Coco Crunch 95 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1190 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1190,
+              "ppumPrice": 12526,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X2200 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 2200,
+              "unitPrice": 1100,
+              "ppumPrice": 11579,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4012",
+      "reference": "670077",
+      "sponsoredId": null,
+      "slug": "galleta-classic-rellenas-de-limon-y-ginseng-grisbi-vicenzi-150-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1054"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Rellenas y Bañadas"
+      ],
+      "collections": [
+        "14878",
+        "14882",
+        "14967",
+        "18359",
+        "21726",
+        "22085",
+        "27261",
+        "27499",
+        "27501",
+        "27541",
+        "27547",
+        "27563"
+      ],
+      "brand": "Matilde Vicenzi",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4021",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 1690,
+          "listPrice": 2990,
+          "ppumPrice": 11267,
+          "ppumListPrice": 19933,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299964-250-250/Galletas-Grisbi-rellenas-sabor-limon-150-g.jpg?v=638776371497400000"
+          ],
+          "name": "Galletas Matilde Vicenzi Grisbi Rellenas Sabor Limón 150 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1690 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 24022026 AL 09032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1690,
+              "ppumPrice": 11267,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Galletas Rellenas y Bañadas",
+          "value": "/chocolates-galletas-y-snacks/galletas-dulces/galletas-rellenas-y-banadas",
+          "selected": false,
+          "quantity": 124,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Galletas Rellenas y Bañadas",
+          "value": "/chocolates-galletas-y-snacks/galletas-dulces/galletas-rellenas-y-banadas",
+          "selected": false,
+          "quantity": 124,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Galletas Rellenas y Bañadas",
+          "value": "/chocolates-galletas-y-snacks/galletas-dulces/galletas-rellenas-y-banadas",
+          "selected": false,
+          "quantity": 124,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Costa",
+          "value": "Costa",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Oreo",
+          "value": "Oreo",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Griesson Duo",
+          "value": "Griesson Duo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Triton Mckay",
+          "value": "Triton Mckay",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rigochoc Arcor",
+          "value": "Rigochoc Arcor",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dos en Uno",
+          "value": "Dos en Uno",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gottena",
+          "value": "Gottena",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chokita",
+          "value": "Chokita",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arcor",
+          "value": "Arcor",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trencito",
+          "value": "Trencito",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Griesson",
+          "value": "Griesson",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Merba",
+          "value": "Merba",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mckay",
+          "value": "Mckay",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gustino",
+          "value": "Gustino",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Matilde Vicenzi",
+          "value": "Matilde Vicenzi",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "En Línea",
+          "value": "En Línea",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bon O Bon",
+          "value": "Bon O Bon",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nestlé",
+          "value": "Nestlé",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lambertz",
+          "value": "Lambertz",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gullón",
+          "value": "Gullón",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nutella",
+          "value": "Nutella",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Selz",
+          "value": "Selz",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hanuta",
+          "value": "Hanuta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Elgorriaga",
+          "value": "Elgorriaga",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vicenzi",
+          "value": "Vicenzi",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pepero",
+          "value": "Pepero",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Coolky",
+          "value": "Coolky",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Orgran",
+          "value": "Orgran",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletería de Laura R.",
+          "value": "Galletería de Laura R.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Australia",
+          "value": "Australia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brasil",
+          "value": "Brasil",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 51,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Corea del Sur",
+          "value": "Corea del Sur",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ecuador",
+          "value": "Ecuador",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Países Bajos",
+          "value": "Países Bajos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Perú",
+          "value": "Perú",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Polonia",
+          "value": "Polonia",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 66,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 58,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "3 Unidades",
+          "value": "3",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6 Unidades",
+          "value": "6",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "10 Unidades",
+          "value": "10 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "120 g",
+          "value": "120 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 117,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 117,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 73,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 63,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 56,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 690,
+          "maxValue": 5990
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "85",
+          "value": "85",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "10 unidades",
+          "value": "10 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "100 g",
+          "value": "100 g",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "110 g",
+          "value": "110 g",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "117 g",
+          "value": "117 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "120 g",
+          "value": "120 g",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "131 g",
+          "value": "131 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "150 g",
+          "value": "150 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "175 gr",
+          "value": "175 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "180 g",
+          "value": "180 g",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "300 g",
+          "value": "300 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "36 g",
+          "value": "36 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "39 g",
+          "value": "39 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "432 g",
+          "value": "432 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "85 g",
+          "value": "85 g",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "95 g",
+          "value": "95 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Crema",
+          "value": "Crema",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entera",
+          "value": "Entera",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Envasado",
+          "value": "ENVASADO",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Formato Individual",
+          "value": "Formato Individual",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Cacao",
+          "value": "Cacao",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cacao naranja",
+          "value": "Cacao naranja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Canela y leche condensada",
+          "value": "Canela y leche condensada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chcolate",
+          "value": "Chcolate",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chips de chocolate",
+          "value": "Chips de chocolate",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate",
+          "value": "Chocolate",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate Vainilla",
+          "value": "Chocolate Vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate y vainilla",
+          "value": "Chocolate y vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Coco",
+          "value": "Coco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galleta de Vainilla con relleno de crema de vainilla.",
+          "value": "Galleta de Vainilla con relleno de crema de vainilla.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas de Chocolate con relleno de crema sabor vainilla",
+          "value": "Galletas de Chocolate con relleno de crema sabor vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas de Chocolate rellenas con crema Cookies and cream",
+          "value": "Galletas de Chocolate rellenas con crema Cookies and cream",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas de Chocolate rellenas de crema sabor chocolate",
+          "value": "Galletas de Chocolate rellenas de crema sabor chocolate",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limon",
+          "value": "Limon",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limón",
+          "value": "Limón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Maní",
+          "value": "Maní",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Naranja",
+          "value": "Naranja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Original",
+          "value": "Original",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sabor canela y leche condensada",
+          "value": "Sabor canela y leche condensada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vainilla",
+          "value": "Vainilla",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Galletas Tradicionales",
+          "value": "Galletas Tradicionales",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Bañadas y Rellenas",
+          "value": "Galletas Bañadas y Rellenas",
+          "selected": false,
+          "quantity": 73,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Importadas",
+          "value": "Galletas Importadas",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas de Champaña",
+          "value": "Galletas de Champaña",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Chips",
+          "value": "Galletas Chips",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Oblea",
+          "value": "Galletas Oblea",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Clásicas",
+          "value": "Galletas Clásicas",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas de Arroz",
+          "value": "Galletas de Arroz",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Snacks Mix Dulces",
+          "value": "Snacks Mix Dulces",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Veganas",
+          "value": "Galletas Veganas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alfajores",
+          "value": "Alfajores",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack",
+          "value": "Pack",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 69,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "Chocolate",
+          "value": "Chocolate",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crema de Avellana Nutella",
+          "value": "Crema de Avellana Nutella",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crema sabor canela y leche condensada",
+          "value": "Crema sabor canela y leche condensada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "crema sabor canela y leche condensada",
+          "value": "crema sabor canela y leche condensada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crema sabor Vainilla",
+          "value": "Crema sabor Vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crema Vainilla",
+          "value": "Crema Vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Relleno con Crema",
+          "value": "Relleno con Crema",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sabor vainilla",
+          "value": "Sabor vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vainilla",
+          "value": "Vainilla",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Bañada",
+          "value": "Bañada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Clásica",
+          "value": "Clásica",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce",
+          "value": "Dulce",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulces",
+          "value": "Dulces",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Bañadas y Rellenas",
+          "value": "Galletas Bañadas y Rellenas",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Tradicionales",
+          "value": "Galletas Tradicionales",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mini",
+          "value": "Mini",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Navidad",
+          "value": "Navidad",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Orgánico",
+      "key": "Orgánico",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "NO",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 124,
+  "metaTag": null
+}

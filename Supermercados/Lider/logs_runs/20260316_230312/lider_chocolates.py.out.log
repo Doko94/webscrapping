@@ -1,0 +1,90 @@
+[DEBUG] Landing URL final: https://super.lider.cl/browse/chocolates/29989562
+[DEBUG] Landing title: Tu tienda en línea Chile
+[DEBUG] No se pudo inferir taxonomía desde JSON/facetas. Se usará fallback con una sola categoría base.
+
+[DEBUG] Subcategorías finales detectadas:
+ - [Chocolates] Chocolates -> https://super.lider.cl/browse/chocolates/29989562
+
+[1/1] Scrape: [Chocolates] Chocolates
+    page 1: procesando DOM
+      scroll round 1: anchors=24
+      scroll round 2: anchors=44
+      scroll round 3: anchors=44
+      scroll round 4: anchors=44
+      scroll round 5: anchors=44
+      scroll round 6: anchors=44
+      scroll round 7: anchors=44
+      scroll round 8: anchors=44
+    page 1: visibles=44, nuevos=44, acumulados=44
+    page 1: sample_skus=['00844529055042', '00780221511078', '00780220085235', '00780220085206', '00800483803341', '00844529055045', '00780221511082', '00780221511086', '00780220085042', '00762221083554']
+    page 2: procesando DOM
+      scroll round 1: anchors=24
+      scroll round 2: anchors=44
+      scroll round 3: anchors=44
+      scroll round 4: anchors=44
+      scroll round 5: anchors=44
+      scroll round 6: anchors=44
+      scroll round 7: anchors=44
+      scroll round 8: anchors=44
+    page 2: visibles=44, nuevos=44, acumulados=88
+    page 2: sample_skus=['00780222557447', '00780222557401', '00800334009543', '00780222557186', '00003400019646', '00780222557279', '00400053969450', '00400053968062', '00779058041244', '00780224500901']
+    page 3: procesando DOM
+      scroll round 1: anchors=24
+      scroll round 2: anchors=44
+      scroll round 3: anchors=44
+      scroll round 4: anchors=44
+      scroll round 5: anchors=44
+      scroll round 6: anchors=44
+      scroll round 7: anchors=44
+      scroll round 8: anchors=44
+    page 3: visibles=44, nuevos=44, acumulados=132
+    page 3: sample_skus=['00780221510148', '00062891501151', '00761303443927', '00789100036862', '00003400070232', '00780210000511', '00780221512469', '00780220089348', '00789100024876', '00062891501148']
+    page 4: procesando DOM
+      scroll round 1: anchors=24
+      scroll round 2: anchors=44
+      scroll round 3: anchors=44
+      scroll round 4: anchors=44
+      scroll round 5: anchors=44
+      scroll round 6: anchors=44
+      scroll round 7: anchors=44
+      scroll round 8: anchors=44
+    page 4: visibles=44, nuevos=44, acumulados=176
+    page 4: sample_skus=['00780221510147', '00844529048053', '00780222551287', '00541085073984', '00789802439786', '00004000051420', '00762220168837', '00762221082472', '00402570000196', '00844529125173']
+    page 5: procesando DOM
+      scroll round 1: anchors=24
+      scroll round 2: anchors=36
+      scroll round 3: anchors=44
+      scroll round 4: anchors=44
+      scroll round 5: anchors=44
+      scroll round 6: anchors=44
+      scroll round 7: anchors=44
+      scroll round 8: anchors=44
+    page 5: visibles=44, nuevos=44, acumulados=220
+    page 5: sample_skus=['00780221510481', '00780220084073', '00304692002836', '00789997040090', '00859016095508', '00780222551304', '00762221028506', '00780222014108', '00789997040258', '00780222551289']
+    page 6: procesando DOM
+      scroll round 1: anchors=24
+      scroll round 2: anchors=36
+      scroll round 3: anchors=44
+      scroll round 4: anchors=44
+      scroll round 5: anchors=44
+      scroll round 6: anchors=44
+      scroll round 7: anchors=44
+      scroll round 8: anchors=44
+    page 6: visibles=44, nuevos=44, acumulados=264
+    page 6: sample_skus=['00761303558877', '00761303061233', '00762220230284', '00750227191706', '00800050023205', '00004000051362', '00085002788028', '00789997040098', '00062891516831', '00780224500581']
+    page 7: procesando DOM
+      scroll round 1: anchors=24
+      scroll round 2: anchors=41
+      scroll round 3: anchors=41
+      scroll round 4: anchors=41
+      scroll round 5: anchors=41
+      scroll round 6: anchors=41
+      scroll round 7: anchors=41
+      scroll round 8: anchors=41
+    page 7: visibles=41, nuevos=41, acumulados=305
+    page 7: sample_skus=['00780222559053', '00780221510129', '00780460687091', '00004000058027', '00780224500918', '00780224750124', '00800334009128', '00541097614012', '00780460687157', '00780460687173']
+    page 7: no se pudo avanzar al paginador siguiente
+  productos acumulados subcategoría: 305
+
+Total filas: 305
+CSV generado: output\chocolates\lider_chocolates_20260316_234037.csv

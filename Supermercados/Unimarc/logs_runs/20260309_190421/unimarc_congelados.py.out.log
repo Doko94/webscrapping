@@ -1,0 +1,98 @@
+No pude extraer links desde el menú (headless). Usando Plan B (slugify).
+
+Subcategorías detectadas en [Congelados]: 23
+ - Hielo, helados y postres | Helados cremosos -> https://www.unimarc.cl/category/congelados/hielo-helados-y-postres/helados-cremosos
+ - Hielo, helados y postres | Pack helados individuales -> https://www.unimarc.cl/category/congelados/hielo-helados-y-postres/pack-helados-individuales
+ - Hielo, helados y postres | Helados premium -> https://www.unimarc.cl/category/congelados/hielo-helados-y-postres/helados-premium
+ - Hielo, helados y postres | Helados agua y fruta -> https://www.unimarc.cl/category/congelados/hielo-helados-y-postres/helados-agua-y-fruta
+ - Hielo, helados y postres | Helados light -> https://www.unimarc.cl/category/congelados/hielo-helados-y-postres/helados-light
+ - Hielo, helados y postres | Postres helados -> https://www.unimarc.cl/category/congelados/hielo-helados-y-postres/postres-helados
+ - Hielo, helados y postres | Hielo -> https://www.unimarc.cl/category/congelados/hielo-helados-y-postres/hielo
+ - Frutas y verduras congeladas | Verduras congeladas -> https://www.unimarc.cl/category/congelados/frutas-y-verduras-congeladas/verduras-congeladas
+ - Frutas y verduras congeladas | Mix de verduras -> https://www.unimarc.cl/category/congelados/frutas-y-verduras-congeladas/mix-de-verduras
+ - Frutas y verduras congeladas | Frutas -> https://www.unimarc.cl/category/congelados/frutas-y-verduras-congeladas/frutas
+ - Frutas y verduras congeladas | Pulpa fruta -> https://www.unimarc.cl/category/congelados/frutas-y-verduras-congeladas/pulpa-fruta
+ - Hamburguesas, apanados y churrascos | Hamburguesas vegetales -> https://www.unimarc.cl/category/congelados/hamburguesas-apanados-y-churrascos/hamburguesas-vegetales
+ - Hamburguesas, apanados y churrascos | Churrascos, lomitos y otros -> https://www.unimarc.cl/category/congelados/hamburguesas-apanados-y-churrascos/churrascos-lomitos-y-otros
+ - Hamburguesas, apanados y churrascos | Nuggets y apanados -> https://www.unimarc.cl/category/congelados/hamburguesas-apanados-y-churrascos/nuggets-y-apanados
+ - Hamburguesas, apanados y churrascos | Hamburguesas -> https://www.unimarc.cl/category/congelados/hamburguesas-apanados-y-churrascos/hamburguesas
+ - Pescados y mariscos | Pescados -> https://www.unimarc.cl/category/congelados/pescados-y-mariscos/pescados
+ - Pescados y mariscos | Mariscos -> https://www.unimarc.cl/category/congelados/pescados-y-mariscos/mariscos
+ - Pescados y mariscos | Camarones -> https://www.unimarc.cl/category/congelados/pescados-y-mariscos/camarones
+ - Pescados y mariscos | Pescados Apanados -> https://www.unimarc.cl/category/congelados/pescados-y-mariscos/pescados-apanados
+ - Platos congelados | Pizza -> https://www.unimarc.cl/category/congelados/platos-congelados/pizza
+ - Platos congelados | Platos preparados -> https://www.unimarc.cl/category/congelados/platos-congelados/platos-preparados
+ - Platos congelados | Postres congelados -> https://www.unimarc.cl/category/congelados/platos-congelados/postres-congelados
+ - Platos congelados | Cocktail -> https://www.unimarc.cl/category/congelados/platos-congelados/cocktail
+
+Scrape: [Hielo, helados y postres] Helados cremosos
+  productos únicos: 61
+
+Scrape: [Hielo, helados y postres] Pack helados individuales
+  productos únicos: 33
+
+Scrape: [Hielo, helados y postres] Helados premium
+  productos únicos: 51
+
+Scrape: [Hielo, helados y postres] Helados agua y fruta
+  productos únicos: 8
+
+Scrape: [Hielo, helados y postres] Helados light
+  productos únicos: 5
+
+Scrape: [Hielo, helados y postres] Postres helados
+  productos únicos: 14
+
+Scrape: [Hielo, helados y postres] Hielo
+  productos únicos: 6
+
+Scrape: [Frutas y verduras congeladas] Verduras congeladas
+  productos únicos: 49
+
+Scrape: [Frutas y verduras congeladas] Mix de verduras
+  productos únicos: 21
+
+Scrape: [Frutas y verduras congeladas] Frutas
+  productos únicos: 24
+
+Scrape: [Frutas y verduras congeladas] Pulpa fruta
+  productos únicos: 5
+
+Scrape: [Hamburguesas, apanados y churrascos] Hamburguesas vegetales
+  productos únicos: 7
+
+Scrape: [Hamburguesas, apanados y churrascos] Churrascos, lomitos y otros
+  productos únicos: 12
+
+Scrape: [Hamburguesas, apanados y churrascos] Nuggets y apanados
+  productos únicos: 37
+
+Scrape: [Hamburguesas, apanados y churrascos] Hamburguesas
+  productos únicos: 39
+
+Scrape: [Pescados y mariscos] Pescados
+  productos únicos: 34
+
+Scrape: [Pescados y mariscos] Mariscos
+  productos únicos: 3
+
+Scrape: [Pescados y mariscos] Camarones
+  productos únicos: 14
+
+Scrape: [Pescados y mariscos] Pescados Apanados
+  productos únicos: 11
+
+Scrape: [Platos congelados] Pizza
+  productos únicos: 10
+
+Scrape: [Platos congelados] Platos preparados
+  productos únicos: 21
+
+Scrape: [Platos congelados] Postres congelados
+  productos únicos: 5
+
+Scrape: [Platos congelados] Cocktail
+  productos únicos: 20
+
+Total filas: 490
+CSV generado: output\congelados\unimarc_congelados_subcats_20260309_192218.csv

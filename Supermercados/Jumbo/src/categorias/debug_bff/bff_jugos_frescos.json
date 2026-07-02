@@ -1,0 +1,3108 @@
+{
+  "products": [
+    {
+      "productId": "102306",
+      "reference": "1885075",
+      "sponsoredId": null,
+      "slug": "botella-jugo-naranja-300ml-1885075",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "18271",
+        "22665",
+        "26255",
+        "26260",
+        "27323"
+      ],
+      "brand": "Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102573",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 7967,
+          "ppumListPrice": 7967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/478694-250-250/Jugo-Fresco-Naranja-300-ml-Elaborado-en-Jumbo.jpg?v=638877516693100000"
+          ],
+          "name": "Jugo Fresco Naranja 300 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "144206",
+      "reference": "2020058",
+      "sponsoredId": null,
+      "slug": "jugo-fresco-naranja-mix-watts-1-6lt-2020058",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25112",
+        "25770",
+        "27092",
+        "27261",
+        "27418",
+        "27499",
+        "27501",
+        "27553"
+      ],
+      "brand": "Watt's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144498",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 4690,
+          "listPrice": 5820,
+          "ppumPrice": 2931,
+          "ppumListPrice": 3638,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/341264-250-250/Jugo-Fresco-Watt-s-Naranja-Mix-16-L.jpg?v=638776441562370000"
+          ],
+          "name": "Jugo Fresco Watt's Naranja Mix 1.6 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4690,
+              "ppumPrice": 2931,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "39420",
+      "reference": "1667027",
+      "sponsoredId": null,
+      "slug": "jugo-watt-s-fresco-naranja-1-75-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "19270",
+        "25112",
+        "25770",
+        "27092",
+        "27418"
+      ],
+      "brand": "Watt's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "42437",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.6,
+          "price": 7250,
+          "listPrice": 7250,
+          "ppumPrice": 4531,
+          "ppumListPrice": 4531,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/428765-250-250/Jugo-Fresco-Watt-s-Naranja-175-L.jpg?v=638811221633300000"
+          ],
+          "name": "Jugo Fresco Watt's Naranja 1.6 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "80060",
+      "reference": "1789055",
+      "sponsoredId": null,
+      "slug": "jugo-prensado-bless-45-pep-esp-man-pi-1l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "23175",
+        "25112",
+        "25770",
+        "27092",
+        "27418"
+      ],
+      "brand": "Bless",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "80315",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 5590,
+          "listPrice": 5590,
+          "ppumPrice": 5590,
+          "ppumListPrice": 5590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311000-250-250/Jugo-Prensado-Bless-45-Pepino-Espirulina-Manzana-Pina-Jengibre-y-Limon-1-L.jpg?v=638776392729570000"
+          ],
+          "name": "Jugo Natural Prensado Bless 45 Pepino, Espirulina, Manzana, Piña, Jengibre y Limón 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "149857",
+      "reference": "2001856",
+      "sponsoredId": null,
+      "slug": "jugo-pomelo-botella-300-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "18271",
+        "22665",
+        "26255",
+        "26260",
+        "27323"
+      ],
+      "brand": "Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150152",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 7967,
+          "ppumListPrice": 7967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/549122-250-250/Jugo-Fresco-Pomelo-300-ml.jpg?v=639009716435230000"
+          ],
+          "name": "Jugo Fresco Pomelo 300 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "80058",
+      "reference": "1789053",
+      "sponsoredId": null,
+      "slug": "jugo-prensado-bless-07-mar-nar-pin-ma-1l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "23175",
+        "25112",
+        "25770",
+        "27092",
+        "27418"
+      ],
+      "brand": "Bless",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "80313",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 5590,
+          "listPrice": 5590,
+          "ppumPrice": 5590,
+          "ppumListPrice": 5590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310980-250-250/Jugo-Prensado-Bless-07-Maracuya-Naranja-Pi%C3%B1a-Manzana-y-Limon-1-L.jpg?v=638776392667930000"
+          ],
+          "name": "Jugo Natural Prensado Bless 07 Maracuyá, Naranja, Piña, Manzana y Limón 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "62407",
+      "reference": "1758232",
+      "sponsoredId": null,
+      "slug": "jugo-citric-100-naranja-1-5-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "19270",
+        "25770",
+        "27418"
+      ],
+      "brand": "Citric",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "62394",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 5890,
+          "listPrice": 5890,
+          "ppumPrice": 3927,
+          "ppumListPrice": 3927,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361149-250-250/Principal-15820058.jpg?v=638776735632430000"
+          ],
+          "name": "Jugo Citric 100% Naranja 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "158857",
+      "reference": "2053155",
+      "sponsoredId": null,
+      "slug": "jugo-fruta-watts-sel-naranja-100-1500cc-2053155",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25112",
+        "25610",
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27540"
+      ],
+      "brand": "Watt's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159185",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 4590,
+          "listPrice": 5990,
+          "ppumPrice": 3060,
+          "ppumListPrice": 3993,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/533221-250-250/Jugo-de-Fruta-Watt-s-Seleccion-Naranja-100--1500-cc.jpg?v=638979415167200000"
+          ],
+          "name": "Jugo de Fruta Watt's Selección Naranja 100% 1500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4590 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4590,
+              "ppumPrice": 3060,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137145",
+      "reference": "1995679",
+      "sponsoredId": null,
+      "slug": "jugo-prensado-bless-21-mang-nar-manz-1lt-1995679",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "23175",
+        "25112",
+        "25770",
+        "27092",
+        "27418"
+      ],
+      "brand": "Bless",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137441",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 5590,
+          "listPrice": 5590,
+          "ppumPrice": 5590,
+          "ppumListPrice": 5590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/327645-250-250/Jugo-Prensado-Bless-21-Mango-Naranja-y-Manzana-1-L.jpg?v=638776430180270000"
+          ],
+          "name": "Jugo Natural Prensado Bless 21 Mango, Naranja y Manzana 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "751",
+      "reference": "498056003",
+      "sponsoredId": null,
+      "slug": "jugo-fresco-watt-s-1-l-naranja-caja-tapa-rosca",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25112",
+        "25770",
+        "27092",
+        "27418"
+      ],
+      "brand": "Watt's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "753",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 4880,
+          "listPrice": 4880,
+          "ppumPrice": 4880,
+          "ppumListPrice": 4880,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298158-250-250/Jugo-Fresco-Watt-s-Naranja-1-L.jpg?v=638775748904600000"
+          ],
+          "name": "Jugo Fresco Watt's Naranja 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "736",
+      "reference": "1095051001",
+      "sponsoredId": null,
+      "slug": "jugo-fresco-sofruco-1-l-naranja",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "25770",
+        "27418"
+      ],
+      "brand": "Sofruco",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "738",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 5290,
+          "listPrice": 5290,
+          "ppumPrice": 5290,
+          "ppumListPrice": 5290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298154-250-250/Jugo-Fresco-Sofruco-Naranja-1-L.jpg?v=638775748852070000"
+          ],
+          "name": "Jugo Fresco Sofruco Naranja 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "747",
+      "reference": "1053558",
+      "sponsoredId": null,
+      "slug": "jugo-fresco-watt-s-1-l-arandano-caja-tapa-rosca",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25112",
+        "25770",
+        "27092",
+        "27418"
+      ],
+      "brand": "Watt's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "749",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 6810,
+          "listPrice": 6810,
+          "ppumPrice": 6810,
+          "ppumListPrice": 6810,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298156-250-250/Jugo-Fresco-Watt-s-Arandano-1-L.jpg?v=638775748879270000"
+          ],
+          "name": "Jugo Fresco Watt's Arándano 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "80059",
+      "reference": "1789054",
+      "sponsoredId": null,
+      "slug": "jugo-prensado-bless-10-ara-fra-fru-ma-1l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "23175",
+        "25112",
+        "25770",
+        "27092",
+        "27418"
+      ],
+      "brand": "Bless",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "80314",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 5590,
+          "listPrice": 5590,
+          "ppumPrice": 5590,
+          "ppumListPrice": 5590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310989-250-250/Jugo-Prensado-Bless-10-Betarraga-Zanahoria-y-Manzana-1-L.jpg?v=638776392695470000"
+          ],
+          "name": "Jugo Natural Prensado Bless 10 Betarraga, Zanahoria y Manzana 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "737",
+      "reference": "1095051002",
+      "sponsoredId": null,
+      "slug": "jugo-fresco-sofruco-pomelo-1-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "23175",
+        "25770",
+        "27418"
+      ],
+      "brand": "Sofruco",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "739",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 5290,
+          "listPrice": 5290,
+          "ppumPrice": 5290,
+          "ppumListPrice": 5290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298155-250-250/Jugo-Fresco-Sofruco-Pomelo-1-L.jpg?v=638775748865430000"
+          ],
+          "name": "Jugo Sofruco Pomelo 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "39419",
+      "reference": "1667026",
+      "sponsoredId": null,
+      "slug": "nectar-watts-seleccion-mango-maracuya-1-75-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25112",
+        "25770",
+        "26912",
+        "27092",
+        "27367",
+        "27418"
+      ],
+      "brand": "Watt's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "42436",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.75,
+          "price": 5890,
+          "listPrice": 5890,
+          "ppumPrice": 3366,
+          "ppumListPrice": 3366,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/428762-250-250/Nectar-Watt-s-Seleccion-Mago-Maracuya-175-L.jpg?v=638811221611370000"
+          ],
+          "name": "Néctar Watt's Selección Mago Maracuyá 1.75 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "155398",
+      "reference": "2043782",
+      "sponsoredId": null,
+      "slug": "jugo-100-uva-oq-1000ml-2043782",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [],
+      "brand": "OQ",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "155705",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 4990,
+          "listPrice": 4990,
+          "ppumPrice": 4990,
+          "ppumListPrice": 4990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/490995-250-250/JUGO-100--UVA-OQ-1000ML.jpg?v=638902752794370000"
+          ],
+          "name": "Jugo OQ 100% de Uva Natural 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156166",
+      "reference": "2049113",
+      "sponsoredId": null,
+      "slug": "jugo-quillayes-natural-one-naranja-1-3lt-2049113",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "27418",
+        "27499",
+        "27501",
+        "27553"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156485",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.3,
+          "price": 5490,
+          "listPrice": 6580,
+          "ppumPrice": 4223,
+          "ppumListPrice": 5062,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/508521-250-250/Jugo-Fresco-Quillayes-Natural-One-13-L.jpg?v=638935566294100000"
+          ],
+          "name": "Jugo Fresco Naranja Quillayes Natural One 1.3 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5490,
+              "ppumPrice": 4223,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "758",
+      "reference": "1086945004",
+      "sponsoredId": null,
+      "slug": "jugo-fresco-watt-s-1-l-seleccion-mango-maracuya",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25112",
+        "25770",
+        "27418"
+      ],
+      "brand": "Watt's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "760",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 3730,
+          "listPrice": 3730,
+          "ppumPrice": 3730,
+          "ppumListPrice": 3730,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298162-250-250/Jugo-Watt-s-Seleccion-Mango-Maracuya-1-L.jpg?v=638775748955470000"
+          ],
+          "name": "Jugo Watt's Selección Mango Maracuyá 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "110802",
+      "reference": "1898807",
+      "sponsoredId": null,
+      "slug": "nectar-watts-seleccion-papaya-1-75lts-1898807",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25112",
+        "25770",
+        "26912",
+        "27092",
+        "27367",
+        "27418"
+      ],
+      "brand": "Watt's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "111070",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.75,
+          "price": 5890,
+          "listPrice": 5890,
+          "ppumPrice": 3366,
+          "ppumListPrice": 3366,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/428789-250-250/Jugo-Watt-s-Seleccion-Papaya-175-L.jpg?v=638811221853230000"
+          ],
+          "name": "Jugo Watt's Selección Papaya 1.75 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "107526",
+      "reference": "1899275",
+      "sponsoredId": null,
+      "slug": "jugo-sofruco-naranja-3lts-1899275",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25770",
+        "26912",
+        "27367",
+        "27418"
+      ],
+      "brand": "Sofruco",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "107793",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 3,
+          "price": 12990,
+          "listPrice": 12990,
+          "ppumPrice": 4330,
+          "ppumListPrice": 4330,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314969-250-250/Jugo-Sofruco-Naranja-3-L.jpg?v=638776403374730000"
+          ],
+          "name": "Jugo Sofruco Naranja 3 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159620",
+      "reference": "2054598",
+      "sponsoredId": null,
+      "slug": "agua-s-pell-330cc-2054598",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "26912",
+        "27367"
+      ],
+      "brand": "San Pellegrino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159982",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1790,
+          "listPrice": 1790,
+          "ppumPrice": 5424,
+          "ppumListPrice": 5424,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/545694-250-250/Agua-Saborizada-San-Pellegrino-Zero-Arancia-Rossa-330-cc.jpg?v=638999677797500000"
+          ],
+          "name": "Agua Saborizada San Pellegrino Zero Arancia Rossa 330 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "755",
+      "reference": "1086945002",
+      "sponsoredId": null,
+      "slug": "jugo-fresco-watt-s-1-l-seleccion-frambuesa",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25112",
+        "25770",
+        "27092",
+        "27418"
+      ],
+      "brand": "Watt's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "757",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 3730,
+          "listPrice": 3730,
+          "ppumPrice": 3730,
+          "ppumListPrice": 3730,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298160-250-250/Jugo-Watt-s-Seleccion-Frambuesa-1-L.jpg?v=638775748931170000"
+          ],
+          "name": "Jugo Watt's Selección Frambuesa 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "84705",
+      "reference": "1836622",
+      "sponsoredId": null,
+      "slug": "jugo-naranja-exprimido-1-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25112",
+        "25770",
+        "27418"
+      ],
+      "brand": "Bless",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "84975",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 5690,
+          "listPrice": 5690,
+          "ppumPrice": 5690,
+          "ppumListPrice": 5690,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311675-250-250/Jugo-Exprimido-Bless-14-Naranja-1-L.jpg?v=638776394340630000"
+          ],
+          "name": "Jugo Natural Exprimido Bless 14 Naranja 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "111856",
+      "reference": "1924055",
+      "sponsoredId": null,
+      "slug": "jugo-valle-las-chilcas-naranja-vitami-1l-1924055",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "23984",
+        "23985",
+        "25770",
+        "27418"
+      ],
+      "brand": "Valle las Chilcas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112124",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 7790,
+          "listPrice": 7790,
+          "ppumPrice": 7790,
+          "ppumListPrice": 7790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/379181-250-250/Jugo-naranja-vitamina-1-L.jpg?v=638776818212030000"
+          ],
+          "name": "Jugo Naranja Valle Las Chilcas Vitamina 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150249",
+      "reference": "2009179",
+      "sponsoredId": null,
+      "slug": "jugo-de-naranja-botella-1-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "18271",
+        "22665",
+        "26255",
+        "26260",
+        "27323"
+      ],
+      "brand": "Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150547",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 5990,
+          "ppumListPrice": 5990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/478698-250-250/Jugo-Fresco-Naranja-1-L-|-Elaborado-en-Jumbo.jpg?v=638877516887770000"
+          ],
+          "name": "Jugo Fresco Naranja 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "83447",
+      "reference": "1812269",
+      "sponsoredId": null,
+      "slug": "jugo-naranja-900-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25354",
+        "25583",
+        "25584",
+        "25770",
+        "27418"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "83710",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.9,
+          "price": 4320,
+          "listPrice": 4320,
+          "ppumPrice": 4800,
+          "ppumListPrice": 4800,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311481-250-250/Jugo-Quillayes-Naranja-900-ml.jpg?v=638776393768030000"
+          ],
+          "name": "Jugo Quillayes Naranja 900 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "39539",
+      "reference": "1667362",
+      "sponsoredId": null,
+      "slug": "nectar-watts-seleccion-frambuesa-1-75-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25112",
+        "25770",
+        "26912",
+        "27092",
+        "27367",
+        "27418"
+      ],
+      "brand": "Watt's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "42556",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.75,
+          "price": 5890,
+          "listPrice": 5890,
+          "ppumPrice": 3366,
+          "ppumListPrice": 3366,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/428766-250-250/Nectar-Watt-s-Seleccion-Frambuesa-175-L.jpg?v=638811221654630000"
+          ],
+          "name": "Néctar Watt's Selección Frambuesa 1.75 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "82578",
+      "reference": "1819749",
+      "sponsoredId": null,
+      "slug": "jugo-fresco-pina-y-agua-de-coco-1-75-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25112",
+        "25770",
+        "26912",
+        "27092",
+        "27367",
+        "27418"
+      ],
+      "brand": "Watt's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "82846",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.75,
+          "price": 5890,
+          "listPrice": 5890,
+          "ppumPrice": 3366,
+          "ppumListPrice": 3366,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365063-250-250/Nectar-Watt-s-Seleccion-Pi%C3%B1a-Coco-175-L.jpg?v=638776757064830000"
+          ],
+          "name": "Néctar Watt's Selección Piña Coco 1.75 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "148978",
+      "reference": "2037606",
+      "sponsoredId": null,
+      "slug": "jugo-curcuma-1lt-2037606",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25112",
+        "25285",
+        "25770",
+        "27418"
+      ],
+      "brand": "Ama Time",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149274",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 5590,
+          "listPrice": 5590,
+          "ppumPrice": 5590,
+          "ppumListPrice": 5590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/450729-250-250/JUGO-AMA-TIME-MANZ-JENGIBRE-CURCUMA-1LT.jpg?v=638847793520000000"
+          ],
+          "name": "Jugo Ama Time Manzana Jengibre Cúrcuma 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "41123",
+      "reference": "1680798",
+      "sponsoredId": null,
+      "slug": "jugo-sofruco-mango-naranja-1-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "23175",
+        "25770",
+        "27418"
+      ],
+      "brand": "Sofruco",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "33593",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 5290,
+          "listPrice": 5290,
+          "ppumPrice": 5290,
+          "ppumListPrice": 5290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307209-250-250/Jugo-Sofruco-Mango-Naranja-1-L.jpg?v=638776384044230000"
+          ],
+          "name": "Jugo Sofruco Mango Naranja 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "87909",
+      "reference": "1840574",
+      "sponsoredId": null,
+      "slug": "jugo-de-manzana-900-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25770",
+        "27418"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "88180",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.9,
+          "price": 4270,
+          "listPrice": 4270,
+          "ppumPrice": 4744,
+          "ppumListPrice": 4744,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311941-250-250/Jugo-Quillayes-Manzana-900-ml.jpg?v=638776395065830000"
+          ],
+          "name": "Jugo Quillayes Manzana 900 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75262",
+      "reference": "1789727",
+      "sponsoredId": null,
+      "slug": "jugo-de-mandarina-sofruco-1-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "23175",
+        "25770",
+        "27418"
+      ],
+      "brand": "Sofruco",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75519",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 5290,
+          "listPrice": 5290,
+          "ppumPrice": 5290,
+          "ppumListPrice": 5290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310582-250-250/Jugo-Sofruco-Mandarina-1-L.jpg?v=638776391826500000"
+          ],
+          "name": "Jugo Sofruco Mandarina 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "152953",
+      "reference": "2040896",
+      "sponsoredId": null,
+      "slug": "jugo-pomelo-1lt-2040896",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25770",
+        "27418"
+      ],
+      "brand": "Citric",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153252",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 4690,
+          "listPrice": 4690,
+          "ppumPrice": 4690,
+          "ppumListPrice": 4690,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/478677-250-250/JUGO-POMELO-1LT.jpg?v=638877184088400000"
+          ],
+          "name": "Jugo Citric Pomelo 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "104098",
+      "reference": "1885280",
+      "sponsoredId": null,
+      "slug": "jugo-quillayes-pink-lemonade-900ml-1885280",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25770",
+        "27418"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "104365",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.9,
+          "price": 4280,
+          "listPrice": 4280,
+          "ppumPrice": 4756,
+          "ppumListPrice": 4756,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314378-250-250/Jugo-Quillayes-Pink-Lemonade-900-ml.jpg?v=638776401833430000"
+          ],
+          "name": "Jugo Quillayes Pink Lemonade 900 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "160715",
+      "reference": "2032042",
+      "sponsoredId": null,
+      "slug": "joyba-rosas-335ml-2032042",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "14881",
+        "14882",
+        "26912",
+        "27367"
+      ],
+      "brand": "Joyba",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "161077",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.335,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 8925,
+          "ppumListPrice": 8925,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/545019-250-250/Te-Burbujas-Joyba-Frutilla-y-Rosas-335ml.jpg?v=638996069753530000"
+          ],
+          "name": "Té Burbujas Joyba Frutilla y Rosas 335ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103648",
+      "reference": "1888814",
+      "sponsoredId": null,
+      "slug": "uni-ko-cranberry-agua-saborizada-300ml-1888814",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "831",
+        "969",
+        "971",
+        "999",
+        "1002"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Experiencias Jumbo",
+        "Jugos",
+        "Jugos Frescos",
+        "Mundo Bio Natura",
+        "Libre de Azúcar Añadida"
+      ],
+      "collections": [
+        "1057",
+        "21498",
+        "23985",
+        "25770",
+        "27323",
+        "27418"
+      ],
+      "brand": "Uni-Ko",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103915",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 19967,
+          "ppumListPrice": 19967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/374148-250-250/Concentrado-fruta-cranberry-300-ml.jpg?v=638776798522570000"
+          ],
+          "name": "Concentrado Fruta Uni-Ko Cranberry 300 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138106",
+      "reference": "1999246",
+      "sponsoredId": null,
+      "slug": "beb-a-base-jugo-bless-07-mara-jeng-310ml-1999246",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "25112",
+        "25770",
+        "27323",
+        "27418"
+      ],
+      "brand": "Bless",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138400",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.31,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 6419,
+          "ppumListPrice": 6419,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/329402-250-250/Bebida-a-Base-de-Jugo-Bless-Maracuya-con-Jengibre-310-ml.jpg?v=638776431711630000"
+          ],
+          "name": "Agua Gasificada Ginger Bless 07 Maracuyá y Jengibre 310 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "62410",
+      "reference": "1758235",
+      "sponsoredId": null,
+      "slug": "jugo-multi-mam-naranja-mango-1-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "19270",
+        "25770",
+        "27418"
+      ],
+      "brand": "Citric",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "62397",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 4790,
+          "listPrice": 4790,
+          "ppumPrice": 4790,
+          "ppumListPrice": 4790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361164-250-250/Principal-15820061.jpg?v=638776735841030000"
+          ],
+          "name": "Jugo Citric Naranja Mango 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159622",
+      "reference": "2054599",
+      "sponsoredId": null,
+      "slug": "agua-s-pell-330cc-2054599",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "26912",
+        "27367"
+      ],
+      "brand": "San Pellegrino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159988",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1790,
+          "listPrice": 1790,
+          "ppumPrice": 5424,
+          "ppumListPrice": 5424,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/545705-250-250/Agua-Saborizada-San-Pellegrino-Zero-Melograno-330-cc.jpg?v=638999677817770000"
+          ],
+          "name": "Agua Saborizada San Pellegrino Zero Melograno 330 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159830",
+      "reference": "2054215",
+      "sponsoredId": null,
+      "slug": "agua-s-pell-330cc-2054215",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "969",
+        "971"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Jugos",
+        "Jugos Frescos"
+      ],
+      "collections": [
+        "26912",
+        "27367"
+      ],
+      "brand": "San Pellegrino",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160191",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1790,
+          "listPrice": 1790,
+          "ppumPrice": 5424,
+          "ppumListPrice": 5424,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/545598-250-250/Agua-Saborizada-San-Pellegrino-330-cc.jpg?v=638999677628230000"
+          ],
+          "name": "Agua Saborizada San Pellegrino Zero Peach Lata 330 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Jugos Frescos",
+          "value": "/licores-bebidas-y-aguas/jugos/jugos-frescos",
+          "selected": false,
+          "quantity": 63,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Jugos Frescos",
+          "value": "/licores-bebidas-y-aguas/jugos/jugos-frescos",
+          "selected": false,
+          "quantity": 63,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Jugos Frescos",
+          "value": "/licores-bebidas-y-aguas/jugos/jugos-frescos",
+          "selected": false,
+          "quantity": 63,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo",
+          "value": "Jumbo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Watt's",
+          "value": "Watt's",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bless",
+          "value": "Bless",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Citric",
+          "value": "Citric",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sofruco",
+          "value": "Sofruco",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "OQ",
+          "value": "OQ",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quillayes",
+          "value": "Quillayes",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Pellegrino",
+          "value": "San Pellegrino",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle las Chilcas",
+          "value": "Valle las Chilcas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ama Time",
+          "value": "Ama Time",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Joyba",
+          "value": "Joyba",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Uni-Ko",
+          "value": "Uni-Ko",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Florida's Natural",
+          "value": "Florida's Natural",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Zuma",
+          "value": "Zuma",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Afe",
+          "value": "Afe",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jugo100",
+          "value": "Jugo100",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 51,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 51,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brasil",
+          "value": "Brasil",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Perú",
+          "value": "Perú",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Jugos Individuales",
+          "value": "Jugos Individuales",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jugos Frescos",
+          "value": "Jugos Frescos",
+          "selected": false,
+          "quantity": 35,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jugos Prensados",
+          "value": "Jugos Prensados",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jugos Naturales",
+          "value": "Jugos Naturales",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jugos Néctar",
+          "value": "Jugos Néctar",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aguas Saborizadas",
+          "value": "Aguas Saborizadas",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutillas",
+          "value": "Frutillas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Té Verde",
+          "value": "Té Verde",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Betarraga, Zanahoria, Manzana y Limón",
+          "value": "Betarraga, Zanahoria, Manzana y Limón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Durazno",
+          "value": "Durazno",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frambuesa",
+          "value": "Frambuesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Granada y Naranja",
+          "value": "Granada y Naranja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limón",
+          "value": "Limón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limón Jengibre",
+          "value": "Limón Jengibre",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mandarina",
+          "value": "Mandarina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mango Maracuyá",
+          "value": "Mango Maracuyá",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mango Naranja Manzana",
+          "value": "Mango Naranja Manzana",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mango y Naranja",
+          "value": "Mango y Naranja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manzana Jengibre Cúrcuma",
+          "value": "Manzana Jengibre Cúrcuma",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manzana Mango Piña",
+          "value": "Manzana Mango Piña",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manzana Zanahoria Betarraga",
+          "value": "Manzana Zanahoria Betarraga",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Maracuyá Jengibre",
+          "value": "Maracuyá Jengibre",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Maracuyá, Naranja, Piña, Manzana y Limón",
+          "value": "Maracuyá, Naranja, Piña, Manzana y Limón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Naranja",
+          "value": "Naranja",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Naranja Manzana",
+          "value": "Naranja Manzana",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Naranja y Toronja",
+          "value": "Naranja y Toronja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Papaya",
+          "value": "Papaya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pepino Jengibre",
+          "value": "Pepino Jengibre",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pepino, Espirulina, Manzana, Piña, Jengibre y Limón",
+          "value": "Pepino, Espirulina, Manzana, Piña, Jengibre y Limón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pomelo",
+          "value": "Pomelo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Uva",
+          "value": "Uva",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella de vidrio",
+          "value": "Botella de vidrio",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella plástico desechable",
+          "value": "Botella plástico desechable (bebidas)",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lata",
+          "value": "Lata",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack",
+          "value": "Pack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tetrapack",
+          "value": "Tetrapack",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 41,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "12 Unidades",
+          "value": "12 colores",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "1 L",
+          "value": "1 L",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "300 ml",
+          "value": "300 ml",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "60 ml  x 4 un",
+          "value": "60 ml  x 4 un",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entre 1 y 2 lt",
+          "value": "Entre 1 y 2 lt",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Menor a 1 lt",
+          "value": "Menor a 1 lt",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Gasificado",
+      "key": "Gasificado",
+      "values": [
+        {
+          "displayName": "Con gas",
+          "value": "Con gas",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Gas",
+          "value": "Sin Gas",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1790,
+          "maxValue": 12990
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Concentrado de fruta",
+          "value": "Concentrado de fruta",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pink",
+          "value": "Pink",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Hecho en Jumbo",
+      "key": "Hecho en Jumbo",
+      "values": [
+        {
+          "displayName": "Si",
+          "value": "Si",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Familar",
+          "value": "Familar",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 63,
+  "metaTag": {
+    "title": "Jugos Frescos | Jumbo.cl",
+    "description": "Disfruta de nuestros jugos frescos que van desde sabores de frutas hasta mezclas exóticas y mantente hidratado en todo momento. ¡Pide online en Jumbo.cl!"
+  }
+}

@@ -1,0 +1,5227 @@
+{
+  "products": [
+    {
+      "productId": "122629",
+      "reference": "1955811",
+      "sponsoredId": null,
+      "slug": "vino-toro-piedra-res-car-750cc-14-1955811",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "26912",
+        "26923",
+        "27367"
+      ],
+      "brand": "Toro De Piedra",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122921",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 6990,
+          "listPrice": 6990,
+          "ppumPrice": 9320,
+          "ppumListPrice": 9320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318262-250-250/Vino-Toro-de-Piedra-Reserva-Carmenere-14%C2%B0-750-cc.jpg?v=638776413917370000"
+          ],
+          "name": "Vino Orgánico Toro de Piedra Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "55529",
+      "reference": "1751055",
+      "sponsoredId": null,
+      "slug": "vino-casillero-del-diablo-13-botella-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "19270",
+        "25733",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Diablo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55808",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 6990,
+          "listPrice": 8190,
+          "ppumPrice": 9320,
+          "ppumListPrice": 10920,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308987-250-250/Vino-Diablo-Red-Ensamblaje-750-cc.jpg?v=638776387912230000"
+          ],
+          "name": "Vino Diablo Red Reserva Ensamblaje 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 6990,
+              "ppumPrice": 9320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11726",
+      "reference": "294582",
+      "sponsoredId": null,
+      "slug": "carmenere-vina-santa-rita-reserva-medalla-real-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "24492",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25502",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Santa Rita",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11968",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 4490,
+          "listPrice": 5990,
+          "ppumPrice": 5987,
+          "ppumListPrice": 7987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/577826-250-250/Vino-Santa-Rita-Medalla-Real-Reserva-Carmenere-750-cc.jpg?v=639071559598900000"
+          ],
+          "name": "Vino Santa Rita Medalla Real Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4490 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4490,
+              "ppumPrice": 5987,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11710",
+      "reference": "395768",
+      "sponsoredId": null,
+      "slug": "carmenere-casillero-del-diablo-vina-concha-y-toro-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "24421",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25502",
+        "25695",
+        "27363",
+        "27367",
+        "27370",
+        "27499",
+        "27501"
+      ],
+      "brand": "Casillero Del Diablo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11952",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 3594,
+          "listPrice": 5990,
+          "ppumPrice": 4792,
+          "ppumListPrice": 7987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302319-250-250/Vino-Casillero-Del-Diablo-Carmenere-750-cc.jpg?v=638776375981430000"
+          ],
+          "name": "Vino Casillero del Diablo Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL 18022026 AL 24022026",
+              "description": "JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 3594,
+              "ppumPrice": 4792,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "119894",
+      "reference": "1937217",
+      "sponsoredId": null,
+      "slug": "vino-carmen-f-kahlo-r-carm-750cc-12-7-1937217",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25502",
+        "25695",
+        "26884",
+        "26912",
+        "27261",
+        "27367",
+        "27487",
+        "27499",
+        "27501"
+      ],
+      "brand": "Carmen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "120026",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 4890,
+          "listPrice": 5890,
+          "ppumPrice": 6520,
+          "ppumListPrice": 7853,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317293-250-250/Vino-Carmen-Frida-Kahlo-Reserva-Carmenere-750-cc.jpg?v=638776411271070000"
+          ],
+          "name": "Vino Carmen Frida Kahlo Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4890 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4890,
+              "ppumPrice": 6520,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 3534,
+              "ppumPrice": 4712,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11730",
+      "reference": "991660",
+      "sponsoredId": null,
+      "slug": "carmenere-vina-concha-y-toro-750-cc-series-riberas-marques-de-casa-concha",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25427",
+        "25500",
+        "25502",
+        "25695",
+        "26912",
+        "27363",
+        "27367",
+        "27370",
+        "27419",
+        "27428",
+        "27499",
+        "27501"
+      ],
+      "brand": "Marques de Casa Concha",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11972",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 9594,
+          "listPrice": 15990,
+          "ppumPrice": 12792,
+          "ppumListPrice": 21320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303080-250-250/Vino-Marques-de-Casa-Concha-Carmenere-750-cc.jpg?v=638776376594630000"
+          ],
+          "name": "Vino Marques de Casa Concha Carmenere 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL 18022026 AL 24022026",
+              "description": "JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 9594,
+              "ppumPrice": 12792,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "61083",
+      "reference": "1755601",
+      "sponsoredId": null,
+      "slug": "carmenere-carmen-frida-kalho-14-botella-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25502",
+        "25695",
+        "26884",
+        "26912",
+        "27261",
+        "27367",
+        "27487"
+      ],
+      "brand": "Carmen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "61224",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 8990,
+          "listPrice": 8990,
+          "ppumPrice": 11987,
+          "ppumListPrice": 11987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309503-250-250/Vino-Carmenere-Carmen-Frida-Kalho-14%C2%B0-750-cc.jpg?v=638776389188100000"
+          ],
+          "name": "Vino Carmen Frida Kahlo Gran Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 5394,
+              "ppumPrice": 7192,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11706",
+      "reference": "294277",
+      "sponsoredId": null,
+      "slug": "cabernet-sauvignon-mgx-carmen-vina-carmen-700-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "26884",
+        "27261",
+        "27487"
+      ],
+      "brand": "Carmen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11948",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 3190,
+          "listPrice": 3190,
+          "ppumPrice": 4557,
+          "ppumListPrice": 4557,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303018-250-250/Vino-Mgx-Cabernet-Sauvignon-700-cc.jpg?v=638776376537630000"
+          ],
+          "name": "Vino Carmen MGX Cabernet Sauvignon 700 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1914,
+              "ppumPrice": 2734,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11676",
+      "reference": "294756",
+      "sponsoredId": null,
+      "slug": "cabernet-sauvignon-medalla-real-vina-santa-rita-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25502",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Santa Rita",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11918",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 4490,
+          "listPrice": 5990,
+          "ppumPrice": 5987,
+          "ppumListPrice": 7987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/577929-250-250/Vino-Santa-Rita-Medalla-Real-Reserva-Cabernet-Sauvignon-750-cc.jpg?v=639071559783630000"
+          ],
+          "name": "Vino Santa Rita Medalla Real Reserva Cabernet Sauvignon 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4490 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4490,
+              "ppumPrice": 5987,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11728",
+      "reference": "390167",
+      "sponsoredId": null,
+      "slug": "carmenere-vina-san-pedro-castillo-de-molina-reserva-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "23175",
+        "24421",
+        "25500",
+        "25502",
+        "25683",
+        "25695",
+        "27499",
+        "27501"
+      ],
+      "brand": "Castillo de Molina",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11970",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 7290,
+          "listPrice": 9290,
+          "ppumPrice": 9720,
+          "ppumListPrice": 12387,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/495238-250-250/Vino-Castillo-de-Molina-Gran-Reserva-Carmenere-750-cc.jpg?v=638911559301900000"
+          ],
+          "name": "Vino Castillo de Molina Gran Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 7290 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 7290,
+              "ppumPrice": 9720,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11654",
+      "reference": "294372",
+      "sponsoredId": null,
+      "slug": "cabernet-sauvignon-vina-concha-y-toro-reserva-casillero-del-diablo-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25502",
+        "25695",
+        "27363",
+        "27367",
+        "27370",
+        "27499",
+        "27501"
+      ],
+      "brand": "Casillero Del Diablo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11896",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 3594,
+          "listPrice": 5990,
+          "ppumPrice": 4792,
+          "ppumListPrice": 7987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302861-250-250/Vino-Casillero-Del-Diablo-Cabernet-Sauvignon-750-cc.jpg?v=638776376401970000"
+          ],
+          "name": "Vino Casillero del Diablo Reserva Cabernet Sauvignon 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL 18022026 AL 24022026",
+              "description": "JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 3594,
+              "ppumPrice": 4792,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "60210",
+      "reference": "294854",
+      "sponsoredId": null,
+      "slug": "carmenere-tarapaca-12-botella-750cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "12542",
+        "22523",
+        "25447",
+        "25610",
+        "26912",
+        "27367"
+      ],
+      "brand": "Tarapacá",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "60370",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 3650,
+          "listPrice": 3650,
+          "ppumPrice": 4867,
+          "ppumListPrice": 4867,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309406-250-250/Vino-Tarapaca-Leon-Carmenere-750-cc.jpg?v=638776388930730000"
+          ],
+          "name": "Vino Tarapacá León Carmenere 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24845",
+      "reference": "294638",
+      "sponsoredId": null,
+      "slug": "carmenere-terrarum-vina-morande-750-ml-reserva",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Morandé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25161",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 8090,
+          "listPrice": 8090,
+          "ppumPrice": 10787,
+          "ppumListPrice": 10787,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305529-250-250/Vino-Morande-Seleccion-de-Vi%C3%B1edos-Gran-Reserva-Carmenere-14%C2%B0-750-cc.jpg?v=638776381639130000"
+          ],
+          "name": "Vino Morandé Gran Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11694",
+      "reference": "294957",
+      "sponsoredId": null,
+      "slug": "cabernet-sauvignon-reserva-vina-ventisquero-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25502",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Ventisquero",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11936",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 4490,
+          "listPrice": 6390,
+          "ppumPrice": 5987,
+          "ppumListPrice": 8520,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302530-250-250/Vino-Cabernet-Sauvignon-Reserva-Vi%C3%B1a-Ventisquero-750-cc.jpg?v=638776376137800000"
+          ],
+          "name": "Vino Ventisquero Alma de Los Andes Reserva Cabernet Sauvignon 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4490 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4490,
+              "ppumPrice": 5987,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11738",
+      "reference": "294953",
+      "sponsoredId": null,
+      "slug": "carmenere-ventisquero-reserva-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "17846",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25502",
+        "25695"
+      ],
+      "brand": "Ventisquero",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11980",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 10490,
+          "listPrice": 10490,
+          "ppumPrice": 13987,
+          "ppumListPrice": 13987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302526-250-250/Vino-Carmenere-Ventisquero-Reserva-750-cc.jpg?v=638776376136570000"
+          ],
+          "name": "Vino Ventisquero Queulat Gran Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11647",
+      "reference": "294282",
+      "sponsoredId": null,
+      "slug": "cabernet-vina-carmen-gran-reserva-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25502",
+        "25695",
+        "26884",
+        "26912",
+        "27261",
+        "27367",
+        "27487"
+      ],
+      "brand": "Carmen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11889",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 8990,
+          "listPrice": 8990,
+          "ppumPrice": 11987,
+          "ppumListPrice": 11987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302609-250-250/Vino-Cabernet-Vi%C3%B1a-Carmen-Gran-Reserva-750-cc.jpg?v=638776376196100000"
+          ],
+          "name": "Vino Carmen Gran Reserva Cabernet Sauvignon 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 5394,
+              "ppumPrice": 7192,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "123126",
+      "reference": "1956140",
+      "sponsoredId": null,
+      "slug": "vino-diablo-deep-carmenere-750cc-13-5-1956140",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "19270",
+        "25733",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Diablo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "123398",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 6990,
+          "listPrice": 8190,
+          "ppumPrice": 9320,
+          "ppumListPrice": 10920,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318437-250-250/Vino-Diablo-Deep-Carmenere-135%C2%B0-750-cc.jpg?v=638776414383770000"
+          ],
+          "name": "Vino Diablo Deep Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 6990,
+              "ppumPrice": 9320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11707",
+      "reference": "294274",
+      "sponsoredId": null,
+      "slug": "carmenere-insigne-vina-carmen-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "26884",
+        "27261",
+        "27487"
+      ],
+      "brand": "Carmen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11949",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 3850,
+          "listPrice": 3850,
+          "ppumPrice": 5133,
+          "ppumListPrice": 5133,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303057-250-250/Vino-Insigne-Carmenere-750-cc.jpg?v=638776376578670000"
+          ],
+          "name": "Vino Carmen Insigne Carmenere 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 2310,
+              "ppumPrice": 3080,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11720",
+      "reference": "1073540",
+      "sponsoredId": null,
+      "slug": "carmenere-las-mulas-reserva-vina-miguel-torres-organico-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25500",
+        "25502",
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27544",
+        "27549"
+      ],
+      "brand": "Las Mulas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11962",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 5990,
+          "listPrice": 7890,
+          "ppumPrice": 7987,
+          "ppumListPrice": 10520,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302655-250-250/Vino-Organico-Las-Mulas-Reserva-Carmenere-135%C2%B0-botella-750-cc.jpg?v=638776376231170000"
+          ],
+          "name": "Vino Orgánico Migue Torres Las Mulas Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5990,
+              "ppumPrice": 7987,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24837",
+      "reference": "1614175",
+      "sponsoredId": null,
+      "slug": "carmenere-vina-morande-750-ml-gran-reserva",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "17846",
+        "23175"
+      ],
+      "brand": "Morandé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25153",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 12250,
+          "listPrice": 12250,
+          "ppumPrice": 16333,
+          "ppumListPrice": 16333,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306131-250-250/Vino-Morande-Vitis-Unica-Carmenere-14%C2%B0-750-cc.jpg?v=638776382061070000"
+          ],
+          "name": "Vino Morandé Vitis Única Gran Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24835",
+      "reference": "294625",
+      "sponsoredId": null,
+      "slug": "carmenere-pionero-vina-morande-750-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "25500",
+        "25502"
+      ],
+      "brand": "Morandé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25151",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 5450,
+          "listPrice": 5450,
+          "ppumPrice": 7267,
+          "ppumListPrice": 7267,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306085-250-250/Vino-Morande-Pionero-Reserva-Carmenere-135%C2%B0-750-cc.jpg?v=638776382024130000"
+          ],
+          "name": "Vino Orgánico Morandé Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24649",
+      "reference": "294688",
+      "sponsoredId": null,
+      "slug": "cabernet-sauvignon-grande-vidure-vina-carmen-750-ml-reserva",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25502",
+        "25695",
+        "26884",
+        "26912",
+        "27261",
+        "27367",
+        "27487"
+      ],
+      "brand": "Carmen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24965",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 8990,
+          "listPrice": 8990,
+          "ppumPrice": 11987,
+          "ppumListPrice": 11987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306102-250-250/Vino-Carmen-Gran-Reserva-Cabernet-Sauvignon-Grande-Vidure-750-cc.jpg?v=638776382038000000"
+          ],
+          "name": "Vino Carmen Gran Reserva Ensamblaje Cabernet Sauvignon Grande Vidure 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 5394,
+              "ppumPrice": 7192,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24408",
+      "reference": "294178",
+      "sponsoredId": null,
+      "slug": "carmenere-1865-vina-san-pedro-750-ml-reserva",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "22523",
+        "25500",
+        "25502"
+      ],
+      "brand": "San Pedro",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24724",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 16990,
+          "listPrice": 16990,
+          "ppumPrice": 22653,
+          "ppumListPrice": 22653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305578-250-250/Vino-San-Pedro-1865-Carmenere-750-cc.jpg?v=638776381672900000"
+          ],
+          "name": "Vino San Pedro 1865 Carmenere 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11670",
+      "reference": "1073538",
+      "sponsoredId": null,
+      "slug": "cabernet-sauvignon-las-mulas-organico-reserva-vina-miguel-torres-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25500",
+        "25502",
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27544",
+        "27549"
+      ],
+      "brand": "Las Mulas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11912",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 5990,
+          "listPrice": 7890,
+          "ppumPrice": 7987,
+          "ppumListPrice": 10520,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302470-250-250/Vino-Cabernet-Sauvignon-Las-Mulas-Organico--750-cc.jpg?v=638776376098630000"
+          ],
+          "name": "Vino Orgánico Migue Torres Las Mulas Reserva Cabernet Sauvignon 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5990,
+              "ppumPrice": 7987,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11724",
+      "reference": "582160",
+      "sponsoredId": null,
+      "slug": "carmenere-carmen-clasico-vina-santa-rita-700-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "26884",
+        "27261",
+        "27487"
+      ],
+      "brand": "Carmen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11966",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 3190,
+          "listPrice": 3190,
+          "ppumPrice": 4557,
+          "ppumListPrice": 4557,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302819-250-250/Vino-Carmen-Carmenere-700-cc.jpg?v=638776376365030000"
+          ],
+          "name": "Vino Carmen Carmenere 700 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1914,
+              "ppumPrice": 2734,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11717",
+      "reference": "436775",
+      "sponsoredId": null,
+      "slug": "carmenere-santa-digna-vina-miguel-torres-reserva-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25502",
+        "25695",
+        "26912",
+        "26954",
+        "26955",
+        "26956",
+        "27367",
+        "27445",
+        "27544",
+        "27549"
+      ],
+      "brand": "Miguel Torres",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11959",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 8890,
+          "listPrice": 8890,
+          "ppumPrice": 11853,
+          "ppumListPrice": 11853,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302515-250-250/Vino-Carmenere-Santa-Digna-Reserva-750-cc.jpg?v=638776376129100000"
+          ],
+          "name": "Vino Miguel Torres Santa Digna Gran Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11679",
+      "reference": "294768",
+      "sponsoredId": null,
+      "slug": "cabernet-sauvignon-castillo-de-molina-reserva-vina-san-pedro-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "23175",
+        "25500",
+        "25502",
+        "25683",
+        "25695",
+        "27499",
+        "27501"
+      ],
+      "brand": "San Pedro",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11921",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 7290,
+          "listPrice": 9290,
+          "ppumPrice": 9720,
+          "ppumListPrice": 12387,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302817-250-250/Vino-Castillo-de-Molina-Gran-Reserva-Cabernet-Sauvignon-750-cc.jpg?v=638776376364400000"
+          ],
+          "name": "Vino Castillo de Molina Gran Reserva Cabernet Sauvignon 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 7290 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 7290,
+              "ppumPrice": 9720,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "45735",
+      "reference": "1709057",
+      "sponsoredId": null,
+      "slug": "vino-carmenere-coleccion-casa-silva-botella-700-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "25500",
+        "25502",
+        "27499",
+        "27501"
+      ],
+      "brand": "Casa Silva",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "45975",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 4290,
+          "listPrice": 5590,
+          "ppumPrice": 5720,
+          "ppumListPrice": 7453,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307920-250-250/Vino-Coleccion-Carmenere-135%C2%B0-700-cc.jpg?v=638776385638370000"
+          ],
+          "name": "Vino Casa Silva Colección Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4290 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4290,
+              "ppumPrice": 5720,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24394",
+      "reference": "1587631",
+      "sponsoredId": null,
+      "slug": "carmenere-toro-de-piedra-gran-reserva-14-5-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "27499",
+        "27501"
+      ],
+      "brand": "Toro De Piedra",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24710",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 8790,
+          "listPrice": 11950,
+          "ppumPrice": 11720,
+          "ppumListPrice": 15933,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305098-250-250/Vino-Carmenere-Toro-de-Piedra-Gran-Reserva-145%C2%B0-750-cc.jpg?v=638776381228230000"
+          ],
+          "name": "Vino Toro de Piedra Gran Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 8790 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 8790,
+              "ppumPrice": 11720,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24548",
+      "reference": "1356130",
+      "sponsoredId": null,
+      "slug": "carmenere-vi-a-santa-ema-reserva-13-5-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367"
+      ],
+      "brand": "Santa Ema",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24864",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 11550,
+          "listPrice": 11550,
+          "ppumPrice": 15400,
+          "ppumListPrice": 15400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305797-250-250/Vino-Carmenere-Gran-Reserva-750-cc.jpg?v=638776381818000000"
+          ],
+          "name": "Vino Santa Ema Gran Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11656",
+      "reference": "294398",
+      "sponsoredId": null,
+      "slug": "cabernet-sauvignon-vina-cono-sur-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25502",
+        "25695",
+        "27326",
+        "27499",
+        "27501"
+      ],
+      "brand": "Cono Sur",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11898",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 3390,
+          "listPrice": 3990,
+          "ppumPrice": 4520,
+          "ppumListPrice": 5320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302917-250-250/Vino-Cono-Sur-Bicicleta-Reserva-Cabernet-Sauvignon-750-cc.jpg?v=638776376443000000"
+          ],
+          "name": "Vino Cono Sur Bicicleta Reserva Cabernet Sauvignon 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3390 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3390,
+              "ppumPrice": 4520,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24967",
+      "reference": "407150",
+      "sponsoredId": null,
+      "slug": "carmenere-grey-vina-ventisquero-750-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219",
+        "897"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos",
+        "Vinos y Espumantes Destacados"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25502",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Ventisquero",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25286",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 10490,
+          "listPrice": 15890,
+          "ppumPrice": 13987,
+          "ppumListPrice": 21187,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305840-250-250/Vino-Carmenere-Grey-Vi%C3%B1a-Ventisquero-750-cc.jpg?v=638776381847100000"
+          ],
+          "name": "Vino Ventisquero Grey Carmenere 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 10490 - CIM: JUMBO CICLO MENSUAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 10490,
+              "ppumPrice": 13987,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "137165",
+      "reference": "1998539",
+      "sponsoredId": null,
+      "slug": "vino-diablo-purple-malbec-13-5-g-750cc-1998539",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "19270",
+        "23364",
+        "25733",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Diablo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137457",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 6990,
+          "listPrice": 8190,
+          "ppumPrice": 9320,
+          "ppumListPrice": 10920,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/328232-250-250/Vino-Tinto-Diablo-Purple-Malbec-135%C2%B0-750-cc.jpg?v=638776430663300000"
+          ],
+          "name": "Vino Diablo Purple Reserva Malbec 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 6990,
+              "ppumPrice": 9320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24569",
+      "reference": "565527",
+      "sponsoredId": null,
+      "slug": "carmenere-adobe-vinedos-organicos-emiliana-750-ml-reserva-organico",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25565",
+        "25695"
+      ],
+      "brand": "Adobe",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24885",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 7987,
+          "ppumListPrice": 7987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/567993-250-250/Vino-Organico-Adobe-Reserva-Carmenere-750-cc.jpg?v=639046811885970000"
+          ],
+          "name": "Vino Orgánico Adobe Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "137174",
+      "reference": "1998176",
+      "sponsoredId": null,
+      "slug": "vino-floresta-cab-sauv-750cc-12-7-g-1998176",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219",
+        "897"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos",
+        "Vinos y Espumantes Destacados"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25502",
+        "25627",
+        "25695",
+        "26048",
+        "26269",
+        "26912",
+        "27093",
+        "27367"
+      ],
+      "brand": "Floresta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137464",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 18990,
+          "listPrice": 18990,
+          "ppumPrice": 25320,
+          "ppumListPrice": 25320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/579152-250-250/Vino-Floresta-Cabernet-Sauvignon-750-cc.jpg?v=639071561650530000"
+          ],
+          "name": "Vino Floresta Cabernet Sauvignon 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24663",
+      "reference": "294286",
+      "sponsoredId": null,
+      "slug": "pack-vina-santa-rita-4-unid-187-5-ml-c-u-cabernet-sauvignon-carmen",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "26884",
+        "27261",
+        "27487"
+      ],
+      "brand": "Carmen",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24979",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 5490,
+          "listPrice": 5490,
+          "ppumPrice": 7320,
+          "ppumListPrice": 7320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305469-250-250/Pack-4-un-Vino-Carmen-Cabernet-Sauvignon-187-cc.jpg?v=638776381595200000"
+          ],
+          "name": "Pack 4 un. Vino Carmen Cabernet Sauvignon 187 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 1 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 1",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 3294,
+              "ppumPrice": 4392,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24839",
+      "reference": "448680",
+      "sponsoredId": null,
+      "slug": "merlot-terrarum-vina-morande-750-ml-reserva",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Morandé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25155",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 8090,
+          "listPrice": 8090,
+          "ppumPrice": 10787,
+          "ppumListPrice": 10787,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306225-250-250/Vino-Morande-Seleccion-de-Vi%C3%B1edos-Gran-Reserva-Merlot-14%C2%B0-750-cc.jpg?v=638776382145070000"
+          ],
+          "name": "Vino Morandé Gran Reserva Merlot 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24986",
+      "reference": "549370",
+      "sponsoredId": null,
+      "slug": "carmenere-vina-casas-patronales-750-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "25500",
+        "25502",
+        "26912",
+        "27367"
+      ],
+      "brand": "Casas Patronales",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25305",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 6990,
+          "listPrice": 6990,
+          "ppumPrice": 9320,
+          "ppumListPrice": 9320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306445-250-250/Vino-Carmenere-Reserva-Vi%C3%B1a-Casas-Patronales-750-cc.jpg?v=638776382402800000"
+          ],
+          "name": "Vino Orgánico Casas Patronales Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "24971",
+      "reference": "647710",
+      "sponsoredId": null,
+      "slug": "ensamblaje-cabernet-sauvignon-carmenere-ramirana-vina-ventisquero-750-ml-reserva",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "17846",
+        "23175"
+      ],
+      "brand": "Ventisquero",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25290",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 7190,
+          "listPrice": 7190,
+          "ppumPrice": 9587,
+          "ppumListPrice": 9587,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306074-250-250/Vino-Ramirana-Reserva-Cabernet-y-Carmenere-750-cc.jpg?v=638776382012500000"
+          ],
+          "name": "Vino Ventisquero Ramirana Reserva Ensamblaje 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "39706",
+      "reference": "1668412",
+      "sponsoredId": null,
+      "slug": "vino-miguel-torres-gran-reserva-carmenere-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "219"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Vinos Tintos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "25969",
+        "25974",
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27544",
+        "27549"
+      ],
+      "brand": "Miguel Torres",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "42722",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 8490,
+          "listPrice": 11390,
+          "ppumPrice": 11320,
+          "ppumListPrice": 15187,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307515-250-250/Vino-Miguel-Torres-Gran-Reserva-Carmenere-750-cc.jpg?v=638776384922830000"
+          ],
+          "name": "Vino Miguel Torres Gran Reserva Carmenere 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 8490 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 8490,
+              "ppumPrice": 11320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Vinos Tintos",
+          "value": "/licores-bebidas-y-aguas/vinos/vinos-tintos",
+          "selected": false,
+          "quantity": 859,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Vinos Tintos",
+          "value": "/licores-bebidas-y-aguas/vinos/vinos-tintos",
+          "selected": false,
+          "quantity": 859,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Vinos Tintos",
+          "value": "/licores-bebidas-y-aguas/vinos/vinos-tintos",
+          "selected": false,
+          "quantity": 859,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Toro De Piedra",
+          "value": "Toro De Piedra",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Diablo",
+          "value": "Diablo",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Santa Rita",
+          "value": "Santa Rita",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Casillero Del Diablo",
+          "value": "Casillero Del Diablo",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carmen",
+          "value": "Carmen",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Marques de Casa Concha",
+          "value": "Marques de Casa Concha",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Castillo de Molina",
+          "value": "Castillo de Molina",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tarapacá",
+          "value": "Tarapacá",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Morandé",
+          "value": "Morandé",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ventisquero",
+          "value": "Ventisquero",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Las Mulas",
+          "value": "Las Mulas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Pedro",
+          "value": "San Pedro",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Miguel Torres",
+          "value": "Miguel Torres",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Casa Silva",
+          "value": "Casa Silva",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Santa Ema",
+          "value": "Santa Ema",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cono Sur",
+          "value": "Cono Sur",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Adobe",
+          "value": "Adobe",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Floresta",
+          "value": "Floresta",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Casas Patronales",
+          "value": "Casas Patronales",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Undurraga",
+          "value": "Undurraga",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caballo Loco",
+          "value": "Caballo Loco",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doña Dominga",
+          "value": "Doña Dominga",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Terrunyo",
+          "value": "Terrunyo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Concha y Toro",
+          "value": "Viña Concha y Toro",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Misiones de Rengo",
+          "value": "Misiones de Rengo",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aliwen",
+          "value": "Aliwen",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kalfu Molu",
+          "value": "Kalfu Molu",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Montes Alpha",
+          "value": "Montes Alpha",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tagua Tagua",
+          "value": "Tagua Tagua",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Don Melchor",
+          "value": "Don Melchor",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Almavida",
+          "value": "Viña Almavida",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sideral",
+          "value": "Sideral",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Novas",
+          "value": "Novas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "JP Chenet",
+          "value": "JP Chenet",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremaschi Furlotti",
+          "value": "Cremaschi Furlotti",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Indomita",
+          "value": "Indomita",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Exportación Selecto",
+          "value": "Exportación Selecto",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "VIK",
+          "value": "VIK",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Piccini",
+          "value": "Piccini",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gato",
+          "value": "Gato",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ramirana",
+          "value": "Ramirana",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Montes",
+          "value": "Montes",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viu Manent",
+          "value": "Viu Manent",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Santa Digna",
+          "value": "Santa Digna",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Casa Lapostolle",
+          "value": "Casa Lapostolle",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Antaño",
+          "value": "Antaño",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Salentein",
+          "value": "Viña Salentein",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doña Paula",
+          "value": "Doña Paula",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Finca Las Moras",
+          "value": "Finca Las Moras",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Luigi Bosca",
+          "value": "Luigi Bosca",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tabali",
+          "value": "Tabali",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cousiño Macul",
+          "value": "Cousiño Macul",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Veramonte",
+          "value": "Veramonte",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frontera",
+          "value": "Frontera",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Panul",
+          "value": "Panul",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Coyam",
+          "value": "Coyam",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Errazuriz",
+          "value": "Errazuriz",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Casa Bauzá",
+          "value": "Casa Bauzá",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Casa Real",
+          "value": "Casa Real",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Pérez Cruz",
+          "value": "Viña Pérez Cruz",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Neyen",
+          "value": "Neyen",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "57 Rocas",
+          "value": "57 Rocas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Altair",
+          "value": "Altair",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Amelia",
+          "value": "Amelia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Seña",
+          "value": "Viña Seña",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Angélica Zapata",
+          "value": "Angélica Zapata",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arboleda",
+          "value": "Arboleda",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Exportación",
+          "value": "Exportación",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caliterra",
+          "value": "Caliterra",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Matetic",
+          "value": "Matetic",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Osborne",
+          "value": "Osborne",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña François Lurton",
+          "value": "Viña François Lurton",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apaltagua",
+          "value": "Apaltagua",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "GE",
+          "value": "GE",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aresti",
+          "value": "Aresti",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Casas del Bosque",
+          "value": "Casas del Bosque",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Andes Plateau",
+          "value": "Andes Plateau",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "7 Colores",
+          "value": "7 Colores",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Rosa",
+          "value": "La Rosa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Santa Emiliana",
+          "value": "Santa Emiliana",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Balduzzi",
+          "value": "Balduzzi",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bodegas",
+          "value": "Bodegas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carmín de Peumo",
+          "value": "Carmín de Peumo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Casa Marin",
+          "value": "Viña Casa Marin",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "El Enemigo",
+          "value": "El Enemigo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "120",
+          "value": "120",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vistamar sepia",
+          "value": "Vistamar sepia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mayor de Castilla",
+          "value": "Mayor de Castilla",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Von Siebenthal",
+          "value": "Von Siebenthal",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "El Principal",
+          "value": "El Principal",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arcangel",
+          "value": "Arcangel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Koyle",
+          "value": "Koyle",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Miguel Torres",
+          "value": "Viña Miguel Torres",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Primus",
+          "value": "Primus",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Catena Zapata",
+          "value": "Viña Catena Zapata",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Jose de Apalta",
+          "value": "San Jose de Apalta",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Capitana",
+          "value": "La Capitana",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "J. Bouchon",
+          "value": "J. Bouchon",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chaman",
+          "value": "Chaman",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabernario N°8",
+          "value": "Cabernario N°8",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Portillo",
+          "value": "Portillo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Kaiken",
+          "value": "Viña Kaiken",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "De Martino",
+          "value": "De Martino",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salmos",
+          "value": "Salmos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bodega Uno",
+          "value": "Bodega Uno",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Loco de Piedra",
+          "value": "Loco de Piedra",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Siegel",
+          "value": "Siegel",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Península",
+          "value": "Península",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Marchigüe",
+          "value": "Viña Marchigüe",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Humo Blanco",
+          "value": "Humo Blanco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Clos de Luz",
+          "value": "Clos de Luz",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Loma Larga",
+          "value": "Loma Larga",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Venus",
+          "value": "Venus",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Calcu",
+          "value": "Calcu",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "MontGras",
+          "value": "MontGras",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Maquis",
+          "value": "Maquis",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kalfu Kuda",
+          "value": "Kalfu Kuda",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Centenario",
+          "value": "Centenario",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Castillo San Simón",
+          "value": "Castillo San Simón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sutil",
+          "value": "Sutil",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Schwaderer",
+          "value": "Schwaderer",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bestias",
+          "value": "Bestias",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Clos De Pirque",
+          "value": "Clos De Pirque",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Uno",
+          "value": "Uno",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mr. Wildman",
+          "value": "Mr. Wildman",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Torreon De Paredes",
+          "value": "Torreon De Paredes",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sol de Chile",
+          "value": "Sol de Chile",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Secret Reserve",
+          "value": "Secret Reserve",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Playa",
+          "value": "La Playa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Santa Carolina",
+          "value": "Santa Carolina",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Garzón",
+          "value": "Garzón",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Patagonia",
+          "value": "Patagonia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sottano",
+          "value": "Sottano",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Don Matías",
+          "value": "Don Matías",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Causa",
+          "value": "La Causa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mil Demonios",
+          "value": "Mil Demonios",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vistalba",
+          "value": "Vistalba",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alamos",
+          "value": "Alamos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Terra Andina",
+          "value": "Terra Andina",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Espíritu De Chile",
+          "value": "Espíritu De Chile",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocalan",
+          "value": "Chocalan",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Santa Helena",
+          "value": "Santa Helena",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Porta",
+          "value": "Porta",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Oveja Negra",
+          "value": "Oveja Negra",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gran Tomero",
+          "value": "Gran Tomero",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Provincia",
+          "value": "Provincia",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Reglas",
+          "value": "Sin Reglas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cordillera",
+          "value": "Cordillera",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Volcanes",
+          "value": "Volcanes",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Terranoble",
+          "value": "Terranoble",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Los Vascos",
+          "value": "Viña Los Vascos",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Finca La Linda",
+          "value": "Finca La Linda",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Odfjell",
+          "value": "Odfjell",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valdivieso",
+          "value": "Valdivieso",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Terrapura",
+          "value": "Terrapura",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña La Rosa",
+          "value": "Viña La Rosa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Gracia de Chile",
+          "value": "Viña Gracia de Chile",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Casas Del Toqui",
+          "value": "Casas Del Toqui",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Espaldares Del Maipo",
+          "value": "Viña Espaldares Del Maipo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estampa",
+          "value": "Estampa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña William Fevre",
+          "value": "Viña William Fevre",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "P.S. García",
+          "value": "P.S. García",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Los Boldos",
+          "value": "Los Boldos",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Leyda",
+          "value": "Leyda",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ferreira",
+          "value": "Ferreira",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Casa Donoso",
+          "value": "Viña Casa Donoso",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nirvana",
+          "value": "Nirvana",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Soneto",
+          "value": "Soneto",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unrated",
+          "value": "Unrated",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Toreto",
+          "value": "Toreto",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Corral Victoria",
+          "value": "Viña Corral Victoria",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Casa Rivas",
+          "value": "Casa Rivas",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dogma",
+          "value": "Dogma",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Procer",
+          "value": "Procer",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Las Veletas",
+          "value": "Las Veletas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Petirrojo",
+          "value": "Petirrojo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Puente Austral",
+          "value": "Puente Austral",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Misión",
+          "value": "Misión",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Joya",
+          "value": "La Joya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tricyclo",
+          "value": "Tricyclo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sinzero",
+          "value": "Sinzero",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Marqués de Riscal",
+          "value": "Marqués de Riscal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Blas",
+          "value": "San Blas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Candela",
+          "value": "Candela",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Epica",
+          "value": "Epica",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Loncotoro",
+          "value": "Viña Loncotoro",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viña Altacima",
+          "value": "Viña Altacima",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cepa",
+      "key": "Cepa",
+      "values": [
+        {
+          "displayName": "Carmenere",
+          "value": "Carménère",
+          "selected": false,
+          "quantity": 210,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ensamblaje",
+          "value": "Ensamblaje",
+          "selected": false,
+          "quantity": 136,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabernet Sauvignon",
+          "value": "Cabernet Sauvignon",
+          "selected": false,
+          "quantity": 250,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Malbec",
+          "value": "Malbec",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Merlot",
+          "value": "Merlot",
+          "selected": false,
+          "quantity": 85,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Syrah",
+          "value": "Syrah",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pinot Noir",
+          "value": "Pinot Noir",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carignan",
+          "value": "Carignan",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tinto",
+          "value": "Tinto",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tempranillo",
+          "value": "Tempranillo",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Red Blend",
+          "value": "Red Blend",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Oporto",
+          "value": "Oporto",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabernet Franc",
+          "value": "Cabernet Franc",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Primitivo",
+          "value": "Primitivo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Blend",
+          "value": "Blend",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabernet",
+          "value": "Cabernet",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sangiovese Cabernet",
+          "value": "Sangiovese Cabernet",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Monastrell",
+          "value": "Monastrell",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nero D'avola",
+          "value": "Nero D'avola",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cinsault",
+          "value": "Cinsault",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tannat",
+          "value": "Tannat",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Marselan",
+          "value": "Marselan",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chardonnay",
+          "value": "Chardonnay",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rosé",
+          "value": "Rosé",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "700 a 750 cc",
+          "value": "700 a 750 cc",
+          "selected": false,
+          "quantity": 776,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "750 cc",
+          "value": "750 cc",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "750 cc + 750 cc + Chocolate",
+          "value": "750 cc + 750 cc + Chocolate",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "750 cc + Copa",
+          "value": "750 cc + Copa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Menos de 699 cc",
+          "value": "Menos de 699 cc",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Más de 1000 cc",
+          "value": "Más de 1000 cc",
+          "selected": false,
+          "quantity": 51,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "unitario",
+          "value": "Unitario",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 793,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 66,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 842,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 223,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 213,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 785,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Francia",
+          "value": "Francia",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Portugal",
+          "value": "Portugal",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "República Dominicana",
+          "value": "República Dominicana",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Uruguay",
+          "value": "Uruguay",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1690,
+          "maxValue": 279990
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Vinos Tintos",
+          "value": "Vinos Tintos",
+          "selected": false,
+          "quantity": 859,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Valle",
+      "key": "Valle",
+      "values": [
+        {
+          "displayName": "Alto Jahuel",
+          "value": "Alto Jahuel",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Finca el Ato Luján de Cuyo",
+          "value": "Finca el Ato Luján de Cuyo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Guarilihue",
+          "value": "Guarilihue",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Rioja",
+          "value": "La Rioja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Luján de Cuyo",
+          "value": "Luján de Cuyo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mendoza",
+          "value": "Mendoza",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Minervois Francia",
+          "value": "Minervois Francia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Provincia de San Juan",
+          "value": "Provincia de San Juan",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Secano Interior",
+          "value": "Secano Interior",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle Central",
+          "value": "Valle Central",
+          "selected": false,
+          "quantity": 59,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Aconcagua",
+          "value": "Valle de Aconcagua",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Apalta",
+          "value": "Valle de Apalta",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Casablanca",
+          "value": "Valle de Casablanca",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Colchagua",
+          "value": "Valle de Colchagua",
+          "selected": false,
+          "quantity": 149,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Curicó",
+          "value": "Valle de Curicó",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Itata",
+          "value": "Valle de Itata",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Leyda",
+          "value": "Valle de Leyda",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Lolol",
+          "value": "Valle de Lolol",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Millahue",
+          "value": "Valle de Millahue",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Panquehue",
+          "value": "Valle de Panquehue",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Peumo",
+          "value": "Valle de Peumo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Rapel",
+          "value": "Valle de Rapel",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Sagrada Familia",
+          "value": "Valle de Sagrada Familia",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de San Antonio",
+          "value": "Valle de San Antonio",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle de Uco",
+          "value": "Valle de Uco",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Bío-Bío",
+          "value": "Valle del Bío-Bío",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Cachapoal",
+          "value": "Valle del Cachapoal",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Douro",
+          "value": "Valle del Douro",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Elqui",
+          "value": "Valle del Elqui",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Itata",
+          "value": "Valle del Itata",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Limarí",
+          "value": "Valle del Limarí",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Loncomilla",
+          "value": "Valle del Loncomilla",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Maipo",
+          "value": "Valle del Maipo",
+          "selected": false,
+          "quantity": 219,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Maule",
+          "value": "Valle del Maule",
+          "selected": false,
+          "quantity": 93,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Pedernal",
+          "value": "Valle del Pedernal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle del Rapel",
+          "value": "Valle del Rapel",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valle Itata",
+          "value": "Valle Itata",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Orgánico",
+      "key": "Orgánico",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "NO",
+          "selected": false,
+          "quantity": 784,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 55,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Líquido",
+          "value": "Líquido",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 859,
+  "metaTag": {
+    "title": "Vinos tintos | Jumbo.cl",
+    "description": "Añade a tu mesa un toque especial con los exquisitos vinos tintos de nuestro catálogo online. ¡Pide tus favoritos en Jumbo.cl y llegarán a la puerta de tu casa!"
+  }
+}

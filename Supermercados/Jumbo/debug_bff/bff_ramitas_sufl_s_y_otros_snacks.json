@@ -1,0 +1,3583 @@
+{
+  "products": [
+    {
+      "productId": "99995",
+      "reference": "1871734",
+      "sponsoredId": null,
+      "slug": "cheezels-retro-snack-220-gr-1871734",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "26954"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "100262",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.22,
+          "price": 2160,
+          "listPrice": 2160,
+          "ppumPrice": 9818,
+          "ppumListPrice": 9818,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/456520-250-250/Cheezels-Sabor-Queso-200-g.jpg?v=638857188553230000"
+          ],
+          "name": "Cheezels Sabor Queso 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "123424",
+      "reference": "1956893",
+      "sponsoredId": null,
+      "slug": "ramitas-queso-330-gr-1956893",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "22523",
+        "26912",
+        "26954",
+        "27367",
+        "27557"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "123714",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.33,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 8152,
+          "ppumListPrice": 8152,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/457449-250-250/Ramitas-Evercrisp-Sabor-Queso-330-g.jpg?v=638857209575030000"
+          ],
+          "name": "Ramitas Evercrisp Sabor Queso 330 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139055",
+      "reference": "2002056",
+      "sponsoredId": null,
+      "slug": "crunchis-sufles-papa-marco-polo-200g-2002056",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "22523",
+        "27499",
+        "27501",
+        "27543",
+        "27563",
+        "27601"
+      ],
+      "brand": "Marco Polo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139348",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1490,
+          "listPrice": 1880,
+          "ppumPrice": 7450,
+          "ppumListPrice": 9400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/567499-250-250/Snack-Crunchis-Sufles-Papa-Marco-Polo-200-g.jpg?v=639045136909800000"
+          ],
+          "name": "Snack Crunchis Suflés Papa Marco Polo 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1490 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1490,
+              "ppumPrice": 7450,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "123124",
+      "reference": "1956892",
+      "sponsoredId": null,
+      "slug": "ramitas-sal-330-gr-1956892",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "22523",
+        "26912",
+        "26954",
+        "27367",
+        "27557"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "123411",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.33,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 8152,
+          "ppumListPrice": 8152,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/457435-250-250/Ramitas-Evercrisp-Sabor-Original-330-g.jpg?v=638857209517930000"
+          ],
+          "name": "Ramitas Evercrisp Sabor Original 330 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "101128",
+      "reference": "1873527",
+      "sponsoredId": null,
+      "slug": "chis-pop-tutti-frutti-220-gr-1873527",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "26954"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "101397",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 2140,
+          "listPrice": 2140,
+          "ppumPrice": 10700,
+          "ppumListPrice": 10700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/457334-250-250/Chis-Pop-Sabor-Tutti-Frutti-200-g.jpg?v=638857209044200000"
+          ],
+          "name": "Chis Pop Sabor Tutti-Frutti 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "81290",
+      "reference": "1822395",
+      "sponsoredId": null,
+      "slug": "souffles-de-queso-170-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1006",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "1055",
+        "19270"
+      ],
+      "brand": "Purisnacks",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81562",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.17,
+          "price": 2790,
+          "listPrice": 2790,
+          "ppumPrice": 16412,
+          "ppumListPrice": 16412,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/435858-250-250/Puri-Crunchy-Queso-140-g.jpg?v=638825960138270000"
+          ],
+          "name": "Crunchy Puri Queso 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126587",
+      "reference": "1956894",
+      "sponsoredId": null,
+      "slug": "ramitas-sal-230-gr-1956894",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25354",
+        "25373",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25514",
+        "25695",
+        "26954",
+        "27499",
+        "27501",
+        "27543",
+        "27563",
+        "27601"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126880",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.23,
+          "price": 1790,
+          "listPrice": 2120,
+          "ppumPrice": 7783,
+          "ppumListPrice": 9217,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/492966-250-250/Ramitas-Evercrisp-Sabor-Original-230-g.jpg?v=638906471524430000"
+          ],
+          "name": "Ramitas Evercrisp Sabor Original 230 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1790 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1790,
+              "ppumPrice": 7783,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75455",
+      "reference": "1787038",
+      "sponsoredId": null,
+      "slug": "pop-color-270-g-cuisine-and-co-1787038",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "894",
+        "895",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27357",
+        "27363",
+        "27367",
+        "27499",
+        "27501",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517",
+        "27543",
+        "27563",
+        "27601"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75714",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.27,
+          "price": 1290,
+          "listPrice": 1990,
+          "ppumPrice": 4778,
+          "ppumListPrice": 7370,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363264-250-250/Pop-color-270-g.jpg?v=638776747122200000"
+          ],
+          "name": "Pop Color Cuisine & Co 270 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1290,
+              "ppumPrice": 4778,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "117784",
+      "reference": "1935322",
+      "sponsoredId": null,
+      "slug": "cheetos-palitos-queso-evercrisp-280-gr-1935322",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "22523",
+        "26912",
+        "26954",
+        "27367",
+        "27557"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "118050",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 7960,
+          "ppumListPrice": 7960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/475694-250-250/Cheetos-Palitos-250-g.jpg?v=638872631918870000"
+          ],
+          "name": "Cheetos Palitos 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "97551",
+      "reference": "1860067",
+      "sponsoredId": null,
+      "slug": "detodito-i-evercrisp-290g-1860067",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "25670",
+        "26917",
+        "26954",
+        "27281",
+        "27455",
+        "27461",
+        "27509",
+        "27518",
+        "27520",
+        "27521",
+        "27522",
+        "27537",
+        "27543",
+        "27601"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "97819",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.22,
+          "price": 1900,
+          "listPrice": 2390,
+          "ppumPrice": 8636,
+          "ppumListPrice": 10864,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/494834-250-250/Snack-de-Todito-Original-220-g.jpg?v=638907271238170000"
+          ],
+          "name": "Snack de Todito Original 220 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1900 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1900,
+              "ppumPrice": 8636,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "2969",
+      "reference": "972044",
+      "sponsoredId": null,
+      "slug": "choco-cracs-evercrisp-bolsa-160-grs",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "25354",
+        "25373",
+        "25514",
+        "26954"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2975",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.16,
+          "price": 1750,
+          "listPrice": 1750,
+          "ppumPrice": 10938,
+          "ppumListPrice": 10938,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/457160-250-250/Choco-Cracs-Sabor-Chocolate-160-g.jpg?v=638857191781870000"
+          ],
+          "name": "Choco Cracs Sabor Chocolate 160 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "106551",
+      "reference": "1897494",
+      "sponsoredId": null,
+      "slug": "crunchis-mani-330-gr-1897494",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "22523"
+      ],
+      "brand": "Marco Polo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "106819",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.33,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 6636,
+          "ppumListPrice": 6636,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/573588-250-250/Crunchis-Mani-Marco-Polo-330-g.jpg?v=639063505456000000"
+          ],
+          "name": "Crunchis Maní Marco Polo 330 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "81289",
+      "reference": "1822394",
+      "sponsoredId": null,
+      "slug": "souffles-sabor-mani-170-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1006",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "1055",
+        "19270"
+      ],
+      "brand": "Purisnacks",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81561",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.17,
+          "price": 2790,
+          "listPrice": 2790,
+          "ppumPrice": 16412,
+          "ppumListPrice": 16412,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/435855-250-250/Puri-Crunchy-Mani-140-g.jpg?v=638825960101970000"
+          ],
+          "name": "Crunchy Puri Maní 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "145898",
+      "reference": "2023068",
+      "sponsoredId": null,
+      "slug": "puri-ramitas-saladas-puripop-22-gr-2023068",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1006",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27543",
+        "27563",
+        "27601"
+      ],
+      "brand": "Puripop Popcorn",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146192",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.022,
+          "price": 590,
+          "listPrice": 590,
+          "ppumPrice": 26818,
+          "ppumListPrice": 26818,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/435912-250-250/Puri-Ramitas-Saladas-22-g.jpg?v=638825960718400000"
+          ],
+          "name": "Ramitas Puri Saladas 22 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 990,
+              "unitPrice": 495,
+              "ppumPrice": 22500,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "154185",
+      "reference": "2045113",
+      "sponsoredId": null,
+      "slug": "souffle-papa-puri-crunchy-140gr-2045113",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [],
+      "brand": "Puripop Popcorn",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154500",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 3150,
+          "listPrice": 3150,
+          "ppumPrice": 22500,
+          "ppumListPrice": 22500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/491661-250-250/Souffle-Puri-Crunchy-Sabor-Papa-140-g.jpg?v=638905524881200000"
+          ],
+          "name": "Soufflé Puri Crunchy Sabor Papa 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122284",
+      "reference": "1951039",
+      "sponsoredId": null,
+      "slug": "ramitas-saladas-cuisine-and-co-xl-350-gr-1951039",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "894",
+        "895",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27357",
+        "27363",
+        "27367",
+        "27499",
+        "27501",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517",
+        "27543",
+        "27557",
+        "27563",
+        "27601"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122561",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 2000,
+          "listPrice": 2540,
+          "ppumPrice": 5714,
+          "ppumListPrice": 7257,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/248503-250-250/Ramitas-saladas-XL-350-g.jpg?v=638683275599730000"
+          ],
+          "name": "Ramitas Saladas XL 350 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2000 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2000,
+              "ppumPrice": 5714,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126588",
+      "reference": "1956895",
+      "sponsoredId": null,
+      "slug": "ramitas-queso-230-gr-1956895",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25354",
+        "25373",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25514",
+        "25670",
+        "25695",
+        "26917",
+        "26954",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27520",
+        "27521",
+        "27522",
+        "27537",
+        "27543",
+        "27563",
+        "27601"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126881",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.23,
+          "price": 1700,
+          "listPrice": 2120,
+          "ppumPrice": 7391,
+          "ppumListPrice": 9217,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/492984-250-250/Ramitas-Evercrisp-Sabor-Queso-230-g.jpg?v=638906471573100000"
+          ],
+          "name": "Ramitas Evercrisp Sabor Queso 230 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1700 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1700,
+              "ppumPrice": 7391,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "145897",
+      "reference": "2023067",
+      "sponsoredId": null,
+      "slug": "puri-ramitas-queso-puripop-22-gr-2023067",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1006",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27543",
+        "27563",
+        "27601"
+      ],
+      "brand": "Puripop Popcorn",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146191",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.022,
+          "price": 590,
+          "listPrice": 590,
+          "ppumPrice": 26818,
+          "ppumListPrice": 26818,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/435909-250-250/Puri-Ramitas-Queso-22-g.jpg?v=638825960686700000"
+          ],
+          "name": "Ramitas Puri Queso 22 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 990,
+              "unitPrice": 495,
+              "ppumPrice": 22500,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138123",
+      "reference": "2000203",
+      "sponsoredId": null,
+      "slug": "nutripop-snack-garbanzo-s-glut-choco-20g-2000203",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1006",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "23985",
+        "27375",
+        "27376",
+        "27543"
+      ],
+      "brand": "Nutripop",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138417",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.02,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 49500,
+          "ppumListPrice": 49500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/427373-250-250/Nutripop-Snack-Garbanzo-sin-Gluten-Chocolate-20-g.jpg?v=638811002193630000"
+          ],
+          "name": "Snack Garbanzos Nutripop Sin Gluten Chocolate 20 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X1290 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 1290,
+              "unitPrice": 645,
+              "ppumPrice": 32250,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159019",
+      "reference": "2055047",
+      "sponsoredId": null,
+      "slug": "snack-lays-switch-180-gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "25726",
+        "26622",
+        "26954"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159352",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 8760,
+          "ppumListPrice": 8760,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/533631-250-250/Snack-Ramitas-Evercrisp-Sabor-a-Crema-y-Cebolla-160-g.jpg?v=638979415610900000"
+          ],
+          "name": "Snack Ramitas Evercrisp Sabor Crema y Cebolla 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139094",
+      "reference": "2002057",
+      "sponsoredId": null,
+      "slug": "crunchis-sabor-mani-marco-polo-200-gr-2002057",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "22523",
+        "27499",
+        "27501",
+        "27543",
+        "27563",
+        "27601"
+      ],
+      "brand": "Marco Polo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139388",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1490,
+          "listPrice": 1880,
+          "ppumPrice": 7450,
+          "ppumListPrice": 9400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/567501-250-250/Snack-Crunchis-Sabor-Mani-Marco-Polo-200-g.jpg?v=639045136923400000"
+          ],
+          "name": "Snack Crunchis Sabor Maní Marco Polo 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1490 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1490,
+              "ppumPrice": 7450,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122300",
+      "reference": "1951040",
+      "sponsoredId": null,
+      "slug": "ramitas-queso-cuisine-and-co-xl-350-gr-1951040",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "894",
+        "895",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27357",
+        "27363",
+        "27367",
+        "27499",
+        "27501",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517",
+        "27543",
+        "27563",
+        "27601"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122531",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 2000,
+          "listPrice": 2540,
+          "ppumPrice": 5714,
+          "ppumListPrice": 7257,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/388116-250-250/Ramitas-queso-XL-350-g.jpg?v=638776854540430000"
+          ],
+          "name": "Ramitas Queso XL 350 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2000 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2000,
+              "ppumPrice": 5714,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "142485",
+      "reference": "2009513",
+      "sponsoredId": null,
+      "slug": "sufle-mani-buka-200-gr-2009513",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [],
+      "brand": "Buka",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142780",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 9950,
+          "ppumListPrice": 9950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/337332-250-250/Sufle-Mani-Buka-200-g.jpg?v=638776438533830000"
+          ],
+          "name": "Suflé Maní Buka 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "124131",
+      "reference": "1949962",
+      "sponsoredId": null,
+      "slug": "cheetos-palitos-200-gr-1949962",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "26954"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "124426",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1490,
+          "listPrice": 1490,
+          "ppumPrice": 7450,
+          "ppumListPrice": 7450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/456897-250-250/Cheetos-Palitos-200-g.jpg?v=638857189918830000"
+          ],
+          "name": "Cheetos Palitos 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139078",
+      "reference": "2002054",
+      "sponsoredId": null,
+      "slug": "crunchis-sufles-queso-marco-polo-200g-2002054",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "22523",
+        "27499",
+        "27501",
+        "27543",
+        "27563",
+        "27601"
+      ],
+      "brand": "Marco Polo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139372",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1490,
+          "listPrice": 1880,
+          "ppumPrice": 7450,
+          "ppumListPrice": 9400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/567495-250-250/Snack-Crunchis-Sufles-Queso-Marco-Polo-200-g.jpg?v=639045136880130000"
+          ],
+          "name": "Snack Crunchis Suflés Queso Marco Polo 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1490 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1490,
+              "ppumPrice": 7450,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "97554",
+      "reference": "1860070",
+      "sponsoredId": null,
+      "slug": "detodito-i-evercrisp-400g-1860070",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "26954"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "97822",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.34,
+          "price": 3130,
+          "listPrice": 3130,
+          "ppumPrice": 9206,
+          "ppumListPrice": 9206,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/494851-250-250/Snack-de-Todito-340-g.jpg?v=638907271287130000"
+          ],
+          "name": "Snack de Todito 340 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "155849",
+      "reference": "2045195",
+      "sponsoredId": null,
+      "slug": "snack-detodito-dulce-220g-2045195",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "26622",
+        "26954"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156250",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.22,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 10864,
+          "ppumListPrice": 10864,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/508104-250-250/Snack-Detodito-Dulce-220-g.jpg?v=638935565537900000"
+          ],
+          "name": "Snack Detodito Dulce 220 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "101136",
+      "reference": "1873525",
+      "sponsoredId": null,
+      "slug": "gatolate-snacks-220-gr-1873525",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "25354",
+        "25373",
+        "25514",
+        "26954"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "101405",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.22,
+          "price": 2330,
+          "listPrice": 2330,
+          "ppumPrice": 10591,
+          "ppumListPrice": 10591,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/456537-250-250/Gatolate-Sabor-Chocolate-200-g.jpg?v=638857188624430000"
+          ],
+          "name": "Gatolate Sabor Chocolate 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "101556",
+      "reference": "1873526",
+      "sponsoredId": null,
+      "slug": "traga-traga-frambueza-220-gr-1873526",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "26954"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "101824",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.22,
+          "price": 2250,
+          "listPrice": 2250,
+          "ppumPrice": 10227,
+          "ppumListPrice": 10227,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/457329-250-250/Evercrisp-Traga-Traga-Frambuesa-200-g.jpg?v=638857208996870000"
+          ],
+          "name": "Evercrisp Traga Traga Frambuesa 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139048",
+      "reference": "2000509",
+      "sponsoredId": null,
+      "slug": "ramitas-marco-polo-saladas-230-grs-2000509",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367"
+      ],
+      "brand": "Marco Polo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139343",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.23,
+          "price": 2040,
+          "listPrice": 2040,
+          "ppumPrice": 8870,
+          "ppumListPrice": 8870,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/567484-250-250/Snack-Ramitas-Marco-Polo-Saladas-230-g.jpg?v=639045136777170000"
+          ],
+          "name": "Snack Ramitas Marco Polo Saladas 230 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "17105",
+      "reference": "540116",
+      "sponsoredId": null,
+      "slug": "charqui-las-cardas-105-g-kids-posta-negra",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [],
+      "brand": "Las Cardas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "14435",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.105,
+          "price": 7550,
+          "listPrice": 7550,
+          "ppumPrice": 71905,
+          "ppumListPrice": 71905,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/351824-250-250/540116.jpg?v=638776687131670000"
+          ],
+          "name": "Charqui Las Cardas Kids Posta Negra 105 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "85180",
+      "reference": "1839317",
+      "sponsoredId": null,
+      "slug": "sufle-cheetos-mani-230-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "26954"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "85450",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.23,
+          "price": 1840,
+          "listPrice": 1840,
+          "ppumPrice": 8000,
+          "ppumListPrice": 8000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/461800-250-250/Cheetos-Mani-250-g.jpg?v=638866453530000000"
+          ],
+          "name": "Cheetos Maní 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "120524",
+      "reference": "1948544",
+      "sponsoredId": null,
+      "slug": "cheetos-queso-crema-250-gr-1948544",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "26954"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "120703",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 2030,
+          "listPrice": 2030,
+          "ppumPrice": 8120,
+          "ppumListPrice": 8120,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/457381-250-250/Cheetos-Queso-Crema-220-g.jpg?v=638857209262730000"
+          ],
+          "name": "Cheetos Queso Crema 220 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "125412",
+      "reference": "1956891",
+      "sponsoredId": null,
+      "slug": "cheezels-150-gr-1956891",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "26954"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "125708",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 1490,
+          "listPrice": 1490,
+          "ppumPrice": 9933,
+          "ppumListPrice": 9933,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/457430-250-250/Cheezels-Sabor-Queso-150-g.jpg?v=638857209461730000"
+          ],
+          "name": "Cheezels Sabor Queso 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "108583",
+      "reference": "1904126",
+      "sponsoredId": null,
+      "slug": "puri-ramitas-oliva-sal-puripop-150-gr-1904126",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1006",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "1055",
+        "19270"
+      ],
+      "brand": "Purisnacks",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "108850",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 2790,
+          "listPrice": 2790,
+          "ppumPrice": 18600,
+          "ppumListPrice": 18600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/435872-250-250/Puri-Ramitas-Saladas-125-g.jpg?v=638825960280470000"
+          ],
+          "name": "Ramitas Puri Oliva Sal de Mar 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "155850",
+      "reference": "2045196",
+      "sponsoredId": null,
+      "slug": "snack-detodito-ii-340g-2045196",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "26954"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156168",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.34,
+          "price": 3190,
+          "listPrice": 3190,
+          "ppumPrice": 9382,
+          "ppumListPrice": 9382,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/508122-250-250/Snack-Detodito-Sabor-Queso-340-g.jpg?v=638935565564800000"
+          ],
+          "name": "Snack Detodito Sabor Queso 340 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "143225",
+      "reference": "2003477",
+      "sponsoredId": null,
+      "slug": "snack-takis-intense-190-g-2003477",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "19270",
+        "26592",
+        "27499",
+        "27501",
+        "27543",
+        "27563",
+        "27601"
+      ],
+      "brand": "Takis",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "143519",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1890,
+          "listPrice": 2130,
+          "ppumPrice": 1890,
+          "ppumListPrice": 2130,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/339208-250-250/2003477-01_687750.jpg?v=638776439815700000"
+          ],
+          "name": "Snack Takis Intense 190 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1890 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1890,
+              "ppumPrice": 1890,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139049",
+      "reference": "2002055",
+      "sponsoredId": null,
+      "slug": "crunchis-tubos-queso-marco-polo-200g-2002055",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "22523",
+        "27499",
+        "27501",
+        "27543",
+        "27563",
+        "27601"
+      ],
+      "brand": "Marco Polo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139345",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1490,
+          "listPrice": 1880,
+          "ppumPrice": 7450,
+          "ppumListPrice": 9400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/567497-250-250/Snack-Crunchis-Tubos-Queso-Marco-Polo-200-g.jpg?v=639045136895500000"
+          ],
+          "name": "Snack Crunchis Tubos Queso Marco Polo 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1490 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1490,
+              "ppumPrice": 7450,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139056",
+      "reference": "2000512",
+      "sponsoredId": null,
+      "slug": "crunchis-pops-tutifrutti-marco-polo-200g-2000512",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "22523",
+        "27499",
+        "27501",
+        "27543",
+        "27563",
+        "27601"
+      ],
+      "brand": "Marco Polo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139350",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1490,
+          "listPrice": 1880,
+          "ppumPrice": 7450,
+          "ppumListPrice": 9400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/573636-250-250/Crunchis-Pops-Tutifrutti-Marco-Polo-200-g.jpg?v=639063505806930000"
+          ],
+          "name": "Crunchis Pops Tutifrutti Marco Polo 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1490 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1490,
+              "ppumPrice": 7450,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159018",
+      "reference": "2055046",
+      "sponsoredId": null,
+      "slug": "snack-ramitas-churro-250g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1044",
+        "1072"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Snacks",
+        "Ramitas, Suflés y Otros Snacks"
+      ],
+      "collections": [
+        "25726",
+        "26622",
+        "26954"
+      ],
+      "brand": "Evercrisp",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159351",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 8760,
+          "ppumListPrice": 8760,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/533599-250-250/Snack-Ramitas-Evercrisp-Sabor-a-Churros-250-g.jpg?v=638979415568100000"
+          ],
+          "name": "Snack Ramitas Evercrisp Sabor a Churros 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Ramitas, Suflés y Otros Snacks",
+          "value": "/chocolates-galletas-y-snacks/snacks/ramitas-sufles-y-otros-snacks",
+          "selected": false,
+          "quantity": 79,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Ramitas, Suflés y Otros Snacks",
+          "value": "/chocolates-galletas-y-snacks/snacks/ramitas-sufles-y-otros-snacks",
+          "selected": false,
+          "quantity": 79,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Ramitas, Suflés y Otros Snacks",
+          "value": "/chocolates-galletas-y-snacks/snacks/ramitas-sufles-y-otros-snacks",
+          "selected": false,
+          "quantity": 79,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Ramitas de Queso",
+          "value": "Ramitas de Queso",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ramitas Saladas",
+          "value": "Ramitas Saladas",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suflé",
+          "value": "Suflé",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Snacks Mix Dulces",
+          "value": "Snacks Mix Dulces",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cebolla",
+          "value": "Cebolla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suflés Salados",
+          "value": "Suflés Salados",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Snacks Mix Salados",
+          "value": "Snacks Mix Salados",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabritas",
+          "value": "Cabritas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Churros",
+          "value": "Churros",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tortillas",
+          "value": "Tortillas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Charquis",
+          "value": "Charquis",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pretzels",
+          "value": "Pretzels",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Papas Fritas",
+          "value": "Papas Fritas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suflés Dulces",
+          "value": "Suflés Dulces",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tortillas de Maíz",
+          "value": "Tortillas de Maíz",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Harina de Maíz",
+          "value": "Harina de Maíz",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Evercrisp",
+          "value": "Evercrisp",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Marco Polo",
+          "value": "Marco Polo",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Purisnacks",
+          "value": "Purisnacks",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Puripop Popcorn",
+          "value": "Puripop Popcorn",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Takis",
+          "value": "Takis",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Buka",
+          "value": "Buka",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nutrico",
+          "value": "Nutrico",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Las Cardas",
+          "value": "Las Cardas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nutripop",
+          "value": "Nutripop",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Snyders",
+          "value": "Snyders",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tika",
+          "value": "Tika",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jack Links",
+          "value": "Jack Links",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Retro Snack",
+          "value": "Retro Snack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Inferno",
+          "value": "Inferno",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Barcel",
+          "value": "Barcel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tribu",
+          "value": "Tribu",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Ahumado",
+          "value": "Ahumado",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Extra Picante",
+          "value": "Extra Picante",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix",
+          "value": "Mix",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Orgánico",
+          "value": "Orgánico",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Premium",
+          "value": "Premium",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ramitas",
+          "value": "Ramitas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Saborizado",
+          "value": "Saborizado",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salado",
+          "value": "Salado",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tradicional",
+          "value": "Tradicional",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "100 g",
+          "value": "100 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "150 g",
+          "value": "150 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "170 g",
+          "value": "170 G",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "190 g",
+          "value": "190 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "20 g",
+          "value": "20 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "200 g",
+          "value": "200 g",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "22 g",
+          "value": "22 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "220 g",
+          "value": "220 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "230 g",
+          "value": "230 g",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "250 g",
+          "value": "250 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "280 g",
+          "value": "280 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "290 g",
+          "value": "290 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "340 g",
+          "value": "340 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "48 g",
+          "value": "48 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "80 g",
+          "value": "80 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 58,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 77,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 77,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 71,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 590,
+          "maxValue": 7550
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Brasil",
+          "value": "Brasil",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 74,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Perú",
+          "value": "Perú",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 74,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frasco",
+          "value": "Frasco",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pote",
+          "value": "Pote",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sobre",
+          "value": "Sobre",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "250 g",
+          "value": "250 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 73,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Chocolate",
+          "value": "Chocolate",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "CHOCOLATE",
+          "value": "CHOCOLATE",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frambuesa",
+          "value": "Frambuesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fuego Loco",
+          "value": "Fuego Loco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mani",
+          "value": "Mani",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Maní",
+          "value": "Maní",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Multifruta",
+          "value": "Multifruta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Oliva sal de mar",
+          "value": "Oliva sal de mar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Papa",
+          "value": "Papa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Queso",
+          "value": "Queso",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "QUESO",
+          "value": "QUESO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Queso Crema",
+          "value": "Queso Crema",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Queso y Jamón",
+          "value": "Queso y Jamón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Queso y tortilla de maíz",
+          "value": "Queso y tortilla de maíz",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "sabor picante, ácido y salado.",
+          "value": "sabor picante, ácido y salado.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Saladas",
+          "value": "Saladas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Surtidos",
+          "value": "Surtidos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tutti Frutti",
+          "value": "Tutti Frutti",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "Ramitas Queso",
+          "value": "Ramitas Queso",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ramitas Saladas",
+          "value": "Ramitas Saladas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Envasado",
+          "value": "ENVASADO",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pequeñas",
+          "value": "Pequeñas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "XL",
+          "value": "XL",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 79,
+  "metaTag": {
+    "title": "Ramitas, Suflés y Otros Snacks | Jumbo.cl",
+    "description": "Las ramitas y suflés son snacks perfectos para compartir en cualquier ocasión, pues son la combinación ideal entre sabor y variedad. Compra ya online."
+  }
+}

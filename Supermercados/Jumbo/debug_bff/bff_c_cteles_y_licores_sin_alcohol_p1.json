@@ -1,0 +1,974 @@
+{
+  "products": [
+    {
+      "productId": "162151",
+      "reference": "2060848",
+      "sponsoredId": null,
+      "slug": "destilado-sa-700ml-2060848",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "794",
+        "797"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Sin Alcohol",
+        "Cócteles y Licores sin Alcohol"
+      ],
+      "collections": [],
+      "brand": "WAV",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "162529",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.7,
+          "price": 11990,
+          "listPrice": 11990,
+          "ppumPrice": 17129,
+          "ppumListPrice": 17129,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/556822-250-250/Destilado-Nacional-Sin-Alcohol-700-cc.jpg?v=639022766298330000"
+          ],
+          "name": "Destilado Nacional Sin Alcohol 700 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "39711",
+      "reference": "1668464",
+      "sponsoredId": null,
+      "slug": "coctel-sour-secreto-peruano-zero-limon-700-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "218",
+        "794",
+        "797"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Mango y Pisco sour",
+        "Sin Alcohol",
+        "Cócteles y Licores sin Alcohol"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Secreto Peruano",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "42727",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 3290,
+          "listPrice": 4550,
+          "ppumPrice": 4700,
+          "ppumListPrice": 6500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/472355-250-250/Coctel-Sour-Secreto-Peruano-Zero-Limon-700-cc.jpg?v=638870874153970000"
+          ],
+          "name": "Cóctel Sour Secreto Peruano Zero Limón 700 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3290,
+              "ppumPrice": 4700,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "121532",
+      "reference": "1940115",
+      "sponsoredId": null,
+      "slug": "sangria-sin-alcohol-don-simon-bot-1-5l-1940115",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "207",
+        "794",
+        "797",
+        "926"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Vinos",
+        "Sin Alcohol",
+        "Cócteles y Licores sin Alcohol",
+        "Sangría, Cóctel de Vino y Coolers"
+      ],
+      "collections": [
+        "14878",
+        "14880",
+        "14967",
+        "18363",
+        "24961",
+        "24972",
+        "25500",
+        "25969",
+        "25974",
+        "26341"
+      ],
+      "brand": "Don Simón",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "121807",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 1993,
+          "ppumListPrice": 1993,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317580-250-250/Sangria-Don-Simon-Sin-Alcohol-Botella-15-L.jpg?v=638857754406100000"
+          ],
+          "name": "Sangría Sin Alcohol Don Simón 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "36706",
+      "reference": "1656250",
+      "sponsoredId": null,
+      "slug": "jarabe-goma-mel-zero-1-03-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793",
+        "794",
+        "797"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros",
+        "Sin Alcohol",
+        "Cócteles y Licores sin Alcohol"
+      ],
+      "collections": [],
+      "brand": "Mel",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "40723",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.03,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 5816,
+          "ppumListPrice": 5816,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307291-250-250/Jarabe-de-Goma-Mel-Zero-103-L.jpg?v=638776384273700000"
+          ],
+          "name": "Jarabe de Goma Mel Zero 1.03 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122455",
+      "reference": "1937589",
+      "sponsoredId": null,
+      "slug": "bebida-spritz-s-alcoh-imperdibile-200ml-1937589",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "794",
+        "797",
+        "950",
+        "951"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Sin Alcohol",
+        "Cócteles y Licores sin Alcohol",
+        "Agua Tónica y Ginger Beer",
+        "Agua Tónica"
+      ],
+      "collections": [
+        "14878",
+        "14882",
+        "14967",
+        "18359",
+        "24406",
+        "24970",
+        "25500"
+      ],
+      "brand": "Imperdibile",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122738",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 1490,
+          "listPrice": 1490,
+          "ppumPrice": 7450,
+          "ppumListPrice": 7450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318109-250-250/Bebida-Imperdibile-Spritz-Sin-Alcohol-200-ml.jpg?v=638776413693800000"
+          ],
+          "name": "Bebida Imperdibile Spritz Sin Alcohol 200 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "162147",
+      "reference": "2058071",
+      "sponsoredId": null,
+      "slug": "coctel-s-alc-269c-2058071",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "794",
+        "797"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Sin Alcohol",
+        "Cócteles y Licores sin Alcohol"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "Guerrilla",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "162526",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.269,
+          "price": 2290,
+          "listPrice": 2690,
+          "ppumPrice": 8513,
+          "ppumListPrice": 10000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/573281-250-250/Coctel-sin-Alcohol-Mos-Mul-Guerr-269-cc.jpg?v=639059903366100000"
+          ],
+          "name": "Cóctel sin Alcohol Mos Mul Guerr 269 cc",
+          "stock": false,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2290,
+              "ppumPrice": 8513,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Cócteles y Licores sin Alcohol",
+          "value": "/licores-bebidas-y-aguas/sin-alcohol/cocteles-y-licores-sin-alcohol",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Cócteles y Licores sin Alcohol",
+          "value": "/licores-bebidas-y-aguas/sin-alcohol/cocteles-y-licores-sin-alcohol",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Cócteles y Licores sin Alcohol",
+          "value": "/licores-bebidas-y-aguas/sin-alcohol/cocteles-y-licores-sin-alcohol",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1490,
+          "maxValue": 11990
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "1.03 L",
+          "value": "1.03 L",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "700 cc",
+          "value": "700 cc",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Menor a 1 lt",
+          "value": "Menor a 1 lt",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Más de 1000 cc",
+          "value": "Más de 1000 cc",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Secreto Peruano",
+          "value": "Secreto Peruano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "WAV",
+          "value": "WAV",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Imperdibile",
+          "value": "Imperdibile",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mel",
+          "value": "Mel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Don Simón",
+          "value": "Don Simón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Guerrilla",
+          "value": "Guerrilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Cócteles Sour",
+          "value": "Cócteles Sour",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Destilados Sin Alcohol",
+          "value": "Destilados Sin Alcohol",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aguas Tónicas",
+          "value": "Aguas Tónicas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jarabes de Goma",
+          "value": "Jarabes de Goma",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sangría",
+          "value": "Sangría",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vodka",
+          "value": "Vodka",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Gasificado",
+      "key": "Gasificado",
+      "values": [
+        {
+          "displayName": "Con gas",
+          "value": "Con gas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contiene Alcohol",
+      "key": "containsAlcohol",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "No",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Grado",
+      "key": "Grado",
+      "values": [
+        {
+          "displayName": "14° G.L.",
+          "value": "14° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Orgánico",
+      "key": "Orgánico",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "NO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Botella de vidrio",
+          "value": "Botella de vidrio",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella plástico desechable",
+          "value": "Botella plástico desechable (bebidas)",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Pisco Reservado (40°)",
+          "value": "Pisco Reservado (40°)",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Alcohol",
+          "value": "Sin Alcohol",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vodka Saborizado",
+          "value": "Vodka Saborizado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Destilado Nacional",
+          "value": "Destilado Nacional",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Moscow Mule",
+          "value": "Moscow Mule",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 6,
+  "metaTag": {
+    "title": "Licores sin Alcohol | Jumbo.cl",
+    "description": "Disfruta de la elegancia y sabor de nuestros licores sin alcohol. Encuentra una variedad de opciones para tus celebraciones en Jumbo.cl ¡Compra 100% online!"
+  }
+}

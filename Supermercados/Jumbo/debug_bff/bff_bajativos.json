@@ -1,0 +1,699 @@
+{
+  "products": [
+    {
+      "productId": "160998",
+      "reference": "2055782",
+      "sponsoredId": null,
+      "slug": "licor-s-alcoh750c-2055782",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "977",
+        "980"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Licores y Spritz",
+        "Bajativos"
+      ],
+      "collections": [],
+      "brand": "Zerozotti",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "161369",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 12990,
+          "listPrice": 12990,
+          "ppumPrice": 17320,
+          "ppumListPrice": 17320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/549609-250-250/Licor-Club-Cero-Zerozotti-750-cc-sin-Alcohol.jpg?v=639009846578670000"
+          ],
+          "name": "Licor Club Cero Zerozotti Sin Alcohol 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "21396",
+      "reference": "263904",
+      "sponsoredId": null,
+      "slug": "licor-limoncello-luxardo-750-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "977",
+        "980"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Licores y Spritz",
+        "Bajativos"
+      ],
+      "collections": [],
+      "brand": "Luxardo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "21718",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 21990,
+          "listPrice": 21990,
+          "ppumPrice": 29320,
+          "ppumListPrice": 29320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304545-250-250/Licor-Limoncello-Luxardo-750-ml.jpg?v=638776380146400000"
+          ],
+          "name": "Licor Luxardo Limoncello 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "21319",
+      "reference": "263911",
+      "sponsoredId": null,
+      "slug": "licor-de-manzanilla-duval-30-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "977",
+        "980"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Licores y Spritz",
+        "Bajativos"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Duval",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "21641",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 5990,
+          "listPrice": 7690,
+          "ppumPrice": 7987,
+          "ppumListPrice": 10253,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304339-250-250/Licor-de-Manzanilla-30%C2%B0-750-cc.jpg?v=638776379841100000"
+          ],
+          "name": "Licor de Manzanilla Duval 30° 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5990,
+              "ppumPrice": 7987,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "113094",
+      "reference": "1927459",
+      "sponsoredId": null,
+      "slug": "licor-amargo-arom-rossard-44-7-165cc-1927459",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "977",
+        "980"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Licores y Spritz",
+        "Bajativos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Rossard",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "113360",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.165,
+          "price": 10590,
+          "listPrice": 10590,
+          "ppumPrice": 64182,
+          "ppumListPrice": 64182,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/315876-250-250/Licor-amargo-aromatico-447%C2%B0-165-cc.jpg?v=638776406760800000"
+          ],
+          "name": "Licor Rossard Amargo Aromático 44.7° 165 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "155737",
+      "reference": "2048212",
+      "sponsoredId": null,
+      "slug": "licor-duval-menta-verde-950-22-2048212",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "977",
+        "980"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Licores y Spritz",
+        "Bajativos"
+      ],
+      "collections": [],
+      "brand": "Duval",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156053",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.95,
+          "price": 8490,
+          "listPrice": 8490,
+          "ppumPrice": 8937,
+          "ppumListPrice": 8937,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/510150-250-250/Licor-Duval-Menta-Verde-22%C2%B0-950-cc.jpg?v=638940912913400000"
+          ],
+          "name": "Licor Duval Menta Glacial 22° 950 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "155738",
+      "reference": "2048213",
+      "sponsoredId": null,
+      "slug": "licor-duval-triple-sec-750cc-20-2048213",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "977",
+        "980"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Licores y Spritz",
+        "Bajativos"
+      ],
+      "collections": [],
+      "brand": "Duval",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156054",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 7490,
+          "listPrice": 7490,
+          "ppumPrice": 9987,
+          "ppumListPrice": 9987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/510155-250-250/Licor-Duval-Triple-Sec-20%C2%B0-750-cc.jpg?v=638940912925230000"
+          ],
+          "name": "Licor Duval Triple Sec 20° 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Bajativos",
+          "value": "/licores-bebidas-y-aguas/licores-y-spritz/bajativos",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Bajativos",
+          "value": "/licores-bebidas-y-aguas/licores-y-spritz/bajativos",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Bajativos",
+          "value": "/licores-bebidas-y-aguas/licores-y-spritz/bajativos",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Grado",
+      "key": "Grado",
+      "values": [
+        {
+          "displayName": "20° G.L.",
+          "value": "20° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "22° G.L.",
+          "value": "22° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "24° G.L.",
+          "value": "24° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "44,7° G.L.",
+          "value": "44,7° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 27% vol.",
+          "value": "Alc. 27% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Botella de vidrio",
+          "value": "Botella de vidrio",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Amargo",
+          "value": "Amargo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Menta",
+          "value": "Menta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Naranja, almendras",
+          "value": "Naranja, almendras",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rosato",
+          "value": "Rosato",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 5990,
+          "maxValue": 21990
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "750 cc",
+          "value": "750 cc",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Bajativos",
+          "value": "Bajativos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aperitivos Sin Alcohol",
+          "value": "Aperitivos Sin Alcohol",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Otros Licores",
+          "value": "Otros Licores",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Otros Aperitivos",
+          "value": "Otros Aperitivos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Luxardo",
+          "value": "Luxardo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Zerozotti",
+          "value": "Zerozotti",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Duval",
+          "value": "Duval",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rossard",
+          "value": "Rossard",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Aromático",
+          "value": "Aromático",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Menta",
+          "value": "Menta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Triple Sec",
+          "value": "Triple Sec",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 6,
+  "metaTag": {
+    "title": "Bajativos y Digestivos en Jumbo.cl",
+    "description": "En Jumbo.cl tenemos amplia gama de bajativos: licores digestivos, amargos y herbales para cerrar tu comida con sabor."
+  }
+}

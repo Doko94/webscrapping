@@ -1,0 +1,3564 @@
+{
+  "products": [
+    {
+      "productId": "137128",
+      "reference": "1995701",
+      "sponsoredId": null,
+      "slug": "carne-molida-vacuno-10-500g-prodj-1995701",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "17118",
+        "25511",
+        "25703",
+        "26253",
+        "26304",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26863",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137417",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 5790,
+          "listPrice": 5790,
+          "ppumPrice": 11580,
+          "ppumListPrice": 11580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/328210-250-250/CARNE-MOLIDA-10-.jpg?v=638776430638230000"
+          ],
+          "name": "Carne Molida Vacuno 10% Grasa 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X10000 - CIC: JUMBO CICLO CARNES JUMBO CICLO 1 CARNES OMNICANAL MARZO 2026 24022026 AL 02032026",
+              "description": "JUMBO CICLO 1 CARNES OMNICANAL MARZO 2026",
+              "type": "mx",
+              "value": 10000,
+              "unitPrice": 5000,
+              "ppumPrice": 10000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127473",
+      "reference": "1941140",
+      "sponsoredId": null,
+      "slug": "carne-molida-de-vacuno-congelada-4-c-and-co-1941140",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "17118",
+        "23866",
+        "25638",
+        "25670",
+        "26304",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26917",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127775",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 5390,
+          "listPrice": 7090,
+          "ppumPrice": 10780,
+          "ppumListPrice": 14180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393544-250-250/CARNE-M-VAC-CONG4-.jpg?v=638776875036670000"
+          ],
+          "name": "Carne Molida Vacuno 4% Grasa Congelada 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5390 - EXC: JUMBO EXCLUSIVAS ECOMMERCE CARNES  JUMBO EXCLUSIVAS CICLO 1 CARNES ECOMM MAR 2026 24022026 AL 02032026",
+              "description": " JUMBO EXCLUSIVAS CICLO 1 CARNES ECOMM MAR 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5390,
+              "ppumPrice": 10780,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "type": "card",
+      "title": "Lomo Liso",
+      "position": "3",
+      "text": "Corte tierno y sabroso ideal para la parrilla",
+      "imageDesktop": "https://assets.jumbo.cl/uploads/2021/01/cards424x552-card-lomo-liso2.jpg",
+      "imageMobile": false,
+      "buttonText": "",
+      "url": "https://www.jumbo.cl/lomoliso-envasado-12kgaprox/p",
+      "fullWidthMobile": false,
+      "wide": false,
+      "startDate": "2025-07-22 14:36:26",
+      "endDate": ""
+    },
+    {
+      "productId": "138721",
+      "reference": "1998017",
+      "sponsoredId": null,
+      "slug": "molida-vacuno-4",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "25703",
+        "26253",
+        "26304",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26863",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139015",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 7690,
+          "listPrice": 7690,
+          "ppumPrice": 15380,
+          "ppumListPrice": 15380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/330685-250-250/MOLIDA-VACUNO-4-.jpg?v=638813019408730000"
+          ],
+          "name": "Carne Molida Vacuno 4% Grasa 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X13000 - CIC: JUMBO CICLO CARNES JUMBO CICLO 1 CARNES OMNICANAL MARZO 2026 24022026 AL 02032026",
+              "description": "JUMBO CICLO 1 CARNES OMNICANAL MARZO 2026",
+              "type": "mx",
+              "value": 13000,
+              "unitPrice": 6500,
+              "ppumPrice": 13000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137123",
+      "reference": "1995236-KG",
+      "sponsoredId": null,
+      "slug": "bistec-posta-rosada-v-atm-prodj-kg-1995236-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén"
+      ],
+      "collections": [
+        "17117",
+        "21576",
+        "26253",
+        "26304"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137414",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.3,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 6147,
+          "listPrice": 6147,
+          "ppumPrice": 20490,
+          "ppumListPrice": 20490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/328106-250-250/BISTEC-POS-ROS-V-A.jpg?v=638776430544700000"
+          ],
+          "name": "Bistec Posta Rosada Bandeja 300 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "type": "card",
+      "title": "Lomo Vetado",
+      "position": "6",
+      "text": "Corte jugoso, con vetas que realzan su sabor",
+      "imageDesktop": "https://assets.jumbo.cl/uploads/2021/01/cards424x552-card-lomo-vetado-1.jpg",
+      "imageMobile": false,
+      "buttonText": "",
+      "url": "https://www.jumbo.cl/lomo-vetado-cat-v-40/p",
+      "fullWidthMobile": false,
+      "wide": false,
+      "startDate": "2025-07-22 14:58:51",
+      "endDate": ""
+    },
+    {
+      "productId": "137124",
+      "reference": "1995696-KG",
+      "sponsoredId": null,
+      "slug": "escalopa-posta-negra-v-atm-prod-kg-j-1995696-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén"
+      ],
+      "collections": [
+        "17117",
+        "26253",
+        "26304"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137419",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.3,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 6147,
+          "listPrice": 6147,
+          "ppumPrice": 20490,
+          "ppumListPrice": 20490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/500505-250-250/Escalopa-Posta-Negra-Bandeja-300-g.jpg?v=638918245501630000"
+          ],
+          "name": "Escalopa Posta Negra Bandeja 300 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11171",
+      "reference": "691432-KG",
+      "sponsoredId": null,
+      "slug": "carne-molida-t-rtaro-vacuno-3-grasa",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén"
+      ],
+      "collections": [
+        "17118",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11430",
+          "cartLimit": 8,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 7740,
+          "listPrice": 7740,
+          "ppumPrice": 15480,
+          "ppumListPrice": 15480,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350882-250-250/Tartaro-3--grasa-elaboracion-propia-aprox-500-g.jpg?v=638776683109570000"
+          ],
+          "name": "Tártaro 3% Grasa kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127470",
+      "reference": "1941141",
+      "sponsoredId": null,
+      "slug": "carne-molida-vacuno-congelado-10-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "17118",
+        "25610",
+        "26304",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127764",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 5290,
+          "listPrice": 5290,
+          "ppumPrice": 10580,
+          "ppumListPrice": 10580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393546-250-250/CARNE-M-VA-CONG10-.jpg?v=638776875039470000"
+          ],
+          "name": "Carne Molida Vacuno 10% Grasa Congelada 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11212",
+      "reference": "1462090-KG",
+      "sponsoredId": null,
+      "slug": "asiento-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "527",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Horno",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "7489",
+        "17115",
+        "17116",
+        "17117",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11471",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.3,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.3,
+          "price": 20397,
+          "listPrice": 20397,
+          "ppumPrice": 15690,
+          "ppumListPrice": 15690,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302674-250-250/Asiento-Al-Vacio-kg.jpg?v=638985601456770000"
+          ],
+          "name": "Asiento Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138720",
+      "reference": "1998019",
+      "sponsoredId": null,
+      "slug": "molida-vacuno-7",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "25703",
+        "26253",
+        "26304",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26863",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139014",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 6690,
+          "listPrice": 6690,
+          "ppumPrice": 13380,
+          "ppumListPrice": 13380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/331597-250-250/MOLIDA-VACUNO-7-.jpg?v=638800622205300000"
+          ],
+          "name": "Carne Molida Vacuno 7% Grasa 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X11000 - CIC: JUMBO CICLO CARNES JUMBO CICLO 1 CARNES OMNICANAL MARZO 2026 24022026 AL 02032026",
+              "description": "JUMBO CICLO 1 CARNES OMNICANAL MARZO 2026",
+              "type": "mx",
+              "value": 11000,
+              "unitPrice": 5500,
+              "ppumPrice": 11000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137119",
+      "reference": "1995234-KG",
+      "sponsoredId": null,
+      "slug": "bistec-lomo-liso-v-atm-prodj-kg-1995234-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén"
+      ],
+      "collections": [
+        "17117",
+        "26253",
+        "26304"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137411",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.3,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 7497,
+          "listPrice": 7497,
+          "ppumPrice": 24990,
+          "ppumListPrice": 24990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/327987-250-250/BISTEC-LOMO-LISO-V.jpg?v=638776430443870000"
+          ],
+          "name": "Bistec Lomo Liso Bandeja 300 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127474",
+      "reference": "1941139",
+      "sponsoredId": null,
+      "slug": "posta-ros-vac-en-cubos-cong-mar-c-and-co-1941139",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "17117",
+        "24967",
+        "25707",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26851",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127765",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 7190,
+          "listPrice": 7190,
+          "ppumPrice": 14380,
+          "ppumListPrice": 14380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/255285-250-250/Cubos-de-Posta-Rosada-Congelada-500-g.jpg?v=638683351953030000"
+          ],
+          "name": "Posta Rosada en Cubos Congelada 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11223",
+      "reference": "1462104-KG",
+      "sponsoredId": null,
+      "slug": "posta-negra-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "526",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Cacerola",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "7489",
+        "17115",
+        "17116",
+        "17117",
+        "24281",
+        "25638",
+        "25667",
+        "25741",
+        "25746",
+        "26253",
+        "26304",
+        "27607",
+        "27610"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11482",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.6,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.6,
+          "price": 20464,
+          "listPrice": 20464,
+          "ppumPrice": 12790,
+          "ppumListPrice": 12790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302389-250-250/Posta-Negra-Al-Vacio-kg.jpg?v=638776376035630000"
+          ],
+          "name": "Posta Negra Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139645",
+      "reference": "1964648",
+      "sponsoredId": null,
+      "slug": "churrasco-posta-rosada-cuisine-and-co-500g-1964648",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "24968",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27309",
+        "27483",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139938",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 7190,
+          "listPrice": 7190,
+          "ppumPrice": 14380,
+          "ppumListPrice": 14380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/332957-250-250/Churrasco-Posta-Rosada-Cuisine---Co-500-g.jpg?v=638827418576170000"
+          ],
+          "name": "Churrasco Posta Rosada Cuisine & Co 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB  24022026 AL 02032026",
+              "description": "JUMBO CICLO PRIME CICLO 1 PRIME DESDE EL 24 FEB ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 5393,
+              "ppumPrice": 10786,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11214",
+      "reference": "1462092-KG",
+      "sponsoredId": null,
+      "slug": "choclillo-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "526",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Cacerola",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17115",
+        "17116",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11473",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.1,
+          "price": 12309,
+          "listPrice": 12309,
+          "ppumPrice": 11190,
+          "ppumListPrice": 11190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302769-250-250/Choclillo-Al-Vacio-kg.jpg?v=638776376320800000"
+          ],
+          "name": "Choclillo Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11231",
+      "reference": "1462112-KG",
+      "sponsoredId": null,
+      "slug": "tapapecho-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "527",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Horno",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17115",
+        "17116",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11490",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.2,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.2,
+          "price": 13428,
+          "listPrice": 13428,
+          "ppumPrice": 11190,
+          "ppumListPrice": 11190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302763-250-250/Tapapecho-Al-Vacio-kg.jpg?v=638985601828400000"
+          ],
+          "name": "Tapapecho Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137130",
+      "reference": "1995694-KG",
+      "sponsoredId": null,
+      "slug": "bistec-asiento-v-atm-prodj-kg-1995694-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén"
+      ],
+      "collections": [
+        "17117",
+        "26253",
+        "26304"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137421",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.3,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 7077,
+          "listPrice": 7077,
+          "ppumPrice": 23590,
+          "ppumListPrice": 23590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/327632-250-250/1995694-KG-01_678749.jpg?v=638776430171430000"
+          ],
+          "name": "Bistec de Asiento Bandeja 300 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "21",
+      "reference": "1462097-KG",
+      "sponsoredId": null,
+      "slug": "lomoliso-envasado-12kgaprox",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "759",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Parrilla",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "7489",
+        "17114",
+        "17115",
+        "17117",
+        "23175",
+        "25310",
+        "25334",
+        "26253",
+        "26304",
+        "27607",
+        "27612"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "23",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.7,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.7,
+          "price": 29903,
+          "listPrice": 29903,
+          "ppumPrice": 17590,
+          "ppumListPrice": 17590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/297569-250-250/Lomo-Liso-Al-Vacio-kg.jpg?v=638985515442830000"
+          ],
+          "name": "Lomo Liso Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11229",
+      "reference": "1462110-KG",
+      "sponsoredId": null,
+      "slug": "sobrecostilla-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "759",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Parrilla",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17114",
+        "17116",
+        "26253",
+        "26304",
+        "27607",
+        "27609"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11488",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.3,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.3,
+          "price": 14287,
+          "listPrice": 14287,
+          "ppumPrice": 10990,
+          "ppumListPrice": 10990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302669-250-250/Sobrecostilla-Al-Vacio-kg.jpg?v=638985516601370000"
+          ],
+          "name": "Sobrecostilla Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137120",
+      "reference": "1995237-KG",
+      "sponsoredId": null,
+      "slug": "bistec-posta-negra-v-atm-prodj-kg-1995237-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén"
+      ],
+      "collections": [
+        "17117",
+        "21576",
+        "26253",
+        "26304"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137412",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.3,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 6147,
+          "listPrice": 6147,
+          "ppumPrice": 20490,
+          "ppumListPrice": 20490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/328021-250-250/BISTEC-POS-NEG-V-A.jpg?v=638776430481270000"
+          ],
+          "name": "Bistec Posta Negra Bandeja 300 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146878",
+      "reference": "2025718",
+      "sponsoredId": null,
+      "slug": "albondiga-35-g-cuisine-y-co-12-un-420-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "26253",
+        "26304",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147173",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.42,
+          "price": 4490,
+          "listPrice": 4490,
+          "ppumPrice": 10690,
+          "ppumListPrice": 10690,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346069-250-250/Albondiga-35-g-Cuisine---Co-12-un-420-g.jpg?v=638776445315170000"
+          ],
+          "name": "Albóndiga Cuisine & Co 12 un. 420 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11228",
+      "reference": "1462109-KG",
+      "sponsoredId": null,
+      "slug": "punta-picana-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "759",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Parrilla",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "7489",
+        "17114",
+        "17115",
+        "17116",
+        "17117",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11487",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.1,
+          "price": 15829,
+          "listPrice": 15829,
+          "ppumPrice": 14390,
+          "ppumListPrice": 14390,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302627-250-250/Punta-Picana-Al-Vacio-kg.jpg?v=638985602113070000"
+          ],
+          "name": "Punta Picana Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11213",
+      "reference": "1462091-KG",
+      "sponsoredId": null,
+      "slug": "asado-del-carnicero-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "759",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Parrilla",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17114",
+        "17116",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11472",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.3,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.3,
+          "price": 14287,
+          "listPrice": 14287,
+          "ppumPrice": 10990,
+          "ppumListPrice": 10990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/497067-250-250/Asado-del-Carnicero-Al-Vacio-kg.jpg?v=638912211792300000"
+          ],
+          "name": "Asado del Carnicero Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "90702",
+      "reference": "1846837-KG",
+      "sponsoredId": null,
+      "slug": "ojo-de-bife-lomo-vetado-premium-meson-450-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81",
+        "759"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén",
+        "Carnes para Parrilla"
+      ],
+      "collections": [],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "90972",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.45,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.45,
+          "price": 13046,
+          "listPrice": 13046,
+          "ppumPrice": 28990,
+          "ppumListPrice": 28990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312130-250-250/Ojo-de-Bife-Lomo-Vetado-Al-Vacio-kg.jpg?v=638776395731430000"
+          ],
+          "name": "Ojo de Bife Lomo Vetado Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "130854",
+      "reference": "1934168",
+      "sponsoredId": null,
+      "slug": "hamburguesa-tradicional-carne-vac-1934168",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén"
+      ],
+      "collections": [
+        "17114",
+        "17115",
+        "17117",
+        "26253"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "131141",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 2,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 2,
+          "price": 5180,
+          "listPrice": 5180,
+          "ppumPrice": 2590,
+          "ppumListPrice": 2590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/320687-250-250/Hamburguesa-Carne-Tradicional--2-un.jpg?v=638776421628700000"
+          ],
+          "name": "Hamburguesa Carne Tradicional 2 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11220",
+      "reference": "1462101-KG",
+      "sponsoredId": null,
+      "slug": "plateada-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "527",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Horno",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "7489",
+        "17114",
+        "17115",
+        "17116",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11479",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 2,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 2,
+          "price": 17980,
+          "listPrice": 23780,
+          "ppumPrice": 8990,
+          "ppumListPrice": 11890,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302291-250-250/Plateada-Al-Vacio-kg.jpg?v=638986883977470000"
+          ],
+          "name": "Plateada Al Vacío kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 8990 - CIC: JUMBO CICLO CARNES JUMBO CICLO 1 CARNES OMNICANAL MARZO 2026 24022026 AL 02032026",
+              "description": "JUMBO CICLO 1 CARNES OMNICANAL MARZO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 17980,
+              "ppumPrice": 8990,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11226",
+      "reference": "1462107-KG",
+      "sponsoredId": null,
+      "slug": "punta-de-ganso-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "759",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Parrilla",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17114",
+        "17115",
+        "17116",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11485",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.4,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.4,
+          "price": 20986,
+          "listPrice": 20986,
+          "ppumPrice": 14990,
+          "ppumListPrice": 14990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302522-250-250/Punta-de-Ganso-Al-Vacio-kg.jpg?v=638985676895630000"
+          ],
+          "name": "Punta de Ganso Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11224",
+      "reference": "1462105-KG",
+      "sponsoredId": null,
+      "slug": "posta-paleta-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "759",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Parrilla",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17114",
+        "17116",
+        "17117",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11483",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.6,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.6,
+          "price": 14064,
+          "listPrice": 18064,
+          "ppumPrice": 8790,
+          "ppumListPrice": 11290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302432-250-250/Posta-paleta-al-vacio-kg.jpg?v=638776376067500000"
+          ],
+          "name": "Posta Paleta Al Vacío kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 8790 - CIC: JUMBO CICLO CARNES JUMBO CICLO 1 CARNES OMNICANAL MARZO 2026 24022026 AL 02032026",
+              "description": "JUMBO CICLO 1 CARNES OMNICANAL MARZO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 14064,
+              "ppumPrice": 8790,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11227",
+      "reference": "1462108-KG",
+      "sponsoredId": null,
+      "slug": "punta-paleta-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "759",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Parrilla",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17114",
+        "17117",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11486",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.4,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.4,
+          "price": 15806,
+          "listPrice": 15806,
+          "ppumPrice": 11290,
+          "ppumListPrice": 11290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/428618-250-250/Punta-Paleta-Al-Vacio-kg.jpg?v=638811204666700000"
+          ],
+          "name": "Punta Paleta Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11170",
+      "reference": "1462098-KG",
+      "sponsoredId": null,
+      "slug": "lomo-vetado-cat-v-40",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "759",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Parrilla",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17114",
+        "17115",
+        "17117",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11429",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 2.2,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 2.2,
+          "price": 40898,
+          "listPrice": 40898,
+          "ppumPrice": 18590,
+          "ppumListPrice": 18590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302820-250-250/Lomo-Vetado-Al-Vacio-kg.jpg?v=638986883462600000"
+          ],
+          "name": "Lomo Vetado Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11230",
+      "reference": "1462111-KG",
+      "sponsoredId": null,
+      "slug": "tapabarriga-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "759",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Parrilla",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17114",
+        "17115",
+        "17116",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11489",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.2,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.2,
+          "price": 14988,
+          "listPrice": 14988,
+          "ppumPrice": 12490,
+          "ppumListPrice": 12490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302715-250-250/Tapabarriga-Al-Vacio-kg.jpg?v=638986883774100000"
+          ],
+          "name": "Tapabarriga Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153590",
+      "reference": "2040862",
+      "sponsoredId": null,
+      "slug": "carne-tartar-de-asiento",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén"
+      ],
+      "collections": [
+        "26253",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153901",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 4990,
+          "listPrice": 4990,
+          "ppumPrice": 4990,
+          "ppumListPrice": 4990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/495125-250-250/Carne-Tartar-de-Asiento.jpg?v=638911474086730000"
+          ],
+          "name": "Carne Tartar de Asiento 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11217",
+      "reference": "1462096-KG",
+      "sponsoredId": null,
+      "slug": "huachalomo-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "759",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Parrilla",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17114",
+        "17116",
+        "26253",
+        "26304",
+        "27607",
+        "27609"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11476",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.4,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.4,
+          "price": 15386,
+          "listPrice": 15386,
+          "ppumPrice": 10990,
+          "ppumListPrice": 10990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302158-250-250/Huachalomo-Al-Vacio-kg.jpg?v=638985601130000000"
+          ],
+          "name": "Huachalomo Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139643",
+      "reference": "1964646",
+      "sponsoredId": null,
+      "slug": "tiras-de-palanca-cuisine-and-co-500g-1964646",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "24346",
+        "26304",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26852",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139936",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 6190,
+          "listPrice": 6190,
+          "ppumPrice": 12380,
+          "ppumListPrice": 12380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/332886-250-250/Tiras-de-Palanca-Cuisine---Co-500-g.jpg?v=638776434401730000"
+          ],
+          "name": "Tiras de Palanca Cuisine & Co 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11211",
+      "reference": "1462089-KG",
+      "sponsoredId": null,
+      "slug": "abastero-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "759",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Parrilla",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17114",
+        "17115",
+        "17116",
+        "26253",
+        "27607",
+        "27609"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11470",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.7,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.7,
+          "price": 18683,
+          "listPrice": 18683,
+          "ppumPrice": 10990,
+          "ppumListPrice": 10990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302630-250-250/Abastero-Al-Vacio-kg.jpg?v=638776376211900000"
+          ],
+          "name": "Abastero Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146879",
+      "reference": "2025717",
+      "sponsoredId": null,
+      "slug": "hamburguesa-cuisine-y-co-2-un-125-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "26253",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147174",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 10760,
+          "ppumListPrice": 10760,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346102-250-250/Hamburguesa-Cuisine---Co-2-un-125-g.jpg?v=638776445350430000"
+          ],
+          "name": "Hamburguesa Cuisine & Co 125 g 2 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11218",
+      "reference": "1462099-KG",
+      "sponsoredId": null,
+      "slug": "malaya-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "759",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Parrilla",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17114",
+        "17115",
+        "17116",
+        "26253"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11477",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.7,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.7,
+          "price": 6643,
+          "listPrice": 6643,
+          "ppumPrice": 9490,
+          "ppumListPrice": 9490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302199-250-250/Malaya-Al-Vacio-kg.jpg?v=638776375887670000"
+          ],
+          "name": "Malaya Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11225",
+      "reference": "1462106-KG",
+      "sponsoredId": null,
+      "slug": "posta-rosada-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "526",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Cacerola",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17115",
+        "17116",
+        "17117",
+        "23610",
+        "24080",
+        "25638",
+        "25667",
+        "25741",
+        "25746",
+        "26253",
+        "26304",
+        "27607",
+        "27610"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11484",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.6,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.6,
+          "price": 20464,
+          "listPrice": 20464,
+          "ppumPrice": 12790,
+          "ppumListPrice": 12790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302471-250-250/Posta-Rosada-Al-Vacio-kg.jpg?v=638776376099400000"
+          ],
+          "name": "Posta Rosada Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "90701",
+      "reference": "1846836-KG",
+      "sponsoredId": null,
+      "slug": "tapa-de-lomo-vetado-premium-meson-600-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81",
+        "759"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén",
+        "Carnes para Parrilla"
+      ],
+      "collections": [],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "90971",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.6,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.6,
+          "price": 17394,
+          "listPrice": 17394,
+          "ppumPrice": 28990,
+          "ppumListPrice": 28990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/367462-250-250/Tapa-de-lomo-vetado-meson-600-g.jpg?v=638776768076970000"
+          ],
+          "name": "Tapa de Lomo Vetado Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11222",
+      "reference": "1462103-KG",
+      "sponsoredId": null,
+      "slug": "pollo-ganso-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "526",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Cacerola",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17115",
+        "17116",
+        "25711",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11481",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 2,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 2,
+          "price": 24380,
+          "listPrice": 24380,
+          "ppumPrice": 12190,
+          "ppumListPrice": 12190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302339-250-250/Pollo-Ganso-Al-Vacio-kg.jpg?v=638776375999970000"
+          ],
+          "name": "Pollo Ganso Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "940",
+      "reference": "1462095-KG",
+      "sponsoredId": null,
+      "slug": "ganso-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "527",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Horno",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17115",
+        "17116",
+        "17117",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "942",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.6,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.6,
+          "price": 16304,
+          "listPrice": 16304,
+          "ppumPrice": 10190,
+          "ppumListPrice": 10190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298295-250-250/Ganso-Al-Vacio-kg.jpg?v=638775750648200000"
+          ],
+          "name": "Ganso Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Carnes para Parrilla",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-parrilla",
+          "selected": false,
+          "quantity": 64,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes Premium",
+          "value": "/carnes-y-pescados/vacuno/carnes-premium",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carne Molida y Bistecs",
+          "value": "/carnes-y-pescados/vacuno/carne-molida-y-bistecs",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes Americana",
+          "value": "/carnes-y-pescados/vacuno/carnes-americana",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes de Uso Diario",
+          "value": "/carnes-y-pescados/vacuno/carnes-de-uso-diario",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes para Cacerola",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-cacerola",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes para Sartén",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-sarten",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes para Horno",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-horno",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Carnes para Parrilla",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-parrilla",
+          "selected": false,
+          "quantity": 64,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes Premium",
+          "value": "/carnes-y-pescados/vacuno/carnes-premium",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carne Molida y Bistecs",
+          "value": "/carnes-y-pescados/vacuno/carne-molida-y-bistecs",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes Americana",
+          "value": "/carnes-y-pescados/vacuno/carnes-americana",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes de Uso Diario",
+          "value": "/carnes-y-pescados/vacuno/carnes-de-uso-diario",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes para Cacerola",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-cacerola",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes para Sartén",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-sarten",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes para Horno",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-horno",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Carnes para Parrilla",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-parrilla",
+          "selected": false,
+          "quantity": 64,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes Premium",
+          "value": "/carnes-y-pescados/vacuno/carnes-premium",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carne Molida y Bistecs",
+          "value": "/carnes-y-pescados/vacuno/carne-molida-y-bistecs",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes Americana",
+          "value": "/carnes-y-pescados/vacuno/carnes-americana",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes de Uso Diario",
+          "value": "/carnes-y-pescados/vacuno/carnes-de-uso-diario",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes para Cacerola",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-cacerola",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes para Sartén",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-sarten",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnes para Horno",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-horno",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carnicería Propia",
+          "value": "Carnicería Propia",
+          "selected": false,
+          "quantity": 33,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Al vacío",
+          "value": "Al vacío",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brawley",
+          "value": "Brawley",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Farmers",
+          "value": "Farmers",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo",
+          "value": "Jumbo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brandt",
+          "value": "Brandt",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Camposorno",
+          "value": "Camposorno",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cerro Azul",
+          "value": "Cerro Azul",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "A Punto",
+          "value": "A Punto",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Hacienda",
+          "value": "La Hacienda",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pampa Verde",
+          "value": "Pampa Verde",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Natural",
+          "value": "Natural",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Carne Molida",
+          "value": "Carne Molida",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Posta Rosada",
+          "value": "Posta Rosada",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Posta Negra",
+          "value": "Posta Negra",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tartaro",
+          "value": "Tartaro",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Asiento",
+          "value": "Asiento",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lomo Liso",
+          "value": "Lomo Liso",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Choclillo",
+          "value": "Choclillo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tapapecho",
+          "value": "Tapapecho",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sobrecostilla",
+          "value": "Sobrecostilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bolitas de Carne",
+          "value": "Bolitas de Carne",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Punta Picana",
+          "value": "Punta Picana",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Asado del Carnicero",
+          "value": "Asado del Carnicero",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ojo de Bife",
+          "value": "Ojo de Bife",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hamburguesa",
+          "value": "Hamburguesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Plateada",
+          "value": "Plateada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Punta de Ganso",
+          "value": "Punta de Ganso",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Posta Paleta",
+          "value": "Posta Paleta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Punta Paleta",
+          "value": "Punta Paleta",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lomo Vetado",
+          "value": "Lomo Vetado",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tapabarriga",
+          "value": "Tapabarriga",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "De Vacuno",
+          "value": "De Vacuno",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huachalomo",
+          "value": "Huachalomo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Palanca",
+          "value": "Palanca",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Abastero",
+          "value": "Abastero",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hamburguesas de Vacuno",
+          "value": "Hamburguesas de Vacuno",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Malaya",
+          "value": "Malaya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pollo Ganso",
+          "value": "Pollo Ganso",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ganso",
+          "value": "Ganso",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Asado de Tira",
+          "value": "Asado de Tira",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Medallón de Filete",
+          "value": "Medallón de Filete",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tuetano",
+          "value": "Tuetano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entraña",
+          "value": "Entraña",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Osobuco",
+          "value": "Osobuco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mollejas",
+          "value": "Mollejas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arrachera",
+          "value": "Arrachera",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tomahawk",
+          "value": "Tomahawk",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Filete",
+          "value": "Filete",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entrecot",
+          "value": "Entrecot",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pollo Barriga",
+          "value": "Pollo Barriga",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Al vacío",
+          "value": "Al vacío",
+          "selected": false,
+          "quantity": 77,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bandeja",
+          "value": "Bandeja",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 72,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Corte",
+      "key": "Tipo de Corte",
+      "values": [
+        {
+          "displayName": "Americana",
+          "value": "Americana",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cortes Uso Diario",
+          "value": "Cortes Uso Diario",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mesón",
+          "value": "Mesón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Premium",
+          "value": "Premium",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Congelados",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frescos",
+          "value": "Fresco",
+          "selected": false,
+          "quantity": 95,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fresco / Al vacío",
+          "value": "Fresco / Al vacío",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "500 g",
+          "value": "500 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Granel",
+          "value": "Granel",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pesable",
+          "value": "Pesable",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2690,
+          "maxValue": 71976
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "4% Grasa",
+          "value": "4% Grasa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Asado de Tira",
+          "value": "Asado de Tira",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Congelados",
+          "value": "Congelados",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hecho en Jumbo",
+          "value": "Hecho en Jumbo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Hecho en Jumbo",
+      "key": "Hecho en Jumbo",
+      "values": [
+        {
+          "displayName": "Si",
+          "value": "Si",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 116,
+  "metaTag": {
+    "title": "Carnes de Vacuno en Jumbo.cl: ¡compra sin salir de casa!",
+    "description": "Consigue los cortes de carne de vacuno que necesitas para tus recetas  favoritas. ¡Carnes Premium, Americana y mucho más en Jumbo.cl!"
+  }
+}

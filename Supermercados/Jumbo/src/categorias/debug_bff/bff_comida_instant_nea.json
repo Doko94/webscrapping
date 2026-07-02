@@ -1,0 +1,2062 @@
+{
+  "products": [
+    {
+      "productId": "2395",
+      "reference": "265531",
+      "sponsoredId": null,
+      "slug": "comida-instantanea-maruchan-pote-64-g-sabor-pollo",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [],
+      "brand": "Maruchan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2401",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.064,
+          "price": 1350,
+          "listPrice": 1350,
+          "ppumPrice": 21094,
+          "ppumListPrice": 21094,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299510-250-250/Comida-Instantanea-Maruchan-Pollo-Pote-64-g.jpg?v=638775765397000000"
+          ],
+          "name": "Comida Instantánea Maruchan Pollo Pote 64 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X1990 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 1990,
+              "unitPrice": 995,
+              "ppumPrice": 15547,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "2397",
+      "reference": "459019",
+      "sponsoredId": null,
+      "slug": "comida-instantanea-maruchan-sobre-85-g-sabor-pollo",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [],
+      "brand": "Maruchan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2403",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 760,
+          "listPrice": 760,
+          "ppumPrice": 8941,
+          "ppumListPrice": 8941,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299512-250-250/Comida-Instantanea-Maruchan-Pollo-Sobre-85-g.jpg?v=638775765418100000"
+          ],
+          "name": "Comida Instantánea Maruchan Pollo Sobre 85 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "123437",
+      "reference": "1956910",
+      "sponsoredId": null,
+      "slug": "ramen-pollo-nissin-85-gr-1956910",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [
+        "22523"
+      ],
+      "brand": "Nissin",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "123726",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 750,
+          "listPrice": 750,
+          "ppumPrice": 8824,
+          "ppumListPrice": 8824,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/389283-250-250/Ramen-pollo-85-g.jpg?v=638776859392030000"
+          ],
+          "name": "Ramen Pollo Nissin 85 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "2208",
+      "reference": "918652",
+      "sponsoredId": null,
+      "slug": "sopa-instantanea-maruchan-sabor-a-carnes-de-res-pote-64-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [],
+      "brand": "Maruchan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2214",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.064,
+          "price": 1350,
+          "listPrice": 1350,
+          "ppumPrice": 21094,
+          "ppumListPrice": 21094,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299309-250-250/Sopa-Instantanea-Maruchan-Carnes-de-Res-Pote-64-g.jpg?v=638775763122170000"
+          ],
+          "name": "Sopa Instantánea Maruchan Carnes de Res Pote 64 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X1990 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 1990,
+              "unitPrice": 995,
+              "ppumPrice": 15547,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "14891",
+      "reference": "1556119",
+      "sponsoredId": null,
+      "slug": "sopa-instantanea-con-fideos-sabor-pollo-traverso-65-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [
+        "26912",
+        "27367"
+      ],
+      "brand": "Traverso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "16223",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.065,
+          "price": 1060,
+          "listPrice": 1060,
+          "ppumPrice": 16308,
+          "ppumListPrice": 16308,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352271-250-250/Sopa-instantanea-con-fideos-sabor-pollo-65-g.jpg?v=638776692338230000"
+          ],
+          "name": "Fideos Instantáneos Traverso Sabor Pollo 65 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "2398",
+      "reference": "918653",
+      "sponsoredId": null,
+      "slug": "ramen-maruchan-85-g-sabor-a-carne-de-res",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [],
+      "brand": "Maruchan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2404",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 760,
+          "listPrice": 760,
+          "ppumPrice": 8941,
+          "ppumListPrice": 8941,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299514-250-250/Ramen-Maruchan-Carne-de-Res-85-g.jpg?v=638775765440300000"
+          ],
+          "name": "Ramen Maruchan Carne de Res 85 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "14892",
+      "reference": "1555256",
+      "sponsoredId": null,
+      "slug": "sopa-instantanea-con-fideos-sabor-vegetales-traverso-65-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [
+        "26912",
+        "27367"
+      ],
+      "brand": "Traverso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "16224",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.065,
+          "price": 1060,
+          "listPrice": 1060,
+          "ppumPrice": 16308,
+          "ppumListPrice": 16308,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352272-250-250/Sopa-instantanea-con-fideos-sabor-vegetales-Traverso-65-g.jpg?v=638776692338370000"
+          ],
+          "name": "Fideos Instantáneos Traverso Sabor Verduras 65 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "81190",
+      "reference": "1822185",
+      "sponsoredId": null,
+      "slug": "pasta-para-uno-carozzi-caracoqueso-70g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [],
+      "brand": "Carozzi",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81462",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.07,
+          "price": 1370,
+          "listPrice": 1370,
+          "ppumPrice": 19571,
+          "ppumListPrice": 19571,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/364617-250-250/Pasta-para-uno-caracoqueso-70-g.jpg?v=638776754924830000"
+          ],
+          "name": "Pasta Para Uno Carozzi Caracoqueso 70 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "14890",
+      "reference": "1218644",
+      "sponsoredId": null,
+      "slug": "sopa-instantanea-con-fideos-y-carne-traverso-65-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [
+        "26912",
+        "27367"
+      ],
+      "brand": "Traverso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "16222",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.065,
+          "price": 1060,
+          "listPrice": 1060,
+          "ppumPrice": 16308,
+          "ppumListPrice": 16308,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352261-250-250/Sopa-instantanea-con-fideos-sabor-carne-65-g.jpg?v=638776692307100000"
+          ],
+          "name": "Fideos Instantáneos Traverso para Sopa Sabor Carne 65 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "123441",
+      "reference": "1956911",
+      "sponsoredId": null,
+      "slug": "ramen-carne-nissin-85-gr-1956911",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [
+        "22523"
+      ],
+      "brand": "Nissin",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "123730",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 750,
+          "listPrice": 750,
+          "ppumPrice": 8824,
+          "ppumListPrice": 8824,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/389291-250-250/Ramen-carne-85-g.jpg?v=638776859420530000"
+          ],
+          "name": "Ramen Carne Nissin 85 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "14108",
+      "reference": "1537043",
+      "sponsoredId": null,
+      "slug": "comida-instantanea-maruchan-93-g-bowl-pollo",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [],
+      "brand": "Maruchan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "15440",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.093,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 20323,
+          "ppumListPrice": 20323,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303539-250-250/Comida-instantanea-Maruchan-93-g-bowl-pollo.jpg?v=638776377579100000"
+          ],
+          "name": "Comida Instantánea Maruchan 93 g, Bowl Pollo",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "14104",
+      "reference": "978340",
+      "sponsoredId": null,
+      "slug": "comida-instantanea-maruchan-64-g-carne-asada",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [
+        "27542"
+      ],
+      "brand": "Maruchan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "15436",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.064,
+          "price": 1350,
+          "listPrice": 1350,
+          "ppumPrice": 21094,
+          "ppumListPrice": 21094,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303499-250-250/Comida-Instantanea-Maruchan-Carne-Asada-64-g.jpg?v=638776377480130000"
+          ],
+          "name": "Comida Instantánea Maruchan Carne Asada 64 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X1990 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 1990,
+              "unitPrice": 995,
+              "ppumPrice": 15547,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "2394",
+      "reference": "265529",
+      "sponsoredId": null,
+      "slug": "comida-instantanea-maruchan-pote-64-g-sabor-camarones",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [
+        "27542"
+      ],
+      "brand": "Maruchan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "2400",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.064,
+          "price": 1350,
+          "listPrice": 1350,
+          "ppumPrice": 21094,
+          "ppumListPrice": 21094,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299508-250-250/Comida-Instantanea-Maruchan-Camarones-Pote-64-g.jpg?v=638775765375670000"
+          ],
+          "name": "Comida Instantánea Maruchan Camarones Pote 64 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X1990 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 1990,
+              "unitPrice": 995,
+              "ppumPrice": 15547,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "14106",
+      "reference": "566105",
+      "sponsoredId": null,
+      "slug": "comida-instantanea-maruchan-64-g-camaron-picante",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [
+        "27542"
+      ],
+      "brand": "Maruchan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "15438",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.064,
+          "price": 1350,
+          "listPrice": 1350,
+          "ppumPrice": 21094,
+          "ppumListPrice": 21094,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303516-250-250/Comida-instantanea-Maruchan-64-g-camaron-picante.jpg?v=638776377515370000"
+          ],
+          "name": "Comida Instantánea Maruchan 64 g, Camarón Picante",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X1990 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 1990,
+              "unitPrice": 995,
+              "ppumPrice": 15547,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "95149",
+      "reference": "1842709",
+      "sponsoredId": null,
+      "slug": "paella-kit-marisco-carmencita-paellera",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [
+        "14878",
+        "14880",
+        "14967",
+        "18363",
+        "24961",
+        "27250",
+        "27261"
+      ],
+      "brand": "Carmencita",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "95413",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 19990,
+          "listPrice": 19990,
+          "ppumPrice": 19990,
+          "ppumListPrice": 19990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312682-250-250/Paella-kit-marisco-sin-gluten-255-g---Paellera.jpg?v=638776397265130000"
+          ],
+          "name": "Paella Kit Marisco Carmencita Sin Gluten 255 g + Paellera",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "144251",
+      "reference": "1537042",
+      "sponsoredId": null,
+      "slug": "com-inst-maruchan-bowl-camaron-chile-93-1537042",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [],
+      "brand": "Maruchan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144548",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.093,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 20323,
+          "ppumListPrice": 20323,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/403585-250-250/Comida-Instantanea-Maruchan-Bowl-Camaron-y-Chile-93-g.jpg?v=638776914544630000"
+          ],
+          "name": "Fideos Instantáneos Maruchan Bowl Sabor Camarón, Limón y Habanero 94.3 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "14107",
+      "reference": "459021",
+      "sponsoredId": null,
+      "slug": "comida-instantanea-maruchan-85-g-camaron",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [],
+      "brand": "Maruchan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "15439",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 760,
+          "listPrice": 760,
+          "ppumPrice": 8941,
+          "ppumListPrice": 8941,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303526-250-250/Comida-Instantanea-Maruchan-Camaron-85-g.jpg?v=638776377548200000"
+          ],
+          "name": "Comida Instantánea Maruchan Camarón 85 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "14102",
+      "reference": "265532",
+      "sponsoredId": null,
+      "slug": "comida-instantanea-maruchan-64-g-queso",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [
+        "27542"
+      ],
+      "brand": "Maruchan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "15434",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.064,
+          "price": 1350,
+          "listPrice": 1350,
+          "ppumPrice": 21094,
+          "ppumListPrice": 21094,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303482-250-250/Comida-Instantanea-Maruchan-Queso-64-g.jpg?v=638776377446730000"
+          ],
+          "name": "Comida Instantánea Maruchan Queso 64 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X1990 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 1990,
+              "unitPrice": 995,
+              "ppumPrice": 15547,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "163724",
+      "reference": "2062182",
+      "sponsoredId": null,
+      "slug": "fideos-sabor-pollo-2062182",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [],
+      "brand": "Gourmet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "164118",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.065,
+          "price": 1290,
+          "listPrice": 1290,
+          "ppumPrice": 19846,
+          "ppumListPrice": 19846,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/572133-250-250/Fideos-Instantaneos-Sabor-Pollo-65-g.jpg?v=639053878180400000"
+          ],
+          "name": "Fideos Instantáneos Sabor Pollo 65 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "163725",
+      "reference": "2062183",
+      "sponsoredId": null,
+      "slug": "fideos-sabor-carne-2062183",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [],
+      "brand": "Gourmet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "164120",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.065,
+          "price": 1290,
+          "listPrice": 1290,
+          "ppumPrice": 19846,
+          "ppumListPrice": 19846,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/572138-250-250/Fideos-Instantaneos-Sabor-Carne-65-g.jpg?v=639053878199630000"
+          ],
+          "name": "Fideos Instantáneos Sabor Carne 65 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "163727",
+      "reference": "2062184",
+      "sponsoredId": null,
+      "slug": "fideos-camaron-2062184",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [],
+      "brand": "Gourmet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "164119",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.065,
+          "price": 1290,
+          "listPrice": 1290,
+          "ppumPrice": 19846,
+          "ppumListPrice": 19846,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/572145-250-250/Fideos-Instantaneos-Sabor-Camaron-65-g.jpg?v=639053878223300000"
+          ],
+          "name": "Fideos Instantáneos Sabor Camarón 65 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153877",
+      "reference": "2044421",
+      "sponsoredId": null,
+      "slug": "ramen-cuisine-and-co-carne-85-g-2044421",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27517",
+        "27542"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154188",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 590,
+          "listPrice": 590,
+          "ppumPrice": 6941,
+          "ppumListPrice": 6941,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/577508-250-250/Ramen-Cuisine---Co-Carne-85-g.jpg?v=639070422474070000"
+          ],
+          "name": "Ramen Cuisine & Co Carne 85 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 990,
+              "unitPrice": 495,
+              "ppumPrice": 5824,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153863",
+      "reference": "2044665",
+      "sponsoredId": null,
+      "slug": "comida-instantanea-c-and-co-pollo-pica-64-g-2044665",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154174",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.064,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 15469,
+          "ppumListPrice": 15469,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/577512-250-250/Comida-Instantanea-Cuisine---Co-Pollo-Pica-64-g.jpg?v=639070422508830000"
+          ],
+          "name": "Comida Instantánea Cuisine & Co Pollo Pica 64 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153874",
+      "reference": "2044664",
+      "sponsoredId": null,
+      "slug": "comida-instantanea-cuisine-and-co-carne-64-g-2044664",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154185",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.064,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 15469,
+          "ppumListPrice": 15469,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/577511-250-250/Comida-Instantanea-Cuisine---Co-Carne-64-g.jpg?v=639070422500300000"
+          ],
+          "name": "Comida Instantánea Cuisine & Co Carne 64 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153875",
+      "reference": "2044420",
+      "sponsoredId": null,
+      "slug": "ramen-cuisine-and-co-pollo-85-g-2044420",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27517",
+        "27542"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154186",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 590,
+          "listPrice": 590,
+          "ppumPrice": 6941,
+          "ppumListPrice": 6941,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/577507-250-250/Ramen-Cuisine---Co-Pollo-85-g.jpg?v=639070422457600000"
+          ],
+          "name": "Ramen Cuisine & Co Pollo 85 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 990,
+              "unitPrice": 495,
+              "ppumPrice": 5824,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153872",
+      "reference": "2044422",
+      "sponsoredId": null,
+      "slug": "ramen-cuisine-and-co-vegetales-85-g-2044422",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27517",
+        "27542"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154189",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 590,
+          "listPrice": 590,
+          "ppumPrice": 6941,
+          "ppumListPrice": 6941,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/577509-250-250/Ramen-Cuisine---Co-Vegetales-85-g.jpg?v=639070422482800000"
+          ],
+          "name": "Ramen Cuisine & Co Vegetales 85 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 990,
+              "unitPrice": 495,
+              "ppumPrice": 5824,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153871",
+      "reference": "2044663",
+      "sponsoredId": null,
+      "slug": "comida-instantanea-cuisine-and-co-pollo-64-g-2044663",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154179",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.064,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 15469,
+          "ppumListPrice": 15469,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/577510-250-250/Comida-Instantanea-Cuisine---Co-Pollo-64-g.jpg?v=639070422491600000"
+          ],
+          "name": "Comida Instantánea Cuisine & Co Pollo 64 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "69861",
+      "reference": "978341",
+      "sponsoredId": null,
+      "slug": "pasta-rapida-yaki-teriyaki-maruchan-112g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [],
+      "brand": "Maruchan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "70116",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.112,
+          "price": 2230,
+          "listPrice": 2230,
+          "ppumPrice": 19911,
+          "ppumListPrice": 19911,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/543153-250-250/Fideos-Instantaneos-Maruchan-Yakisoba-Sabor-Carne-de-Res-Estilo-Teriyaki-1125-g.jpg?v=638991551537930000"
+          ],
+          "name": "Fideos Instantáneos Maruchan Yakisoba Sabor Carne de Res Estilo Teriyaki 112.5 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159804",
+      "reference": "2053549",
+      "sponsoredId": null,
+      "slug": "sopa-instantanea-2053549",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos"
+      ],
+      "collections": [],
+      "brand": "Maruchan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160166",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.113,
+          "price": 2230,
+          "listPrice": 2230,
+          "ppumPrice": 19735,
+          "ppumListPrice": 19735,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/542442-250-250/Fideos-Maruchan-Yaki-Pollo-113-g.jpg?v=638991196541700000"
+          ],
+          "name": "Fideos Maruchan Yaki Pollo 113 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153597",
+      "reference": "2044419",
+      "sponsoredId": null,
+      "slug": "ramen-cuisine-and-co-pollo-picante-85-g-2044419",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "31",
+        "313",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Comida Instantánea",
+        "Sopas, Cremas e Instantáneos",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27517",
+        "27542"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153905",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 590,
+          "listPrice": 590,
+          "ppumPrice": 6941,
+          "ppumListPrice": 6941,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/577506-250-250/Ramen-Cuisine---Co-Pollo-Picante-85-g.jpg?v=639070422115400000"
+          ],
+          "name": "Ramen Cuisine & Co Pollo Picante 85 g",
+          "stock": false,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 990,
+              "unitPrice": 495,
+              "ppumPrice": 5824,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Comida Instantánea",
+          "value": "/despensa/sopas-cremas-e-instantaneos/comida-instantanea",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Comida Instantánea",
+          "value": "/despensa/sopas-cremas-e-instantaneos/comida-instantanea",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Comida Instantánea",
+          "value": "/despensa/sopas-cremas-e-instantaneos/comida-instantanea",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 590,
+          "maxValue": 19990
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Maruchan",
+          "value": "Maruchan",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nissin",
+          "value": "Nissin",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Traverso",
+          "value": "Traverso",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carozzi",
+          "value": "Carozzi",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carmencita",
+          "value": "Carmencita",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gourmet",
+          "value": "Gourmet",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "Pasta instantánea con sabor a camarón, limón y habanero",
+          "value": "pasta instantánea con sabor a camarón, limón y habanero",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pasta instantánea con sabor a carne de res estilo teriyaki",
+          "value": "pasta instantánea con sabor a carne de res estilo teriyaki",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Sopas Instantáneas",
+          "value": "Sopas Instantáneas",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caracoles",
+          "value": "Caracoles",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paella Marinera",
+          "value": "Paella Marinera",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fideos para Sopa",
+          "value": "Fideos para Sopa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 30,
+  "metaTag": {
+    "title": "Comida Instantánea | Jumbo.cl",
+    "description": "La comida instantánea es la solución perfecta en esos días donde no hay tiempo para cocinar. ¡Ingresa a Jumbo.cl y disfruta de deliciosos platillos con un clic!"
+  }
+}

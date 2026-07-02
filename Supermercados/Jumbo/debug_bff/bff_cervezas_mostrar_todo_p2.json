@@ -1,0 +1,3127 @@
+{
+  "products": [
+    {
+      "productId": "113240",
+      "reference": "1928561",
+      "sponsoredId": null,
+      "slug": "pack-12-kross-golden-botella-330-cc-1928561",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales"
+      ],
+      "collections": [
+        "27094",
+        "27100",
+        "27487",
+        "27546",
+        "27549",
+        "27564"
+      ],
+      "brand": "Kross",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "113507",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 3.96,
+          "price": 17990,
+          "listPrice": 17990,
+          "ppumPrice": 4543,
+          "ppumListPrice": 4543,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/544433-250-250/Pack-12-un-Cerveza-Kross-Golden-Ale-53%C2%B0-330-cc.jpg?v=638993684572130000"
+          ],
+          "name": "Pack 12 un. Cerveza Kross Golden Ale 5.3° 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES MARZO 01032026 AL 31032026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 10794,
+              "ppumPrice": 2726,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "158402",
+      "reference": "2049529",
+      "sponsoredId": null,
+      "slug": "cerveza-dolbek-maqui-lata-470cc-4-8-2049529",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales"
+      ],
+      "collections": [
+        "25422",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "D'olbek",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "158728",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.47,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 4660,
+          "ppumListPrice": 4660,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/527053-250-250/Cerveza-Dolbek-Maqui-Lata-470-cc-48%C2%B0.jpg?v=638966692923370000"
+          ],
+          "name": "Cerveza Dolbek Maqui Lata 470 cc 4.8°",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X2990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 2990,
+              "unitPrice": 1495,
+              "ppumPrice": 3181,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "96838",
+      "reference": "1858522",
+      "sponsoredId": null,
+      "slug": "cerveza-austral-patagonia-hoppy-lager-4-8g-470-cc-1858522",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Austral",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "97103",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.47,
+          "price": 1000,
+          "listPrice": 1470,
+          "ppumPrice": 2128,
+          "ppumListPrice": 3128,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312764-250-250/Cerveza-Austral-Patagonia-Hoppy-Lager-48%C2%B0-470-cc.jpg?v=638776397519230000"
+          ],
+          "name": "Cerveza Austral Patagonia Hoppy Lager 4.8° 470 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1000 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 27022026 AL 08032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1000,
+              "ppumPrice": 2128,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 4X3990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3990,
+              "unitPrice": 998,
+              "ppumPrice": 2123,
+              "mQuantity": 4,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "143681",
+      "reference": "2020036-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-un-cerveza-stones-berries-2-5-350-cc-2020036-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Stones",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "143975",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2.1,
+          "price": 6590,
+          "listPrice": 6590,
+          "ppumPrice": 3138,
+          "ppumListPrice": 3138,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/543026-250-250/Pack-6-un-Cerveza-Stones-Berries-25%C2%B0-350-cc.jpg?v=638991551089770000"
+          ],
+          "name": "Pack 6 un. Cerveza Stones Berries 2.5° 350 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X8990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 8990,
+              "unitPrice": 4495,
+              "ppumPrice": 2140,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "129953",
+      "reference": "1976130-PAK",
+      "sponsoredId": null,
+      "slug": "pack-12-unidades-cerveza-stella-artois-lager-5-2g-354-cc-1976130-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "23175",
+        "25263",
+        "25266",
+        "25333",
+        "25334",
+        "25422",
+        "25425",
+        "25543",
+        "25578",
+        "25607",
+        "25695",
+        "25741",
+        "27094",
+        "27100",
+        "27219",
+        "27419",
+        "27499",
+        "27501",
+        "27563",
+        "27599",
+        "27601"
+      ],
+      "brand": "Stella Artois",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "130256",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 4.248,
+          "price": 8990,
+          "listPrice": 9790,
+          "ppumPrice": 2116,
+          "ppumListPrice": 2305,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/489207-250-250/Pack-12-un-Cerveza-Stella-Artois-Lager-52%C2%B0-354-cc.jpg?v=638899506434330000"
+          ],
+          "name": "Pack 12 un. Cerveza Stella Artois Lager 5.2° 354 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 8990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 8990,
+              "ppumPrice": 2116,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "123433",
+      "reference": "1956804",
+      "sponsoredId": null,
+      "slug": "cerveza-kross-golden-ale-5-3g-470-cc-1956804",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25263",
+        "25267",
+        "27487",
+        "27499",
+        "27501",
+        "27546",
+        "27549",
+        "27563",
+        "27564",
+        "27601"
+      ],
+      "brand": "Kross",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "123722",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.47,
+          "price": 1690,
+          "listPrice": 2190,
+          "ppumPrice": 3596,
+          "ppumListPrice": 4660,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318457-250-250/Cerveza-Kross-Golden-Ale-53%C2%B0-470-cc.jpg?v=638776414459770000"
+          ],
+          "name": "Cerveza Kross Golden Ale 5.3° 470 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1690,
+              "ppumPrice": 3596,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES MARZO 01032026 AL 31032026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1314,
+              "ppumPrice": 2796,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137922",
+      "reference": "2000152",
+      "sponsoredId": null,
+      "slug": "cerveza-odissea-amber-ale-5-2g-lata-470-cc-2000152",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "25422",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Kross",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138216",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.47,
+          "price": 1000,
+          "listPrice": 1690,
+          "ppumPrice": 2128,
+          "ppumListPrice": 3596,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/329242-250-250/Cerveza-Kross-Odissea-Amber-Ale-52%C2%B0-Lata-470-cc.jpg?v=638776431606500000"
+          ],
+          "name": "Cerveza Kross Odissea Amber Ale 5.2° Lata 470 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1000 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1000,
+              "ppumPrice": 2128,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "43601",
+      "reference": "263481-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-unidades-cerveza-stones-limon-fruit-beer-2-5g-350-cc-263481-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Stones",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "43738",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2.1,
+          "price": 6590,
+          "listPrice": 6590,
+          "ppumPrice": 3138,
+          "ppumListPrice": 3138,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/533902-250-250/Pack-6-un-Cerveza-Stones-Limon-Fruit-Beer-25%C2%B0-350-cc.jpg?v=638979416126700000"
+          ],
+          "name": "Pack 6 un. Cerveza Stones Limon Fruit Beer 2.5° 350 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X8990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 8990,
+              "unitPrice": 4495,
+              "ppumPrice": 2140,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "141805",
+      "reference": "2010599-PAK",
+      "sponsoredId": null,
+      "slug": "caja-cerv-dolbek-maqui-bot-12x330cc-4-8",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "24374",
+        "25263",
+        "25266",
+        "25271",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27094",
+        "27100",
+        "27204",
+        "27419",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27563",
+        "27599",
+        "27601"
+      ],
+      "brand": "D'olbek",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142099",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 3.96,
+          "price": 15990,
+          "listPrice": 21490,
+          "ppumPrice": 4038,
+          "ppumListPrice": 5427,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/336278-250-250/CAJA-CERV-DOLBEK-MAQUI-BOT-12X330CC-48%C2%B0.jpg?v=638776437435830000"
+          ],
+          "name": "Pack 12 un. Cerveza Dolbek Pale Ale Maqui 4.8° Botella 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 15990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 15990,
+              "ppumPrice": 4038,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 14490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 14490,
+              "ppumPrice": 3659,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126306",
+      "reference": "1961619-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-unidades-cerveza-corona-lager-sin-alcohol-330-cc-1961619-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "794",
+        "796"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Sin Alcohol",
+        "Cervezas sin Alcohol"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25354",
+        "25422",
+        "25543",
+        "25607",
+        "25695",
+        "27097",
+        "27100",
+        "27419",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Corona",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126599",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.98,
+          "price": 5990,
+          "listPrice": 7790,
+          "ppumPrice": 3025,
+          "ppumListPrice": 3934,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319152-250-250/Pack-6-un-Cerveza-Corona-Lager-Sin-Alcohol-330-cc.jpg?v=638776416777470000"
+          ],
+          "name": "Pack 6 un. Cerveza Corona Lager Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5990,
+              "ppumPrice": 3025,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "82802",
+      "reference": "1828058",
+      "sponsoredId": null,
+      "slug": "cerveza-kunstmann-torobayo-pale-ale-5-0g-470-cc-1828058",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Kunstmann",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "83070",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.47,
+          "price": 1950,
+          "listPrice": 1950,
+          "ppumPrice": 4149,
+          "ppumListPrice": 4149,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311485-250-250/Cerveza-Kunstmann-Torobayo-Pale-Ale-50%C2%B0-470-cc.jpg?v=638776393785700000"
+          ],
+          "name": "Cerveza Kunstmann Torobayo Pale Ale 5.0° 470 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X2990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 2990,
+              "unitPrice": 1495,
+              "ppumPrice": 3181,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "99183",
+      "reference": "1858523",
+      "sponsoredId": null,
+      "slug": "cerveza-austral-patagonia-red-lager-5-0g-470-cc-1858523",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Austral",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "99450",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.47,
+          "price": 1000,
+          "listPrice": 1470,
+          "ppumPrice": 2128,
+          "ppumListPrice": 3128,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313249-250-250/Cerveza-Austral-Patagonia-Red-Lager-50%C2%B0-470-cc.jpg?v=638776399166670000"
+          ],
+          "name": "Cerveza Austral Patagonia Red Lager 5.0° 470 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1000 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 27022026 AL 08032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1000,
+              "ppumPrice": 2128,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 4X3990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3990,
+              "unitPrice": 998,
+              "ppumPrice": 2123,
+              "mQuantity": 4,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "43745",
+      "reference": "765126-PAK",
+      "sponsoredId": null,
+      "slug": "pack-4-unidades-cerveza-kross-stout-5-2g-330-cc-765126-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25354",
+        "25422",
+        "25695",
+        "27096",
+        "27100",
+        "27487",
+        "27499",
+        "27501",
+        "27546",
+        "27549",
+        "27563",
+        "27564",
+        "27601"
+      ],
+      "brand": "Kross",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "44011",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.32,
+          "price": 5490,
+          "listPrice": 7690,
+          "ppumPrice": 4159,
+          "ppumListPrice": 5826,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/544998-250-250/Pack-4-un-Cerveza-Kross-Stout-52%C2%B0-330-cc.jpg?v=638996063068330000"
+          ],
+          "name": "Pack 4 un. Cerveza Kross Stout 5.2° 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5490,
+              "ppumPrice": 4159,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES MARZO 01032026 AL 31032026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 4614,
+              "ppumPrice": 3495,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126589",
+      "reference": "1962096-PAK",
+      "sponsoredId": null,
+      "slug": "pack-24-unidades-cerveza-quilmes-lager-4-9g-300-cc-1962096-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25263",
+        "25266",
+        "25333",
+        "25334",
+        "25422",
+        "25543",
+        "25578",
+        "25607",
+        "25695",
+        "25741",
+        "27094",
+        "27100",
+        "27419",
+        "27499",
+        "27501",
+        "27563",
+        "27599",
+        "27601"
+      ],
+      "brand": "Quilmes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126882",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 7.2,
+          "price": 13990,
+          "listPrice": 19990,
+          "ppumPrice": 1943,
+          "ppumListPrice": 2776,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319270-250-250/Pack-24-un-Cerveza-Quilmes-Lager-49%C2%B0-300-cc.jpg?v=638776417146830000"
+          ],
+          "name": "Pack 24 un. Cerveza Quilmes Lager 4.9° 300 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 13990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 13990,
+              "ppumPrice": 1943,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "158856",
+      "reference": "2052345",
+      "sponsoredId": null,
+      "slug": "cerveza-austral-lager-lata-470cc-4-6-2052345",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Austral",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159180",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.47,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 4234,
+          "ppumListPrice": 4234,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/532974-250-250/Cerveza-Austral-Lager-46%C2%B0-470-cc.jpg?v=638979414840330000"
+          ],
+          "name": "Cerveza Austral Lager 4.6° 470 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X2990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 2990,
+              "unitPrice": 1495,
+              "ppumPrice": 3181,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "43704",
+      "reference": "1538732-PAK",
+      "sponsoredId": null,
+      "slug": "pack-6-unidades-cerveza-stones-mango-fruit-beer-2-5g-350-cc-1538732-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Stones",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "44008",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2.8,
+          "price": 6590,
+          "listPrice": 6590,
+          "ppumPrice": 2354,
+          "ppumListPrice": 2354,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/532735-250-250/Pack-6-un-Cerveza-Stones-Mango-Fruit-Beer-25%C2%B0-350-cc.jpg?v=638979414560270000"
+          ],
+          "name": "Pack 6 un. Cerveza Stones Mango Fruit Beer 2.5° 350 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X8990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 8990,
+              "unitPrice": 4495,
+              "ppumPrice": 1605,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Cervezas Tradicionales",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-tradicionales",
+          "selected": false,
+          "quantity": 155,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas Artesanales",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-artesanales",
+          "selected": false,
+          "quantity": 142,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas Destacadas",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-destacadas",
+          "selected": false,
+          "quantity": 128,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas sin Alcohol",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-sin-alcohol",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Cervezas Tradicionales",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-tradicionales",
+          "selected": false,
+          "quantity": 155,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas Artesanales",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-artesanales",
+          "selected": false,
+          "quantity": 142,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas Destacadas",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-destacadas",
+          "selected": false,
+          "quantity": 128,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas sin Alcohol",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-sin-alcohol",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Cervezas Tradicionales",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-tradicionales",
+          "selected": false,
+          "quantity": 155,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas Artesanales",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-artesanales",
+          "selected": false,
+          "quantity": 142,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas Destacadas",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-destacadas",
+          "selected": false,
+          "quantity": 128,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas sin Alcohol",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-sin-alcohol",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Corona",
+          "value": "Corona",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kunstmann",
+          "value": "Kunstmann",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Stella Artois",
+          "value": "Stella Artois",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Royal Guard",
+          "value": "Royal Guard",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Budweiser",
+          "value": "Budweiser",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Austral",
+          "value": "Austral",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Coors",
+          "value": "Coors",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sol",
+          "value": "Sol",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Stones",
+          "value": "Stones",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "D'olbek",
+          "value": "D'olbek",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Heineken",
+          "value": "Heineken",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kross",
+          "value": "Kross",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cusqueña",
+          "value": "Cusqueña",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quilmes",
+          "value": "Quilmes",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Königsbacher",
+          "value": "Königsbacher",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Oettinger",
+          "value": "Oettinger",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Schöfferhofer",
+          "value": "Schöfferhofer",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Odissea",
+          "value": "Odissea",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Volcanes del Sur",
+          "value": "Volcanes del Sur",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Guayacán",
+          "value": "Guayacán",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Michelob",
+          "value": "Michelob",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Benediktiner",
+          "value": "Benediktiner",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Go Barman",
+          "value": "Go Barman",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bitburger",
+          "value": "Bitburger",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lemon Stones",
+          "value": "Lemon Stones",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Escudo",
+          "value": "Escudo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Peroni",
+          "value": "Peroni",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Leyendas de Origen",
+          "value": "Leyendas de Origen",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Asahi",
+          "value": "Asahi",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Guinness",
+          "value": "Guinness",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Blue Moon",
+          "value": "Blue Moon",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Royal Dutch",
+          "value": "Royal Dutch",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viiking",
+          "value": "Viiking",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mahou",
+          "value": "Mahou",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cristal",
+          "value": "Cristal",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Miller",
+          "value": "Miller",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "LOA",
+          "value": "LOA",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Singha",
+          "value": "Singha",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Damm",
+          "value": "Damm",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Calatrava",
+          "value": "Calatrava",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "König",
+          "value": "König",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estrella Galicia",
+          "value": "Estrella Galicia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Urquel",
+          "value": "Urquel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tamango",
+          "value": "Tamango",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mestra",
+          "value": "Mestra",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Craft Nation",
+          "value": "Craft Nation",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Becker",
+          "value": "Becker",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Delirium",
+          "value": "Delirium",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Erdinger",
+          "value": "Erdinger",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gulden Draak",
+          "value": "Gulden Draak",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alhambra",
+          "value": "Alhambra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Westmalle",
+          "value": "Westmalle",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Flensburger",
+          "value": "Flensburger",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Clausthaler",
+          "value": "Clausthaler",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Köstritzer",
+          "value": "Köstritzer",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Samuel Adams",
+          "value": "Samuel Adams",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Báltica",
+          "value": "Báltica",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paulaner",
+          "value": "Paulaner",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Del Puerto",
+          "value": "Del Puerto",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "+56",
+          "value": "+56",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Franziskaner",
+          "value": "Franziskaner",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Atrapaniebla",
+          "value": "Atrapaniebla",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Duff",
+          "value": "Duff",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "AC/DC",
+          "value": "AC/DC",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Altamira",
+          "value": "Altamira",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "B-Mix",
+          "value": "B-Mix",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "3 Horses",
+          "value": "3 Horses",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Modelo",
+          "value": "Modelo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Patagonia",
+          "value": "Patagonia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Barcelona Beer Company",
+          "value": "Barcelona Beer Company",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Candelaria",
+          "value": "Candelaria",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Warsteiner",
+          "value": "Warsteiner",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trooper",
+          "value": "Trooper",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ayinger",
+          "value": "Ayinger",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kriek",
+          "value": "Kriek",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "St Louis",
+          "value": "St Louis",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Granizo",
+          "value": "Granizo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tropera",
+          "value": "Tropera",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cuello Negro",
+          "value": "Cuello Negro",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bett'r",
+          "value": "Bett'r",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tübinger",
+          "value": "Tübinger",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Miguel",
+          "value": "San Miguel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rural",
+          "value": "Rural",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 58,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bélgica",
+          "value": "Bélgica",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 151,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dinamarca",
+          "value": "Dinamarca",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Irlanda",
+          "value": "Irlanda",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Japón",
+          "value": "Japón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "México",
+          "value": "México",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Países Bajos",
+          "value": "Países Bajos",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Perú",
+          "value": "Perú",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Reino Unido",
+          "value": "Reino Unido",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Republica Checa",
+          "value": "Republica Checa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tailandia",
+          "value": "Tailandia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "4 Unidades",
+          "value": "4",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6 Unidades",
+          "value": "6",
+          "selected": false,
+          "quantity": 60,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "24 Unidades",
+          "value": "24",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 188,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "10 Unidades",
+          "value": "10 un.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "12 Unidades",
+          "value": "12 colores",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "18 Unidades",
+          "value": "18 collets",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Barril",
+          "value": "Barril",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 165,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella de vidrio",
+          "value": "Botella de vidrio",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lata",
+          "value": "Lata",
+          "selected": false,
+          "quantity": 157,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack",
+          "value": "Pack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tarro",
+          "value": "Tarro",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Grado",
+      "key": "Grado",
+      "values": [
+        {
+          "displayName": "4,3° G.L.",
+          "value": "4,3° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "4,5° G.L.",
+          "value": "4,5° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "4,6° G.L.",
+          "value": "4,6° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "4,8° G.L.",
+          "value": "4,8° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5,0° G.L.",
+          "value": "5,0° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5° G.L.",
+          "value": "5° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 4,6% vol.",
+          "value": "Alc. 4,6% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 4,9% vol.",
+          "value": "Alc. 4,9% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 5,0% vol.",
+          "value": "Alc. 5,0% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 5,5% vol.",
+          "value": "Alc. 5,5% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 5,6% vol.",
+          "value": "Alc. 5,6% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alto >7% ABV",
+          "value": "Alto (>7%ABV)",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bajo <5% ABV",
+          "value": "Bajo (<5%ABV)",
+          "selected": false,
+          "quantity": 125,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Medio 5 - 7% ABV",
+          "value": "Medio (5-7% ABV)",
+          "selected": false,
+          "quantity": 133,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin alcohol",
+          "value": "Sin alcohol",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Ale",
+          "value": "Ale",
+          "selected": false,
+          "quantity": 58,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Amber Lager",
+          "value": "Amber Lager",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "American Pale Ale",
+          "value": "American Pale Ale",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas Tradicionales",
+          "value": "Cervezas Tradicionales",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cóctel",
+          "value": "Cóctel",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doppelbock",
+          "value": "Doppelbock",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Especial",
+          "value": "Especial",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fruit Beer",
+          "value": "Fruit Beer",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fruit Pale Ale",
+          "value": "Fruit Pale Ale",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutal",
+          "value": "Frutal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fuerte",
+          "value": "Fuerte",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gin Tonic",
+          "value": "Gin Tonic",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Golden Ale",
+          "value": "Golden Ale",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ipa",
+          "value": "Ipa",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lager",
+          "value": "Lager",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mixto",
+          "value": "Mixto",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Negra",
+          "value": "Negra",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pale Ale",
+          "value": "Pale Ale",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rubia",
+          "value": "Rubia",
+          "selected": false,
+          "quantity": 165,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Alcohol",
+          "value": "Sin Alcohol",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "SinAlcohol",
+          "value": "SinAlcohol",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Stout",
+          "value": "Stout",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trigo",
+          "value": "Trigo",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tropical Ale",
+          "value": "Tropical Ale",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Urweisse",
+          "value": "Urweisse",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Whisky Honey",
+          "value": "Whisky Honey",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 141,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 189,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "200 a 355 cc",
+          "value": "200 a 355 cc",
+          "selected": false,
+          "quantity": 192,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "375 a 600 cc",
+          "value": "375 a 600 cc",
+          "selected": false,
+          "quantity": 112,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Más de 650 cc",
+          "value": "Más de 650 cc",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Cervezas Tradicionales",
+          "value": "Cervezas Tradicionales",
+          "selected": false,
+          "quantity": 105,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas Artesanales",
+          "value": "Cervezas Artesanales",
+          "selected": false,
+          "quantity": 116,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas Premium",
+          "value": "Cervezas Premium",
+          "selected": false,
+          "quantity": 80,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Complementos para Preparar",
+          "value": "Complementos para Preparar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas Sin Alcohol",
+          "value": "Cervezas Sin Alcohol",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 179,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 153,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack",
+          "value": "Pack",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Amargor",
+      "key": "Amargor (IBU)",
+      "values": [
+        {
+          "displayName": "0-25 Amargor bajo",
+          "value": "0-25 Amargor bajo",
+          "selected": false,
+          "quantity": 215,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "25-50 Amargor medio",
+          "value": "25-50 Amargor medio",
+          "selected": false,
+          "quantity": 85,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "50-75 Amargor alto",
+          "value": "50-75 Amargor alto",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "75-100 Amargor muy alto",
+          "value": "75-100 Amargor muy alto",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 57,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 890,
+          "maxValue": 33990
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Líquido",
+          "value": "Líquido",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 330,
+  "metaTag": {
+    "title": "Cervezas | Jumbo.cl",
+    "description": "Combate el calor y refréscate con nuestra variedad de cervezas. ¡En Jumbo.cl podrás conseguir pack de cervezas perfectos para compartir con amigos!"
+  }
+}

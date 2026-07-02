@@ -1,0 +1,717 @@
+{
+  "products": [
+    {
+      "productId": "11220",
+      "reference": "1462101-KG",
+      "sponsoredId": null,
+      "slug": "plateada-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "527",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Horno",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "7489",
+        "17114",
+        "17115",
+        "17116",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11479",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 2,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 2,
+          "price": 17980,
+          "listPrice": 23780,
+          "ppumPrice": 8990,
+          "ppumListPrice": 11890,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302291-250-250/Plateada-Al-Vacio-kg.jpg?v=638986883977470000"
+          ],
+          "name": "Plateada Al Vacío kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 8990 - CIC: JUMBO CICLO CARNES JUMBO CICLO 1 CARNES OMNICANAL MARZO 2026 24022026 AL 02032026",
+              "description": "JUMBO CICLO 1 CARNES OMNICANAL MARZO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 17980,
+              "ppumPrice": 8990,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11231",
+      "reference": "1462112-KG",
+      "sponsoredId": null,
+      "slug": "tapapecho-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "527",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Horno",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17115",
+        "17116",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11490",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.2,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.2,
+          "price": 13428,
+          "listPrice": 13428,
+          "ppumPrice": 11190,
+          "ppumListPrice": 11190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302763-250-250/Tapapecho-Al-Vacio-kg.jpg?v=638985601828400000"
+          ],
+          "name": "Tapapecho Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11212",
+      "reference": "1462090-KG",
+      "sponsoredId": null,
+      "slug": "asiento-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "527",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Horno",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "7489",
+        "17115",
+        "17116",
+        "17117",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11471",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.3,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.3,
+          "price": 20397,
+          "listPrice": 20397,
+          "ppumPrice": 15690,
+          "ppumListPrice": 15690,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302674-250-250/Asiento-Al-Vacio-kg.jpg?v=638985601456770000"
+          ],
+          "name": "Asiento Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "940",
+      "reference": "1462095-KG",
+      "sponsoredId": null,
+      "slug": "ganso-cat-v",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "527",
+        "924"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes para Horno",
+        "Carnes de Uso Diario"
+      ],
+      "collections": [
+        "17115",
+        "17116",
+        "17117",
+        "26253",
+        "26304"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "942",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.6,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.6,
+          "price": 16304,
+          "listPrice": 16304,
+          "ppumPrice": 10190,
+          "ppumListPrice": 10190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298295-250-250/Ganso-Al-Vacio-kg.jpg?v=638775750648200000"
+          ],
+          "name": "Ganso Al Vacío kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "90369",
+      "reference": "1844024-KG",
+      "sponsoredId": null,
+      "slug": "medallon-de-filete-meson-500-g-aprox",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "80",
+        "81",
+        "527"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carne Molida y Bistecs",
+        "Carnes para Sartén",
+        "Carnes para Horno"
+      ],
+      "collections": [
+        "7489"
+      ],
+      "brand": "Carnicería Propia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "90639",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.7,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.7,
+          "price": 52683,
+          "listPrice": 52683,
+          "ppumPrice": 30990,
+          "ppumListPrice": 30990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312243-250-250/Medallon-de-Filete-Al-Vacio-kg.jpg?v=638776396013830000"
+          ],
+          "name": "Medallón de Filete Mesón kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16516",
+      "reference": "991938-KG",
+      "sponsoredId": null,
+      "slug": "asiento-carne-natural-osorno-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "76",
+        "78",
+        "527"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Vacuno",
+        "Carnes Premium",
+        "Carnes para Horno"
+      ],
+      "collections": [
+        "7487",
+        "7497",
+        "17115",
+        "17116",
+        "17117"
+      ],
+      "brand": "Natural",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17845",
+          "cartLimit": 5,
+          "measurementUnit": "kg",
+          "unitMultiplier": 1.3,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.3,
+          "price": 23517,
+          "listPrice": 23517,
+          "ppumPrice": 18090,
+          "ppumListPrice": 18090,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303977-250-250/Asiento-Premium-Natural-Al-Vacio-kg.jpg?v=638776378507000000"
+          ],
+          "name": "Asiento Premium Natural Al Vacío kg",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Carnes para Horno",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-horno",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Carnes para Horno",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-horno",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Carnes para Horno",
+          "value": "/carnes-y-pescados/vacuno/carnes-para-horno",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Carnicería Propia",
+          "value": "Carnicería Propia",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Natural",
+          "value": "Natural",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Plateada",
+          "value": "Plateada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Asiento",
+          "value": "Asiento",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tapapecho",
+          "value": "Tapapecho",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ganso",
+          "value": "Ganso",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Medallón de Filete",
+          "value": "Medallón de Filete",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Corte",
+      "key": "Tipo de Corte",
+      "values": [
+        {
+          "displayName": "Cortes Uso Diario",
+          "value": "Cortes Uso Diario",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Premium",
+          "value": "Premium",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 13428,
+          "maxValue": 52683
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "Granel",
+          "value": "Granel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Al Vacío",
+          "value": "Al Vacío",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Frescos",
+          "value": "Fresco",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fresco / Al vacío",
+          "value": "Fresco / Al vacío",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Al vacío",
+          "value": "Al vacío",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bandeja",
+          "value": "Bandeja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 6,
+  "metaTag": {
+    "title": "Carnes para Horno  | Jumbo.cl",
+    "description": "En Jumbo.cl contamos con la mejor selección en cortes de carne para horno, perfectos para deleitar tu paladar con un sabor y jugosidad incomparable."
+  }
+}

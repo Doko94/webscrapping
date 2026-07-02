@@ -1,0 +1,2657 @@
+{
+  "products": [
+    {
+      "productId": "113133",
+      "reference": "1899555",
+      "sponsoredId": null,
+      "slug": "harina-integral-cuisine-and-co-1-kg-1899555",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "23175",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27047",
+        "27048",
+        "27049",
+        "27051",
+        "27056",
+        "27057",
+        "27060",
+        "27061",
+        "27065",
+        "27066",
+        "27067",
+        "27068",
+        "27070",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "113400",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 1790,
+          "listPrice": 1790,
+          "ppumPrice": 1790,
+          "ppumListPrice": 1790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/380368-250-250/Harina-integral-1-kg.jpg?v=638776822956800000"
+          ],
+          "name": "Harina Integral 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "4271",
+      "reference": "1614593",
+      "sponsoredId": null,
+      "slug": "harina-integral-selecta-1-kg-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [
+        "25670",
+        "26917",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27542"
+      ],
+      "brand": "Selecta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4280",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 1770,
+          "listPrice": 2090,
+          "ppumPrice": 1770,
+          "ppumListPrice": 2090,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347197-250-250/Harina-integral-1-kg.jpg?v=638776468317000000"
+          ],
+          "name": "Harina Integral Selecta 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1770 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1770,
+              "ppumPrice": 1770,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X3300 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 3300,
+              "unitPrice": 1650,
+              "ppumPrice": 1650,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "104121",
+      "reference": "1894721",
+      "sponsoredId": null,
+      "slug": "harina-avena-integral-quaker-450g-1894721",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [
+        "23611"
+      ],
+      "brand": "Quaker",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "104389",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.45,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 6644,
+          "ppumListPrice": 6644,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/457355-250-250/Harina-Quaker-de-Avena-Integral-450-g.jpg?v=638857209145330000"
+          ],
+          "name": "Harina Quaker de Avena Integral 450 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "131164",
+      "reference": "1976574",
+      "sponsoredId": null,
+      "slug": "harina-de-coco-be-organic-500gr-1976574",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [
+        "23175"
+      ],
+      "brand": "Beorganics",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "131452",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3150,
+          "listPrice": 3150,
+          "ppumPrice": 6300,
+          "ppumListPrice": 6300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/398308-250-250/Harina-de-Coco-Be-Organic-500-g.jpg?v=638776893485130000"
+          ],
+          "name": "Harina de Coco B Organics 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "140610",
+      "reference": "2008103",
+      "sponsoredId": null,
+      "slug": "harina-centeno-selecta-1kg-2008103",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25670",
+        "26917",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27542"
+      ],
+      "brand": "Selecta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "140902",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 1990,
+          "listPrice": 2390,
+          "ppumPrice": 1990,
+          "ppumListPrice": 2390,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/334729-250-250/Harina-de-Centeno-Selecta-1-kg.jpg?v=638776435865130000"
+          ],
+          "name": "Harina de Centeno Selecta 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1990,
+              "ppumPrice": 1990,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X3800 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 3800,
+              "unitPrice": 1900,
+              "ppumPrice": 1900,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "4281",
+      "reference": "1532036",
+      "sponsoredId": null,
+      "slug": "harina-tucapel-500-g-de-arroz-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27542"
+      ],
+      "brand": "Tucapel",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4290",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 990,
+          "listPrice": 1290,
+          "ppumPrice": 1980,
+          "ppumListPrice": 2580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347207-250-250/Harina-de-arroz-500-g.jpg?v=638776468444600000"
+          ],
+          "name": "Harina de Arroz Tucapel 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 990,
+              "ppumPrice": 1980,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "4272",
+      "reference": "981873",
+      "sponsoredId": null,
+      "slug": "harina-multicereal-selecta-bolsa-1-kg-trigo-centeno-cebada-y-avena-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [],
+      "brand": "Selecta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4281",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 2390,
+          "ppumListPrice": 2390,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347198-250-250/Harina-Multicereal-Selecta-Bolsa-1-kg-Trigo-centeno-cebada-y-avena.jpg?v=638776468328770000"
+          ],
+          "name": "Harina Multicereal Selecta 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "140613",
+      "reference": "2008105",
+      "sponsoredId": null,
+      "slug": "harina-de-avena-selecta-850gr-2008105",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25670",
+        "26917",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27542"
+      ],
+      "brand": "Selecta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "140903",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.85,
+          "price": 1990,
+          "listPrice": 2390,
+          "ppumPrice": 2341,
+          "ppumListPrice": 2812,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/334770-250-250/Harina-de-Avena-Selecta-850-g.jpg?v=638776435899470000"
+          ],
+          "name": "Harina de Avena Selecta 850 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1990,
+              "ppumPrice": 2341,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X3800 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 3800,
+              "unitPrice": 1900,
+              "ppumPrice": 2235,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "4244",
+      "reference": "271085",
+      "sponsoredId": null,
+      "slug": "harina-integral-fina-la-fuente-natural-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27542"
+      ],
+      "brand": "La Fuente Natural",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4253",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 1981,
+          "listPrice": 2330,
+          "ppumPrice": 1981,
+          "ppumListPrice": 2330,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347178-250-250/Harina-integral-fina-1-kg.jpg?v=638776468080600000"
+          ],
+          "name": "Harina Integral Fina 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 1981,
+              "ppumPrice": 1981,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "92653",
+      "reference": "1858036",
+      "sponsoredId": null,
+      "slug": "harina-de-almendras-con-piel-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "999",
+        "1004"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Low Carb"
+      ],
+      "collections": [
+        "8112",
+        "27499",
+        "27501",
+        "27542"
+      ],
+      "brand": "La Fuente Natural",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "92917",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 8747,
+          "listPrice": 10290,
+          "ppumPrice": 17494,
+          "ppumListPrice": 20580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/367908-250-250/Harina-de-almendras-con-piel-libre-de-gluten-500-g.jpg?v=638776770092500000"
+          ],
+          "name": "Harina de Almendras con Piel Libre de Gluten 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 8747,
+              "ppumPrice": 17494,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "15196",
+      "reference": "930553",
+      "sponsoredId": null,
+      "slug": "harina-de-linaza-la-fuente-natural-300-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27542"
+      ],
+      "brand": "La Fuente Natural",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "16528",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 1522,
+          "listPrice": 1790,
+          "ppumPrice": 5073,
+          "ppumListPrice": 5967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352440-250-250/Harina-de-linaza-La-Fuente-Natural-300-g.jpg?v=638776692898970000"
+          ],
+          "name": "Harina de Linaza La Fuente Natural 300 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 1522,
+              "ppumPrice": 5073,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "102144",
+      "reference": "1881535",
+      "sponsoredId": null,
+      "slug": "psyllium-husk-organico-manare-200-g-1881535",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "999",
+        "1004"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Low Carb"
+      ],
+      "collections": [
+        "8112"
+      ],
+      "brand": "Manare",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102414",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 10150,
+          "listPrice": 10150,
+          "ppumPrice": 50750,
+          "ppumListPrice": 50750,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/523848-250-250/Psyllium-Husk-Manare-Organico-200-g.jpg?v=638959916818400000"
+          ],
+          "name": "Psyllium Husk Manare Orgánico 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "15256",
+      "reference": "266042",
+      "sponsoredId": null,
+      "slug": "harina-tostada-oso-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [],
+      "brand": "Oso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "16588",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1280,
+          "listPrice": 1280,
+          "ppumPrice": 2560,
+          "ppumListPrice": 2560,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/425418-250-250/Harina-tostada-500-g.jpg?v=638810971646870000"
+          ],
+          "name": "Harina Tostada Oso 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "12035",
+      "reference": "265472",
+      "sponsoredId": null,
+      "slug": "chuno-martini-250-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [],
+      "brand": "Martini",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "12277",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 1260,
+          "listPrice": 1260,
+          "ppumPrice": 5040,
+          "ppumListPrice": 5040,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/351128-250-250/Principal-11833.jpg?v=638776684098200000"
+          ],
+          "name": "Chuño Martini 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "15193",
+      "reference": "1530293",
+      "sponsoredId": null,
+      "slug": "harina-mi-tierra-400-g-de-linaza",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [
+        "8112"
+      ],
+      "brand": "Mi Tierra",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "16525",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2150,
+          "listPrice": 2150,
+          "ppumPrice": 5375,
+          "ppumListPrice": 5375,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/426048-250-250/Harina-de-Linaza-Mi-Tierra-400-g.jpg?v=638810981840730000"
+          ],
+          "name": "Harina de Linaza Mi Tierra 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "35741",
+      "reference": "1650296",
+      "sponsoredId": null,
+      "slug": "chuno-oso-250-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [],
+      "brand": "Oso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "39761",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 1290,
+          "listPrice": 1290,
+          "ppumPrice": 5160,
+          "ppumListPrice": 5160,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/356822-250-250/Chu%C3%B1o-Oso-250-g.jpg?v=638776714500100000"
+          ],
+          "name": "Chuño Oso 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "111034",
+      "reference": "1906042",
+      "sponsoredId": null,
+      "slug": "harina-de-almendras-en-linea-450g-1906042",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [],
+      "brand": "En Línea",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "111300",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.45,
+          "price": 12890,
+          "listPrice": 12890,
+          "ppumPrice": 28644,
+          "ppumListPrice": 28644,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/378320-250-250/Harina-de-almendras-sin-piel-450-g.jpg?v=638776814774630000"
+          ],
+          "name": "Harina de Almendras En Línea Sin Piel 450 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "92654",
+      "reference": "1858037",
+      "sponsoredId": null,
+      "slug": "harina-de-nueces-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "999",
+        "1003"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Gluten"
+      ],
+      "collections": [
+        "7956",
+        "21499",
+        "24500",
+        "27499",
+        "27501",
+        "27542"
+      ],
+      "brand": "La Fuente Natural",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "92918",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 4718,
+          "listPrice": 5550,
+          "ppumPrice": 9436,
+          "ppumListPrice": 11100,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/367911-250-250/Harina-de-nuez-libre-de-gluten-500-g.jpg?v=638776770094830000"
+          ],
+          "name": "Harina de Nuez Libre de Gluten 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 4718,
+              "ppumPrice": 9436,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "92652",
+      "reference": "1858035",
+      "sponsoredId": null,
+      "slug": "harina-de-almendras-sin-piel-500g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "999",
+        "1004"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Low Carb"
+      ],
+      "collections": [
+        "8112",
+        "27499",
+        "27501",
+        "27542"
+      ],
+      "brand": "La Fuente Natural",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "92916",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 12147,
+          "listPrice": 14290,
+          "ppumPrice": 24294,
+          "ppumListPrice": 28580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/367907-250-250/Harina-de-almendras-sin-piel-libre-de-gluten-500-g.jpg?v=638776770089670000"
+          ],
+          "name": "Harina de Almendras Sin Piel Libre de Gluten 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 12147,
+              "ppumPrice": 24294,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "77222",
+      "reference": "1800833",
+      "sponsoredId": null,
+      "slug": "harina-almendra-453-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "999",
+        "1004"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Low Carb"
+      ],
+      "collections": [
+        "8112",
+        "14881",
+        "14882",
+        "14967",
+        "18361"
+      ],
+      "brand": "Bob's Red Mill",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77476",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.453,
+          "price": 18190,
+          "listPrice": 18190,
+          "ppumPrice": 40155,
+          "ppumListPrice": 40155,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310771-250-250/Harina-almendra-453-g.jpg?v=638776392207200000"
+          ],
+          "name": "Harina Almendra Bob's Red Mill 453 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "56421",
+      "reference": "302324",
+      "sponsoredId": null,
+      "slug": "azimo-molido-matzoth-yanovsky-cj-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras"
+      ],
+      "collections": [
+        "14967",
+        "24947"
+      ],
+      "brand": "Yanovsky",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "56739",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 12590,
+          "listPrice": 12590,
+          "ppumPrice": 12590,
+          "ppumListPrice": 12590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308892-250-250/Azimo-molido-Yanovsky-matzoth-caja-1-kg.jpg?v=638776387739030000"
+          ],
+          "name": "Azimo Molido Yanovsky Matzoth Caja 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "77223",
+      "reference": "1800834",
+      "sponsoredId": null,
+      "slug": "harina-almendra-natural-453-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "999",
+        "1004"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Low Carb"
+      ],
+      "collections": [
+        "8112",
+        "14881",
+        "14967",
+        "18361"
+      ],
+      "brand": "Bob's Red Mill",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77477",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.453,
+          "price": 18190,
+          "listPrice": 18190,
+          "ppumPrice": 40155,
+          "ppumListPrice": 40155,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310780-250-250/Harina-almendra-natural-453-g.jpg?v=638776392232070000"
+          ],
+          "name": "Harina Almendra Bob's Red Mill Natural 453 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73814",
+      "reference": "1771637",
+      "sponsoredId": null,
+      "slug": "harina-de-coco-organica-manare-500gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "999",
+        "1004"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Low Carb"
+      ],
+      "collections": [
+        "8112"
+      ],
+      "brand": "Manare",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74069",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 4140,
+          "listPrice": 4140,
+          "ppumPrice": 8280,
+          "ppumListPrice": 8280,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/523609-250-250/Harina-de-Coco-Manare-Organica-500-g.jpg?v=638959916328630000"
+          ],
+          "name": "Harina de Coco Manare Orgánica 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "55151",
+      "reference": "1711073",
+      "sponsoredId": null,
+      "slug": "harina-de-coco-mi-tierra-400-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "999",
+        "1003"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Gluten"
+      ],
+      "collections": [
+        "8112"
+      ],
+      "brand": "Mi Tierra",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55440",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2890,
+          "listPrice": 2890,
+          "ppumPrice": 7225,
+          "ppumListPrice": 7225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308723-250-250/Harina-de-Coco-Mi-Tierra-400-g.jpg?v=638776387517530000"
+          ],
+          "name": "Harina de Coco Mi Tierra 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "81574",
+      "reference": "1558199",
+      "sponsoredId": null,
+      "slug": "harina-de-espelta-bob-s-red-mill-680g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "999",
+        "1005"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Orgánico"
+      ],
+      "collections": [
+        "7956",
+        "14881",
+        "14967",
+        "18361"
+      ],
+      "brand": "Bob's Red Mill",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81846",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.68,
+          "price": 8190,
+          "listPrice": 8190,
+          "ppumPrice": 12044,
+          "ppumListPrice": 12044,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311298-250-250/Harina-de-espelta-680-g.jpg?v=638776393393830000"
+          ],
+          "name": "Harina de Espelta Bob's Red Mill 680 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "77242",
+      "reference": "1800855",
+      "sponsoredId": null,
+      "slug": "harina-avena-integral-623-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "999",
+        "1006"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano"
+      ],
+      "collections": [
+        "1055",
+        "14881",
+        "14882",
+        "14967",
+        "18361"
+      ],
+      "brand": "Bob's Red Mill",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77496",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.623,
+          "price": 6990,
+          "listPrice": 6990,
+          "ppumPrice": 11220,
+          "ppumListPrice": 11220,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310611-250-250/Harina-avena-integral-623-g.jpg?v=638776391895330000"
+          ],
+          "name": "Harina Avena Integral Bob's Red Mill 623 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "4256",
+      "reference": "613500",
+      "sponsoredId": null,
+      "slug": "harina-de-quinoa-mi-tierra-400-g-sin-gluten",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "999",
+        "1003"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Gluten"
+      ],
+      "collections": [
+        "7956"
+      ],
+      "brand": "Mi Tierra",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4265",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3850,
+          "listPrice": 3850,
+          "ppumPrice": 9625,
+          "ppumListPrice": 9625,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300178-250-250/Harina-de-Quinoa-Mi-Tierra-Sin-Gluten-400-g.jpg?v=638776371926430000"
+          ],
+          "name": "Harina de Quinoa Mi Tierra 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "88969",
+      "reference": "1841334",
+      "sponsoredId": null,
+      "slug": "harina-de-avena-s-gluten-400-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "999",
+        "1003"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Gluten"
+      ],
+      "collections": [
+        "7956"
+      ],
+      "brand": "Mi Tierra",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "89238",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 3790,
+          "listPrice": 3790,
+          "ppumPrice": 3790,
+          "ppumListPrice": 3790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312049-250-250/Harina-de-avena-sin-gluten-400-g.jpg?v=638776395402830000"
+          ],
+          "name": "Harina de Avena Mi Tierra Sin Gluten 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "62388",
+      "reference": "1758585",
+      "sponsoredId": null,
+      "slug": "harina-de-tapioca-bob-s-red-mill-libre-de-gluten-454-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "999",
+        "1003"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Gluten"
+      ],
+      "collections": [
+        "7956",
+        "14881",
+        "14967",
+        "18361",
+        "21499",
+        "23332",
+        "24500"
+      ],
+      "brand": "Bob's Red Mill",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "62375",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.454,
+          "price": 6190,
+          "listPrice": 6190,
+          "ppumPrice": 13634,
+          "ppumListPrice": 13634,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309603-250-250/Harina-de-tapioca-454-g.jpg?v=638776389475430000"
+          ],
+          "name": "Harina de Tapioca Bob's Red Mill 454 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "77246",
+      "reference": "1800861",
+      "sponsoredId": null,
+      "slug": "harina-sarraceno-organico-623-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "62",
+        "182",
+        "831",
+        "999",
+        "1005"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Harinas, Postres y Repostería",
+        "Harina Integral y Otras",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Orgánico"
+      ],
+      "collections": [
+        "1054",
+        "14881",
+        "14967",
+        "18361"
+      ],
+      "brand": "Bob's Red Mill",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77500",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.623,
+          "price": 8190,
+          "listPrice": 8190,
+          "ppumPrice": 13146,
+          "ppumListPrice": 13146,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310647-250-250/Harina-sarraceno-organico-623-g.jpg?v=638776391957230000"
+          ],
+          "name": "Harina Sarraceno Bob's Red Mill Orgánico 623 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Harina Integral y Otras",
+          "value": "/despensa/harinas-postres-y-reposteria/harina-integral-y-otras",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Harina Integral y Otras",
+          "value": "/despensa/harinas-postres-y-reposteria/harina-integral-y-otras",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Harina Integral y Otras",
+          "value": "/despensa/harinas-postres-y-reposteria/harina-integral-y-otras",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Harina Integral",
+          "value": "Harina Integral",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Harina de Avena",
+          "value": "Harina de Avena",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Harina de Coco",
+          "value": "Harina de Coco",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Harina de Centeno",
+          "value": "Harina de Centeno",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Harina de Arroz",
+          "value": "Harina de Arroz",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mezcla de Harinas",
+          "value": "Mezcla de Harinas",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Harina de Almendra",
+          "value": "Harina de Almendra",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cereal Sabor",
+          "value": "Cereal Sabor",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Harina de Trigo",
+          "value": "Harina de Trigo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chuño",
+          "value": "Chuño",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Harina de Linaza",
+          "value": "Harina de Linaza",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Harina de Maíz",
+          "value": "Harina de Maíz",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Harina de Quinoa",
+          "value": "Harina de Quinoa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Deshidratados",
+          "value": "Deshidratados",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Orgánico",
+          "value": "Orgánico",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin piel",
+          "value": "Sin piel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Selecta",
+          "value": "Selecta",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quaker",
+          "value": "Quaker",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Beorganics",
+          "value": "Beorganics",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tucapel",
+          "value": "Tucapel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Fuente Natural",
+          "value": "La Fuente Natural",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manare",
+          "value": "Manare",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Oso",
+          "value": "Oso",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Martini",
+          "value": "Martini",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mi Tierra",
+          "value": "Mi Tierra",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "En Línea",
+          "value": "En Línea",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bob's Red Mill",
+          "value": "Bob's Red Mill",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yanovsky",
+          "value": "Yanovsky",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "400 g",
+          "value": "400 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "400 g",
+          "value": "400 gr",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "450 g",
+          "value": "450 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "453 g",
+          "value": "453 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "454 g",
+          "value": "454 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "500 g",
+          "value": "500 g",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "623 g",
+          "value": "623 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "680 g",
+          "value": "680 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Característico a avena, estará libre de sabores extraños.",
+          "value": "Característico a avena, estará libre de sabores extraños.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sabor característico coco, estará libre de sabores extraños.",
+          "value": "Sabor característico coco, estará libre de sabores extraños.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "India",
+          "value": "India",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Países Bajos",
+          "value": "Países Bajos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sri Lanka",
+          "value": "Sri Lanka",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tailandia",
+          "value": "Tailandia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 990,
+          "maxValue": 18190
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Molido",
+          "value": "Molido",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Polvo",
+          "value": "Polvo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 30,
+  "metaTag": {
+    "title": "Harina Integral y Otras | Jumbo.cl",
+    "description": "La harina integral es una gran opción para cocinar recetas nutritivas que te ayudarán a llevar una dieta saludable. ¡Compra esta y sus derivados en Jumbo.cl!"
+  }
+}

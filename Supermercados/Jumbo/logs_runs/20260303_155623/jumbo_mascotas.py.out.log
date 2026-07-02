@@ -1,0 +1,79 @@
+
+Subcategorías:
+- Alimentos Secos Perros -> https://www.jumbo.cl/mascotas/perros/alimentos-secos-perros
+- Alimentos Húmedos Perros -> https://www.jumbo.cl/mascotas/perros/alimentos-humedos-perros
+- Snacks, Salsas y Huesos -> https://www.jumbo.cl/mascotas/perros/snacks-salsas-y-huesos
+- Cuidado e Higiene de Perros -> https://www.jumbo.cl/mascotas/perros/cuidado-e-higiene-de-perros
+- Perros (Mostrar todo) -> https://www.jumbo.cl/mascotas/perros
+- Alimentos Secos Gatos -> https://www.jumbo.cl/mascotas/gatos/alimentos-secos-gatos
+- Alimentos Húmedos Gatos -> https://www.jumbo.cl/mascotas/gatos/alimentos-humedos-gatos
+- Snacks y Salsas Gatos -> https://www.jumbo.cl/mascotas/gatos/snacks-y-salsas-gatos
+- Arenas e Higiene Gatos -> https://www.jumbo.cl/mascotas/gatos/arenas-e-higiene-gatos
+- Gatos (Mostrar todo) -> https://www.jumbo.cl/mascotas/gatos
+- Aves -> https://www.jumbo.cl/mascotas/otras-mascotas/aves
+- Peces -> https://www.jumbo.cl/mascotas/otras-mascotas/peces
+- Roedores -> https://www.jumbo.cl/mascotas/otras-mascotas/roedores
+- Otras Mascotas (Mostrar todo) -> https://www.jumbo.cl/mascotas/otras-mascotas
+
+Scrape: Alimentos Secos Perros
+🧪 Dump BFF guardado: debug_bff\bff_alimentos_secos_perros_p1.json
+  productos: 40
+
+Scrape: Alimentos Húmedos Perros
+🧪 Dump BFF guardado: debug_bff\bff_alimentos_h_medos_perros_p1.json
+  productos: 39
+
+Scrape: Snacks, Salsas y Huesos
+🧪 Dump BFF guardado: debug_bff\bff_snacks_salsas_y_huesos_p1.json
+  productos: 40
+
+Scrape: Cuidado e Higiene de Perros
+🧪 Dump BFF guardado: debug_bff\bff_cuidado_e_higiene_de_perros_p1.json
+⚠️ 0 productos (BFF respondió pero no se detectaron productos): https://www.jumbo.cl/mascotas/perros/cuidado-e-higiene-de-perros
+  productos: 0
+
+Scrape: Perros (Mostrar todo)
+🧪 Dump BFF guardado: debug_bff\bff_perros_mostrar_todo_p1.json
+  productos: 40
+
+Scrape: Alimentos Secos Gatos
+🧪 Dump BFF guardado: debug_bff\bff_alimentos_secos_gatos_p1.json
+  productos: 40
+
+Scrape: Alimentos Húmedos Gatos
+🧪 Dump BFF guardado: debug_bff\bff_alimentos_h_medos_gatos_p1.json
+  productos: 40
+
+Scrape: Snacks y Salsas Gatos
+🧪 Dump BFF guardado: debug_bff\bff_snacks_y_salsas_gatos_p1.json
+⚠️ 0 productos (BFF respondió pero no se detectaron productos): https://www.jumbo.cl/mascotas/gatos/snacks-y-salsas-gatos
+  productos: 0
+
+Scrape: Arenas e Higiene Gatos
+🧪 Dump BFF guardado: debug_bff\bff_arenas_e_higiene_gatos_p1.json
+  productos: 40
+
+Scrape: Gatos (Mostrar todo)
+🧪 Dump BFF guardado: debug_bff\bff_gatos_mostrar_todo_p1.json
+  productos: 40
+
+Scrape: Aves
+🧪 Dump BFF guardado: debug_bff\bff_aves_p1.json
+  productos: 4
+
+Scrape: Peces
+🧪 Dump BFF guardado: debug_bff\bff_peces_p1.json
+⚠️ 0 productos (BFF respondió pero no se detectaron productos): https://www.jumbo.cl/mascotas/otras-mascotas/peces
+  productos: 0
+
+Scrape: Roedores
+🧪 Dump BFF guardado: debug_bff\bff_roedores_p1.json
+⚠️ 0 productos (BFF respondió pero no se detectaron productos): https://www.jumbo.cl/mascotas/otras-mascotas/roedores
+  productos: 0
+
+Scrape: Otras Mascotas (Mostrar todo)
+🧪 Dump BFF guardado: debug_bff\bff_otras_mascotas_mostrar_todo_p1.json
+  productos: 6
+
+Total filas: 329
+CSV generado: output\mascotas\jumbo_mascotas_20260303_160102.csv

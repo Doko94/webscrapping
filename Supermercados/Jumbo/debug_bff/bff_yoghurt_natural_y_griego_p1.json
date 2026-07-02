@@ -1,0 +1,2954 @@
+{
+  "products": [
+    {
+      "productId": "7003",
+      "reference": "1357270",
+      "sponsoredId": null,
+      "slug": "yoghurt-natural-danone-150-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935",
+        "27323"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7091",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 600,
+          "listPrice": 600,
+          "ppumPrice": 4000,
+          "ppumListPrice": 4000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348723-250-250/Yoghurt-batido-natural-150-g.jpg?v=638776488006100000"
+          ],
+          "name": "Yogurt Griego Danone Oikos Natural Sin Endulzar 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "125402",
+      "reference": "1959602001",
+      "sponsoredId": null,
+      "slug": "yoghurt-colun-origen-120g-natural-1959602001",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26935",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "125702",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.115,
+          "price": 410,
+          "listPrice": 410,
+          "ppumPrice": 3565,
+          "ppumListPrice": 3565,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/391212-250-250/Yghurt-Origen-Natural-Colun-120-g.jpg?v=638776866788600000"
+          ],
+          "name": "Yogurt Colun Origen Natural 120 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 8X2600 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 2600,
+              "unitPrice": 325,
+              "ppumPrice": 2826,
+              "mQuantity": 8,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "63195",
+      "reference": "1757898001",
+      "sponsoredId": null,
+      "slug": "yoghurt-griego-sin-trozos-danone-natural-110-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "910",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Vegetal",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "63377",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 410,
+          "listPrice": 410,
+          "ppumPrice": 3727,
+          "ppumListPrice": 3727,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361284-250-250/Yoghurt-griego-natural-110-g.jpg?v=638776736506030000"
+          ],
+          "name": "Yogurt Griego Danone Oikos Natural Endulzado 110 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "82053",
+      "reference": "1820197",
+      "sponsoredId": null,
+      "slug": "yog-colun-natural-no-endulzado-120g",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935",
+        "27323",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "82331",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 460,
+          "listPrice": 460,
+          "ppumPrice": 3833,
+          "ppumListPrice": 3833,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311221-250-250/Yoghurt-natural-no-endulzado-120-g.jpg?v=638776393160670000"
+          ],
+          "name": "Yogurt Colun Natural No Endulzado 120 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4X1500 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 1500,
+              "unitPrice": 375,
+              "ppumPrice": 3125,
+              "mQuantity": 4,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7076",
+      "reference": "1650315",
+      "sponsoredId": null,
+      "slug": "yoghurt-batido-soprole-155-g-natural",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "23175",
+        "26935",
+        "27323"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7164",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.155,
+          "price": 490,
+          "listPrice": 490,
+          "ppumPrice": 3161,
+          "ppumListPrice": 3161,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/429105-250-250/Yogurt-Natural-Soprole-Aflanado-155-g.jpg?v=638812786608970000"
+          ],
+          "name": "Yogurt Natural Soprole Aflanado 155 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126515",
+      "reference": "1961117001",
+      "sponsoredId": null,
+      "slug": "yoghurt-kefir-colun-120g-natural-1961117001",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26935"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126809",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 470,
+          "listPrice": 470,
+          "ppumPrice": 3917,
+          "ppumListPrice": 3917,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/392577-250-250/Yoghurt-Kefir-Natural-120-g.jpg?v=638776871452930000"
+          ],
+          "name": "Yogurt Kéfir Colun Natural 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "56164",
+      "reference": "1743578",
+      "sponsoredId": null,
+      "slug": "yog-griego-nestle-nat-s-endul-120gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "22681",
+        "25347",
+        "25520",
+        "26935",
+        "27105",
+        "27323",
+        "27507"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "56443",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 470,
+          "listPrice": 470,
+          "ppumPrice": 3917,
+          "ppumListPrice": 3917,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/359946-250-250/Principal-476066.jpg?v=638776730454500000"
+          ],
+          "name": "Yogurt Griego Nestlé Natural 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "63196",
+      "reference": "1757898002",
+      "sponsoredId": null,
+      "slug": "yoghurt-griego-sin-trozos-danone-frutilla-110-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "63378",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 410,
+          "listPrice": 410,
+          "ppumPrice": 3727,
+          "ppumListPrice": 3727,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361294-250-250/Yoghurt-griego-frutilla-110-g.jpg?v=638776736538970000"
+          ],
+          "name": "Yogurt Griego Danone Oikos Frutilla 110 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7158",
+      "reference": "1507729001",
+      "sponsoredId": null,
+      "slug": "yoghurt-con-trozos-de-fruta-danone-150-g-colchon-de-frutas-frutos-del-bosque",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "23175",
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7246",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 780,
+          "listPrice": 780,
+          "ppumPrice": 5200,
+          "ppumListPrice": 5200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348766-250-250/Yoghurt-con-trozos-de-fruta-Danone-frutos-del-Bosque-150-g.jpg?v=638776488563270000"
+          ],
+          "name": "Yogurt Griego Danone Oikos Colchón de Frutos del Bosque 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "104950",
+      "reference": "1886618",
+      "sponsoredId": null,
+      "slug": "yog-griego-prot-quillayes-natural-800g-1886618",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "908",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt con Proteínas",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "105221",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 4000,
+          "listPrice": 4880,
+          "ppumPrice": 5000,
+          "ppumListPrice": 6100,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314557-250-250/Yogurt-Griego-Quillayes-Proteina-Natural-800-g.jpg?v=638776402252130000"
+          ],
+          "name": "Yogurt Griego Quillayes Proteína Natural 800 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4000 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026 1",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4000,
+              "ppumPrice": 5000,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75265",
+      "reference": "1790815",
+      "sponsoredId": null,
+      "slug": "yoghurt-griego-natural-endulzado-quillayes-800-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75522",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 3500,
+          "listPrice": 4040,
+          "ppumPrice": 4375,
+          "ppumListPrice": 5050,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310290-250-250/Yogurt-Griego-Quillayes-Natural-Pote-800-g.jpg?v=638776391278300000"
+          ],
+          "name": "Yogurt Griego Natural Endulzado Pote 800 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3500 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026 1",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3500,
+              "ppumPrice": 4375,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "99891",
+      "reference": "1865068003",
+      "sponsoredId": null,
+      "slug": "yog-griego-prot-quillayes-tr-1-berries-1865068003",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "908",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt con Proteínas",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "26935",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "100158",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 680,
+          "listPrice": 680,
+          "ppumPrice": 6182,
+          "ppumListPrice": 6182,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/372187-250-250/Yoghurt-griego-proteina-berries.jpg?v=638776790281500000"
+          ],
+          "name": "Yogurt Griego Quillayes Proteína Berries 110 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6X3500 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 3500,
+              "unitPrice": 583,
+              "ppumPrice": 5300,
+              "mQuantity": 6,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7160",
+      "reference": "1507729004",
+      "sponsoredId": null,
+      "slug": "yoghurt-con-trozos-de-fruta-danone-envase-150-g-colchon-de-fruta-trozos-frutilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "23175",
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7248",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 780,
+          "listPrice": 780,
+          "ppumPrice": 5200,
+          "ppumListPrice": 5200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348768-250-250/Yoghurt-con-trozos-de-fruta-frutilla-150-g.jpg?v=638776488589930000"
+          ],
+          "name": "Yogurt Griego Danone Oikos Colchón de Frutilla 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134927",
+      "reference": "1992225",
+      "sponsoredId": null,
+      "slug": "yogurt-oikos-choco-crunch-142gr-1992225",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935",
+        "27323"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135223",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.142,
+          "price": 1160,
+          "listPrice": 1160,
+          "ppumPrice": 8169,
+          "ppumListPrice": 8169,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/323721-250-250/YOGURT-OIKOS-CHOCO-CRUNCH-142GR.jpg?v=638776427095000000"
+          ],
+          "name": "Yogurt Danone Oikos Choco Crunch 142 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7156",
+      "reference": "1168152001",
+      "sponsoredId": null,
+      "slug": "yoghurt-con-trozos-de-fruta-danone-110-g-papaya",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7244",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 620,
+          "listPrice": 620,
+          "ppumPrice": 5636,
+          "ppumListPrice": 5636,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300474-250-250/Yogurt-Griego-Oikos-Papaya-110-g.jpg?v=638776373490130000"
+          ],
+          "name": "Yogurt Griego Danone Oikos Papaya 110 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75263",
+      "reference": "1790813",
+      "sponsoredId": null,
+      "slug": "yoghurt-natural-quillayes-800-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "17846",
+        "26935",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75520",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 3200,
+          "listPrice": 3730,
+          "ppumPrice": 4000,
+          "ppumListPrice": 4663,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310590-250-250/Yogurt-Natural-Quillayes-Pote-800-g.jpg?v=638776391851870000"
+          ],
+          "name": "Yogurt Natural Quillayes Pote 800 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3200 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3200,
+              "ppumPrice": 4000,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7155",
+      "reference": "1168152003",
+      "sponsoredId": null,
+      "slug": "yoghurt-con-trozos-de-fruta-danone-110-g-frutilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7243",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 620,
+          "listPrice": 620,
+          "ppumPrice": 5636,
+          "ppumListPrice": 5636,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300462-250-250/Yogurt-Griego-Oikos-Trozos-Frutilla-110-g.jpg?v=638776373462500000"
+          ],
+          "name": "Yogurt Griego Danone Oikos Trozos Frutilla 110 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7058",
+      "reference": "1572431001",
+      "sponsoredId": null,
+      "slug": "yoghurt-quillayes-110-g-griego-sin-lactosa-sabor-papaya",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "22523",
+        "26935",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7146",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 620,
+          "listPrice": 620,
+          "ppumPrice": 5636,
+          "ppumListPrice": 5636,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300464-250-250/Yogurt-Griego-Quillayes-Sin-Lactosa-Papaya-110-g.jpg?v=638776373471300000"
+          ],
+          "name": "Yogurt Griego Sin Lactosa con Trozos de Papaya Pote 110 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6X3000 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 3000,
+              "unitPrice": 500,
+              "ppumPrice": 4545,
+              "mQuantity": 6,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75264",
+      "reference": "1790814",
+      "sponsoredId": null,
+      "slug": "yoghurt-natural-0-800-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "26935",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75521",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 3200,
+          "listPrice": 3790,
+          "ppumPrice": 4000,
+          "ppumListPrice": 4738,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310276-250-250/Yogurt-Natural-Quillayes-0--Pote-800-g.jpg?v=638776391253230000"
+          ],
+          "name": "Yogurt Natural 0% Quillayes Pote 800 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3200 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3200,
+              "ppumPrice": 4000,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146244",
+      "reference": "2023353",
+      "sponsoredId": null,
+      "slug": "yogurt-oikos-griego-miel-110gr-2023353",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935",
+        "27323",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146539",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 440,
+          "listPrice": 440,
+          "ppumPrice": 4000,
+          "ppumListPrice": 4000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/345511-250-250/YOGURT-OIKOS-GRIEGO-MIEL-110GR.jpg?v=638776444761100000"
+          ],
+          "name": "Yogurt Danone Oikos Miel 110 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6X2200 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mxn",
+              "value": 2200,
+              "unitPrice": 367,
+              "ppumPrice": 3336,
+              "mQuantity": 6,
+              "nQuantity": 5,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75273",
+      "reference": "1792632",
+      "sponsoredId": null,
+      "slug": "yoghurt-griego-artisan-360-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "912",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Sin Lactosa",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Artisan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75530",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.36,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 7472,
+          "ppumListPrice": 7472,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310402-250-250/Yoghurt-griego-natural-360-g.jpg?v=638776391473070000"
+          ],
+          "name": "Yogurt Griego Artisan Natural 360 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "20164",
+      "reference": "1425157006",
+      "sponsoredId": null,
+      "slug": "yoghurt-griego-quillayes-light-berries-110-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "20488",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 620,
+          "listPrice": 620,
+          "ppumPrice": 5636,
+          "ppumListPrice": 5636,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304230-250-250/Yogurt-Griego-Quillayes-Light-Berries-110-g.jpg?v=638776379617530000"
+          ],
+          "name": "Yogurt Griego Sin Azúcar con Trozos de Berries Pote 110 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6X3000 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 3000,
+              "unitPrice": 500,
+              "ppumPrice": 4545,
+              "mQuantity": 6,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7060",
+      "reference": "1572431002",
+      "sponsoredId": null,
+      "slug": "yoghurt-sin-lactosa-quillayes-quillayes-110-g-sabor-berries",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "912",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Sin Lactosa",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "22523",
+        "26935",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7148",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 620,
+          "listPrice": 620,
+          "ppumPrice": 5636,
+          "ppumListPrice": 5636,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300480-250-250/Yogurt-Griego-Quillayes-Sin-Lactosa-Berries-110-g.jpg?v=638776373498270000"
+          ],
+          "name": "Yogurt Griego Quillayes Sin Lactosa con Trozos de Berries Pote 110 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6X3000 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 3000,
+              "unitPrice": 500,
+              "ppumPrice": 4545,
+              "mQuantity": 6,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "155595",
+      "reference": "2046397",
+      "sponsoredId": null,
+      "slug": "yogurt-soprole-kefir-batido-natural-120-g-2046397",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935",
+        "27323"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "155913",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 420,
+          "listPrice": 420,
+          "ppumPrice": 3500,
+          "ppumListPrice": 3500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/494380-250-250/YOGHURT-SOPROLE-KEFIR-BATI-NATURAL-120GR.jpg?v=638907250103830000"
+          ],
+          "name": "Yogurt Kéfir Soprole Batido Natural 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "162083",
+      "reference": "2060580",
+      "sponsoredId": null,
+      "slug": "yogurt-natural800g-2060580",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Oikos",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "162460",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 4988,
+          "ppumListPrice": 4988,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/555682-250-250/YOGURT-NATURAL800G.jpg?v=639017015371930000"
+          ],
+          "name": "Yogurt Natural Oikos Balde Sin Endulzar 800 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "20169",
+      "reference": "1572431003",
+      "sponsoredId": null,
+      "slug": "yoghurt-griego-quillayes-sin-lactosa-frutilla-110-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "22523",
+        "26935",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "20493",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 620,
+          "listPrice": 620,
+          "ppumPrice": 5636,
+          "ppumListPrice": 5636,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304251-250-250/Yogurt-Griego-Quillayes-Sin-Lactosa-Frutilla-110-g.jpg?v=638776379682930000"
+          ],
+          "name": "Yogurt Griego Sin Lactosa con Trozos de Frutilla Pote 110 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6X3000 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 3000,
+              "unitPrice": 500,
+              "ppumPrice": 4545,
+              "mQuantity": 6,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146242",
+      "reference": "2023351",
+      "sponsoredId": null,
+      "slug": "yogurt-oikos-miel-granola-crunch-142gr-2023351",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935",
+        "27323",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146537",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.142,
+          "price": 1210,
+          "listPrice": 1210,
+          "ppumPrice": 8521,
+          "ppumListPrice": 8521,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/345441-250-250/YOGURT-OIKOS-MIEL-GRANOLA-CRUNCH-142GR.jpg?v=638776444708800000"
+          ],
+          "name": "Yogurt Danone Oikos Miel Granola Crunch 142 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4X4100 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 4100,
+              "unitPrice": 1025,
+              "ppumPrice": 7218,
+              "mQuantity": 4,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7153",
+      "reference": "1168152006",
+      "sponsoredId": null,
+      "slug": "yoghurt-con-trozos-de-fruta-danone-110-g-coco-rallado",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7241",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 620,
+          "listPrice": 620,
+          "ppumPrice": 5636,
+          "ppumListPrice": 5636,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300435-250-250/Yogurt-Griego-Oikos-Coco-Rallado-110-g.jpg?v=638776373404000000"
+          ],
+          "name": "Yogurt Griego Danone Oikos Coco Rallado 110 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "77309",
+      "reference": "1805079001",
+      "sponsoredId": null,
+      "slug": "yog-skyr-san-benito-150grs-natural",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "1057",
+        "26935"
+      ],
+      "brand": "San Benito",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77563",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 6600,
+          "ppumListPrice": 6600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363934-250-250/Yoghurt-skyr-natural-150-g.jpg?v=638776751257070000"
+          ],
+          "name": "Yogurt Skyr San Benito Natural 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137148",
+      "reference": "1997656001",
+      "sponsoredId": null,
+      "slug": "yoghurt-colun-origen-900ml-natural-1997656001",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137439",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.9,
+          "price": 2230,
+          "listPrice": 2230,
+          "ppumPrice": 2478,
+          "ppumListPrice": 2478,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/327562-250-250/YOGHURT-COLUN-ORIGEN-900ML-NATURAL.jpg?v=638776430110430000"
+          ],
+          "name": "Yogurt Colun Origen Natural 900 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7154",
+      "reference": "1168152002",
+      "sponsoredId": null,
+      "slug": "yoghurt-con-trozos-de-fruta-danone-110-g-durazno",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7242",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 620,
+          "listPrice": 620,
+          "ppumPrice": 5636,
+          "ppumListPrice": 5636,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300448-250-250/Yogurt-Griego-Oikos-Durazno-110-g.jpg?v=638776373434570000"
+          ],
+          "name": "Yogurt Griego Danone Oikos Durazno 110 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "20168",
+      "reference": "1425157003",
+      "sponsoredId": null,
+      "slug": "yoghurt-griego-quillayes-light-durazno-110-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "911",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt con Cereales",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "20492",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 620,
+          "listPrice": 620,
+          "ppumPrice": 5636,
+          "ppumListPrice": 5636,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304241-250-250/Yogurt-Griego-Quillayes-Light-Duraznos-110-g.jpg?v=638776379649230000"
+          ],
+          "name": "Yogurt Griego Sin Azúcar con Trozos de Durazno Pote 110 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6X3000 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 3000,
+              "unitPrice": 500,
+              "ppumPrice": 4545,
+              "mQuantity": 6,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7159",
+      "reference": "1507729003",
+      "sponsoredId": null,
+      "slug": "yoghurt-con-trozos-de-fruta-danone-150-g-colchon-de-frutas-sabor-papaya",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913",
+        "914"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego",
+        "Yoghurt Trozos y Frutas"
+      ],
+      "collections": [
+        "23175",
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7247",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 780,
+          "listPrice": 780,
+          "ppumPrice": 5200,
+          "ppumListPrice": 5200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348767-250-250/Yoghurt-con-trozos-de-fruta-Danone-colchon-de-frutas-papaya-150-g.jpg?v=638776488577130000"
+          ],
+          "name": "Yogurt Griego Danone Oikos Colchón de Papaya 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "99025",
+      "reference": "1865070",
+      "sponsoredId": null,
+      "slug": "yog-pajaritos-sabor-natural-400-gr-1865070",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "690",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Bebidas Vegetales",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "1057",
+        "26935"
+      ],
+      "brand": "Ghali",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "99292",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 9975,
+          "ppumListPrice": 9975,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/371926-250-250/Yoghurt-pajaritos-sabor-natural-400-g.jpg?v=638776789244800000"
+          ],
+          "name": "Yogurt de Pajarito Ghali Sabor Natural 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127755",
+      "reference": "1966999",
+      "sponsoredId": null,
+      "slug": "kefir-quillayes-pote-400gr-1966999",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128053",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2170,
+          "listPrice": 2170,
+          "ppumPrice": 5425,
+          "ppumListPrice": 5425,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393900-250-250/Kefir-Quillayes-400-g.jpg?v=638776876623230000"
+          ],
+          "name": "Bebida Láctea Kéfir Quillayes 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6997",
+      "reference": "1618521002",
+      "sponsoredId": null,
+      "slug": "yoghurt-batido-danone-900-g-light-natural",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "910",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Vegetal",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7085",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.9,
+          "price": 2030,
+          "listPrice": 2030,
+          "ppumPrice": 2256,
+          "ppumListPrice": 2256,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300471-250-250/Yogurt-Light---Free-Natural-Endulzado-900-g.jpg?v=638776373485300000"
+          ],
+          "name": "Yogurt Danone Light & Free Natural Endulzado 900 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "111945",
+      "reference": "1919105",
+      "sponsoredId": null,
+      "slug": "yog-pajaritos-sabor-vainilla-400gr-1919105",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "690",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Bebidas Vegetales",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Ghali",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112211",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 9975,
+          "ppumListPrice": 9975,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/379244-250-250/YOG-PAJARITOS-SABOR-VAINILLA-400GR.jpg?v=638776818474130000"
+          ],
+          "name": "Yogurt de Pajarito Ghali Vainilla 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "47727",
+      "reference": "1712584",
+      "sponsoredId": null,
+      "slug": "yoghurt-griego-artifrut-frutilla-150-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "912",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Sin Lactosa",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935",
+        "27323"
+      ],
+      "brand": "Artisan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "48044",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 1310,
+          "listPrice": 1310,
+          "ppumPrice": 8733,
+          "ppumListPrice": 8733,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307963-250-250/Yoghurt-griego-Durazno-150-g.jpg?v=638776385753370000"
+          ],
+          "name": "Yogurt Griego Artisan Sin Lactosa Durazno 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "162084",
+      "reference": "2060596",
+      "sponsoredId": null,
+      "slug": "yogurt-natural800g-2060596",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Loncoleche",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "162461",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 4590,
+          "listPrice": 4590,
+          "ppumPrice": 5738,
+          "ppumListPrice": 5738,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/555684-250-250/YOGURT-NATURAL800G.jpg?v=639017015377100000"
+          ],
+          "name": "Yogurt Loncoleche Natural Endulzado Pote 800 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "20209",
+      "reference": "1441324",
+      "sponsoredId": null,
+      "slug": "yoghurt-pucara-natural-210-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935",
+        "27323"
+      ],
+      "brand": "Pucará",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "20533",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.21,
+          "price": 1690,
+          "listPrice": 1690,
+          "ppumPrice": 8048,
+          "ppumListPrice": 8048,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/353552-250-250/1441324.jpg?v=638776698018170000"
+          ],
+          "name": "Yogurt Natural Pucará 210 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Yoghurt Natural y Griego",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-natural-y-griego",
+          "selected": false,
+          "quantity": 53,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Yoghurt Natural y Griego",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-natural-y-griego",
+          "selected": false,
+          "quantity": 53,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Yoghurt Natural y Griego",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-natural-y-griego",
+          "selected": false,
+          "quantity": 53,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Danone",
+          "value": "Danone",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Colun",
+          "value": "Colun",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Soprole",
+          "value": "Soprole",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nestlé",
+          "value": "Nestlé",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quillayes",
+          "value": "Quillayes",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Artisan",
+          "value": "Artisan",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Oikos",
+          "value": "Oikos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Benito",
+          "value": "San Benito",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ghali",
+          "value": "Ghali",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Loncoleche",
+          "value": "Loncoleche",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pucará",
+          "value": "Pucará",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo Artesanal",
+          "value": "Jumbo Artesanal",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Yoghurt Natural",
+          "value": "Yoghurt Natural",
+          "selected": false,
+          "quantity": 33,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kéfir",
+          "value": "Kéfir",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Proteínas",
+          "value": "Yoghurt Proteínas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt con Cereal",
+          "value": "Yoghurt con Cereal",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt sin Lactosa",
+          "value": "Yoghurt sin Lactosa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Batido",
+          "value": "Yoghurt Batido",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt sin Azúcar",
+          "value": "Yoghurt sin Azúcar",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt con Fruta",
+          "value": "Yoghurt con Fruta",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 50,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 48,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 53,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Berries",
+          "value": "Berries",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Coco",
+          "value": "Coco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Durazno",
+          "value": "Durazno",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutilla",
+          "value": "Frutilla",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutos del Bosque",
+          "value": "Frutos del Bosque",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lácteo",
+          "value": "Lácteo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Miel",
+          "value": "Miel",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Natural",
+          "value": "Natural",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Natural Endulzado",
+          "value": "Natural Endulzado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Natural endulzado. Cereal con mix galleta, avellana y choco crunch",
+          "value": "Natural endulzado. Cereal con mix galleta, avellana y choco crunch",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Natural No Endulzado",
+          "value": "Natural No Endulzado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Papaya",
+          "value": "Papaya",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vainilla",
+          "value": "Vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yogurt natural",
+          "value": "Yogurt natural",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "110g",
+          "value": "110g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "120 g",
+          "value": "120 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "142g",
+          "value": "142g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "150 g",
+          "value": "150 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "150 g",
+          "value": "150g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "210 g",
+          "value": "210 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "230 g",
+          "value": "230 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 410,
+          "maxValue": 4590
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Leche",
+      "key": "Tipo de Leche",
+      "values": [
+        {
+          "displayName": "Leche de Vaca",
+          "value": "Leche de Vaca",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Maduración Quesos",
+      "key": "Maduración Quesos",
+      "values": [
+        {
+          "displayName": "Sin Maduración",
+          "value": "Sin Maduración",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 53,
+  "metaTag": {
+    "title": "Yogurt Natural y Griego | Jumbo.cl",
+    "description": "Prueba nuestra selección de yogurt natural y griego para disfrutar de su sabor inigualable. Es perfecto para tus recetas favoritas. ¡Explora nuestra oferta en Jumbo.cl!"
+  }
+}

@@ -1,0 +1,1454 @@
+{
+  "products": [
+    {
+      "productId": "6823",
+      "reference": "749042",
+      "sponsoredId": null,
+      "slug": "margarina-con-sal-qualy-500g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [
+        "19270"
+      ],
+      "brand": "Qualy",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6911",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 5380,
+          "ppumListPrice": 5380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348641-250-250/Margarina-con-sal-500-g.jpg?v=638776486908070000"
+          ],
+          "name": "Margarina Qualy con Sal 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159476",
+      "reference": "2055143",
+      "sponsoredId": null,
+      "slug": "margarina-mix-250g-2055143",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159838",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 2590,
+          "listPrice": 2590,
+          "ppumPrice": 10360,
+          "ppumListPrice": 10360,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/535090-250-250/MARGARINA-MIX-250G.jpg?v=638979453215970000"
+          ],
+          "name": "Margarina Soprole Mix 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6827",
+      "reference": "303032",
+      "sponsoredId": null,
+      "slug": "margarina-soprole-cremosa-con-leche-pan-250-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6915",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 1550,
+          "listPrice": 1550,
+          "ppumPrice": 6200,
+          "ppumListPrice": 6200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348643-250-250/Margarina-250-g.jpg?v=638776486933830000"
+          ],
+          "name": "Margarina Soprole 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6820",
+      "reference": "676799",
+      "sponsoredId": null,
+      "slug": "margarina-next-500-g-con-sal-pote-microondeable",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6908",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 2980,
+          "listPrice": 2980,
+          "ppumPrice": 5960,
+          "ppumListPrice": 5960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348639-250-250/Margarina-light-500-g.jpg?v=638776486884470000"
+          ],
+          "name": "Margarina Soprole Next Light Pote 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6833",
+      "reference": "303040",
+      "sponsoredId": null,
+      "slug": "margarina-surena-450-g-con-mantequilla-del-sur",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sureña",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6921",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.45,
+          "price": 2190,
+          "listPrice": 2900,
+          "ppumPrice": 4867,
+          "ppumListPrice": 6444,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300402-250-250/Margarina-Sure%C3%B1a-450-g.jpg?v=638776373331600000"
+          ],
+          "name": "Margarina Sureña 450 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2190 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2190,
+              "ppumPrice": 4867,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "74289",
+      "reference": "1784255",
+      "sponsoredId": null,
+      "slug": "margarina-mix-30-soprole-pote-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74545",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 4570,
+          "listPrice": 4570,
+          "ppumPrice": 9140,
+          "ppumListPrice": 9140,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/483328-250-250/Margarina-Soprole-Mix-30--Mantequilla-Pote-500-g.jpg?v=638888078252700000"
+          ],
+          "name": "Margarina Soprole Mix 30% Mantequilla Pote 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6831",
+      "reference": "303038",
+      "sponsoredId": null,
+      "slug": "margarina-light-surena-500-g-con-mantequilla-del-sur",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175"
+      ],
+      "brand": "Sureña",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6919",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 2900,
+          "listPrice": 2900,
+          "ppumPrice": 5800,
+          "ppumListPrice": 5800,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300377-250-250/Margarina-Sure%C3%B1a-Light-500-g.jpg?v=638776373269970000"
+          ],
+          "name": "Margarina Sureña Light 450 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "83446",
+      "reference": "1811524",
+      "sponsoredId": null,
+      "slug": "margarina-con-sal-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [
+        "22523",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Qualy",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "83709",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 4290,
+          "listPrice": 5490,
+          "ppumPrice": 4290,
+          "ppumListPrice": 5490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365356-250-250/Nargarina-con-sal-1-kg-1-112651820.jpg?v=638776758469630000"
+          ],
+          "name": "Margarina Qualy con Sal 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4290,
+              "ppumPrice": 4290,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6830",
+      "reference": "596728",
+      "sponsoredId": null,
+      "slug": "margarina-soprole-pote-500-g-mix-con-mantequilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25988"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6918",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 7980,
+          "ppumListPrice": 7980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/483910-250-250/Margarina-Soprole-Mix-con-Mantequilla-Pote-500-g.jpg?v=638888080873270000"
+          ],
+          "name": "Margarina Soprole Mix con Mantequilla Pote 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "158881",
+      "reference": "2054040",
+      "sponsoredId": null,
+      "slug": "margarina-qualy-sabor-mantequilla-500gr-2054040",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [],
+      "brand": "Qualy",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159212",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 2890,
+          "listPrice": 2890,
+          "ppumPrice": 5780,
+          "ppumListPrice": 5780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/533278-250-250/Margarina-Qualy-Sabor-Mantequilla-500-g.jpg?v=638979415233600000"
+          ],
+          "name": "Margarina Qualy Sabor Mantequilla 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "42881",
+      "reference": "1705384",
+      "sponsoredId": null,
+      "slug": "margarina-surena-mix-500-g",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sureña",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "32563",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 2890,
+          "listPrice": 3790,
+          "ppumPrice": 5780,
+          "ppumListPrice": 7580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306921-250-250/Margarina-Sure%C3%B1a-Mix-450-g.jpg?v=638776383433500000"
+          ],
+          "name": "Margarina Sureña Mix 450 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2890 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2890,
+              "ppumPrice": 5780,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6828",
+      "reference": "546162",
+      "sponsoredId": null,
+      "slug": "margarina-soprole-cremosa-con-leche-pote-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6916",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 2790,
+          "listPrice": 2790,
+          "ppumPrice": 5580,
+          "ppumListPrice": 5580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348644-250-250/Margarina-500-g.jpg?v=638776486948200000"
+          ],
+          "name": "Margarina Soprole Pote 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6832",
+      "reference": "453121",
+      "sponsoredId": null,
+      "slug": "margarina-surena-1-kg-con-mantequilla-del-sur",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175"
+      ],
+      "brand": "Sureña",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6920",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.9,
+          "price": 6130,
+          "listPrice": 6130,
+          "ppumPrice": 6811,
+          "ppumListPrice": 6811,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300384-250-250/Margarina-Sure%C3%B1a-con-Mantequilla-1-kg.jpg?v=638776373299500000"
+          ],
+          "name": "Margarina Sureña con Mantequilla 900 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "155980",
+      "reference": "2048540",
+      "sponsoredId": null,
+      "slug": "margarina-soprole-pan-mix-200gr-2048540",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [
+        "25988",
+        "27309",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156300",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1390,
+          "listPrice": 1690,
+          "ppumPrice": 6950,
+          "ppumListPrice": 8450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/502006-250-250/Margarina-Soprole-Mix-con-Mantequilla-200-g.jpg?v=638923745409170000"
+          ],
+          "name": "Margarina Soprole Mix con Mantequilla 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1390 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1390,
+              "ppumPrice": 6950,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "123830",
+      "reference": "1955857",
+      "sponsoredId": null,
+      "slug": "margarina-crem-500gr-cuisine-and-co-nbe-mp-1955857",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "25244",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "124111",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 2350,
+          "listPrice": 2350,
+          "ppumPrice": 4700,
+          "ppumListPrice": 4700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318532-250-250/Margarina-Cremosa-500-g.jpg?v=638776414711000000"
+          ],
+          "name": "Margarina Cuisine & Co Cremosa 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6817",
+      "reference": "1400067",
+      "sponsoredId": null,
+      "slug": "margarina-loncoleche-500-g-sin-lactosa",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [],
+      "brand": "Loncoleche",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6905",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3380,
+          "listPrice": 3380,
+          "ppumPrice": 6760,
+          "ppumListPrice": 6760,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348638-250-250/Margarina-sin-lactosa-500-g.jpg?v=638776486873270000"
+          ],
+          "name": "Margarina Loncoleche Sin Lactosa 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "26018",
+      "reference": "388056",
+      "sponsoredId": null,
+      "slug": "margarina-deline-pote-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [],
+      "brand": "Deline",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "29591",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 3980,
+          "ppumListPrice": 3980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/355776-250-250/Margarina-Deline-pote-500-g.jpg?v=638776708859670000"
+          ],
+          "name": "Margarina Deline Pote 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "77123",
+      "reference": "1776920",
+      "sponsoredId": null,
+      "slug": "margarina-canola-pote-400-g-cuisine-and-co-1776920",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "22523",
+        "25244",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77377",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2650,
+          "listPrice": 2650,
+          "ppumPrice": 6625,
+          "ppumListPrice": 6625,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363910-250-250/Margarina-canola-pote-400-g.jpg?v=638776751166200000"
+          ],
+          "name": "Margarina Cuisine & Co Canola Pote 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127418",
+      "reference": "1961322",
+      "sponsoredId": null,
+      "slug": "marg-mix-450g-c-y-co",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "25244",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127712",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.45,
+          "price": 3190,
+          "listPrice": 3190,
+          "ppumPrice": 7089,
+          "ppumListPrice": 7089,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393495-250-250/MARG-MIX-450G-C-CO.jpg?v=638776874777170000"
+          ],
+          "name": "Margarina Cuisine & Co Mix 450 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137720",
+      "reference": "1997219",
+      "sponsoredId": null,
+      "slug": "margarina-soprole-toq-mante-pote-500g-1997219",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "13",
+        "16"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Mantequillas y Margarinas",
+        "Margarinas"
+      ],
+      "collections": [],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138015",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3150,
+          "listPrice": 3150,
+          "ppumPrice": 6300,
+          "ppumListPrice": 6300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/328694-250-250/Margarina-Soprole-Con-Toques-Mantequilla-500-g.jpg?v=638776431192100000"
+          ],
+          "name": "Margarina Soprole con Toques Mantequilla 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Margarinas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/margarinas",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Margarinas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/margarinas",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Margarinas",
+          "value": "/lacteos-huevos-y-congelados/mantequillas-y-margarinas/margarinas",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Qualy",
+          "value": "Qualy",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Soprole",
+          "value": "Soprole",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sureña",
+          "value": "Sureña",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Loncoleche",
+          "value": "Loncoleche",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Deline",
+          "value": "Deline",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1390,
+          "maxValue": 6130
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Margarina",
+          "value": "Margarina",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mantequilla-Margarina",
+          "value": "Mantequilla-Margarina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Leche",
+      "key": "Tipo de Leche",
+      "values": [
+        {
+          "displayName": "Leche de Vaca",
+          "value": "Leche de Vaca",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 20,
+  "metaTag": {
+    "title": "Margarinas | Jumbo.cl",
+    "description": "Compra online las margarinas de Jumbo.cl y aprovecha su versatilidad para untar en tostadas, freír alimentos o elaborar reposterías. Elige excelentes marcas."
+  }
+}

@@ -1,0 +1,15 @@
+
+Subcategorías:
+- Papel Higiénico -> https://www.jumbo.cl/limpieza/papeles-hogar/papel-higienico
+- Pañuelos -> https://www.jumbo.cl/limpieza/papeles-hogar/panuelos
+
+Scrape: Papel Higiénico
+🧪 Dump BFF guardado: debug_bff\bff_papel_higi_nico_p1.json
+  productos: 40
+
+Scrape: Pañuelos
+🧪 Dump BFF guardado: debug_bff\bff_pa_uelos_p1.json
+  productos: 13
+
+Total filas: 53
+CSV generado: output\limpieza\jumbo_limpieza_20260303_153300.csv

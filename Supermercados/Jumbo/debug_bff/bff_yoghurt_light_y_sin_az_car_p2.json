@@ -1,0 +1,1225 @@
+{
+  "products": [
+    {
+      "productId": "103298",
+      "reference": "1883951001",
+      "sponsoredId": null,
+      "slug": "yoghurt-goodnes-defensas-140-gr-natural",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "22681",
+        "25347",
+        "25520",
+        "26935",
+        "27105",
+        "27376",
+        "27388",
+        "27507",
+        "27553"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103567",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 560,
+          "listPrice": 560,
+          "ppumPrice": 4000,
+          "ppumListPrice": 4000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/503292-250-250/Yogurt-Goodnes-Probioticos-Natural-Endulzado-140-g.jpg?v=638926278418030000"
+          ],
+          "name": "Yogurt Nestlé Goodnes Probióticos Natural Endulzado 140 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4X1800 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 1800,
+              "unitPrice": 450,
+              "ppumPrice": 3214,
+              "mQuantity": 4,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137135",
+      "reference": "1997657",
+      "sponsoredId": null,
+      "slug": "yoghurt-colun-pack-sin-azucar-12x120gr-1997657",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909",
+        "914"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar",
+        "Yoghurt Trozos y Frutas"
+      ],
+      "collections": [
+        "23175",
+        "26935",
+        "27323"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137429",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.44,
+          "price": 3980,
+          "listPrice": 3980,
+          "ppumPrice": 2764,
+          "ppumListPrice": 2764,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/327975-250-250/YOGHURT-COLUN-PACK-SIN-AZUCAR-12X120GR.jpg?v=638776430438870000"
+          ],
+          "name": "Pack 12 un. Yogurt Colun Sin Azúcar 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127900",
+      "reference": "1970302003",
+      "sponsoredId": null,
+      "slug": "yog-colun-light-120gr-frutilla-1970302003",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26935"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128192",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 370,
+          "listPrice": 370,
+          "ppumPrice": 3083,
+          "ppumListPrice": 3083,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/394079-250-250/Yoghurt-Colun-Light-Frutilla-120-g.jpg?v=638776877336170000"
+          ],
+          "name": "Yogurt Colun Light Frutilla 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "96789",
+      "reference": "1618521004",
+      "sponsoredId": null,
+      "slug": "yog-light-and-free-bolsa-900g-vainilla-1618521004",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "97054",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.9,
+          "price": 2030,
+          "listPrice": 2030,
+          "ppumPrice": 2256,
+          "ppumListPrice": 2256,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312883-250-250/Yogurt-Batido-Light---Free-Vainilla-900-g.jpg?v=638776397868030000"
+          ],
+          "name": "Yogurt Batido Danone Light & Free Vainilla 900 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153778",
+      "reference": "2042430",
+      "sponsoredId": null,
+      "slug": "yogurt-danone-light-and-free-gr-crunch-142g-2042430",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar"
+      ],
+      "collections": [
+        "26935",
+        "27323"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154088",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.142,
+          "price": 1220,
+          "listPrice": 1220,
+          "ppumPrice": 8592,
+          "ppumListPrice": 8592,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/485093-250-250/YOGURT-DANONE-LIGHT-FREE-GR-CRUNCH-142G.jpg?v=638892673233770000"
+          ],
+          "name": "Yogurt Danone Light & Free Lola Granola Crunch 142 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6999",
+      "reference": "1618521001",
+      "sponsoredId": null,
+      "slug": "yoghurt-batido-danone-900-g-light-sabor-frutilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7087",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.9,
+          "price": 2030,
+          "listPrice": 2030,
+          "ppumPrice": 2256,
+          "ppumListPrice": 2256,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300498-250-250/Yogurt-Batido-Light---Free-Frutilla-900-g.jpg?v=638776373537600000"
+          ],
+          "name": "Yogurt Batido Danone Light & Free Frutilla 900 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7001",
+      "reference": "1618518001",
+      "sponsoredId": null,
+      "slug": "yoghurt-batido-light-danone-115-g-frutilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "25524",
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7089",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.115,
+          "price": 370,
+          "listPrice": 370,
+          "ppumPrice": 3217,
+          "ppumListPrice": 3217,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300530-250-250/Yogurt-Batido-Light---Free-Frutilla-115-g.jpg?v=638776373587100000"
+          ],
+          "name": "Yogurt Batido Danone Light & Free Frutilla 115 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126338",
+      "reference": "1959601002",
+      "sponsoredId": null,
+      "slug": "yoghurt-colun-sin-azucar-120g-vainilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909",
+        "912"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar",
+        "Yoghurt Sin Lactosa"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "26935"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126632",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 380,
+          "listPrice": 380,
+          "ppumPrice": 3167,
+          "ppumListPrice": 3167,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/392082-250-250/Yoghurt-Colun-Sin-Azucar-Vainilla-120-g.jpg?v=638776870047770000"
+          ],
+          "name": "Yogurt Colun Sin Azúcar Vainilla 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153382",
+      "reference": "2044094",
+      "sponsoredId": null,
+      "slug": "yogurt-frutil-800g-2044094",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153688",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 1690,
+          "listPrice": 1690,
+          "ppumPrice": 2113,
+          "ppumListPrice": 2113,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/487668-250-250/Yogurt-Batido-Soprole-Frutilla-Sin-Azucar-Bolsa-800-g.jpg?v=638894125320570000"
+          ],
+          "name": "Yogurt Batido Soprole Frutilla Sin Azúcar Bolsa 800 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146358",
+      "reference": "2023950",
+      "sponsoredId": null,
+      "slug": "yogurt-natural-0-quillayes-400gr-2023950",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146651",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2170,
+          "listPrice": 2170,
+          "ppumPrice": 5425,
+          "ppumListPrice": 5425,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/345486-250-250/YOGURT-NATURAL-0--QUILLAYES-400GR.jpg?v=638776444743200000"
+          ],
+          "name": "Yogurt Natural Quillayes 0% Azúcar Pote 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75264",
+      "reference": "1790814",
+      "sponsoredId": null,
+      "slug": "yoghurt-natural-0-800-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "26935",
+        "27499",
+        "27501",
+        "27553",
+        "27563",
+        "27601"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75521",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 3200,
+          "listPrice": 3790,
+          "ppumPrice": 4000,
+          "ppumListPrice": 4738,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310276-250-250/Yogurt-Natural-Quillayes-0--Pote-800-g.jpg?v=638776391253230000"
+          ],
+          "name": "Yogurt Natural 0% Quillayes Pote 800 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3200 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3200,
+              "ppumPrice": 4000,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126339",
+      "reference": "1959601003",
+      "sponsoredId": null,
+      "slug": "yoghurt-colun-sin-azucar-120g-frutilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909",
+        "912"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar",
+        "Yoghurt Sin Lactosa"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "26935"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126633",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 380,
+          "listPrice": 380,
+          "ppumPrice": 3167,
+          "ppumListPrice": 3167,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/392081-250-250/Yoghurt-Colun-Sin-Azucar-Frutilla-120-g.jpg?v=638776870046200000"
+          ],
+          "name": "Yogurt Colun Sin Azúcar Frutilla 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103299",
+      "reference": "1883951003",
+      "sponsoredId": null,
+      "slug": "yoghurt-goodnes-defensas-140-gr-frutilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "908",
+        "909"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt con Proteínas",
+        "Yoghurt Light y Sin Azúcar"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "22681",
+        "25347",
+        "25520",
+        "26935",
+        "27105",
+        "27376",
+        "27388",
+        "27507",
+        "27553"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103568",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 560,
+          "listPrice": 560,
+          "ppumPrice": 4000,
+          "ppumListPrice": 4000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/503331-250-250/Yogurt-Nestle-Goodnes-Sabor-Frutilla-140-g.jpg?v=638926278767870000"
+          ],
+          "name": "Yogurt Nestlé Goodnes Sabor Frutilla 140 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4X1800 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 1800,
+              "unitPrice": 450,
+              "ppumPrice": 3214,
+              "mQuantity": 4,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "83549",
+      "reference": "1618518005",
+      "sponsoredId": null,
+      "slug": "yoghurt-batido-light-vainilla-115-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "25524",
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "83817",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.115,
+          "price": 370,
+          "listPrice": 370,
+          "ppumPrice": 3217,
+          "ppumListPrice": 3217,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311475-250-250/Yogurt-Batido-Light---Free-Vainilla-115-g.jpg?v=638776393753200000"
+          ],
+          "name": "Yogurt Batido Danone Light & Free Vainilla 115 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127535",
+      "reference": "1959501003",
+      "sponsoredId": null,
+      "slug": "yog-colun-light-900gr-natural-1959501003",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "909"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Light y Sin Azúcar"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127833",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.9,
+          "price": 2050,
+          "listPrice": 2050,
+          "ppumPrice": 2278,
+          "ppumListPrice": 2278,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393624-250-250/YOG-COLUN-LIGHT-900GR-NATURAL.jpg?v=638776875385300000"
+          ],
+          "name": "Yogurt Colun Light Natural 900 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127905",
+      "reference": "1970302004",
+      "sponsoredId": null,
+      "slug": "yog-colun-light-120gr-mora-1970302004",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "907",
+        "909"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Batido",
+        "Yoghurt Light y Sin Azúcar"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26935"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128199",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 370,
+          "listPrice": 370,
+          "ppumPrice": 3083,
+          "ppumListPrice": 3083,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/394083-250-250/Yoghurt-Colun-Light-Mora-120-g.jpg?v=638776877365800000"
+          ],
+          "name": "Yogurt Colun Light Mora 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Yoghurt Light y Sin Azúcar",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-light-y-sin-azucar",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Yoghurt Light y Sin Azúcar",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-light-y-sin-azucar",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Yoghurt Light y Sin Azúcar",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-light-y-sin-azucar",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Soprole",
+          "value": "Soprole",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Colun",
+          "value": "Colun",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Danone",
+          "value": "Danone",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nestlé",
+          "value": "Nestlé",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quillayes",
+          "value": "Quillayes",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Yoghurt sin Azúcar",
+          "value": "Yoghurt sin Azúcar",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt con Fruta",
+          "value": "Yoghurt con Fruta",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Batido",
+          "value": "Yoghurt Batido",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Natural",
+          "value": "Yoghurt Natural",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Proteínas",
+          "value": "Yoghurt Proteínas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt con Cereal",
+          "value": "Yoghurt con Cereal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt sin Lactosa",
+          "value": "Yoghurt sin Lactosa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 360,
+          "maxValue": 3980
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 44,
+  "metaTag": {
+    "title": "Yoghurt Light y sin Azúcar | Jumbo.cl",
+    "description": "El yoghurt light y sin azúcar es perfecto para aquellos que buscan opciones más saludables sin sacrificar el sabor. ¡Disfrútalo en Jumbo.cl!"
+  }
+}

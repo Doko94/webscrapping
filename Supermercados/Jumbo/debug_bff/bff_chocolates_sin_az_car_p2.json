@@ -1,0 +1,794 @@
+{
+  "products": [
+    {
+      "productId": "3730",
+      "reference": "1467107",
+      "sponsoredId": null,
+      "slug": "chocolate-de-leche-valor-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "112",
+        "831",
+        "999",
+        "1002"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates sin Azúcar",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Azúcar Añadida"
+      ],
+      "collections": [
+        "1051",
+        "6471",
+        "14878",
+        "14880",
+        "14967",
+        "17155",
+        "17157",
+        "18363",
+        "21725",
+        "22523",
+        "24961"
+      ],
+      "brand": "Valor",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3736",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 4590,
+          "listPrice": 4590,
+          "ppumPrice": 45900,
+          "ppumListPrice": 45900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299899-250-250/Chocolate-de-Leche-Valor-Sin-Azucar-100-g.jpg?v=638776371361600000"
+          ],
+          "name": "Chocolate de Leche Valor Sin Azúcar 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "162805",
+      "reference": "2060941",
+      "sponsoredId": null,
+      "slug": "chocolate-conejo-m-2060941",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "112"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates sin Azúcar"
+      ],
+      "collections": [],
+      "brand": "Entrelagos",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "163183",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 9990,
+          "listPrice": 9990,
+          "ppumPrice": 83250,
+          "ppumListPrice": 83250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/584035-250-250/Conejo-de-Chocolate-Mira-Sin-Azucar-120-g.jpg?v=639076276446370000"
+          ],
+          "name": "Conejo de Chocolate Mira Sin Azúcar 120 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "33366",
+      "reference": "1628594",
+      "sponsoredId": null,
+      "slug": "chocolate-entrelagos-napolitanas-sin-azucar-120-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "112"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates sin Azúcar"
+      ],
+      "collections": [
+        "6471",
+        "17154",
+        "17155",
+        "17156",
+        "25307"
+      ],
+      "brand": "Entrelagos",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "37387",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 8190,
+          "listPrice": 8190,
+          "ppumPrice": 68250,
+          "ppumListPrice": 68250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/356692-250-250/Principal-32275.jpg?v=638776713999500000"
+          ],
+          "name": "Chocolate Mixto Entrelagos Napolitanas Sin Azúcar 120 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "60546",
+      "reference": "1628592",
+      "sponsoredId": null,
+      "slug": "choc-merello-lenguas-de-gato-s-azu-95g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "112"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates sin Azúcar"
+      ],
+      "collections": [
+        "17155"
+      ],
+      "brand": "Merello",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "60701",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.85,
+          "price": 7490,
+          "listPrice": 7490,
+          "ppumPrice": 8812,
+          "ppumListPrice": 8812,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360757-250-250/Chocolate-lenguas-de-gato-sin-azucar-85-g.jpg?v=638776733880600000"
+          ],
+          "name": "Chocolate Merello Lenguas de Gato Sin Azúcar 95 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "163239",
+      "reference": "2062109",
+      "sponsoredId": null,
+      "slug": "caja-chocolate-2062109",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "74",
+        "112"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Chocolates",
+        "Chocolates sin Azúcar"
+      ],
+      "collections": [],
+      "brand": "Quescream",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "163629",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.083,
+          "price": 6290,
+          "listPrice": 6290,
+          "ppumPrice": 75783,
+          "ppumListPrice": 75783,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/566133-250-250/CAJA-CHOCOLATE.jpg?v=639043919232430000"
+          ],
+          "name": "Chocolate Puro Entrelagos Sin Azúcar Caja 83 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Chocolates sin Azúcar",
+          "value": "/chocolates-galletas-y-snacks/chocolates/chocolates-sin-azucar",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Chocolates sin Azúcar",
+          "value": "/chocolates-galletas-y-snacks/chocolates/chocolates-sin-azucar",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Chocolates sin Azúcar",
+          "value": "/chocolates-galletas-y-snacks/chocolates/chocolates-sin-azucar",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Chocolate Macizo",
+          "value": "Chocolate Macizo",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Almendras",
+          "value": "Almendras",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate en Barra",
+          "value": "Chocolate en Barra",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate Relleno",
+          "value": "Chocolate Relleno",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Balls Chocolate",
+          "value": "Balls Chocolate",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bombones",
+          "value": "Bombones",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Costa",
+          "value": "Costa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "En Línea",
+          "value": "En Línea",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Guylian",
+          "value": "Guylian",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entrelagos",
+          "value": "Entrelagos",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salzburgo",
+          "value": "Salzburgo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valor",
+          "value": "Valor",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Merci Chef",
+          "value": "Merci Chef",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Merello",
+          "value": "Merello",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quescream",
+          "value": "Quescream",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Chocolate Amargo",
+          "value": "Chocolate Amargo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate De Leche",
+          "value": "Chocolate De Leche",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate Mixto",
+          "value": "Chocolate Mixto",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Bélgica",
+          "value": "Bélgica",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "Chocolate con Frutos Secos",
+          "value": "Chocolate con Frutos Secos",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin relleno",
+          "value": "sin relleno",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Halal",
+          "value": "Halal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contiene Alcohol",
+      "key": "containsAlcohol",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "No",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2890,
+          "maxValue": 15990
+        }
+      ]
+    },
+    {
+      "label": "Orgánico",
+      "key": "Orgánico",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "NO",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Rango Porcentaje de Cacao",
+      "key": "Rango Porcentaje de Cacao",
+      "values": [
+        {
+          "displayName": "Entre 51% y 70%",
+          "value": "Entre 51% y 70% Cacao",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Menos de 50%",
+          "value": "Menos de 50%",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Más de 71%",
+          "value": "Más de 71% Cacao",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 21,
+  "metaTag": null
+}

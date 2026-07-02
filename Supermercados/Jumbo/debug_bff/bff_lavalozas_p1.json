@@ -1,0 +1,3080 @@
+{
+  "products": [
+    {
+      "productId": "115308",
+      "reference": "1932624",
+      "sponsoredId": null,
+      "slug": "lavalozas-quix-bio-act-conc-rec-1-5ml-1932624",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "19270",
+        "21278",
+        "22523",
+        "23175",
+        "25159",
+        "25455",
+        "25471",
+        "25475",
+        "25476",
+        "25777",
+        "27349"
+      ],
+      "brand": "Quix",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115573",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 3990,
+          "listPrice": 4890,
+          "ppumPrice": 2660,
+          "ppumListPrice": 3260,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/381462-250-250/Quix-Lavaloza-Limon-Bio-Activos-15-L.jpg?v=638776827121700000"
+          ],
+          "name": "Lavalozas Quix Bio-Activos Concentrado Recarga 1.5 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3990 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 27022026 AL 23032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 2660,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75542",
+      "reference": "1802171",
+      "sponsoredId": null,
+      "slug": "lavalozas-home-care-doypack-1-l-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "831",
+        "894",
+        "896",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Home Care",
+        "Cocina"
+      ],
+      "collections": [
+        "22523",
+        "25650",
+        "25777",
+        "26600",
+        "26602",
+        "26607",
+        "27349",
+        "27411",
+        "27414",
+        "27415",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Home Care",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75799",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 2000,
+          "listPrice": 2490,
+          "ppumPrice": 2000,
+          "ppumListPrice": 2490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310464-250-250/Lavalozas-Home-Care-Doypack-1-L.jpg?v=638776391566200000"
+          ],
+          "name": "Lavalozas Home Care Activos Bio Concentrado Limón Doypack 1 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2000 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2000,
+              "ppumPrice": 2000,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115302",
+      "reference": "1932621",
+      "sponsoredId": null,
+      "slug": "lav-quix-bio-act-aloe-vera-rec-1-2ml-1932621",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "19270",
+        "25159",
+        "25455",
+        "25777",
+        "27349",
+        "27411",
+        "27414",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Quix",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115567",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.2,
+          "price": 3650,
+          "listPrice": 4750,
+          "ppumPrice": 3042,
+          "ppumListPrice": 3958,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/381460-250-250/LAVQUIX-BIO-ACTALOE-VERA-REC12ML.jpg?v=638776827121400000"
+          ],
+          "name": "Lavaloza Quix Bio-Activos Aloe Vera Recarga 1.2 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3650 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3650,
+              "ppumPrice": 3042,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115253",
+      "reference": "1932619",
+      "sponsoredId": null,
+      "slug": "lavalozas-quix-bio-act-conc-limon-5lt-1932619",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "25455",
+        "25670",
+        "25777",
+        "26917",
+        "27247",
+        "27349",
+        "27391",
+        "27461",
+        "27499",
+        "27501",
+        "27518",
+        "27521",
+        "27522",
+        "27552",
+        "27601"
+      ],
+      "brand": "Quix",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115518",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 5,
+          "price": 12590,
+          "listPrice": 12590,
+          "ppumPrice": 2518,
+          "ppumListPrice": 2518,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/381415-250-250/LAVALOZAS-QUIX-BIO-ACTCONCLIMON-5LT.jpg?v=638776826949870000"
+          ],
+          "name": "Lavalozas Quix Bio-Activos Concentrado Limón 5 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X19490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 19490,
+              "unitPrice": 9745,
+              "ppumPrice": 1949,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132428",
+      "reference": "1984084",
+      "sponsoredId": null,
+      "slug": "lavalozas-quix-ultra-bot-500ml-1984084",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "21278",
+        "21345",
+        "22523",
+        "23175",
+        "25159",
+        "25414",
+        "25417",
+        "25455",
+        "25471",
+        "25475",
+        "25476",
+        "25777",
+        "25796",
+        "27349",
+        "27411",
+        "27414",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Quix",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132710",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 2690,
+          "listPrice": 3990,
+          "ppumPrice": 5380,
+          "ppumListPrice": 7980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321724-250-250/Lavalozas-Quix-Ultra-Concentrado-500-ml.jpg?v=638776423966870000"
+          ],
+          "name": "Lavalozas Quix Ultra Concentrado 500 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2690 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2690,
+              "ppumPrice": 5380,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146900",
+      "reference": "2026990",
+      "sponsoredId": null,
+      "slug": "lavaloza-magistral-500ml-2un-2026990",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "23175",
+        "25777",
+        "27349",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Magistral",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147195",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 5990,
+          "listPrice": 6990,
+          "ppumPrice": 11980,
+          "ppumListPrice": 13980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346037-250-250/LAVALOZA-MAGISTRAL-500ML-2UN.jpg?v=638776445268830000"
+          ],
+          "name": "Pack 2 un. Lavalozas Magistral 500 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5990 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5990,
+              "ppumPrice": 11980,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "144082",
+      "reference": "2017569",
+      "sponsoredId": null,
+      "slug": "lavalozas-hc-activos-bio-conc-rec-1-5l-2017569",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "831",
+        "894",
+        "896",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Home Care",
+        "Cocina"
+      ],
+      "collections": [
+        "21278",
+        "22523",
+        "23175",
+        "25650",
+        "25777",
+        "26600",
+        "26602",
+        "26607",
+        "27349",
+        "27411",
+        "27414",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Home Care",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144377",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 2990,
+          "listPrice": 3990,
+          "ppumPrice": 1993,
+          "ppumListPrice": 2660,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/414331-250-250/Lavalozas-Home-Care-Activos-Bio-Concentrado-Recargable-15-L.jpg?v=638799180775000000"
+          ],
+          "name": "Lavalozas Home Care Activos Bio Concentrado Recargable 1.5 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2990 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2990,
+              "ppumPrice": 1993,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122645",
+      "reference": "1952409",
+      "sponsoredId": null,
+      "slug": "lavalozas-dawn-blue-ultra-638-ml-1952409",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "23175",
+        "25777",
+        "27349",
+        "27487"
+      ],
+      "brand": "Dawn",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122936",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.638,
+          "price": 6390,
+          "listPrice": 6390,
+          "ppumPrice": 10016,
+          "ppumListPrice": 10016,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/579350-250-250/Lavalozas-Dawn-Ultra-Concentrado-638-ml.jpg?v=639071561870670000"
+          ],
+          "name": "Lavalozas Dawn Ultra Concentrado 638 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115311",
+      "reference": "1932623",
+      "sponsoredId": null,
+      "slug": "lavalozas-quix-bio-act-conc-limon-500ml-1932623",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "23175",
+        "25159",
+        "25455",
+        "25777",
+        "27349"
+      ],
+      "brand": "Quix",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115576",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 2150,
+          "listPrice": 2150,
+          "ppumPrice": 4300,
+          "ppumListPrice": 4300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/381472-250-250/LAVALOZAS-QUIX-BIO-ACTCONCLIMON-500ML.jpg?v=638776827155100000"
+          ],
+          "name": "Lavalozas Quix Bio-Activos Concentrado Limón 500 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "123127",
+      "reference": "1956153",
+      "sponsoredId": null,
+      "slug": "quix-lv-vaj-antibac-rec-1-2l-1956153",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "19270",
+        "25159",
+        "25455",
+        "25777",
+        "27349",
+        "27411",
+        "27414",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Quix",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "123414",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.2,
+          "price": 3650,
+          "listPrice": 4750,
+          "ppumPrice": 3042,
+          "ppumListPrice": 3958,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/388833-250-250/QUIX-LV-VAJ-ANTIBAC-REC-12L.jpg?v=638776857643900000"
+          ],
+          "name": "Lavaloza Antibacterial Quix Concentrado 1.2 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3650 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3650,
+              "ppumPrice": 3042,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132423",
+      "reference": "1983568",
+      "sponsoredId": null,
+      "slug": "lavalozas-quix-ultra-dp-450ml-1983568",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "17846",
+        "21345",
+        "25414",
+        "25777",
+        "27349"
+      ],
+      "brand": "Quix",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132704",
+          "cartLimit": 9,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.45,
+          "price": 2550,
+          "listPrice": 2550,
+          "ppumPrice": 5667,
+          "ppumListPrice": 5667,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321614-250-250/Lavalozas-Quix-Ultra-Concentrado-450-ml.jpg?v=638776423769130000"
+          ],
+          "name": "Lavalozas Quix Ultra Concentrado 450 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146529",
+      "reference": "2021354",
+      "sponsoredId": null,
+      "slug": "lavalozas-quix-lultra-yellow-bot-500ml-2021354",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "21278",
+        "21345",
+        "22523",
+        "23175",
+        "25159",
+        "25414",
+        "25455",
+        "25471",
+        "25475",
+        "25476",
+        "25777",
+        "25796",
+        "27349",
+        "27411",
+        "27414",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Quix",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146823",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 2690,
+          "listPrice": 3990,
+          "ppumPrice": 5380,
+          "ppumListPrice": 7980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/345879-250-250/Lavaloza-Quix-Ultra-Concentrado-500-ml.jpg?v=638776445076670000"
+          ],
+          "name": "Lavaloza Quix Ultra Concentrado 500 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2690 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2690,
+              "ppumPrice": 5380,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115283",
+      "reference": "1932626",
+      "sponsoredId": null,
+      "slug": "lav-quix-bio-act-conc-pureza-rec-1-2ml-1932626",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "19270",
+        "25159",
+        "25455",
+        "25777",
+        "27349",
+        "27411",
+        "27414",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Quix",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115548",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.2,
+          "price": 3650,
+          "listPrice": 4750,
+          "ppumPrice": 3042,
+          "ppumListPrice": 3958,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/381450-250-250/LAVQUIX-BIO-ACTCONCPUREZA-REC12ML.jpg?v=638776827072570000"
+          ],
+          "name": "Lavaloza Quix Bio-Activos Pureza Esencial Recarga 1.2 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3650 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3650,
+              "ppumPrice": 3042,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7751",
+      "reference": "256208",
+      "sponsoredId": null,
+      "slug": "lavalozas-fuzol-doypack-1-l-limon-concentrado-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "25777",
+        "27349",
+        "27411",
+        "27414",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Fuzol",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7876",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 1750,
+          "listPrice": 2190,
+          "ppumPrice": 1750,
+          "ppumListPrice": 2190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/479058-250-250/Lavalozas-Fuzol-Limon-Doypack-1-L.jpg?v=638877533530830000"
+          ],
+          "name": "Lavaloza Fuzol Concentrado Limón Doypack 1 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1750 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1750,
+              "ppumPrice": 1750,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7752",
+      "reference": "256210",
+      "sponsoredId": null,
+      "slug": "lavalozas-fuzol-doypack-1-l-vinagre-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "25777",
+        "27349",
+        "27411",
+        "27414",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Fuzol",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7877",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 1750,
+          "listPrice": 2190,
+          "ppumPrice": 1750,
+          "ppumListPrice": 2190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/479067-250-250/Lavalozas-Fuzol-Vinagre-Doypack-1-L.jpg?v=638877533563330000"
+          ],
+          "name": "Lavaloza Fuzol Concentrado Vinagre Doypack 1 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1750 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1750,
+              "ppumPrice": 1750,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146747",
+      "reference": "2021355",
+      "sponsoredId": null,
+      "slug": "lavalozas-quix-ultra-yellow-dp-450ml-2021355",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "21345",
+        "25159",
+        "25414",
+        "25455",
+        "25777",
+        "27349",
+        "27411",
+        "27414",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Quix",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147042",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.45,
+          "price": 2000,
+          "listPrice": 2550,
+          "ppumPrice": 4444,
+          "ppumListPrice": 5667,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/404400-250-250/Lavaloza-Quix-Ultra-Concentrado-450-ml.jpg?v=638776918780300000"
+          ],
+          "name": "Lavaloza Quix Ultra Concentrado 450 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2000 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2000,
+              "ppumPrice": 4444,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "140128",
+      "reference": "2003524",
+      "sponsoredId": null,
+      "slug": "lavalozas-casa-nativa-citrus-950ml-2003524",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "831",
+        "943",
+        "999",
+        "1000"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Experiencias Jumbo",
+        "Cocina",
+        "Mundo Bio Natura",
+        "Eco Friendly"
+      ],
+      "collections": [
+        "23175",
+        "25648",
+        "25777",
+        "27349",
+        "27411",
+        "27414",
+        "27419",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Casa Nativa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "140420",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.95,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 4200,
+          "ppumListPrice": 4200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/495005-250-250/Lavalozas-Ultraconcentrado-Casa-Nativa-Citrus-950ml.jpg?v=638907271749470000"
+          ],
+          "name": "Lavalozas Ultraconcentrado Casa Nativa Citrus 950ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mxn",
+              "value": 7980,
+              "unitPrice": 2660,
+              "ppumPrice": 2800,
+              "mQuantity": 3,
+              "nQuantity": 2,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122622",
+      "reference": "1952407",
+      "sponsoredId": null,
+      "slug": "lavalozas-dawn-blue-ultra-221-ml-1952407",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "23175",
+        "25777",
+        "27349",
+        "27487"
+      ],
+      "brand": "Dawn",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122912",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.221,
+          "price": 3390,
+          "listPrice": 3390,
+          "ppumPrice": 15339,
+          "ppumListPrice": 15339,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/388345-250-250/Lavalozas-Dawn-Ultra-Concentrado-221-ml.jpg?v=638776855470670000"
+          ],
+          "name": "Lavalozas Dawn Ultra Concentrado 221 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132434",
+      "reference": "1984082",
+      "sponsoredId": null,
+      "slug": "lavalozas-quix-ultra-bot-750ml-1984082",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "21345",
+        "25414",
+        "25417",
+        "25455",
+        "25471",
+        "25475",
+        "25476",
+        "25777",
+        "25796",
+        "27349",
+        "27411",
+        "27414",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Quix",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132716",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 4150,
+          "listPrice": 4990,
+          "ppumPrice": 5533,
+          "ppumListPrice": 6653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321833-250-250/Lavalozas-Quix-Ultra-Concentrado-750-ml.jpg?v=638776424180600000"
+          ],
+          "name": "Lavalozas Quix Ultra Concentrado 750 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4150 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4150,
+              "ppumPrice": 5533,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137772",
+      "reference": "1998207",
+      "sponsoredId": null,
+      "slug": "lavalozas-dawn-free-clear-718ml-1998207",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25777",
+        "27349",
+        "27411",
+        "27414",
+        "27487",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Dawn",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138066",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.718,
+          "price": 6792,
+          "listPrice": 7990,
+          "ppumPrice": 9460,
+          "ppumListPrice": 11128,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/579167-250-250/Lavalozas-Dawn-Free-Clear-Squeeze-718-ml.jpg?v=639071561664000000"
+          ],
+          "name": "Lavalozas Dawn Free Clear Squeeze 718 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 6792,
+              "ppumPrice": 9460,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "120805",
+      "reference": "1946112",
+      "sponsoredId": null,
+      "slug": "lavalozas-dawn-blue-squeeze-650ml-1946112",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "19270",
+        "25777",
+        "27349",
+        "27411",
+        "27414",
+        "27487",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Dawn",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "121086",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.65,
+          "price": 6452,
+          "listPrice": 7590,
+          "ppumPrice": 9926,
+          "ppumListPrice": 11677,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317392-250-250/Lavalozas-Dawn-Concentrado-Squeeze-650-ml.jpg?v=638776411832770000"
+          ],
+          "name": "Lavalozas Dawn Concentrado Squeeze 650 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 6452,
+              "ppumPrice": 9926,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "120813",
+      "reference": "1946111",
+      "sponsoredId": null,
+      "slug": "lavalozas-dawn-blue-squeeze-435ml-1946111",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "19270",
+        "25777",
+        "27349",
+        "27487"
+      ],
+      "brand": "Dawn",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "121096",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.435,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 13770,
+          "ppumListPrice": 13770,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317464-250-250/Lavalozas-Dawn-Concentrado-Squeeze-434-ml.jpg?v=638776412116530000"
+          ],
+          "name": "Lavalozas Dawn Concentrado Squeeze 434 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "57912",
+      "reference": "1744180",
+      "sponsoredId": null,
+      "slug": "lavalozas-freemet-ecologico-500ml-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "1056",
+        "25777",
+        "27349",
+        "27411",
+        "27414",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Freemet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "58195",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1912,
+          "listPrice": 2390,
+          "ppumPrice": 3824,
+          "ppumListPrice": 4780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360415-250-250/Lavalozas-Freemet-ecologico-500-ml.jpg?v=638776732582470000"
+          ],
+          "name": "Lavalozas Freemet Ecológico 500 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 10",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 1912,
+              "ppumPrice": 3824,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "48123",
+      "reference": "1730708",
+      "sponsoredId": null,
+      "slug": "lavalozas-wyn-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "21278",
+        "22523",
+        "25777",
+        "27349",
+        "27411",
+        "27414",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Wyn",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "48421",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 1790,
+          "listPrice": 1990,
+          "ppumPrice": 2387,
+          "ppumListPrice": 2653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/358407-250-250/Lavalozas-750-cc.jpg?v=638776723402670000"
+          ],
+          "name": "Lavalozas Concentrado Wyn 750 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1790 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1790,
+              "ppumPrice": 2387,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146549",
+      "reference": "2025694",
+      "sponsoredId": null,
+      "slug": "lavaloza-magistral-limon-bot-300ml-2025694",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "25777",
+        "27349"
+      ],
+      "brand": "Magistral",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146843",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 10300,
+          "ppumListPrice": 10300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346065-250-250/Lavaloza-Magistral-Limon-Botella-300-ml.jpg?v=638776445311730000"
+          ],
+          "name": "Lavaloza Magistral Limón Botella 300 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "140127",
+      "reference": "2003522",
+      "sponsoredId": null,
+      "slug": "lavalozas-casa-nativa-citrus-kit-inicial-2003522",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "831",
+        "943",
+        "999",
+        "1000"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Experiencias Jumbo",
+        "Cocina",
+        "Mundo Bio Natura",
+        "Eco Friendly"
+      ],
+      "collections": [
+        "23175",
+        "25648",
+        "25777",
+        "27349",
+        "27401",
+        "27411",
+        "27414",
+        "27419",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Casa Nativa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "140421",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 7990,
+          "ppumListPrice": 7990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/489275-250-250/Lavalozas-Botella-Vidrio-Recargable-Casa-Nativa-Citrico-475-ml.jpg?v=638899506785970000"
+          ],
+          "name": "Lavalozas Botella Vidrio Recargable Casa Nativa Cítrico 475 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mxn",
+              "value": 15981,
+              "unitPrice": 5327,
+              "ppumPrice": 5327,
+              "mQuantity": 3,
+              "nQuantity": 2,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7775",
+      "reference": "1236375",
+      "sponsoredId": null,
+      "slug": "lavalozas-virginia-15-l-citrus-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "21278",
+        "25777",
+        "27349"
+      ],
+      "brand": "Virginia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7900",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 2060,
+          "ppumListPrice": 2060,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300839-250-250/Lavalozas-Citrus-Virginia-15-L.jpg?v=638776374012270000"
+          ],
+          "name": "Lavalozas Citrus Virginia 1,5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75806",
+      "reference": "1802169",
+      "sponsoredId": null,
+      "slug": "lavalozas-home-care-limon-500-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "831",
+        "894",
+        "896",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Home Care",
+        "Cocina"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25650",
+        "25777",
+        "26600",
+        "26602",
+        "26607",
+        "27349",
+        "27411",
+        "27414",
+        "27415",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Home Care",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "76061",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1530,
+          "listPrice": 1790,
+          "ppumPrice": 3060,
+          "ppumListPrice": 3580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310475-250-250/Lavalozas-Home-Care-Limon-Botella-500-ml.jpg?v=638776391593770000"
+          ],
+          "name": "Lavalozas Home Care Activos Bio Concentrado Limón 500 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1530 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1530,
+              "ppumPrice": 3060,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132429",
+      "reference": "1984083",
+      "sponsoredId": null,
+      "slug": "lavalozas-quix-ultra-bot-300ml-1984083",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "17846",
+        "21345",
+        "25414",
+        "25777",
+        "25796",
+        "27349"
+      ],
+      "brand": "Quix",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132711",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 8967,
+          "ppumListPrice": 8967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321755-250-250/Lavalozas-Quix-Ultra-Concentrado-300-ml.jpg?v=638776424021000000"
+          ],
+          "name": "Lavalozas Quix Ultra Concentrado 300 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122054",
+      "reference": "1952287",
+      "sponsoredId": null,
+      "slug": "lavaloza-wash-up-spray-pink-stuff-500-ml-1952287",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "17846",
+        "24071",
+        "25638",
+        "25654",
+        "25777",
+        "27349",
+        "27405",
+        "27414",
+        "27499",
+        "27501",
+        "27510",
+        "27552",
+        "27563",
+        "27599",
+        "27601"
+      ],
+      "brand": "The Pink Stuff",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122293",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 4868,
+          "listPrice": 6490,
+          "ppumPrice": 9736,
+          "ppumListPrice": 12980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317964-250-250/Lavalozas-Spray-Pink-Stuff-Wash-Up-500-ml.jpg?v=638776413469400000"
+          ],
+          "name": "Lavalozas Spray Pink Stuff Wash Up 500 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 4868,
+              "ppumPrice": 9736,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115309",
+      "reference": "1932622",
+      "sponsoredId": null,
+      "slug": "lavalozas-quix-bio-act-conc-limon-750ml-1932622",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "23175",
+        "25159",
+        "25455",
+        "25777",
+        "27349"
+      ],
+      "brand": "Quix",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115574",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 3987,
+          "ppumListPrice": 3987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/381463-250-250/LAVALOZAS-QUIX-BIO-ACTCONCLIMON-750ML.jpg?v=638776827122330000"
+          ],
+          "name": "Lavalozas Quix Bio-Activos Concentrado Limón 750 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "106332",
+      "reference": "1898659",
+      "sponsoredId": null,
+      "slug": "lavaloza-dawn-powerwash-refill-473ml-1898659",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "25777",
+        "27349",
+        "27487"
+      ],
+      "brand": "Dawn",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "106605",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.473,
+          "price": 7790,
+          "listPrice": 7790,
+          "ppumPrice": 16469,
+          "ppumListPrice": 16469,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314931-250-250/Lavalozas-Dawn-Power-Wash-Recarga-473-ml.jpg?v=638776403284330000"
+          ],
+          "name": "Lavalozas Dawn Power Wash Recarga 473 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146551",
+      "reference": "2025696",
+      "sponsoredId": null,
+      "slug": "lavaloza-magistral-limon-bot-750ml-2025696",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "25777",
+        "27349"
+      ],
+      "brand": "Magistral",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146845",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 6090,
+          "listPrice": 6090,
+          "ppumPrice": 8120,
+          "ppumListPrice": 8120,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346117-250-250/Lavaloza-Magistral-Limon-Botella-750-ml.jpg?v=638776445368000000"
+          ],
+          "name": "Lavaloza Magistral Limón Botella 750 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122639",
+      "reference": "1952408",
+      "sponsoredId": null,
+      "slug": "lavalozas-dawn-blue-ultra-458-ml-1952408",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "23175",
+        "25777",
+        "27349",
+        "27487"
+      ],
+      "brand": "Dawn",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122916",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.458,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 13079,
+          "ppumListPrice": 13079,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318153-250-250/Lavalozas-Dawn-Ultra-Concentrado-458-ml.jpg?v=638776413754700000"
+          ],
+          "name": "Lavalozas Dawn Ultra Concentrado 458 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127935",
+      "reference": "1970273",
+      "sponsoredId": null,
+      "slug": "lavalozas-dawn-granada-squeeze-718-ml-1970273",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25777",
+        "27349",
+        "27411",
+        "27414",
+        "27487",
+        "27499",
+        "27501",
+        "27552",
+        "27563",
+        "27601"
+      ],
+      "brand": "Dawn",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128229",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.718,
+          "price": 6792,
+          "listPrice": 7990,
+          "ppumPrice": 9460,
+          "ppumListPrice": 11128,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/586524-250-250/Lavalozas-Dawn-Granada-Squeeze-718-ml.jpg?v=639081386097470000"
+          ],
+          "name": "Lavalozas Dawn Granada Squeeze 718 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 6792,
+              "ppumPrice": 9460,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146550",
+      "reference": "2025695",
+      "sponsoredId": null,
+      "slug": "lavaloza-magistral-limon-bot-500ml-2025695",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "22523",
+        "25777",
+        "27349"
+      ],
+      "brand": "Magistral",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146844",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 4490,
+          "listPrice": 4490,
+          "ppumPrice": 8980,
+          "ppumListPrice": 8980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346092-250-250/Lavaloza-Magistral-Limon-Botella-500-ml.jpg?v=638776445337570000"
+          ],
+          "name": "Lavaloza Magistral Limón Botella 500 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137916",
+      "reference": "1998291",
+      "sponsoredId": null,
+      "slug": "lavalozas-virginia-ultraconc-citr-200ml-1998291",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "25777",
+        "27349"
+      ],
+      "brand": "Virginia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138210",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 1290,
+          "listPrice": 1290,
+          "ppumPrice": 6450,
+          "ppumListPrice": 6450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/328899-250-250/LAVALOZAS-VIRGINIA-ULTRACONCCITR200ML.jpg?v=638776431368900000"
+          ],
+          "name": "Lavalozas Virginia Ultra Concentrado 200 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146407",
+      "reference": "2021353",
+      "sponsoredId": null,
+      "slug": "lavalozas-wyn-ultra-500ml-2021353",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "23175",
+        "25777",
+        "27349"
+      ],
+      "brand": "Wyn",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146701",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 2790,
+          "listPrice": 2790,
+          "ppumPrice": 5580,
+          "ppumListPrice": 5580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/345907-250-250/Lavaloza-Wyn-Ultra-500-ml.jpg?v=638776445110900000"
+          ],
+          "name": "Lavaloza Wyn Ultra 500 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75519",
+      "reference": "1798196",
+      "sponsoredId": null,
+      "slug": "lavalozas-virgina-citrus-150-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "22523",
+        "25777",
+        "27349"
+      ],
+      "brand": "Virginia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75776",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.5,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 2327,
+          "ppumListPrice": 2327,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310589-250-250/Lavaloza-Virginia-Citrus-Botella-Recarga-15-L.jpg?v=638776391844870000"
+          ],
+          "name": "Lavaloza Virginia Citrus Botella Recarga 1.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115272",
+      "reference": "1932620",
+      "sponsoredId": null,
+      "slug": "lavalozas-quix-bio-act-aloe-vera-500ml-1932620",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "261",
+        "277",
+        "943"
+      ],
+      "categoryNames": [
+        "Limpieza",
+        "Lavalozas",
+        "Cocina"
+      ],
+      "collections": [
+        "25777",
+        "27349"
+      ],
+      "brand": "Quix",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115538",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 4780,
+          "ppumListPrice": 4780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/381433-250-250/LAVALOZAS-QUIX-BIO-ACTALOE-VERA-500ML.jpg?v=638776827021900000"
+          ],
+          "name": "Lavalozas Quix Bio-Activos Concentrado Aloe Vera 500 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Lavalozas",
+          "value": "/limpieza/cocina/lavalozas",
+          "selected": false,
+          "quantity": 59,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Lavalozas",
+          "value": "/limpieza/cocina/lavalozas",
+          "selected": false,
+          "quantity": 59,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Lavalozas",
+          "value": "/limpieza/cocina/lavalozas",
+          "selected": false,
+          "quantity": 59,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Quix",
+          "value": "Quix",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Home Care",
+          "value": "Home Care",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Magistral",
+          "value": "Magistral",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Senzai",
+          "value": "Senzai",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Virginia",
+          "value": "Virginia",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fuzol",
+          "value": "Fuzol",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Casa Nativa",
+          "value": "Casa Nativa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dawn",
+          "value": "Dawn",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Teza",
+          "value": "Teza",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Wyn",
+          "value": "Wyn",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Freemet",
+          "value": "Freemet",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "The Pink Stuff",
+          "value": "The Pink Stuff",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Virutex",
+          "value": "Virutex",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frosch",
+          "value": "Frosch",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Modelo",
+      "key": "Modelo",
+      "values": [
+        {
+          "displayName": "Granada Squeeze",
+          "value": "Granada Squeeze",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lavaloza",
+          "value": "Lavaloza",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lavalozas concentrado",
+          "value": "Lavalozas concentrado",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lavalozas Concentrado Higienizante",
+          "value": "Lavalozas Concentrado Higienizante",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Platinum",
+          "value": "Platinum",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Recarga",
+          "value": "Recarga",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1290,
+          "maxValue": 12590
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Lavalozas",
+          "value": "Lavalozas",
+          "selected": false,
+          "quantity": 59,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Líquido",
+          "value": "Líquido",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 59,
+  "metaTag": {
+    "title": "Lavalozas | Jumbo.cl",
+    "description": "Los lavalozas de nuestro catálogo online te ayudarán a eliminar eficazmente la grasa y los residuos de comida de tu vajilla. ¡Elige tu favorito!"
+  }
+}

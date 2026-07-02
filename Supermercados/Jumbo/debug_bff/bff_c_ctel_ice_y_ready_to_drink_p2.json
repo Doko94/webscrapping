@@ -1,0 +1,1310 @@
+{
+  "products": [
+    {
+      "productId": "137925",
+      "reference": "2000149",
+      "sponsoredId": null,
+      "slug": "jack-and-coke-sin-azucar-lata-350-7-g-2000149",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [
+        "25767"
+      ],
+      "brand": "Coca-Cola",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138219",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 2150,
+          "listPrice": 2150,
+          "ppumPrice": 6143,
+          "ppumListPrice": 6143,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/412565-250-250/Jack---Coke-Sin-Azucar-7%C2%B0-Lata-350-ml.jpg?v=638796367783230000"
+          ],
+          "name": "Jack & Coke Zero 7° Lata 350 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "120842",
+      "reference": "1950047",
+      "sponsoredId": null,
+      "slug": "coctel-la-pizka-moscow-mule-350cc-14-1950047",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [],
+      "brand": "La Pizka",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "121124",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 7490,
+          "listPrice": 7490,
+          "ppumPrice": 21400,
+          "ppumListPrice": 21400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317493-250-250/Coctel-natural-Moscow-Mule-350-cc.jpg?v=638776412278930000"
+          ],
+          "name": "Cóctel Natural La Pizka Moscow Mule 350 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "147471",
+      "reference": "2029257",
+      "sponsoredId": null,
+      "slug": "coctel-dr-lemon-red-berry-275cc-5-2029257",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Dr. Lemon",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147764",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.275,
+          "price": 990,
+          "listPrice": 1690,
+          "ppumPrice": 3600,
+          "ppumListPrice": 6145,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/437806-250-250/Coctel-Dr-Lemon-Red-Berry-5%C2%B0-Botella-275-cc.jpg?v=638831039662570000"
+          ],
+          "name": "Cóctel Dr. Lemon Red Berry 5° Botella 275 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 990,
+              "ppumPrice": 3600,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "135109",
+      "reference": "1993269",
+      "sponsoredId": null,
+      "slug": "rtd-smirnoff-ice-raspberry-473ml-5-g-1993269",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [],
+      "brand": "Smirnoff",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135403",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.473,
+          "price": 2490,
+          "listPrice": 2490,
+          "ppumPrice": 5264,
+          "ppumListPrice": 5264,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/324259-250-250/Smirnoff-Ice-Raspberry-50%C2%B0-473-cc.jpg?v=638776427456530000"
+          ],
+          "name": "Cóctel Smirnoff Ice Raspberry 5.0° 473 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "147472",
+      "reference": "2029258",
+      "sponsoredId": null,
+      "slug": "coctel-dr-lemon-tropical-275cc-5-0-2029258",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Dr. Lemon",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147766",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.275,
+          "price": 990,
+          "listPrice": 1690,
+          "ppumPrice": 3600,
+          "ppumListPrice": 6145,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/437809-250-250/Coctel-Dr-Lemon-Tropical-5%C2%B0-Botella-275-cc.jpg?v=638831039674930000"
+          ],
+          "name": "Cóctel Dr. Lemon Tropical 5° Botella 275 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 990,
+              "ppumPrice": 3600,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "143534",
+      "reference": "2012181",
+      "sponsoredId": null,
+      "slug": "coctel-3r-ice-citrus-5-275-cc-2012181",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "27637"
+      ],
+      "brand": "Tres Erres",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "143827",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 1190,
+          "ppumListPrice": 1190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/339607-250-250/Coctel-3R-Ice-Citrus-5%C2%B0-275-cc.jpg?v=638776440093800000"
+          ],
+          "name": "Cóctel 3R Ice Citrus 5° 275 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "135102",
+      "reference": "1991138",
+      "sponsoredId": null,
+      "slug": "rtd-smirnoff-ice-original-473ml-5-g-1991138",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [],
+      "brand": "Smirnoff",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135396",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.473,
+          "price": 2490,
+          "listPrice": 2490,
+          "ppumPrice": 5264,
+          "ppumListPrice": 5264,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/324706-250-250/Smirnoff-Ice-Original-50%C2%B0-473-cc.jpg?v=638776427803530000"
+          ],
+          "name": "Cóctel Smirnoff Ice Original 5.0° 473 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "55092",
+      "reference": "1691543",
+      "sponsoredId": null,
+      "slug": "coctel-ice-sierra-morena-mojito-7-maracuy-275-cc",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Sierra Morena",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55382",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.275,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 5055,
+          "ppumListPrice": 5055,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308675-250-250/Coctel-ice-Sierra-Morena-mojito-maracuya-7%C2%B0-botella-275-cc.jpg?v=638776387399470000"
+          ],
+          "name": "Cóctel Ice Sierra Morena Mojito Maracuyá 7°, Botella 275 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "45495",
+      "reference": "1690152",
+      "sponsoredId": null,
+      "slug": "mistral-ice-mistral-energy-7-275-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Mistral",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "45732",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.275,
+          "price": 1450,
+          "listPrice": 1690,
+          "ppumPrice": 5273,
+          "ppumListPrice": 6145,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307865-250-250/Coctel-Ice-Mistral-Energy-7%C2%B0-Botella-275-cc.jpg?v=638776385503430000"
+          ],
+          "name": "Cóctel Ice Mistral Energy 7° Botella 275 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1450 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1450,
+              "ppumPrice": 5273,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "117962",
+      "reference": "1940049",
+      "sponsoredId": null,
+      "slug": "coc-espresso-mart-la-pizka-10-350cc-1940049",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [],
+      "brand": "La Pizka",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "118230",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 7490,
+          "listPrice": 7490,
+          "ppumPrice": 21400,
+          "ppumListPrice": 21400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316700-250-250/Coctel-Natural-Espresso-Martini-350-cc.jpg?v=638776409815000000"
+          ],
+          "name": "Cóctel Natural La Pizka Espresso Martini 350 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "102546",
+      "reference": "1883716",
+      "sponsoredId": null,
+      "slug": "coct-sour-estrella-del-elqui-14-gt-250c-1883716",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Estrella del Elqui",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102814",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 2490,
+          "listPrice": 2990,
+          "ppumPrice": 9960,
+          "ppumListPrice": 11960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313974-250-250/Coctel-Sour-Estrella-del-Elqui-14%C2%B0-250-cc.jpg?v=638776400997730000"
+          ],
+          "name": "Cóctel Sour Estrella del Elqui 14° 250 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 3",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2490,
+              "ppumPrice": 9960,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "104144",
+      "reference": "1894645",
+      "sponsoredId": null,
+      "slug": "dr-lemon-limon-275cc-4-alc-1894645",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [
+        "19270",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Dr. Lemon",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "104412",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.275,
+          "price": 990,
+          "listPrice": 1590,
+          "ppumPrice": 3600,
+          "ppumListPrice": 5782,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314350-250-250/Coctel-Ice-limon-4%C2%B0-275-cc.jpg?v=638776401762400000"
+          ],
+          "name": "Cóctel Ice Limón Dr. Lemon 4° 275 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 990,
+              "ppumPrice": 3600,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "118011",
+      "reference": "1940048",
+      "sponsoredId": null,
+      "slug": "coc-pom-spritz-la-pizka-13-350cc-1940048",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [],
+      "brand": "La Pizka",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "118260",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 7490,
+          "listPrice": 7490,
+          "ppumPrice": 21400,
+          "ppumListPrice": 21400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316783-250-250/Coctel-Natural-Pomelo-Spritz-350-cc.jpg?v=638776410092030000"
+          ],
+          "name": "Cóctel Natural La Pizka Pomelo Spritz 350 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "138766",
+      "reference": "2001849",
+      "sponsoredId": null,
+      "slug": "coc-s-morena-ice-mojito-7-355cc-2001849",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "24971",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sierra Morena",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139060",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.355,
+          "price": 1350,
+          "listPrice": 1590,
+          "ppumPrice": 3803,
+          "ppumListPrice": 4479,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/330948-250-250/Coctel-Sierra-Morena-Mojito-Lata-355-cc.jpg?v=638776432807130000"
+          ],
+          "name": "Cóctel Sierra Morena Mojito Lata 355 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1350 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1350,
+              "ppumPrice": 3803,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "135741",
+      "reference": "1989017",
+      "sponsoredId": null,
+      "slug": "coct-mojito-dr-lemon-275-5-g-1989017",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [
+        "19270",
+        "24971"
+      ],
+      "brand": "Dr. Lemon",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "136031",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.275,
+          "price": 990,
+          "listPrice": 1590,
+          "ppumPrice": 3600,
+          "ppumListPrice": 5782,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/325702-250-250/COCT-MOJITO-DR-LEMON-275-5%C2%B0G.jpg?v=638776428585200000"
+          ],
+          "name": "Cóctel Dr. Lemon Mojito 5.0° 275 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 990,
+              "ppumPrice": 3600,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "67660",
+      "reference": "1768599",
+      "sponsoredId": null,
+      "slug": "pack-ron-sierra-morena-mojito-ice-berries-4-unid-x-275-cc-c-u-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "792"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Cóctel Ice y Ready to Drink"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Sierra Morena",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "67823",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.275,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 5055,
+          "ppumListPrice": 5055,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309812-250-250/Ron-Sierra-Morena-mojito-ice-berries-275-cc.jpg?v=638776389927600000"
+          ],
+          "name": "Ron Sierra Morena Mojito Ice Berries 275 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Cóctel Ice y Ready to Drink",
+          "value": "/licores-bebidas-y-aguas/cocteles/coctel-ice-y-ready-to-drink",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Cóctel Ice y Ready to Drink",
+          "value": "/licores-bebidas-y-aguas/cocteles/coctel-ice-y-ready-to-drink",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Cóctel Ice y Ready to Drink",
+          "value": "/licores-bebidas-y-aguas/cocteles/coctel-ice-y-ready-to-drink",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Mistral",
+          "value": "Mistral",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tres Erres",
+          "value": "Tres Erres",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kantal",
+          "value": "Kantal",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Spirit",
+          "value": "Spirit",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sierra Morena",
+          "value": "Sierra Morena",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Smirnoff",
+          "value": "Smirnoff",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Pizka",
+          "value": "La Pizka",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dr. Lemon",
+          "value": "Dr. Lemon",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Iceberg",
+          "value": "Iceberg",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Coca-Cola",
+          "value": "Coca-Cola",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estrella del Elqui",
+          "value": "Estrella del Elqui",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alto Del Carmen",
+          "value": "Alto Del Carmen",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Botella de vidrio",
+          "value": "Botella de vidrio",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lata",
+          "value": "Lata",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 990,
+          "maxValue": 7490
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "México",
+          "value": "México",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Cócteles Ice",
+          "value": "Cócteles Ice",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vodka",
+          "value": "Vodka",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cócteles Frutales",
+          "value": "Cócteles Frutales",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cócteles Sour",
+          "value": "Cócteles Sour",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pisco",
+          "value": "Pisco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 37,
+  "metaTag": {
+    "title": "Cóctel Ice y Ready to Drink | Jumbo.cl",
+    "description": "Ingresa a Jumbo.cl y encuentra variedad de cócteles Ice y Ready to Drink listos para servir: sabores frutales y más para momentos refrescantes al instante."
+  }
+}

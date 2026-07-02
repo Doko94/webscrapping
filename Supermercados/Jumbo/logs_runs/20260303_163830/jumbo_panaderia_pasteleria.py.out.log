@@ -1,0 +1,105 @@
+
+Subcategorías:
+- Pan Artesanal -> https://www.jumbo.cl/panaderia-y-pasteleria/panaderia-granel/pan-artesanal
+- Pan Especial -> https://www.jumbo.cl/panaderia-y-pasteleria/panaderia-granel/pan-especial
+- Pan Tradicional -> https://www.jumbo.cl/panaderia-y-pasteleria/panaderia-granel/pan-tradicional
+- Pan Ciabatta -> https://www.jumbo.cl/panaderia-y-pasteleria/panaderia-granel/pan-ciabatta
+- Panadería Granel (Mostrar todo) -> https://www.jumbo.cl/panaderia-y-pasteleria/panaderia-granel
+- Pan de Molde -> https://www.jumbo.cl/panaderia-y-pasteleria/panaderia-envasada/pan-de-molde
+- Pan Congelado y Precocido -> https://www.jumbo.cl/panaderia-y-pasteleria/panaderia-envasada/pan-congelado-y-precocido
+- Pan Integral y Funcional -> https://www.jumbo.cl/panaderia-y-pasteleria/panaderia-envasada/pan-integral-y-funcional-envasado
+- Pan sin Gluten -> https://www.jumbo.cl/panaderia-y-pasteleria/panaderia-envasada/pan-sin-gluten
+- Panadería Envasada (Mostrar todo) -> https://www.jumbo.cl/panaderia-y-pasteleria/panaderia-envasada
+- Tortas -> https://www.jumbo.cl/panaderia-y-pasteleria/pasteleria/tortas
+- Pan de Pascua -> https://www.jumbo.cl/panaderia-y-pasteleria/pasteleria/pan-de-pascua
+- Kuchen, Pie y Tartaletas -> https://www.jumbo.cl/panaderia-y-pasteleria/pasteleria/kuchen-pie-y-tartaletas
+- Muffins, Queques y Magdalenas -> https://www.jumbo.cl/panaderia-y-pasteleria/pasteleria/muffins-queques-y-magdalenas
+- Pastelería (Mostrar todo) -> https://www.jumbo.cl/panaderia-y-pasteleria/pasteleria
+- Masas para Pizza -> https://www.jumbo.cl/panaderia-y-pasteleria/masas-y-tortillas/masas-para-pizza
+- Tortillas -> https://www.jumbo.cl/panaderia-y-pasteleria/masas-y-tortillas/tortillas
+- Masas Empanadas y Pascualinas -> https://www.jumbo.cl/panaderia-y-pasteleria/masas-y-tortillas/masas-empanadas-y-pascualinas
+- Otras Masas -> https://www.jumbo.cl/panaderia-y-pasteleria/masas-y-tortillas/otras-masas
+- Masas y Tortillas (Mostrar todo) -> https://www.jumbo.cl/panaderia-y-pasteleria/masas-y-tortillas
+
+Scrape: Pan Artesanal
+🧪 Dump BFF guardado: debug_bff\bff_pan_artesanal_p1.json
+  productos: 12
+
+Scrape: Pan Especial
+🧪 Dump BFF guardado: debug_bff\bff_pan_especial_p1.json
+  productos: 22
+
+Scrape: Pan Tradicional
+🧪 Dump BFF guardado: debug_bff\bff_pan_tradicional_p1.json
+  productos: 9
+
+Scrape: Pan Ciabatta
+🧪 Dump BFF guardado: debug_bff\bff_pan_ciabatta_p1.json
+  productos: 3
+
+Scrape: Panadería Granel (Mostrar todo)
+🧪 Dump BFF guardado: debug_bff\bff_panader_a_granel_mostrar_todo_p1.json
+  productos: 40
+
+Scrape: Pan de Molde
+🧪 Dump BFF guardado: debug_bff\bff_pan_de_molde_p1.json
+  productos: 40
+
+Scrape: Pan Congelado y Precocido
+🧪 Dump BFF guardado: debug_bff\bff_pan_congelado_y_precocido_p1.json
+  productos: 13
+
+Scrape: Pan Integral y Funcional
+🧪 Dump BFF guardado: debug_bff\bff_pan_integral_y_funcional_p1.json
+  productos: 16
+
+Scrape: Pan sin Gluten
+🧪 Dump BFF guardado: debug_bff\bff_pan_sin_gluten_p1.json
+  productos: 17
+
+Scrape: Panadería Envasada (Mostrar todo)
+🧪 Dump BFF guardado: debug_bff\bff_panader_a_envasada_mostrar_todo_p1.json
+  productos: 40
+
+Scrape: Tortas
+🧪 Dump BFF guardado: debug_bff\bff_tortas_p1.json
+  productos: 40
+
+Scrape: Pan de Pascua
+🧪 Dump BFF guardado: debug_bff\bff_pan_de_pascua_p1.json
+  productos: 3
+
+Scrape: Kuchen, Pie y Tartaletas
+🧪 Dump BFF guardado: debug_bff\bff_kuchen_pie_y_tartaletas_p1.json
+  productos: 33
+
+Scrape: Muffins, Queques y Magdalenas
+🧪 Dump BFF guardado: debug_bff\bff_muffins_queques_y_magdalenas_p1.json
+  productos: 40
+
+Scrape: Pastelería (Mostrar todo)
+🧪 Dump BFF guardado: debug_bff\bff_pasteler_a_mostrar_todo_p1.json
+  productos: 40
+
+Scrape: Masas para Pizza
+🧪 Dump BFF guardado: debug_bff\bff_masas_para_pizza_p1.json
+  productos: 11
+
+Scrape: Tortillas
+🧪 Dump BFF guardado: debug_bff\bff_tortillas_p1.json
+  productos: 31
+
+Scrape: Masas Empanadas y Pascualinas
+🧪 Dump BFF guardado: debug_bff\bff_masas_empanadas_y_pascualinas_p1.json
+  productos: 12
+
+Scrape: Otras Masas
+🧪 Dump BFF guardado: debug_bff\bff_otras_masas_p1.json
+  productos: 8
+
+Scrape: Masas y Tortillas (Mostrar todo)
+🧪 Dump BFF guardado: debug_bff\bff_masas_y_tortillas_mostrar_todo_p1.json
+  productos: 40
+
+Total filas: 470
+CSV generado: output\panaderia_pasteleria\jumbo_panaderia_y_pasteleria_20260303_164511.csv

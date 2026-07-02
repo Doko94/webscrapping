@@ -1,0 +1,1888 @@
+{
+  "products": [
+    {
+      "productId": "77139",
+      "reference": "1806579",
+      "sponsoredId": null,
+      "slug": "molde-fibra-clean-label-380-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "166",
+        "573",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan de Molde",
+        "Panadería envasada",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "1057",
+        "17846",
+        "18271",
+        "18637",
+        "25638"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77393",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.78,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 3833,
+          "ppumListPrice": 3833,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310727-250-250/Pan-Molde-Fibra-Clean-Label-780-g.jpg?v=638776392129370000"
+          ],
+          "name": "Pan Molde Fibra Clean Label 780 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "77138",
+      "reference": "1806578",
+      "sponsoredId": null,
+      "slug": "molde-proteina-clean-label-380-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "166",
+        "573",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan de Molde",
+        "Panadería envasada",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "1057",
+        "17846",
+        "18637",
+        "25638"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77392",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.55,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 3618,
+          "ppumListPrice": 3618,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310707-250-250/Pan-Molde-Wholegrain-Clean-Label-550-g.jpg?v=638776392082000000"
+          ],
+          "name": "Pan Molde Wholegrain Clean Label 550 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115412",
+      "reference": "1932111",
+      "sponsoredId": null,
+      "slug": "pan-molde-castano-blanco-s-lactosa-770g-1932111",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "166",
+        "573"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan de Molde",
+        "Panadería envasada"
+      ],
+      "collections": [
+        "18636",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Castaño",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115677",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.77,
+          "price": 2590,
+          "listPrice": 2990,
+          "ppumPrice": 3364,
+          "ppumListPrice": 3883,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/424290-250-250/Pan-Molde-Casta%C3%B1o-Blanco-XL-Sin-Lactosa-770-g.jpg?v=638810457000100000"
+          ],
+          "name": "Pan Molde Castaño Blanco XL Sin Lactosa 770 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2590 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2590,
+              "ppumPrice": 3364,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138000",
+      "reference": "1996649",
+      "sponsoredId": null,
+      "slug": "pan-pita-ideal-blanco-cero-cero-8un-1996649",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "167",
+        "573"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan Pita",
+        "Panadería envasada"
+      ],
+      "collections": [
+        "18636"
+      ],
+      "brand": "Ideal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138294",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 8,
+          "price": 1790,
+          "listPrice": 1790,
+          "ppumPrice": 224,
+          "ppumListPrice": 224,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/329012-250-250/PAN-PITA-IDEAL-BLANCO-CERO-CERO-8UN.jpg?v=638776431452370000"
+          ],
+          "name": "Pan Pita Ideal Blanco Cero Cero 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139505",
+      "reference": "2003313",
+      "sponsoredId": null,
+      "slug": "esponja-vileda-ultrafresh-acanalada-3un-2003313",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "166",
+        "573"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan de Molde",
+        "Panadería envasada"
+      ],
+      "collections": [
+        "18636",
+        "23175",
+        "25630"
+      ],
+      "brand": "Fuchs",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139799",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.6,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 4983,
+          "ppumListPrice": 4983,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/332268-250-250/Pan-Molde-Fuchs-Linaza-Chia-600-g.jpg?v=638776433925270000"
+          ],
+          "name": "Pan Molde Fuchs Linaza Chia 600 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139123",
+      "reference": "2000954",
+      "sponsoredId": null,
+      "slug": "molde-blanco-jumbo-artesanal-1kg-2000954",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "166",
+        "573",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan de Molde",
+        "Panadería envasada",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "18637"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139419",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 3490,
+          "ppumListPrice": 3490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/331739-250-250/Pan-de-Molde-Blanco-Jumbo-Artesanal-1-kg.jpg?v=638776433413570000"
+          ],
+          "name": "Pan Molde Blanco 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126275",
+      "reference": "1960916",
+      "sponsoredId": null,
+      "slug": "pan-molde-kingsbury-perfecto-duo-580g-1960916",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "166",
+        "573"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan de Molde",
+        "Panadería envasada"
+      ],
+      "collections": [
+        "18636"
+      ],
+      "brand": "Kingsbury",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126567",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.58,
+          "price": 3790,
+          "listPrice": 3790,
+          "ppumPrice": 6534,
+          "ppumListPrice": 6534,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/391932-250-250/Pan-Molde-Kingsbury-Perfecto-Duo-580-g.jpg?v=638776869616130000"
+          ],
+          "name": "Pan Molde Kingsbury Perfecto Dúo 580 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139508",
+      "reference": "2005174",
+      "sponsoredId": null,
+      "slug": "cr-dental-sensodyne-complete-prot-140gr-2005174",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "166",
+        "573"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan de Molde",
+        "Panadería envasada"
+      ],
+      "collections": [
+        "18636"
+      ],
+      "brand": "Fuchs",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139802",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.6,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 4983,
+          "ppumListPrice": 4983,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/332377-250-250/Pan-Molde-Fuchs-Calabaza-Nuez-600-g.jpg?v=638776434009730000"
+          ],
+          "name": "Pan Molde Fuchs Calabaza Nuez 600 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "79966",
+      "reference": "1819587",
+      "sponsoredId": null,
+      "slug": "molde-sarraceno-clean-label-800-gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "166",
+        "573",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan de Molde",
+        "Panadería envasada",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "1057",
+        "17846",
+        "18271",
+        "18637",
+        "25630",
+        "25638"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "80219",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 3890,
+          "listPrice": 3890,
+          "ppumPrice": 4863,
+          "ppumListPrice": 4863,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310869-250-250/Pan-Molde-Sarraceno-Clean-Label-800-g.jpg?v=638776392435400000"
+          ],
+          "name": "Pan Molde Sarraceno Clean Label 800 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "8857",
+      "reference": "254874",
+      "sponsoredId": null,
+      "slug": "pan-de-molde-centeno-vollkorn-schwarzbrot-lib",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "166",
+        "573"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan de Molde",
+        "Panadería envasada"
+      ],
+      "collections": [
+        "18636"
+      ],
+      "brand": "Vollkorn",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9058",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.75,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 5320,
+          "ppumListPrice": 5320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301228-250-250/Pan-de-molde-centeno-Schwarzbrot-750-g.jpg?v=638776374675200000"
+          ],
+          "name": "Pan Molde Vollkorn Centeno Schwarzbrot 750 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156416",
+      "reference": "2049372",
+      "sponsoredId": null,
+      "slug": "molde-multigrano-proteina-400g-2049372",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "166",
+        "573"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan de Molde",
+        "Panadería envasada"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Castaño",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156738",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 1990,
+          "listPrice": 2290,
+          "ppumPrice": 4975,
+          "ppumListPrice": 5725,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/560578-250-250/Pan-de-Molde-Multigrano-Proteina-400-g.jpg?v=639033992361130000"
+          ],
+          "name": "Pan de Molde Multigrano Proteína 400 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1990,
+              "ppumPrice": 4975,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139122",
+      "reference": "2000953",
+      "sponsoredId": null,
+      "slug": "molde-wholegrain-jumbo-artesanal-1kg-2000953",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "166",
+        "573",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan de Molde",
+        "Panadería envasada",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "18637"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139417",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 3490,
+          "ppumListPrice": 3490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/331660-250-250/Pan-de-Molde-Wholegrain-Jumbo-Artesanal-1-kg.jpg?v=638776433342670000"
+          ],
+          "name": "Pan Molde Wholegrain 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156421",
+      "reference": "2049375",
+      "sponsoredId": null,
+      "slug": "molde-multigrano-proteina-620g-2049375",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "166",
+        "573"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan de Molde",
+        "Panadería envasada"
+      ],
+      "collections": [],
+      "brand": "Castaño",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156743",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.62,
+          "price": 2790,
+          "listPrice": 2790,
+          "ppumPrice": 4500,
+          "ppumListPrice": 4500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/560596-250-250/Pan-de-Molde-Integral-Multigrano-Proteina-620-g.jpg?v=639033992426270000"
+          ],
+          "name": "Pan de Molde Integral Multigrano Proteína 620 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "100331",
+      "reference": "1864599",
+      "sponsoredId": null,
+      "slug": "pan-rustico-precocido-6-un-cuisine-and-co-1864599",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "171",
+        "573",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan Congelado y precocido",
+        "Panadería envasada",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "18637",
+        "25630",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "100599",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 6,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 582,
+          "ppumListPrice": 582,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313531-250-250/Ciabatta-Rustica-Cuisine---Co-Precocido-6-un.jpg?v=638776399856300000"
+          ],
+          "name": "Ciabatta Rústica Cuisine & Co Precocido 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "8915",
+      "reference": "254991",
+      "sponsoredId": null,
+      "slug": "pan-pita-integral-castano-8-unid-300-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "167",
+        "573"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan Pita",
+        "Panadería envasada"
+      ],
+      "collections": [
+        "18636",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Castaño",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9116",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 1590,
+          "listPrice": 1790,
+          "ppumPrice": 5300,
+          "ppumListPrice": 5967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/489359-250-250/Pan-Pita-Casta%C3%B1o-Integral-300-g-8-un.jpg?v=638899507339330000"
+          ],
+          "name": "Pan Pita Castaño Integral 300 g 8 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1590 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1590,
+              "ppumPrice": 5300,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138001",
+      "reference": "1996650",
+      "sponsoredId": null,
+      "slug": "pan-pita-ideal-integral-cero-cero-8un-1996650",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "167",
+        "573"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Pan Pita",
+        "Panadería envasada"
+      ],
+      "collections": [
+        "18636"
+      ],
+      "brand": "Ideal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138297",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 8,
+          "price": 1790,
+          "listPrice": 1790,
+          "ppumPrice": 224,
+          "ppumListPrice": 224,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/329149-250-250/PAN-PITA-IDEAL-INTEGRAL-CERO-CERO-8UN.jpg?v=638776431540770000"
+          ],
+          "name": "Pan Pita Ideal Integral Cero Cero 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Pan de Molde",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-de-molde",
+          "selected": false,
+          "quantity": 96,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cocktail y tostadas",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/cocktail-y-tostadas",
+          "selected": false,
+          "quantity": 33,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hot Dog y Hamburguesas",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/hot-dog-y-hamburguesas",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Pita",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-pita",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan sin gluten",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-sin-gluten",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Integral y Funcional Envasado",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-integral-y-funcional-envasado",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Congelado y precocido",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-congelado-y-precocido",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Rallado",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-rallado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Pan de Molde",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-de-molde",
+          "selected": false,
+          "quantity": 96,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cocktail y tostadas",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/cocktail-y-tostadas",
+          "selected": false,
+          "quantity": 33,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hot Dog y Hamburguesas",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/hot-dog-y-hamburguesas",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Pita",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-pita",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan sin gluten",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-sin-gluten",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Integral y Funcional Envasado",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-integral-y-funcional-envasado",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Congelado y precocido",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-congelado-y-precocido",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Rallado",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-rallado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Pan de Molde",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-de-molde",
+          "selected": false,
+          "quantity": 96,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cocktail y tostadas",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/cocktail-y-tostadas",
+          "selected": false,
+          "quantity": 33,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hot Dog y Hamburguesas",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/hot-dog-y-hamburguesas",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Pita",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-pita",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan sin gluten",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-sin-gluten",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Integral y Funcional Envasado",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-integral-y-funcional-envasado",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Congelado y precocido",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-congelado-y-precocido",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Rallado",
+          "value": "/panaderia-y-pasteleria/panaderia-envasada/pan-rallado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo Artesanal",
+          "value": "Jumbo Artesanal",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ideal",
+          "value": "Ideal",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fuchs",
+          "value": "Fuchs",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Castaño",
+          "value": "Castaño",
+          "selected": false,
+          "quantity": 35,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kingsbury",
+          "value": "Kingsbury",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vollkorn",
+          "value": "Vollkorn",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Selecta",
+          "value": "La Selecta",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mestemacher",
+          "value": "Mestemacher",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dilici",
+          "value": "Dilici",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Spagnolia",
+          "value": "Spagnolia",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pierre",
+          "value": "Pierre",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hamburgo",
+          "value": "Hamburgo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "NoGlut",
+          "value": "NoGlut",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bauducco",
+          "value": "Bauducco",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Selecta",
+          "value": "Selecta",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pilmayquén",
+          "value": "Pilmayquén",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "No+Gluten",
+          "value": "No+Gluten",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Burger",
+          "value": "Burger",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Valentina",
+          "value": "Valentina",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Villa Baviera",
+          "value": "Villa Baviera",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pilmayquen",
+          "value": "Pilmayquen",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vander Meulen",
+          "value": "Vander Meulen",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Prodal",
+          "value": "Prodal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Globeltalia",
+          "value": "Globeltalia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yanovsky",
+          "value": "Yanovsky",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Van Der Meulen",
+          "value": "Van Der Meulen",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Schar",
+          "value": "Schar",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Leimer",
+          "value": "Leimer",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "De Origen",
+          "value": "De Origen",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cena",
+          "value": "Cena",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Santiveri",
+          "value": "Santiveri",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bio Zentrale",
+          "value": "Bio Zentrale",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Orgran",
+          "value": "Orgran",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bredenmaster",
+          "value": "Bredenmaster",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo",
+          "value": "Jumbo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Pan de Molde Integral",
+          "value": "Pan de Molde Integral",
+          "selected": false,
+          "quantity": 56,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan de Molde Blanco",
+          "value": "Pan de Molde Blanco",
+          "selected": false,
+          "quantity": 33,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Marraqueta",
+          "value": "Pan Marraqueta",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Hallulla",
+          "value": "Pan Hallulla",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan de Masa Madre",
+          "value": "Pan de Masa Madre",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Pita",
+          "value": "Pan Pita",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Centeno",
+          "value": "Pan Centeno",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Hamburguesa",
+          "value": "Pan Hamburguesa",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Pita Integral",
+          "value": "Pan Pita Integral",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Ciabatta",
+          "value": "Pan Ciabatta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan de Completo",
+          "value": "Pan de Completo",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Mini Baguette",
+          "value": "Pan Mini Baguette",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Canapé y Tapaditos",
+          "value": "Pan Canapé y Tapaditos",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan de Hoja",
+          "value": "Pan de Hoja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Amasado",
+          "value": "Pan Amasado",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Parrillero",
+          "value": "Pan Parrillero",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tostadas y Tostaditas",
+          "value": "Tostadas y Tostaditas",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Integral",
+          "value": "Pan Integral",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Rallado",
+          "value": "Pan Rallado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Árabe",
+          "value": "Pan Árabe",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Baguette",
+          "value": "Pan Baguette",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Pumpernickel",
+          "value": "Pan Pumpernickel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crutones",
+          "value": "Crutones",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pan Dulce",
+          "value": "Pan Dulce",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Grisines",
+          "value": "Grisines",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 212,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 205,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 198,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 198,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 183,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 161,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 144,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 123,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 120,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 110,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 59,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Hecho en Jumbo",
+      "key": "Hecho en Jumbo",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "No",
+          "selected": false,
+          "quantity": 171,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Si",
+          "value": "Si",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 173,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 51,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1190,
+          "maxValue": 20990
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 192,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 224,
+  "metaTag": {
+    "title": "Panadería Envasada | Jumbo.cl",
+    "description": "Nuestra sección de panadería envasada cuenta con las opciones perfectas para que elabores deliciosos sándwiches fácil y rápido. ¡Compra 100% online!"
+  }
+}

@@ -1,0 +1,1495 @@
+{
+  "products": [
+    {
+      "productId": "9128",
+      "reference": "1210592",
+      "sponsoredId": null,
+      "slug": "tortillas-mexicanas-tia-rosa-24-unid-pack-fie",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "25649"
+      ],
+      "brand": "Tía Rosa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9329",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.6,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 6650,
+          "ppumListPrice": 6650,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301045-250-250/Tortillas-Tia-Rosa-Pack-Fiesta-24-un.jpg?v=638776374422900000"
+          ],
+          "name": "Tortillas Tía Rosa Pack Fiesta 24 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "151010",
+      "reference": "2007085",
+      "sponsoredId": null,
+      "slug": "tort-amarilla-ort-2007085",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "14881",
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "151308",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.117,
+          "price": 3192,
+          "listPrice": 3990,
+          "ppumPrice": 27282,
+          "ppumListPrice": 34103,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/488789-250-250/Tortilla-Maiz-Amarillo-Tacos-Ortega-117-g.jpg?v=638896701015470000"
+          ],
+          "name": "Tortilla Maíz Amarillo Tacos Ortega 117 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 3192,
+              "ppumPrice": 27282,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "121746",
+      "reference": "1924630",
+      "sponsoredId": null,
+      "slug": "prepizza-metro-castano-1924630",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "163"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Masas para Pizza"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Castaño",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "121878",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 2890,
+          "listPrice": 3690,
+          "ppumPrice": 2890,
+          "ppumListPrice": 3690,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/387562-250-250/PREPIZZA-METRO-CASTANO.jpg?v=638776852196700000"
+          ],
+          "name": "Pre Pizza Castaño Metro",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2890 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2890,
+              "ppumPrice": 2890,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11560",
+      "reference": "1691692",
+      "sponsoredId": null,
+      "slug": "masa-para-tarta-light-avanti-con-separadores-350-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "539"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Masas empanadas y pascualinas"
+      ],
+      "collections": [
+        "19270"
+      ],
+      "brand": "Avanti",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11805",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 9971,
+          "ppumListPrice": 9971,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/351024-250-250/Principal-11755.jpg?v=638776683615400000"
+          ],
+          "name": "Masa Pascualina Redonda Light 350 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "92421",
+      "reference": "1841333",
+      "sponsoredId": null,
+      "slug": "pack-calentador-tortilla-17-cm",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [],
+      "brand": "Saniito",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "92685",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 7990,
+          "ppumListPrice": 7990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/367786-250-250/Pack-calentador-Tortilla-17-cm-2-172026402.jpg?v=638776769461230000"
+          ],
+          "name": "Pack Calentador Saniito + 2 Paquetes de Tortillas 17 cm 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "86668",
+      "reference": "1819242",
+      "sponsoredId": null,
+      "slug": "tortilla-de-maiz-9-cms-24-un",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164",
+        "831",
+        "999",
+        "1003"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Gluten"
+      ],
+      "collections": [
+        "7956"
+      ],
+      "brand": "Saniito",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "86938",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.24,
+          "price": 2890,
+          "listPrice": 2890,
+          "ppumPrice": 12042,
+          "ppumListPrice": 12042,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365885-250-250/Mini-tortilla-de-maiz-sin-gluten-24-un.jpg?v=638776761018530000"
+          ],
+          "name": "Mini Tortilla de Maíz Saniito Sin Gluten 24 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "22578",
+      "reference": "445297",
+      "sponsoredId": null,
+      "slug": "masa-tartaletas-y-guiches-saint-jacques-230-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "165"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Otras Masas"
+      ],
+      "collections": [
+        "23984",
+        "23985",
+        "25295"
+      ],
+      "brand": "Saint Jacques",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "22897",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.23,
+          "price": 3290,
+          "listPrice": 3290,
+          "ppumPrice": 14304,
+          "ppumListPrice": 14304,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/354095-250-250/445297.jpg?v=638776700734330000"
+          ],
+          "name": "Masa Hoja Saint Jacques Fresca 230 g 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "94288",
+      "reference": "1747547",
+      "sponsoredId": null,
+      "slug": "masa-pascualina-degustar-400-grs",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "539"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Masas empanadas y pascualinas"
+      ],
+      "collections": [],
+      "brand": "Degustar",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "94551",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3690,
+          "listPrice": 3690,
+          "ppumPrice": 9225,
+          "ppumListPrice": 9225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/368505-250-250/Masa-Pascualina-400-g-1-478222.jpg?v=638776772982730000"
+          ],
+          "name": "Masa Pascualina Degustar 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "8780",
+      "reference": "1624000",
+      "sponsoredId": null,
+      "slug": "tapa-para-empanadas-degustar-12-unid-horno",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "539"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Masas empanadas y pascualinas"
+      ],
+      "collections": [],
+      "brand": "Degustar",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "8981",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.36,
+          "price": 2790,
+          "listPrice": 2790,
+          "ppumPrice": 7750,
+          "ppumListPrice": 7750,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/349640-250-250/Principal-1402.jpg?v=638776677840530000"
+          ],
+          "name": "Tapas Empanadas Degustar para Horno 360 g 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126930",
+      "reference": "1951502",
+      "sponsoredId": null,
+      "slug": "tortilla-fajita-10-un-cuisine-and-co-1951502",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "18770",
+        "25638",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127223",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 10,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 199,
+          "ppumListPrice": 199,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319257-250-250/Tortilla-Fajita-10-un.jpg?v=638776417104530000"
+          ],
+          "name": "Tortilla Fajita 300 g 10 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "82340",
+      "reference": "1802693",
+      "sponsoredId": null,
+      "slug": "tapas-empanadas-de-horno-300-g-cuisine-and-co-1802693",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "539",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Masas empanadas y pascualinas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "82608",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 3590,
+          "listPrice": 3590,
+          "ppumPrice": 11967,
+          "ppumListPrice": 11967,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/364994-250-250/Tapas-empanadas-de-horno-300-g.jpg?v=638776756811230000"
+          ],
+          "name": "Tapas Empanadas de Horno Cuisine & Co 300 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "199",
+      "reference": "1624001",
+      "sponsoredId": null,
+      "slug": "tapa-para-empanadas-degustar-12-unid-freir",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "539"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Masas empanadas y pascualinas"
+      ],
+      "collections": [],
+      "brand": "Degustar",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "201",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 2790,
+          "listPrice": 2790,
+          "ppumPrice": 7971,
+          "ppumListPrice": 7971,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/297736-250-250/Tapas-empanadas-para-freir-12-un-350-g.jpg?v=638775742728500000"
+          ],
+          "name": "Tapas Empanadas Degustar para Freír 350 g 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127139",
+      "reference": "1964137",
+      "sponsoredId": null,
+      "slug": "tortilla-ideal-rapidita-tomate-200g-1964137",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Ideal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127433",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1290,
+          "listPrice": 1790,
+          "ppumPrice": 6450,
+          "ppumListPrice": 8950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393122-250-250/Tortilla-Ideal-Rapiditas-Tomate-200-g.jpg?v=638776873462100000"
+          ],
+          "name": "Tortilla Ideal Rapidita Tomate 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1290 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1290,
+              "ppumPrice": 6450,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "8792",
+      "reference": "1238044",
+      "sponsoredId": null,
+      "slug": "prepizza-ideal-750-g-3-unid-masa-rectangular-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "163"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Masas para Pizza"
+      ],
+      "collections": [
+        "22523"
+      ],
+      "brand": "Ideal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "8993",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.75,
+          "price": 3590,
+          "listPrice": 3590,
+          "ppumPrice": 4787,
+          "ppumListPrice": 4787,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/349651-250-250/Pre-pizza-1-metro-3-un-750-g.jpg?v=638776677902130000"
+          ],
+          "name": "Pre Pizza Ideal 1 Metro 750 g 3 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "92871",
+      "reference": "1748187",
+      "sponsoredId": null,
+      "slug": "pre-pizza-a-la-piedra-esp-saab-264-gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "163"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Masas para Pizza"
+      ],
+      "collections": [],
+      "brand": "SAAB Spa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "93135",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.264,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 7538,
+          "ppumListPrice": 7538,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/368014-250-250/Pre-pizza-a-la-piedra-264-g.jpg?v=638776770650230000"
+          ],
+          "name": "Pre Pizza A La Piedra 264 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "82357",
+      "reference": "1829199",
+      "sponsoredId": null,
+      "slug": "tapas-empanadas-criollas-de-20-cm-690-g-cuisine-and-co-1829199",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "539",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Masas empanadas y pascualinas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "82625",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.69,
+          "price": 5690,
+          "listPrice": 5690,
+          "ppumPrice": 8246,
+          "ppumListPrice": 8246,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365005-250-250/Tapas-empanadas-criollas-de-20-cm-690-g-1-147882522.jpg?v=638776756856500000"
+          ],
+          "name": "Tapas Empanadas Cuisine & Co Criollas de 20 cm 690 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Tortillas",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/tortillas",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas empanadas y pascualinas",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/masas-empanadas-y-pascualinas",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas para Pizza",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/masas-para-pizza",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Otras Masas",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/otras-masas",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Tortillas",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/tortillas",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas empanadas y pascualinas",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/masas-empanadas-y-pascualinas",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas para Pizza",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/masas-para-pizza",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Otras Masas",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/otras-masas",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Tortillas",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/tortillas",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas empanadas y pascualinas",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/masas-empanadas-y-pascualinas",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas para Pizza",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/masas-para-pizza",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Otras Masas",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/otras-masas",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pancho Villa",
+          "value": "Pancho Villa",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ideal",
+          "value": "Ideal",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tía Rosa",
+          "value": "Tía Rosa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Saniito",
+          "value": "Saniito",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo",
+          "value": "Jumbo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Castaño",
+          "value": "Castaño",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Old El Paso",
+          "value": "Old El Paso",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Degustar",
+          "value": "Degustar",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Avanti",
+          "value": "Avanti",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Saint Jacques",
+          "value": "Saint Jacques",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Horeb",
+          "value": "Horeb",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ortega",
+          "value": "Ortega",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "SAAB Spa",
+          "value": "SAAB Spa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pilmayquén",
+          "value": "Pilmayquén",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "No+Gluten",
+          "value": "No+Gluten",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Misia Lolo",
+          "value": "Misia Lolo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 53,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 51,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 53,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 35,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Tortillas",
+          "value": "Tortillas",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tortillas Integrales",
+          "value": "Tortillas Integrales",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pre Mezclas",
+          "value": "Pre Mezclas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas Pizza",
+          "value": "Masas Pizza",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas Empanadas",
+          "value": "Masas Empanadas",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas Tartas",
+          "value": "Masas Tartas",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas Pascualina",
+          "value": "Masas Pascualina",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sopaipillas",
+          "value": "Sopaipillas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas Panqueques",
+          "value": "Masas Panqueques",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Masas Sopaipillas",
+          "value": "Masas Sopaipillas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 600,
+          "maxValue": 7992
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Hecho en Jumbo",
+      "key": "Hecho en Jumbo",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "No",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 63,
+  "metaTag": {
+    "title": "Masas y Tortillas | Jumbo.cl",
+    "description": "¡Sorprende a tus comensales con recetas clásicas! En la sección de masas y tortillas encontrarás masa de pizza, empanadas y tortillas ideales para tu junta."
+  }
+}

@@ -1,0 +1,1348 @@
+{
+  "products": [
+    {
+      "productId": "146914",
+      "reference": "2028565",
+      "sponsoredId": null,
+      "slug": "toallas-humedas-the-wipes-desech-wc-50un-2028565",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "235",
+        "252",
+        "394"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Bebé",
+        "Jabones Íntimos y Pañitos Húmedos",
+        "Pañales y Toallas Húmedas"
+      ],
+      "collections": [
+        "21583",
+        "25338"
+      ],
+      "brand": "The Wipes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147209",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 50,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 60,
+          "ppumListPrice": 60,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/415071-250-250/TOALLAS-HUMEDAS-THE-WIPES-DESECHWC-50UN.jpg?v=638802480685330000"
+          ],
+          "name": "Toallas Húmedas The Wipes Desechables para Wc 50 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "108173",
+      "reference": "1901616",
+      "sponsoredId": null,
+      "slug": "jabon-intimo-lactovit-urea-250ml-1901616",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [],
+      "brand": "Lactovit",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "108441",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 6190,
+          "listPrice": 6190,
+          "ppumPrice": 2476,
+          "ppumListPrice": 2476,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/376694-250-250/Jabon-intimo-urea-250-ml.jpg?v=638776808692200000"
+          ],
+          "name": "Jabón Íntimo Lactovit Urea 250 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73862",
+      "reference": "1789787",
+      "sponsoredId": null,
+      "slug": "panitos-humedos-nosotras-sensiti-v-16-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "17846",
+        "27499",
+        "27501"
+      ],
+      "brand": "Nosotras",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74117",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 16,
+          "price": 1500,
+          "listPrice": 2090,
+          "ppumPrice": 94,
+          "ppumListPrice": 131,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362802-250-250/Pa%C3%B1itos-humedos-intimos-Sensitiv-16-un.jpg?v=638776745047200000"
+          ],
+          "name": "Pañitos Húmedos Íntimos Nosotras Sensitiv 16 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1500 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1500,
+              "ppumPrice": 94,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73863",
+      "reference": "1789788",
+      "sponsoredId": null,
+      "slug": "jabon-intimo-nosotras-sensiti-v-200-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "17846",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "27499",
+        "27501"
+      ],
+      "brand": "Nosotras",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74118",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 3990,
+          "listPrice": 5050,
+          "ppumPrice": 1995,
+          "ppumListPrice": 2525,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362809-250-250/Jabon-intimo-Sensitiv-200-ml.jpg?v=638776745073430000"
+          ],
+          "name": "Jabón Íntimo Nosotras Sensitiv 200 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 3",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 1995,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "125337",
+      "reference": "1961104",
+      "sponsoredId": null,
+      "slug": "jabon-intimo-vagisil-liq-dermo-ob-354ml-1961104",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "17846"
+      ],
+      "brand": "Dermo Vagisil",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "125632",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.354,
+          "price": 8990,
+          "listPrice": 8990,
+          "ppumPrice": 2540,
+          "ppumListPrice": 2540,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/391145-250-250/Jabon-Intimo-Vagisil-Dermo-Ob-354-ml.jpg?v=638776866465100000"
+          ],
+          "name": "Jabón Íntimo DermoVagisil Odor Block 354 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "92012",
+      "reference": "1800466",
+      "sponsoredId": null,
+      "slug": "jabon-intimo-protex-delic-care-200ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "17846",
+        "25786"
+      ],
+      "brand": "Protex",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "92276",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 5450,
+          "listPrice": 5450,
+          "ppumPrice": 2725,
+          "ppumListPrice": 2725,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312351-250-250/Jabon-Intimo-Protex-Delicate-Care-200-ml.jpg?v=638776396223930000"
+          ],
+          "name": "Jabón Líquido Protex Intimate Delicate 200 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "106062",
+      "reference": "1897127",
+      "sponsoredId": null,
+      "slug": "toallitas-wet-ones-antibacteriales-15un-1897127",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "25068"
+      ],
+      "brand": "Wet Ones",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "106331",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 15,
+          "price": 2090,
+          "listPrice": 2090,
+          "ppumPrice": 139,
+          "ppumListPrice": 139,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/375540-250-250/Toallitas-antibacteriales-15un.jpg?v=638776804106200000"
+          ],
+          "name": "Toallas Húmedas Wet Ones Antibacteriales 15 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75978",
+      "reference": "1802266",
+      "sponsoredId": null,
+      "slug": "toallas-bentley-intimas-femenina-20-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "17846",
+        "26912",
+        "27367"
+      ],
+      "brand": "Bentley",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "76233",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 20,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 110,
+          "ppumListPrice": 110,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363609-250-250/Toallas-Intimas-Bentley-20-un.jpg?v=638776749133900000"
+          ],
+          "name": "Toallas Íntimas Bentley 20 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "33652",
+      "reference": "1631121",
+      "sponsoredId": null,
+      "slug": "jabon-nivea-intimo-sensitive-250-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "17846",
+        "25692",
+        "25695"
+      ],
+      "brand": "Nivea",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "37672",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 7790,
+          "listPrice": 7790,
+          "ppumPrice": 3116,
+          "ppumListPrice": 3116,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/489798-250-250/Jabon-Intimo-Nivea-Suave-250-ml.jpg?v=638901254142500000"
+          ],
+          "name": "Jabón Íntimo Nivea Sensitive 250 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "96361",
+      "reference": "1857572",
+      "sponsoredId": null,
+      "slug": "toallita-emumed-hygienic-50un",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "22523",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Emumed",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "96626",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 50,
+          "price": 1200,
+          "listPrice": 1650,
+          "ppumPrice": 24,
+          "ppumListPrice": 33,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/544242-250-250/Toallita-Emumed-Hygienic-50-un.jpg?v=638992672855670000"
+          ],
+          "name": "Toallita Emumed Hygienic 50 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1200 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1200,
+              "ppumPrice": 24,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122669",
+      "reference": "1956646",
+      "sponsoredId": null,
+      "slug": "jabon-intimo-nosotras-pro-defense-200ml-1956646",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "17846",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695"
+      ],
+      "brand": "Nosotras",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122961",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 5050,
+          "listPrice": 5050,
+          "ppumPrice": 2525,
+          "ppumListPrice": 2525,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318169-250-250/Jabon-Intimo-Nosotras-Pro-Defense-V-200-ml.jpg?v=638776413770170000"
+          ],
+          "name": "Jabón Íntimo Nosotras Pro-Defense V 200 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153426",
+      "reference": "2041432",
+      "sponsoredId": null,
+      "slug": "toallas-humedas-b-2041432",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "25182",
+        "25333",
+        "25334",
+        "25422",
+        "25628",
+        "25695"
+      ],
+      "brand": "Motherna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153732",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 60,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 45,
+          "ppumListPrice": 45,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/487578-250-250/Toallitas-Humedas-Motherna-Bio-Agua-Mujer-60-un.jpg?v=638894124866630000"
+          ],
+          "name": "Toallas Húmedas Motherna Bio-Agua Mujer 60 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153424",
+      "reference": "2041430",
+      "sponsoredId": null,
+      "slug": "toallas-humedas-bi-2041430",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "25182",
+        "25333",
+        "25334",
+        "25422",
+        "25628",
+        "25695"
+      ],
+      "brand": "Motherna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153730",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 60,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 45,
+          "ppumListPrice": 45,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/487556-250-250/Toallitas-Humedas-Motherna-Bio-Agua-Hojas-60-un.jpg?v=638894124780600000"
+          ],
+          "name": "Toallas Húmedas Motherna Bio-Agua Hojas 60 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122685",
+      "reference": "1956647",
+      "sponsoredId": null,
+      "slug": "panitos-nosotras-pro-defense-16un-1956647",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "17846"
+      ],
+      "brand": "Nosotras",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122969",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 16,
+          "price": 2090,
+          "listPrice": 2090,
+          "ppumPrice": 131,
+          "ppumListPrice": 131,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318316-250-250/Pa%C3%B1itos-Humedos-Intimos-Nosotras-Pro-Defense-V-16-un.jpg?v=638776414015270000"
+          ],
+          "name": "Pañitos Húmedos Íntimos Nosotras Pro-Defense V 16 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137831",
+      "reference": "1996853",
+      "sponsoredId": null,
+      "slug": "jabon-intimo-dermo-vagisil-ph-354ml-1996853",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "17846"
+      ],
+      "brand": "Vagisil",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138124",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.354,
+          "price": 8990,
+          "listPrice": 8990,
+          "ppumPrice": 2540,
+          "ppumListPrice": 2540,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/329287-250-250/JABON-INTIMO-DERMO-VAGISIL-PH-354ML.jpg?v=638776431638570000"
+          ],
+          "name": "Jabón Íntimo Vagisil pH Balance 354 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "62178",
+      "reference": "1752101",
+      "sponsoredId": null,
+      "slug": "panitos-humed-nosotras-fresc-extre-16un",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "17846"
+      ],
+      "brand": "Nosotras",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "62547",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 16,
+          "price": 2090,
+          "listPrice": 2090,
+          "ppumPrice": 131,
+          "ppumListPrice": 131,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309569-250-250/Pa%C3%B1itos-Humedos-Intimos-Nosotras-Frescura-Extrema-16-un.jpg?v=638776389397670000"
+          ],
+          "name": "Pañitos Húmedos Íntimos Nosotras Frescura Extrema 16 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153425",
+      "reference": "2041431",
+      "sponsoredId": null,
+      "slug": "toallas-humedas-bi-2041431",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "25182",
+        "25333",
+        "25334",
+        "25422",
+        "25628",
+        "25695"
+      ],
+      "brand": "Motherna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153731",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 60,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 45,
+          "ppumListPrice": 45,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/487568-250-250/Toallitas-Humedas-Motherna-Bio-Agua-Baldosas-60-un.jpg?v=638894124824900000"
+          ],
+          "name": "Toallas Húmedas Motherna Bio-Agua Baldosas 60 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "78253",
+      "reference": "1813697",
+      "sponsoredId": null,
+      "slug": "jabon-frescura-extrema-200-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "17846",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695"
+      ],
+      "brand": "Nosotras",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "78522",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 5050,
+          "listPrice": 5050,
+          "ppumPrice": 2525,
+          "ppumListPrice": 2525,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363984-250-250/Jabon-intimo-Frescura-Extrema-200-ml.jpg?v=638776751486500000"
+          ],
+          "name": "Jabón Íntimo Nosotras Frescura Extrema 200 ml",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10000",
+      "reference": "1049614",
+      "sponsoredId": null,
+      "slug": "jabon-intimo-natural-nivea-intimate-250-cc-co",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "234",
+        "252"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Protección Femenina",
+        "Jabones Íntimos y Pañitos Húmedos"
+      ],
+      "collections": [
+        "17846",
+        "25692",
+        "25695"
+      ],
+      "brand": "Nivea",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10248",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 7790,
+          "listPrice": 7790,
+          "ppumPrice": 3116,
+          "ppumListPrice": 3116,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/489762-250-250/Jabon-Intimo-Nivea-Natural-250-ml.jpg?v=638901253977030000"
+          ],
+          "name": "Jabón Íntimo Nivea Natural 250 ml",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Jabones Íntimos y Pañitos Húmedos",
+          "value": "/cuidado-personal-y-bebe/proteccion-femenina/jabones-intimos-y-panitos-humedos",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Jabones Íntimos y Pañitos Húmedos",
+          "value": "/cuidado-personal-y-bebe/proteccion-femenina/jabones-intimos-y-panitos-humedos",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Jabones Íntimos y Pañitos Húmedos",
+          "value": "/cuidado-personal-y-bebe/proteccion-femenina/jabones-intimos-y-panitos-humedos",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Wet Ones",
+          "value": "Wet Ones",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nosotras",
+          "value": "Nosotras",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dermo Vagisil",
+          "value": "Dermo Vagisil",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lactovit",
+          "value": "Lactovit",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "The Wipes",
+          "value": "The Wipes",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Motherna",
+          "value": "Motherna",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Protex",
+          "value": "Protex",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bentley",
+          "value": "Bentley",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nivea",
+          "value": "Nivea",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Emumed",
+          "value": "Emumed",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vagisil",
+          "value": "Vagisil",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Toallas Húmedas",
+          "value": "Toallas Húmedas",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gel",
+          "value": "Gel",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jabones",
+          "value": "Jabones",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Repuestos",
+          "value": "Repuestos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apósitos",
+          "value": "Apósitos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Modelo",
+      "key": "Modelo",
+      "values": [
+        {
+          "displayName": "Baldosas",
+          "value": "Baldosas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Desechable WC",
+          "value": "Desechable WC",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hojas",
+          "value": "Hojas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mujer",
+          "value": "Mujer",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1200,
+          "maxValue": 8990
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 19,
+  "metaTag": {
+    "title": "Jabones Íntimos y Pañitos Humedos | Jumbo.cl",
+    "description": "Experimenta la frescura y una comodidad excepcional con los jabones íntimos y pañitos húmedos de Jumbo.cl. ¡Cuida tu higiene personal junto a nosotros!"
+  }
+}

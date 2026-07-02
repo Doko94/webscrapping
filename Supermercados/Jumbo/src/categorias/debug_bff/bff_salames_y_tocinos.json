@@ -1,0 +1,2916 @@
+{
+  "products": [
+    {
+      "productId": "10885",
+      "reference": "915897-KG",
+      "sponsoredId": null,
+      "slug": "salame-italiano-pf-gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11143",
+          "cartLimit": 15,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1660,
+          "listPrice": 1660,
+          "ppumPrice": 16600,
+          "ppumListPrice": 16600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350833-250-250/Salame-italiano-PF-granel.jpg?v=638776682915270000"
+          ],
+          "name": "Salame Italiano PF Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "81514",
+      "reference": "1812280",
+      "sponsoredId": null,
+      "slug": "salame-italiano-sj-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "25769",
+        "26912",
+        "26942",
+        "27345",
+        "27367"
+      ],
+      "brand": "San Jorge",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81786",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 19900,
+          "ppumListPrice": 19900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311260-250-250/Salame-italiano-100-g.jpg?v=638776393238600000"
+          ],
+          "name": "Salame Italiano San Jorge 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10875",
+      "reference": "444906-KG",
+      "sponsoredId": null,
+      "slug": "salame-llanquihue-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "22523",
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11133",
+          "cartLimit": 15,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2100,
+          "listPrice": 2100,
+          "ppumPrice": 21000,
+          "ppumListPrice": 21000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350822-250-250/Salame-laminado-granel.jpg?v=638776682882100000"
+          ],
+          "name": "Salame Llanquihue Lámina Tamaño Grande Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10891",
+      "reference": "1614669-KG",
+      "sponsoredId": null,
+      "slug": "salame-artesanal-receta-del-abuelo-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "25769",
+        "26912",
+        "26942",
+        "27345",
+        "27367"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11149",
+          "cartLimit": 15,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1860,
+          "listPrice": 1860,
+          "ppumPrice": 18600,
+          "ppumListPrice": 18600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350829-250-250/Principal-11353.jpg?v=638776682910870000"
+          ],
+          "name": "Salame Artesanal Receta del Abuelo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10894",
+      "reference": "1530151-KG",
+      "sponsoredId": null,
+      "slug": "salame-ahumado-san-jorge-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "22523",
+        "25769",
+        "26912",
+        "26942",
+        "27345",
+        "27367"
+      ],
+      "brand": "San Jorge",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11152",
+          "cartLimit": 15,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1759,
+          "listPrice": 1759,
+          "ppumPrice": 17590,
+          "ppumListPrice": 17590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350842-250-250/Principal-11354.jpg?v=638776682950830000"
+          ],
+          "name": "Salame Ahumado San Jorge Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10870",
+      "reference": "298017",
+      "sponsoredId": null,
+      "slug": "tocino-cortado-la-preferida-180-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11128",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 3590,
+          "listPrice": 4390,
+          "ppumPrice": 19944,
+          "ppumListPrice": 24389,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301890-250-250/Tocino-cortado-180-g.jpg?v=638776375514900000"
+          ],
+          "name": "Tocino Cortado La Preferida 180 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3590 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3590,
+              "ppumPrice": 19944,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132257",
+      "reference": "1982571",
+      "sponsoredId": null,
+      "slug": "salame-llanquihue-100-gr-1982571",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "22523",
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132543",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 3390,
+          "listPrice": 3390,
+          "ppumPrice": 33900,
+          "ppumListPrice": 33900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/400064-250-250/1982571-01_667079.jpg?v=638776899906470000"
+          ],
+          "name": "Salame Llanquihue 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "18206",
+      "reference": "444905-KG",
+      "sponsoredId": null,
+      "slug": "salame-metro-llanquihue-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "23175",
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "18532",
+          "cartLimit": 15,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2310,
+          "listPrice": 2310,
+          "ppumPrice": 23100,
+          "ppumListPrice": 23100,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352871-250-250/Salame-laminado-granel.jpg?v=638776694871770000"
+          ],
+          "name": "Salame Llanquihue Lámina Tamaño Normal Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10882",
+      "reference": "298020-KG",
+      "sponsoredId": null,
+      "slug": "panceta-pf-granel-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "24077",
+        "24736"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11140",
+          "cartLimit": 15,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2189,
+          "listPrice": 2189,
+          "ppumPrice": 21890,
+          "ppumListPrice": 21890,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301980-250-250/Tocino-PF-Granel.jpg?v=638776375644070000"
+          ],
+          "name": "Tocino PF Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10883",
+      "reference": "915898-KG",
+      "sponsoredId": null,
+      "slug": "salame-ahumado-pf-gra",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11141",
+          "cartLimit": 15,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1660,
+          "listPrice": 1660,
+          "ppumPrice": 16600,
+          "ppumListPrice": 16600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350828-250-250/Salame-ahumado-PF-granel.jpg?v=638776682895670000"
+          ],
+          "name": "Salame Ahumado PF Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137958",
+      "reference": "1997134-KG",
+      "sponsoredId": null,
+      "slug": "tocino-parrilla-jumbo-artesanal-granel-1997134-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "23175",
+        "25256",
+        "25334",
+        "25578",
+        "26499",
+        "26954",
+        "27419",
+        "27499",
+        "27501"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138251",
+          "cartLimit": 15,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.18,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 3958,
+          "listPrice": 3958,
+          "ppumPrice": 21990,
+          "ppumListPrice": 21990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/501763-250-250/Tocino-Parrilla-Al-Vacio-150-g.jpg?v=638923699219430000"
+          ],
+          "name": "Tocino Parrilla Al Vacío 180 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132251",
+      "reference": "1982568",
+      "sponsoredId": null,
+      "slug": "tocino-ahumado-llanquihue-150-gr-1982568",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "27363",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132536",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 3690,
+          "listPrice": 4790,
+          "ppumPrice": 24600,
+          "ppumListPrice": 31933,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/400060-250-250/Tocino-Ahumado-Llanquihue-150-g.jpg?v=638776899886400000"
+          ],
+          "name": "Tocino Ahumado Llanquihue 150 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3690 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3690,
+              "ppumPrice": 24600,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137957",
+      "reference": "1997135-KG",
+      "sponsoredId": null,
+      "slug": "tocino-jumbo-artesanal-granel-1997135-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "23175",
+        "25256",
+        "25334",
+        "25578",
+        "26499",
+        "26954",
+        "27419",
+        "27499",
+        "27501"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138254",
+          "cartLimit": 15,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.18,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 4678,
+          "listPrice": 4678,
+          "ppumPrice": 25990,
+          "ppumListPrice": 25990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/501761-250-250/Tocino-Al-Vacio-150-g.jpg?v=638923698682830000"
+          ],
+          "name": "Tocino Al Vacío 180 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73994",
+      "reference": "1789089",
+      "sponsoredId": null,
+      "slug": "salame-italiano-pf-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74249",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2050,
+          "listPrice": 2050,
+          "ppumPrice": 20500,
+          "ppumListPrice": 20500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310376-250-250/Salame-Italiano-PF-100-g.jpg?v=638776391406870000"
+          ],
+          "name": "Salame Italiano PF 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "119352",
+      "reference": "1938679",
+      "sponsoredId": null,
+      "slug": "salame-snackin-lp-50gr-1938679",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "119624",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.05,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 27800,
+          "ppumListPrice": 27800,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317184-250-250/Salame-Snackin-50-g.jpg?v=638776410925700000"
+          ],
+          "name": "Salame Snackin La Preferida 50 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X2000 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 2000,
+              "unitPrice": 1000,
+              "ppumPrice": 20000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "18341",
+      "reference": "1637353",
+      "sponsoredId": null,
+      "slug": "salamin-artesanal-receta-del-abuelo-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "26912",
+        "27367"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "18667",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 4250,
+          "listPrice": 4250,
+          "ppumPrice": 21250,
+          "ppumListPrice": 21250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352945-250-250/Principal-17348.jpg?v=638776695193130000"
+          ],
+          "name": "Salamín Artesanal Receta del Abuelo 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "91064",
+      "reference": "1844441",
+      "sponsoredId": null,
+      "slug": "gel-de-ducha-active-clean-250-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101",
+        "230",
+        "236",
+        "285",
+        "1009"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos",
+        "Cuidado Personal y Bebé",
+        "Cuidado Masculino",
+        "Packs de Cuidado y Belleza",
+        "Shampoo, Cremas y Ceras para Hombres"
+      ],
+      "collections": [
+        "17846",
+        "25182",
+        "25187",
+        "25333",
+        "25334",
+        "25422",
+        "25546",
+        "25692",
+        "25695",
+        "25741"
+      ],
+      "brand": "Nivea Men",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "91328",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 4790,
+          "listPrice": 4790,
+          "ppumPrice": 19160,
+          "ppumListPrice": 19160,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/490764-250-250/Gel-de-Ducha-Nivea-Men-Deep-Active-Clean-250-ml.jpg?v=638902582015470000"
+          ],
+          "name": "Gel de Ducha Nivea Men Active Clean Deep 250 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75954",
+      "reference": "1789715-KG",
+      "sponsoredId": null,
+      "slug": "salame-ahumado-la-preferida-granel-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25769",
+        "26942",
+        "27345",
+        "27499",
+        "27501"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "76209",
+          "cartLimit": 15,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1390,
+          "listPrice": 1716,
+          "ppumPrice": 13900,
+          "ppumListPrice": 17160,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/363594-250-250/Salame-ahumado-La-Preferida-granel-1-72799372.jpg?v=638776749058900000"
+          ],
+          "name": "Salame Ahumado La Preferida kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 13900 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1390,
+              "ppumPrice": 13900,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10896",
+      "reference": "1530157-KG",
+      "sponsoredId": null,
+      "slug": "salame-italiano-san-jorge-granel-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "22523",
+        "25769",
+        "26912",
+        "26942",
+        "27345",
+        "27367"
+      ],
+      "brand": "San Jorge",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11155",
+          "cartLimit": 15,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1759,
+          "listPrice": 1759,
+          "ppumPrice": 17590,
+          "ppumListPrice": 17590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350835-250-250/1530157.jpg?v=638776682937500000"
+          ],
+          "name": "Salame Italiano San Jorge Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103518",
+      "reference": "1884954",
+      "sponsoredId": null,
+      "slug": "pepperoni-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103786",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2350,
+          "listPrice": 2350,
+          "ppumPrice": 23500,
+          "ppumListPrice": 23500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314315-250-250/Pepperoni-100-g.jpg?v=638776401658700000"
+          ],
+          "name": "Pepperoni La Preferida 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "81515",
+      "reference": "1812281",
+      "sponsoredId": null,
+      "slug": "salame-ahumado-sj-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "25769",
+        "26912",
+        "26942",
+        "27345",
+        "27367"
+      ],
+      "brand": "San Jorge",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81787",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 19900,
+          "ppumListPrice": 19900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311272-250-250/Salame-ahumado-100-g.jpg?v=638776393265000000"
+          ],
+          "name": "Salame Ahumado San Jorge 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153568",
+      "reference": "2043257",
+      "sponsoredId": null,
+      "slug": "snack-mini-salamini-rec-del-abuelo-50g-2043257",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153878",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.05,
+          "price": 1490,
+          "listPrice": 1490,
+          "ppumPrice": 29800,
+          "ppumListPrice": 29800,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/484513-250-250/SNACK-MINI-SALAMINI-REC-DEL-ABUELO-50G.jpg?v=638889828874530000"
+          ],
+          "name": "Snack Mini Salamini Receta del Abuelo 50 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3X2 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026 1",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mxn",
+              "value": 2980,
+              "unitPrice": 993,
+              "ppumPrice": 19860,
+              "mQuantity": 3,
+              "nQuantity": 2,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137959",
+      "reference": "1997133-KG",
+      "sponsoredId": null,
+      "slug": "tocino-ingles-jumbo-artesanal-granel-1997133-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "23175",
+        "25256",
+        "25334",
+        "25578",
+        "26499",
+        "26954",
+        "27419",
+        "27499",
+        "27501"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138253",
+          "cartLimit": 15,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.18,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 3958,
+          "listPrice": 3958,
+          "ppumPrice": 21990,
+          "ppumListPrice": 21990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/501762-250-250/Tocino-Ingles-Al-Vacio-150-g.jpg?v=638923698889030000"
+          ],
+          "name": "Tocino Inglés Al Vacío 180 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "79965",
+      "reference": "1812279",
+      "sponsoredId": null,
+      "slug": "salame-la-preferida-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "80218",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 23900,
+          "ppumListPrice": 23900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310857-250-250/Salame-100-g.jpg?v=638776392402400000"
+          ],
+          "name": "Salame La Preferida 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "111281",
+      "reference": "1897787-KG",
+      "sponsoredId": null,
+      "slug": "salame-milano-beretta-granel-1897787-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "Beretta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "111548",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2019,
+          "listPrice": 2019,
+          "ppumPrice": 20190,
+          "ppumListPrice": 20190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/378480-250-250/Salame-milano-kg.jpg?v=638776815593270000"
+          ],
+          "name": "Salame Milano Beretta Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103514",
+      "reference": "1884952",
+      "sponsoredId": null,
+      "slug": "tocino-parrillero-180-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103779",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 3590,
+          "listPrice": 4390,
+          "ppumPrice": 19944,
+          "ppumListPrice": 24389,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314266-250-250/Tocino-parrillero-180-g.jpg?v=638776401554330000"
+          ],
+          "name": "Tocino Parrillero La Preferida 180 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3590 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3590,
+              "ppumPrice": 19944,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132258",
+      "reference": "1982569",
+      "sponsoredId": null,
+      "slug": "salame-laminado-llanquihue-150-gr-1982569",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "Llanquihue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132534",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 4190,
+          "listPrice": 4190,
+          "ppumPrice": 27933,
+          "ppumListPrice": 27933,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/400061-250-250/Salame-Laminado-Llanquihue-150-g.jpg?v=638776899888430000"
+          ],
+          "name": "Salame Llanquihue Laminado 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "147499",
+      "reference": "2029243-KG",
+      "sponsoredId": null,
+      "slug": "salame-laminado-granel-soler-2029243-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "Soler",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147792",
+          "cartLimit": 15,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1790,
+          "listPrice": 1790,
+          "ppumPrice": 17900,
+          "ppumListPrice": 17900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/430807-250-250/Salame-Laminado-Granel-Soler.jpg?v=638819699945470000"
+          ],
+          "name": "Salame Laminado A Granel Soler",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10567",
+      "reference": "1382539",
+      "sponsoredId": null,
+      "slug": "surtido-cocktail-receta-del-abuelo",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10819",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 4450,
+          "listPrice": 4450,
+          "ppumPrice": 29667,
+          "ppumListPrice": 29667,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350706-250-250/Surtido-Cocktail-Receta-del-Abuelo-150-g.jpg?v=638776682351470000"
+          ],
+          "name": "Surtido Cóctel Receta del Abuelo 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "131828",
+      "reference": "1839621",
+      "sponsoredId": null,
+      "slug": "salame-italiano-pf-75g-1839621",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132125",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.075,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 18533,
+          "ppumListPrice": 18533,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321319-250-250/Salame-Italiano-PF-75-g.jpg?v=638776422986000000"
+          ],
+          "name": "Salame Italiano PF 75 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10892",
+      "reference": "1382537",
+      "sponsoredId": null,
+      "slug": "salame-receta-del-abuelo-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "23175",
+        "25769",
+        "26942",
+        "27345",
+        "27499",
+        "27501"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11150",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2290,
+          "listPrice": 2290,
+          "ppumPrice": 22900,
+          "ppumListPrice": 22900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350832-250-250/Salame-Receta-del-Abuelo-100-g.jpg?v=638776682914000000"
+          ],
+          "name": "Salame Receta del Abuelo 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3600 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3600,
+              "unitPrice": 1800,
+              "ppumPrice": 18000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73995",
+      "reference": "1789090",
+      "sponsoredId": null,
+      "slug": "salame-ahumado-pf-100-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74250",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2050,
+          "listPrice": 2050,
+          "ppumPrice": 20500,
+          "ppumListPrice": 20500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310390-250-250/Salame-Ahumado-PF-100-g.jpg?v=638776391433000000"
+          ],
+          "name": "Salame Ahumado PF 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73676",
+      "reference": "1789615",
+      "sponsoredId": null,
+      "slug": "saiamini-snack-receta-del-abuelo",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "73930",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2650,
+          "listPrice": 2650,
+          "ppumPrice": 26500,
+          "ppumListPrice": 26500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362742-250-250/1789615-01_72819.jpg?v=638776744680270000"
+          ],
+          "name": "Salamini Snack Receta del Abuelo",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153507",
+      "reference": "2044557",
+      "sponsoredId": null,
+      "slug": "salame-snackin-la-preferida-6un-108g-2044557",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153822",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.108,
+          "price": 2990,
+          "listPrice": 4590,
+          "ppumPrice": 27685,
+          "ppumListPrice": 42500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/484540-250-250/SALAME-SNACKIN-LA-PREFERIDA-6UN-108G.jpg?v=638889829026830000"
+          ],
+          "name": "Salame Snackin La Preferida 108 g 6 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 3",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2990,
+              "ppumPrice": 27685,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10890",
+      "reference": "1628111",
+      "sponsoredId": null,
+      "slug": "salamin-italiano-pf-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11148",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 3750,
+          "listPrice": 3750,
+          "ppumPrice": 18750,
+          "ppumListPrice": 18750,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350830-250-250/Salamin-tipo-italiano-200-g.jpg?v=638776682911200000"
+          ],
+          "name": "Salamín Tipo Italiano PF 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "148957",
+      "reference": "2032650",
+      "sponsoredId": null,
+      "slug": "salame-pieza-200g-2032650",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "25769",
+        "26942",
+        "27318",
+        "27345"
+      ],
+      "brand": "Soler",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149253",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 3790,
+          "listPrice": 3790,
+          "ppumPrice": 18950,
+          "ppumListPrice": 18950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/436227-250-250/Salame-Pieza-Soler-200-g.jpg?v=638827842068200000"
+          ],
+          "name": "Salame Pieza Soler 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "131829",
+      "reference": "1839622",
+      "sponsoredId": null,
+      "slug": "salame-ahumado-pf-75g-1839622",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132126",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.075,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 18533,
+          "ppumListPrice": 18533,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321339-250-250/Salame-Ahumado-PF-75-g.jpg?v=638776423019600000"
+          ],
+          "name": "Salame Ahumado PF 75 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "119120",
+      "reference": "1939699",
+      "sponsoredId": null,
+      "slug": "salame-ahumado-receta-del-abuelo-100g-1939699",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "17846",
+        "25769",
+        "26942",
+        "27345",
+        "27499",
+        "27501"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "119416",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 2290,
+          "listPrice": 2290,
+          "ppumPrice": 22900,
+          "ppumListPrice": 22900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/384542-250-250/SALAME-AHUMADO-RECETA-DEL-ABUELO-100G.jpg?v=638776840637270000"
+          ],
+          "name": "Salame Ahumado Receta del Abuelo 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3600 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3600,
+              "unitPrice": 1800,
+              "ppumPrice": 18000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127534",
+      "reference": "1963612",
+      "sponsoredId": null,
+      "slug": "salame-milano-beretta-100-gr-1963612",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "Crazy Lazy",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127830",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 4790,
+          "listPrice": 4790,
+          "ppumPrice": 47900,
+          "ppumListPrice": 47900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319635-250-250/Salame-Milano-Beretta-100-g.jpg?v=638776417919800000"
+          ],
+          "name": "Salame Milano Beretta 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137980",
+      "reference": "1997802",
+      "sponsoredId": null,
+      "slug": "salame-ahumado-soler-150g-1997802",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "101"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Salames y Tocinos"
+      ],
+      "collections": [
+        "25769",
+        "26942",
+        "27345"
+      ],
+      "brand": "Soler",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138275",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 3050,
+          "listPrice": 3050,
+          "ppumPrice": 20333,
+          "ppumListPrice": 20333,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/431136-250-250/Salame-Ahumado-Soler-150-g.jpg?v=638819719207970000"
+          ],
+          "name": "Salame Ahumado Soler 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Salames y Tocinos",
+          "value": "/quesos-y-fiambres/fiambres/salames-y-tocinos",
+          "selected": false,
+          "quantity": 60,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Salames y Tocinos",
+          "value": "/quesos-y-fiambres/fiambres/salames-y-tocinos",
+          "selected": false,
+          "quantity": 60,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Salames y Tocinos",
+          "value": "/quesos-y-fiambres/fiambres/salames-y-tocinos",
+          "selected": false,
+          "quantity": 60,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "PF",
+          "value": "PF",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Jorge",
+          "value": "San Jorge",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Receta del Abuelo",
+          "value": "Receta del Abuelo",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Llanquihue",
+          "value": "Llanquihue",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Preferida",
+          "value": "La Preferida",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Soler",
+          "value": "Soler",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crazy Lazy",
+          "value": "Crazy Lazy",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Beretta",
+          "value": "Beretta",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nivea Men",
+          "value": "Nivea Men",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Villa Baviera",
+          "value": "Villa Baviera",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo Artesanal",
+          "value": "Jumbo Artesanal",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo",
+          "value": "Jumbo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Salame Italiano",
+          "value": "Salame Italiano",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salame",
+          "value": "Salame",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tocinos",
+          "value": "Tocinos",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Snacks Fiambres",
+          "value": "Snacks Fiambres",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salamín",
+          "value": "Salamín",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pepperonis",
+          "value": "Pepperonis",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tabla de Fiambres",
+          "value": "Tabla de Fiambres",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jabones",
+          "value": "Jabones",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chorizo",
+          "value": "Chorizo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pancetas",
+          "value": "Pancetas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fuet",
+          "value": "Fuet",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salchichón Cerveza",
+          "value": "Salchichón Cerveza",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 54,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Granel",
+          "value": "Granel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Curado / Granel",
+          "value": "Curado / Granel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Ahumado",
+          "value": "Ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Característico",
+          "value": "Característico",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Levemente acidificado, leve salado.",
+          "value": "Levemente acidificado, leve salado.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Panceta",
+          "value": "Panceta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salame",
+          "value": "Salame",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salame Ahumado",
+          "value": "Salame Ahumado",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salame Intenso",
+          "value": "Salame Intenso",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salame Italiano",
+          "value": "Salame Italiano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Spicy Chipotle",
+          "value": "Spicy Chipotle",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tradicional",
+          "value": "Tradicional",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tradicional ahumado",
+          "value": "Tradicional ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1390,
+          "maxValue": 10790
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 41,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 33,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Cabello",
+      "key": "Tipo de Cabello",
+      "values": [
+        {
+          "displayName": "Todo Tipo de Cabello",
+          "value": "Todo tipo de cabello",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 60,
+  "metaTag": {
+    "title": "Salames y tocinos | Jumbo.cl",
+    "description": "¡Los salames y tocinos son un auténtico placer para el paladar! En Jumbo.cl podrás encontrar productos de excelencia con un solo clic."
+  }
+}

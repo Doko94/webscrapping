@@ -1,0 +1,602 @@
+{
+  "products": [
+    {
+      "productId": "81048",
+      "reference": "1804665",
+      "sponsoredId": null,
+      "slug": "bebida-de-soya-sin-gluten-1-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "690",
+        "832"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Bebidas Vegetales",
+        "Bebidas de Soya"
+      ],
+      "collections": [],
+      "brand": "Vivicosí",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81320",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 2490,
+          "listPrice": 2490,
+          "ppumPrice": 2490,
+          "ppumListPrice": 2490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/364532-250-250/Bebida-de-soya-sin-gluten-1-L.jpg?v=638776754597570000"
+          ],
+          "name": "Bebida Vegetal Buonocosí Soya Sin Gluten 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "87901",
+      "reference": "1835998",
+      "sponsoredId": null,
+      "slug": "bebida-organica-de-soya-1-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "690",
+        "832"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Bebidas Vegetales",
+        "Bebidas de Soya"
+      ],
+      "collections": [
+        "14878",
+        "14880",
+        "14967",
+        "18363",
+        "24961"
+      ],
+      "brand": "Natrue",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "88172",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 2690,
+          "ppumListPrice": 2690,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311901-250-250/Bebida-organica-de-soya-1-L.jpg?v=638776394951800000"
+          ],
+          "name": "Bebida Vegetal Natrue Soya 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "135524",
+      "reference": "1992343",
+      "sponsoredId": null,
+      "slug": "beb-veget-orasi-barista-soya-1lt-1992343",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "690",
+        "832"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Bebidas Vegetales",
+        "Bebidas de Soya"
+      ],
+      "collections": [
+        "22523"
+      ],
+      "brand": "OraSì",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135816",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 3900,
+          "listPrice": 3900,
+          "ppumPrice": 3900,
+          "ppumListPrice": 3900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/325061-250-250/Bebida-Vegetal-Orasi-Barista-Soya-1-L.jpg?v=638776428086470000"
+          ],
+          "name": "Bebida Vegetal OraSì Barista Soya 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "102206",
+      "reference": "1870399",
+      "sponsoredId": null,
+      "slug": "beb-soya-vainilla-s-glut-1l-vivicosi-1870399",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "690",
+        "832"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Bebidas Vegetales",
+        "Bebidas de Soya"
+      ],
+      "collections": [],
+      "brand": "Vivicosi",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102474",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 2590,
+          "listPrice": 2590,
+          "ppumPrice": 2590,
+          "ppumListPrice": 2590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/373108-250-250/Bebida-soya-vainilla-sin-gluten-1-L.jpg?v=638776794136970000"
+          ],
+          "name": "Bebida Vegetal ViviCosi Soya Vainilla Sin Gluten 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "81033",
+      "reference": "1707549",
+      "sponsoredId": null,
+      "slug": "beb-de-soya-berief-nat-s-azucar-org-1l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "690",
+        "832"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Bebidas Vegetales",
+        "Bebidas de Soya"
+      ],
+      "collections": [],
+      "brand": "Berief",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81305",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 2590,
+          "listPrice": 2590,
+          "ppumPrice": 2590,
+          "ppumListPrice": 2590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/364527-250-250/Bebida-de-soya-natural-sin-az-car-1-L-1-435107.jpg?v=638776754556870000"
+          ],
+          "name": "Bebida Vegetal Berief Soya Natural Sin Azúcar 1 L",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Bebidas de Soya",
+          "value": "/lacteos-huevos-y-congelados/bebidas-vegetales/bebidas-de-soya",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Bebidas de Soya",
+          "value": "/lacteos-huevos-y-congelados/bebidas-vegetales/bebidas-de-soya",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Bebidas de Soya",
+          "value": "/lacteos-huevos-y-congelados/bebidas-vegetales/bebidas-de-soya",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2490,
+          "maxValue": 3900
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Leche de Soya",
+          "value": "Leche de Soya",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bebidas Vegetales",
+          "value": "Bebidas Vegetales",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Soya",
+          "value": "Soya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Líquida",
+          "value": "Líquida",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Vivicosí",
+          "value": "Vivicosí",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Natrue",
+          "value": "Natrue",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "OraSì",
+          "value": "OraSì",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vivicosi",
+          "value": "Vivicosi",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Berief",
+          "value": "Berief",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 5,
+  "metaTag": {
+    "title": "Bebidas de soya | Jumbo.cl",
+    "description": "Las bebidas de soja son una excelente fuente de proteína vegetal. ¡Explora nuestra selección y disfruta de una experiencia refrescante y nutritiva!"
+  }
+}

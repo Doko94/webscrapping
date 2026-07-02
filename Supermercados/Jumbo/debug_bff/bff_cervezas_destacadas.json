@@ -1,0 +1,4512 @@
+{
+  "products": [
+    {
+      "productId": "11057",
+      "reference": "1047037",
+      "sponsoredId": null,
+      "slug": "cerveza-bitburger-premium-pils-4-8g-500-cc-1047037",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "18966",
+        "23360",
+        "24403",
+        "25352",
+        "25447",
+        "25610",
+        "26885",
+        "26956",
+        "27098",
+        "27100",
+        "27487",
+        "27555"
+      ],
+      "brand": "Bitburger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11316",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1043,
+          "listPrice": 1490,
+          "ppumPrice": 2086,
+          "ppumListPrice": 2980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302128-250-250/Cerveza-Bitburger-Premium-Pils-48%C2%B0-500-cc.jpg?v=638776375823970000"
+          ],
+          "name": "Cerveza Bitburger Premium Pils 4.8° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1043,
+              "ppumPrice": 2086,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 894,
+              "ppumPrice": 1788,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16035",
+      "reference": "1642326",
+      "sponsoredId": null,
+      "slug": "cerveza-benediktiner-helles-lager-5-0g-500-cc-1642326",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "24403",
+        "25352",
+        "25447",
+        "25610",
+        "26885",
+        "26956",
+        "27098",
+        "27100",
+        "27487",
+        "27555"
+      ],
+      "brand": "Benediktiner",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17365",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1113,
+          "listPrice": 1590,
+          "ppumPrice": 2226,
+          "ppumListPrice": 3180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303788-250-250/Cerveza-Benediktiner-Helles-Lager-50%C2%B0-500-cc.jpg?v=638776378140630000"
+          ],
+          "name": "Cerveza Benediktiner Helles Lager 5.0° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1113,
+              "ppumPrice": 2226,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 954,
+              "ppumPrice": 1908,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16033",
+      "reference": "1532903",
+      "sponsoredId": null,
+      "slug": "cerveza-benediktiner-weissbier-5-4g-500-cc-1532903",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "24403",
+        "25352",
+        "25447",
+        "25610",
+        "26885",
+        "26956",
+        "27098",
+        "27100",
+        "27487",
+        "27555"
+      ],
+      "brand": "Benediktiner",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17363",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1603,
+          "listPrice": 2290,
+          "ppumPrice": 3206,
+          "ppumListPrice": 4580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303761-250-250/Cerveza-Benediktiner-Weissbier-54%C2%B0-500-cc.jpg?v=638776378079500000"
+          ],
+          "name": "Cerveza Benediktiner Weissbier 4.0° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1603,
+              "ppumPrice": 3206,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1374,
+              "ppumPrice": 2748,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "80097",
+      "reference": "1800451",
+      "sponsoredId": null,
+      "slug": "cerveza-bitburger-radler-2-5g-500-cc-1800451",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "18966",
+        "23360",
+        "24403",
+        "25352",
+        "25447",
+        "25610",
+        "26885",
+        "26956",
+        "27098",
+        "27100",
+        "27487",
+        "27555"
+      ],
+      "brand": "Bitburger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "80352",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 0.5,
+          "price": 1043,
+          "listPrice": 1490,
+          "ppumPrice": 2086,
+          "ppumListPrice": 2980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/580733-250-250/Cerveza-Bitburger-Radler-25%C2%B0-500-cc.jpg?v=639074707898430000"
+          ],
+          "name": "Cerveza Bitburger Radler 2.5° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1043,
+              "ppumPrice": 2086,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 894,
+              "ppumPrice": 1788,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16049",
+      "reference": "1128026",
+      "sponsoredId": null,
+      "slug": "cerveza-konigsbacher-pils-4-6g-500-cc-1128026",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "23363",
+        "24403",
+        "25263",
+        "25264",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Königsbacher",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17379",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 693,
+          "listPrice": 990,
+          "ppumPrice": 1386,
+          "ppumListPrice": 1980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303914-250-250/Cerveza-Konigsbacher-Pils-46%C2%B0-500-cc.jpg?v=638776378372570000"
+          ],
+          "name": "Cerveza Konigsbacher Pils 4.6° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 693,
+              "ppumPrice": 1386,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 594,
+              "ppumPrice": 1188,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132559",
+      "reference": "1970268",
+      "sponsoredId": null,
+      "slug": "cerveza-benediktiner-weissbier-5-4g-5-l-1970268",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "24403",
+        "25352",
+        "25447",
+        "25610",
+        "26885",
+        "26956",
+        "27098",
+        "27100",
+        "27487",
+        "27555"
+      ],
+      "brand": "Benediktiner",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132842",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 5,
+          "price": 15393,
+          "listPrice": 21990,
+          "ppumPrice": 3079,
+          "ppumListPrice": 4398,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321646-250-250/Cerveza-Benediktiner-Weissbier-54%C2%B0-5-L.jpg?v=638776423817770000"
+          ],
+          "name": "Cerveza Benediktiner Weissbier 4.0° 5 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 15393,
+              "ppumPrice": 3079,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 13194,
+              "ppumPrice": 2639,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139984",
+      "reference": "2002730",
+      "sponsoredId": null,
+      "slug": "cerv-guinness-extra-stout-lata-473cc-5-2002730",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "22523",
+        "25518",
+        "27098",
+        "27100",
+        "27292",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Guinness",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "140277",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.473,
+          "price": 1790,
+          "listPrice": 2990,
+          "ppumPrice": 3784,
+          "ppumListPrice": 6321,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/333502-250-250/Cerveza-Guinness-Extra-Stout-50%C2%B0-Lata-473-cc.jpg?v=638776434953970000"
+          ],
+          "name": "Cerveza Guinness Extra Stout 5.0° Lata 473 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1790 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1790,
+              "ppumPrice": 3784,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132556",
+      "reference": "1970606",
+      "sponsoredId": null,
+      "slug": "cerveza-konig-radler-pomelo-2-5g-500-cc-1970606",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "24403",
+        "25352",
+        "25447",
+        "25610",
+        "26885",
+        "26956",
+        "27100",
+        "27487",
+        "27555"
+      ],
+      "brand": "König",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132839",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1253,
+          "listPrice": 1790,
+          "ppumPrice": 2506,
+          "ppumListPrice": 3580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321891-250-250/Cerveza-Konig-Radler-Pomelo-25%C2%B0-500-cc.jpg?v=638776424291030000"
+          ],
+          "name": "Cerveza König Radler Pomelo 2.5° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1253,
+              "ppumPrice": 2506,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1074,
+              "ppumPrice": 2148,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16034",
+      "reference": "1590223",
+      "sponsoredId": null,
+      "slug": "cerveza-benediktiner-dunkel-5-4g-500-cc-1590223",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "24403",
+        "25352",
+        "25447",
+        "25610",
+        "26885",
+        "26956",
+        "27098",
+        "27100",
+        "27487",
+        "27555"
+      ],
+      "brand": "Benediktiner",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17364",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1603,
+          "listPrice": 2290,
+          "ppumPrice": 3206,
+          "ppumListPrice": 4580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303777-250-250/Cerveza-Benediktiner-Dunkel-54%C2%B0-500-cc.jpg?v=638776378110230000"
+          ],
+          "name": "Cerveza Benediktiner Dunkel 4.0° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1603,
+              "ppumPrice": 3206,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1374,
+              "ppumPrice": 2748,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132554",
+      "reference": "1983163",
+      "sponsoredId": null,
+      "slug": "cerveza-blue-moon-belgian-white-5-4g-473-cc-1983163",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25263",
+        "25268",
+        "25333",
+        "25334",
+        "25354",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Blue Moon",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132837",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.473,
+          "price": 1690,
+          "listPrice": 2190,
+          "ppumPrice": 3573,
+          "ppumListPrice": 4630,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321865-250-250/Cerveza-Blue-Moon-Belgian-White-54%C2%B0-473-cc.jpg?v=638776424229300000"
+          ],
+          "name": "Cerveza Blue Moon Belgian White 4.0° 473 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1690,
+              "ppumPrice": 3573,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "131558",
+      "reference": "1975532",
+      "sponsoredId": null,
+      "slug": "cerveza-odissea-hoppy-ale-5-1g-470-cc-1975532",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "25422",
+        "26912",
+        "27367",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Kross",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "131851",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.47,
+          "price": 1000,
+          "listPrice": 1690,
+          "ppumPrice": 2128,
+          "ppumListPrice": 3596,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321077-250-250/Cerveza-Kross-Odissea-Hoppy-Ale-51%C2%B0-470-cc.jpg?v=638776422427230000"
+          ],
+          "name": "Cerveza Kross Odissea Hoppy Ale 5.1° 470 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1000 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1000,
+              "ppumPrice": 2128,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "123478",
+      "reference": "1947528",
+      "sponsoredId": null,
+      "slug": "cerveza-guinness-4-2g-lata-440-cc-1947528",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14967",
+        "17846",
+        "22423",
+        "23362",
+        "24403",
+        "25263",
+        "25264",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Guinness",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "123764",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.44,
+          "price": 2303,
+          "listPrice": 3290,
+          "ppumPrice": 5234,
+          "ppumListPrice": 7477,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318455-250-250/Cerveza-Guinness-42%C2%B0-lata-440-cc.jpg?v=638776414450400000"
+          ],
+          "name": "Cerveza Guinness 4.2° Lata 440 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 2303,
+              "ppumPrice": 5234,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1974,
+              "ppumPrice": 4486,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "124179",
+      "reference": "1947528-PAK",
+      "sponsoredId": null,
+      "slug": "pack-4-unidades-cerveza-guinness-stout-4-2g-440-cc-1947528-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "22423",
+        "23362",
+        "24403"
+      ],
+      "brand": "Guinness",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "124439",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.76,
+          "price": 11990,
+          "listPrice": 11990,
+          "ppumPrice": 6813,
+          "ppumListPrice": 6813,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318656-250-250/Pack-4-un-Cerveza-Guinness-Stout-42%C2%B0-440-cc.jpg?v=638776415377470000"
+          ],
+          "name": "Pack 4 un. Cerveza Guinness Stout 4.2° 440 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "112536",
+      "reference": "1904091",
+      "sponsoredId": null,
+      "slug": "cerveza-oettinger-schwarz-stout-4-9g-500-cc-1904091",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "24403",
+        "25263",
+        "25264",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Oettinger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112803",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 693,
+          "listPrice": 990,
+          "ppumPrice": 1386,
+          "ppumListPrice": 1980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/554355-250-250/Cerveza-Oettinger-Schwarz-Stout-49%C2%B0-500-cc.jpg?v=639015204413400000"
+          ],
+          "name": "Cerveza Oettinger Schwarz Stout 4.9° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 693,
+              "ppumPrice": 1386,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 594,
+              "ppumPrice": 1188,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11085",
+      "reference": "1047039",
+      "sponsoredId": null,
+      "slug": "cerveza-bitburger-premium-pils-sin-alcohol-330-cc-1047039",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "18966",
+        "23360",
+        "24403",
+        "25352",
+        "25447",
+        "25610",
+        "26885",
+        "26956",
+        "27098",
+        "27100",
+        "27487",
+        "27555"
+      ],
+      "brand": "Bitburger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11344",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 973,
+          "listPrice": 1390,
+          "ppumPrice": 2948,
+          "ppumListPrice": 4212,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302013-250-250/Cerveza-Bitburger-Premium-Pils-Sin-alcohol-330-cc.jpg?v=638857751340470000"
+          ],
+          "name": "Cerveza Bitburger Premium Pils Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 973,
+              "ppumPrice": 2948,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 834,
+              "ppumPrice": 2527,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132558",
+      "reference": "1967023",
+      "sponsoredId": null,
+      "slug": "cerveza-kostritzer-schwarzbier-4-8g-5-l-1967023",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "24403",
+        "25352",
+        "25447",
+        "25610",
+        "26885",
+        "26956",
+        "27098",
+        "27100",
+        "27487",
+        "27555"
+      ],
+      "brand": "Köstritzer",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132840",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 5,
+          "price": 16093,
+          "listPrice": 22990,
+          "ppumPrice": 3219,
+          "ppumListPrice": 4598,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321900-250-250/Cerveza-Kostritzer-Schwarzbier-48%C2%B0-5-L.jpg?v=638776424327770000"
+          ],
+          "name": "Cerveza Köstritzer Schwarzbier 4.8° 5 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 16093,
+              "ppumPrice": 3219,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 13794,
+              "ppumPrice": 2759,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "112540",
+      "reference": "1904089",
+      "sponsoredId": null,
+      "slug": "cerveza-oettinger-weissbier-4-9g-500-cc-1904089",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "24403",
+        "25263",
+        "25264",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Oettinger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112807",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 693,
+          "listPrice": 990,
+          "ppumPrice": 1386,
+          "ppumListPrice": 1980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/554350-250-250/Cerveza-Oettinger-Weissbier-49%C2%B0-500-cc.jpg?v=639015204391500000"
+          ],
+          "name": "Cerveza Oettinger Weissbier 4.9° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 693,
+              "ppumPrice": 1386,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 594,
+              "ppumPrice": 1188,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11056",
+      "reference": "1640829",
+      "sponsoredId": null,
+      "slug": "cerveza-bitburger-premium-pils-4-8g-5-l-1640829",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "18966",
+        "23360",
+        "24403",
+        "25352",
+        "25447",
+        "25610",
+        "26885",
+        "27098",
+        "27100",
+        "27487",
+        "27555"
+      ],
+      "brand": "Bitburger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11315",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 5,
+          "price": 14693,
+          "listPrice": 20990,
+          "ppumPrice": 2939,
+          "ppumListPrice": 4198,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302090-250-250/Cerveza-Bitburger-Premium-Pils-48%C2%B0-5-L.jpg?v=638776375791400000"
+          ],
+          "name": "Cerveza Bitburger Premium Pils 4.8° 5 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 14693,
+              "ppumPrice": 2939,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 12594,
+              "ppumPrice": 2519,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122218",
+      "reference": "1937901",
+      "sponsoredId": null,
+      "slug": "cerveza-tamango-corta-corriente-hazy-ipa-6-0g-355-cc-1937901",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "25263",
+        "25267",
+        "27096",
+        "27100",
+        "27292"
+      ],
+      "brand": "Tamango",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122494",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 2933,
+          "listPrice": 3450,
+          "ppumPrice": 8888,
+          "ppumListPrice": 10455,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/453483-250-250/Cerveza-Tamango-Corta-Corriente-Hazy-Ipa-60%C2%B0-355-cc.jpg?v=638854278518470000"
+          ],
+          "name": "Cerveza Tamango Corta Corriente Hazy Ipa 6.0° 355 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 10022026 AL 28022026",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 2933,
+              "ppumPrice": 8888,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16003",
+      "reference": "1047045",
+      "sponsoredId": null,
+      "slug": "cerveza-kostritzer-schwaizer-4-8g-330-cc-1047045",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "24403",
+        "25352",
+        "25447",
+        "25610",
+        "26885",
+        "26956",
+        "27098",
+        "27100",
+        "27487",
+        "27555"
+      ],
+      "brand": "Köstritzer",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17333",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1323,
+          "listPrice": 1890,
+          "ppumPrice": 4009,
+          "ppumListPrice": 5727,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303932-250-250/Cerveza-Kostritzer-Schwaizer-48%C2%B0-330-cc.jpg?v=638776378420230000"
+          ],
+          "name": "Cerveza Köstritzer Schwaizer 4.8° 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1323,
+              "ppumPrice": 4009,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP DESCUENTO 40% -  JUMBO PRI : PRIME 3 VIÑA CERVEZA Y QUESO DEL MES FEBRERO 01022026 AL 28022026 ",
+              "description": "PRIME 3",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1134,
+              "ppumPrice": 3436,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16340",
+      "reference": "263680",
+      "sponsoredId": null,
+      "slug": "cerveza-urquell-500-ml-checa",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14967",
+        "24403",
+        "25263",
+        "25264",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Urquel",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17670",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 2093,
+          "listPrice": 2990,
+          "ppumPrice": 4186,
+          "ppumListPrice": 5980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304029-250-250/Cerveza-Urquel-Lager-44%C2%B0-500-cc.jpg?v=638776378656730000"
+          ],
+          "name": "Cerveza Urquel Lager 4.4.0° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 2093,
+              "ppumPrice": 4186,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1794,
+              "ppumPrice": 3588,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "108251",
+      "reference": "1898649",
+      "sponsoredId": null,
+      "slug": "cerveza-konigsbacher-schwarz-4-7g-500-cc-1898649",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "23363",
+        "24403",
+        "25263",
+        "25264",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Königsbacher",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "108519",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 833,
+          "listPrice": 1190,
+          "ppumPrice": 1666,
+          "ppumListPrice": 2380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/315119-250-250/Cerveza-Konigsbacher-Schwarz-47%C2%B0-500-cc.jpg?v=638776403898500000"
+          ],
+          "name": "Cerveza Königsbacher Schwarz 4.7° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 833,
+              "ppumPrice": 1666,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 714,
+              "ppumPrice": 1428,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16020",
+      "reference": "1614350",
+      "sponsoredId": null,
+      "slug": "cerveza-erdinger-weissbier-sin-alcohol-500-cc-1614350",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "25263",
+        "25265",
+        "27097",
+        "27100"
+      ],
+      "brand": "Erdinger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17350",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 2152,
+          "listPrice": 2690,
+          "ppumPrice": 4304,
+          "ppumListPrice": 5380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304056-250-250/Cerveza-Erdinger-Weissbier-Sin-alcohol-500-cc.jpg?v=638857749551530000"
+          ],
+          "name": "Cerveza Erdinger Weissbier Sin Alcohol 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 2152,
+              "ppumPrice": 4304,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134549",
+      "reference": "1980050",
+      "sponsoredId": null,
+      "slug": "cerveza-royal-dutch-lager-5g-barril-5-l-1980050",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14967",
+        "17846",
+        "23175",
+        "24403",
+        "24952",
+        "25263",
+        "25264",
+        "27098",
+        "27100"
+      ],
+      "brand": "Royal Dutch",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134849",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 5,
+          "price": 14693,
+          "listPrice": 20990,
+          "ppumPrice": 2939,
+          "ppumListPrice": 4198,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/322915-250-250/Cerveza-Royal-Dutch-Lager-5%C2%B0-barril-5-L.jpg?v=638776426506970000"
+          ],
+          "name": "Cerveza Royal Dutch Lager 5.0° Barril 5 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 14693,
+              "ppumPrice": 2939,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 12594,
+              "ppumPrice": 2519,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "112541",
+      "reference": "1904092",
+      "sponsoredId": null,
+      "slug": "cerveza-oettinger-radler-2-5g-500-cc-1904092",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "24403",
+        "25263",
+        "25264",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Oettinger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112806",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 693,
+          "listPrice": 990,
+          "ppumPrice": 1386,
+          "ppumListPrice": 1980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/554356-250-250/Cerveza-Oettinger-Radler-25%C2%B0-500-cc.jpg?v=639015204423200000"
+          ],
+          "name": "Cerveza Oettinger Radler 2.5° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 693,
+              "ppumPrice": 1386,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 594,
+              "ppumPrice": 1188,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "128401",
+      "reference": "1972801",
+      "sponsoredId": null,
+      "slug": "cerveza-loa-minga-loca-west-coast-ipa-6-5g-470-cc-1972801",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "25263",
+        "25267"
+      ],
+      "brand": "LOA",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128694",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.47,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 5723,
+          "ppumListPrice": 5723,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/412562-250-250/Cerveza-Loa-Minga-Loca-West-Coast-Ipa-65%C2%B0-470-cc.jpg?v=638796367756230000"
+          ],
+          "name": "Cerveza LOA Minga Loca West Coast Ipa 6.5° 470 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "112539",
+      "reference": "1904088",
+      "sponsoredId": null,
+      "slug": "cerveza-oettinger-export-lager-5-4g-500-cc-1904088",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "24403",
+        "25263",
+        "25264",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Oettinger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112809",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 693,
+          "listPrice": 990,
+          "ppumPrice": 1386,
+          "ppumListPrice": 1980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/554348-250-250/Cerveza-Oettinger-Export-Lager-40%C2%B0-500-cc.jpg?v=639015204380230000"
+          ],
+          "name": "Cerveza Oettinger Export Lager 4.0° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 693,
+              "ppumPrice": 1386,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 594,
+              "ppumPrice": 1188,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11055",
+      "reference": "1446110",
+      "sponsoredId": null,
+      "slug": "cerveza-3-horses-lager-sin-alcohol-330-cc-1446110",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14967",
+        "17846",
+        "24952",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "3 Horses",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11314",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 693,
+          "listPrice": 990,
+          "ppumPrice": 2100,
+          "ppumListPrice": 3000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302056-250-250/Cerveza-3-Horses-Lager-Sin-alcohol-330-cc.jpg?v=638857753118970000"
+          ],
+          "name": "Cerveza 3 Horses Lager Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 693,
+              "ppumPrice": 2100,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 594,
+              "ppumPrice": 1800,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122140",
+      "reference": "1937042",
+      "sponsoredId": null,
+      "slug": "cerveza-craft-nation-imperial-ipa-7-8g-330-cc-1937042",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "24403",
+        "25263",
+        "25264",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Craft Nation",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122427",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 973,
+          "listPrice": 1390,
+          "ppumPrice": 2948,
+          "ppumListPrice": 4212,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317759-250-250/Cerveza-Craft-Nation-Imperial-Ipa-78%C2%B0-330-cc.jpg?v=638776413241870000"
+          ],
+          "name": "Cerveza Craft Nation Imperial Ipa 7.8° 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 973,
+              "ppumPrice": 2948,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 834,
+              "ppumPrice": 2527,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "112579",
+      "reference": "1927156",
+      "sponsoredId": null,
+      "slug": "cerveza-gulden-draak-imperial-stout-12g-330-cc-1927156",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [],
+      "brand": "Gulden Draak",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "112846",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 3790,
+          "listPrice": 3790,
+          "ppumPrice": 11485,
+          "ppumListPrice": 11485,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/315739-250-250/Cerveza-Gulden-Draak-Imperial-Stout-12%C2%B0-330-cc.jpg?v=638776406196400000"
+          ],
+          "name": "Cerveza Gulden Draak Imperial Stout 12° 330 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "108252",
+      "reference": "1898650",
+      "sponsoredId": null,
+      "slug": "cerveza-konigsbacher-weizen-5-1g-500-cc-1898650",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "23360",
+        "23363",
+        "24403",
+        "25263",
+        "25264",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Königsbacher",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "108518",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 833,
+          "listPrice": 1190,
+          "ppumPrice": 1666,
+          "ppumListPrice": 2380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/315109-250-250/Cerveza-Konigsbacher-Weizen-51%C2%B0-500-cc.jpg?v=638776403866230000"
+          ],
+          "name": "Cerveza Konigsbacher Weizen 5.1° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 833,
+              "ppumPrice": 1666,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 714,
+              "ppumPrice": 1428,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11065",
+      "reference": "263580",
+      "sponsoredId": null,
+      "slug": "cerveza-erdinger-weibbier-5-3g-500-cc-263580",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "25263",
+        "25268",
+        "27098",
+        "27100"
+      ],
+      "brand": "Erdinger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11324",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 2152,
+          "listPrice": 2690,
+          "ppumPrice": 4304,
+          "ppumListPrice": 5380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302317-250-250/Cerveza-Erdinger-Weibbier-53%C2%B0-500-cc.jpg?v=638776375980200000"
+          ],
+          "name": "Cerveza Erdinger Weibbier 5.3° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 2152,
+              "ppumPrice": 4304,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "98527",
+      "reference": "1857527",
+      "sponsoredId": null,
+      "slug": "cerveza-viiking-strong-12g-500-cc-1857527",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14967",
+        "17846",
+        "24403",
+        "24959",
+        "25263",
+        "25264",
+        "26956",
+        "27098",
+        "27100",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Viiking",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98795",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 903,
+          "listPrice": 1290,
+          "ppumPrice": 1806,
+          "ppumListPrice": 2580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313290-250-250/Cerveza-Viiking-Strong-12%C2%B0-500-cc.jpg?v=638776399328600000"
+          ],
+          "name": "Cerveza Viiking Strong 12° 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 903,
+              "ppumPrice": 1806,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 774,
+              "ppumPrice": 1548,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "128392",
+      "reference": "1972799",
+      "sponsoredId": null,
+      "slug": "cerveza-loa-atrapanubes-pale-lager-4-8g-470-cc-1972799",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "25263",
+        "25267"
+      ],
+      "brand": "LOA",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128686",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.47,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 4660,
+          "ppumListPrice": 4660,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/414752-250-250/Cerveza-Loa-Atrapanubes-Pale-Lager-48%C2%B0-470-cc.jpg?v=638799229134770000"
+          ],
+          "name": "Cerveza LOA Atrapanubes Pale Lager 4.8° 470 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "77108",
+      "reference": "1750905-PAK",
+      "sponsoredId": null,
+      "slug": "pack-10-unidades-cerveza-royal-dutch-premium-lager-5-0g-250-cc-1750905-pak",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "24403"
+      ],
+      "brand": "Royal Dutch",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "77362",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2.5,
+          "price": 8390,
+          "listPrice": 8390,
+          "ppumPrice": 3356,
+          "ppumListPrice": 3356,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310592-250-250/Pack-10-un-Cerveza-Royal-Dutch-Premium-Lager-50%C2%B0-250-cc.jpg?v=638776391866400000"
+          ],
+          "name": "Pack 10 un. Cerveza Royal Dutch Premium Lager 5.0° 250 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159030",
+      "reference": "2055075",
+      "sponsoredId": null,
+      "slug": "cerveza-473cc-4-9-2055075",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "27098",
+        "27100",
+        "27292",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Guinness",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159363",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1790,
+          "listPrice": 2990,
+          "ppumPrice": 3580,
+          "ppumListPrice": 5980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/536770-250-250/Cerveza-Guinness-Hop-House-49%C2%B0-473-cc.jpg?v=638983812726100000"
+          ],
+          "name": "Cerveza Guinness Hop House 4.9° 473 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1790 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1790,
+              "ppumPrice": 3580,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139464",
+      "reference": "2003290",
+      "sponsoredId": null,
+      "slug": "cer-flor-truco-hazy-ipa-loa-470cc-6-g-2003290",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "209",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Artesanales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [],
+      "brand": "LOA",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139758",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.47,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 7426,
+          "ppumListPrice": 7426,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/332075-250-250/CER-FLOR-TRUCO-HAZY-IPA-LOA-470CC-6%C2%B0G.jpg?v=638776433768330000"
+          ],
+          "name": "Cerveza LOA Flor de Truco Hazy Ipa 6.0° 470 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "118446",
+      "reference": "1928711",
+      "sponsoredId": null,
+      "slug": "cerveza-royal-dutch-lager-sin-alcohol-330-cc-1928711",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "211",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas sin Alcohol",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14967",
+        "17846",
+        "23175",
+        "24403",
+        "24952",
+        "25263",
+        "25265",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Royal Dutch",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "118706",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 623,
+          "listPrice": 890,
+          "ppumPrice": 1888,
+          "ppumListPrice": 2697,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316802-250-250/Cerveza-Royal-Dutch-Lager-Sin-alcohol-330-cc.jpg?v=638857753277700000"
+          ],
+          "name": "Cerveza Royal Dutch Lager Sin Alcohol 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 623,
+              "ppumPrice": 1888,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 534,
+              "ppumPrice": 1618,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "125280",
+      "reference": "1956072",
+      "sponsoredId": null,
+      "slug": "cerv-flensburger-4-8-bot-2l-1956072",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "18357",
+        "18968",
+        "23360",
+        "24403",
+        "25263",
+        "25264",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Flensburger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "125500",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2,
+          "price": 23793,
+          "listPrice": 33990,
+          "ppumPrice": 11897,
+          "ppumListPrice": 16995,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318685-250-250/Cerveza-Flensburger-Lager-48%C2%B0-2-L.jpg?v=638776415574370000"
+          ],
+          "name": "Cerveza Flensburger Lager 4.8° 2 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 23793,
+              "ppumPrice": 11897,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 20394,
+              "ppumPrice": 10197,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "15933",
+      "reference": "949035",
+      "sponsoredId": null,
+      "slug": "cerveza-flensburger-lager-4-8g-330-cc-949035",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "205",
+        "208",
+        "791"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cervezas",
+        "Cervezas Tradicionales",
+        "Cervezas Destacadas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "17846",
+        "18357",
+        "18968",
+        "23360",
+        "24403",
+        "25263",
+        "25264",
+        "26956",
+        "27098",
+        "27100"
+      ],
+      "brand": "Flensburger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17263",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1743,
+          "listPrice": 2490,
+          "ppumPrice": 5282,
+          "ppumListPrice": 7545,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303976-250-250/Cerveza-Flensburger-Lager-48%C2%B0-330-cc.jpg?v=638776378506400000"
+          ],
+          "name": "Cerveza Flensburger Lager 4.8° 330 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026 1",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1743,
+              "ppumPrice": 5282,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 40% - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD 10022026 AL 01032026",
+              "description": "JUMBO ESPECIAL JUMBO FESTIVAL DE LA CERVEZA DESD",
+              "type": "percentual",
+              "value": 40,
+              "unitPrice": 1494,
+              "ppumPrice": 4527,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Cervezas Destacadas",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-destacadas",
+          "selected": false,
+          "quantity": 138,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Cervezas Destacadas",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-destacadas",
+          "selected": false,
+          "quantity": 138,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Cervezas Destacadas",
+          "value": "/licores-bebidas-y-aguas/cervezas/cervezas-destacadas",
+          "selected": false,
+          "quantity": 138,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Kross",
+          "value": "Kross",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Oettinger",
+          "value": "Oettinger",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bitburger",
+          "value": "Bitburger",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Benediktiner",
+          "value": "Benediktiner",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Königsbacher",
+          "value": "Königsbacher",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Blue Moon",
+          "value": "Blue Moon",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Guinness",
+          "value": "Guinness",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gulden Draak",
+          "value": "Gulden Draak",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Köstritzer",
+          "value": "Köstritzer",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Royal Dutch",
+          "value": "Royal Dutch",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Viiking",
+          "value": "Viiking",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "LOA",
+          "value": "LOA",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Barcelona Beer Company",
+          "value": "Barcelona Beer Company",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paulaner",
+          "value": "Paulaner",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Atrapaniebla",
+          "value": "Atrapaniebla",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "König",
+          "value": "König",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tamango",
+          "value": "Tamango",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Erdinger",
+          "value": "Erdinger",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Delirium",
+          "value": "Delirium",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Franziskaner",
+          "value": "Franziskaner",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Flensburger",
+          "value": "Flensburger",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trooper",
+          "value": "Trooper",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Duff",
+          "value": "Duff",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Craft Nation",
+          "value": "Craft Nation",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Schöfferhofer",
+          "value": "Schöfferhofer",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Singha",
+          "value": "Singha",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Candelaria",
+          "value": "Candelaria",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "3 Horses",
+          "value": "3 Horses",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Samuel Adams",
+          "value": "Samuel Adams",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "+56",
+          "value": "+56",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "AC/DC",
+          "value": "AC/DC",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Urquel",
+          "value": "Urquel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Staropramen",
+          "value": "Staropramen",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Warsteiner",
+          "value": "Warsteiner",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kriek",
+          "value": "Kriek",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Altamira",
+          "value": "Altamira",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Granizo",
+          "value": "Granizo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ayinger",
+          "value": "Ayinger",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "St Louis",
+          "value": "St Louis",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Westmalle",
+          "value": "Westmalle",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tropera",
+          "value": "Tropera",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Royal Guard",
+          "value": "Royal Guard",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bett'r",
+          "value": "Bett'r",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rural",
+          "value": "Rural",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tübinger",
+          "value": "Tübinger",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Miguel",
+          "value": "San Miguel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 60,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 51,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bélgica",
+          "value": "Bélgica",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dinamarca",
+          "value": "Dinamarca",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Irlanda",
+          "value": "Irlanda",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Países Bajos",
+          "value": "Países Bajos",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Perú",
+          "value": "Perú",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Reino Unido",
+          "value": "Reino Unido",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Republica Checa",
+          "value": "Republica Checa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tailandia",
+          "value": "Tailandia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 102,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Ale",
+          "value": "Ale",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doppelbock",
+          "value": "Doppelbock",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fruit Beer",
+          "value": "Fruit Beer",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fuerte",
+          "value": "Fuerte",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ipa",
+          "value": "Ipa",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lager",
+          "value": "Lager",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Negra",
+          "value": "Negra",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pale Ale",
+          "value": "Pale Ale",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rubia",
+          "value": "Rubia",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Stout",
+          "value": "Stout",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trigo",
+          "value": "Trigo",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Urweisse",
+          "value": "Urweisse",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Cervezas Artesanales",
+          "value": "Cervezas Artesanales",
+          "selected": false,
+          "quantity": 57,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas Premium",
+          "value": "Cervezas Premium",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas Tradicionales",
+          "value": "Cervezas Tradicionales",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cervezas Sin Alcohol",
+          "value": "Cervezas Sin Alcohol",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Grado",
+      "key": "Grado",
+      "values": [
+        {
+          "displayName": "Alto >7% ABV",
+          "value": "Alto (>7%ABV)",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bajo <5% ABV",
+          "value": "Bajo (<5%ABV)",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Medio 5 - 7% ABV",
+          "value": "Medio (5-7% ABV)",
+          "selected": false,
+          "quantity": 54,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin alcohol",
+          "value": "Sin alcohol",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "4 Unidades",
+          "value": "4",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6 Unidades",
+          "value": "6",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "24 Unidades",
+          "value": "24",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 128,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "10 Unidades",
+          "value": "10 un.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Barril",
+          "value": "Barril",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 69,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lata",
+          "value": "Lata",
+          "selected": false,
+          "quantity": 65,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 128,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Amargor",
+      "key": "Amargor (IBU)",
+      "values": [
+        {
+          "displayName": "0-25 Amargor bajo",
+          "value": "0-25 Amargor bajo",
+          "selected": false,
+          "quantity": 71,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "25-50 Amargor medio",
+          "value": "25-50 Amargor medio",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "50-75 Amargor alto",
+          "value": "50-75 Amargor alto",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "75-100 Amargor muy alto",
+          "value": "75-100 Amargor muy alto",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 623,
+          "maxValue": 23793
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "200 a 355 cc",
+          "value": "200 a 355 cc",
+          "selected": false,
+          "quantity": 61,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "375 a 600 cc",
+          "value": "375 a 600 cc",
+          "selected": false,
+          "quantity": 63,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Más de 650 cc",
+          "value": "Más de 650 cc",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 138,
+  "metaTag": {
+    "title": "Cervezas Destacadas | Jumbo.cl",
+    "description": "Explora nuestras ofertas de cervezas y sorprende a todos tus invitados. Encuentra la mejor selección en Jumbo.cl ¡Haz tu pedido 100% online!"
+  }
+}

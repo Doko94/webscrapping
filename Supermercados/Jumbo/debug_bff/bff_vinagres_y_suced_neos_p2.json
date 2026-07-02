@@ -1,0 +1,1420 @@
+{
+  "products": [
+    {
+      "productId": "3430",
+      "reference": "267582",
+      "sponsoredId": null,
+      "slug": "sucedaneo-de-jugo-de-limon-traverso-botella-500-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos"
+      ],
+      "collections": [
+        "17609",
+        "17846",
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Traverso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3436",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1250,
+          "listPrice": 1250,
+          "ppumPrice": 2500,
+          "ppumListPrice": 2500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346704-250-250/Sucedaneo-jugo-limon-500-ml.jpg?v=638776462492630000"
+          ],
+          "name": "Sucedáneo Jugo Limón Traverso 500 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "3436",
+      "reference": "267957",
+      "sponsoredId": null,
+      "slug": "vinagre-de-vino-rosado-traverso-botella-500-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos"
+      ],
+      "collections": [
+        "17609",
+        "17846",
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Traverso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3442",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1210,
+          "listPrice": 1210,
+          "ppumPrice": 2420,
+          "ppumListPrice": 2420,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346714-250-250/Vinagre-rosado-500-ml.jpg?v=638776462572530000"
+          ],
+          "name": "Vinagre Rosado Traverso 500 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146046",
+      "reference": "2009914",
+      "sponsoredId": null,
+      "slug": "limoneta-traverso-255-ml-2009914",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Traverso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146370",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.255,
+          "price": 1790,
+          "listPrice": 2690,
+          "ppumPrice": 7020,
+          "ppumListPrice": 10549,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/344728-250-250/LIMONETA-TRAVERSO-255-ML.jpg?v=638776444165730000"
+          ],
+          "name": "Limoneta Traverso 255 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1790 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1790,
+              "ppumPrice": 7020,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "3414",
+      "reference": "267924",
+      "sponsoredId": null,
+      "slug": "vinagre-de-arroz-gold-label-botella-300-cc",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos"
+      ],
+      "collections": [],
+      "brand": "Gold Label",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3420",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 2350,
+          "listPrice": 2350,
+          "ppumPrice": 7833,
+          "ppumListPrice": 7833,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346691-250-250/267924.jpg?v=638776462369030000"
+          ],
+          "name": "Vinagre de Arroz Gold Label Botella 300 cc.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "3427",
+      "reference": "1568167",
+      "sponsoredId": null,
+      "slug": "jugo-de-limon-traverso-envase-320-cc-60-natural",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Traverso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3433",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.32,
+          "price": 1490,
+          "listPrice": 1830,
+          "ppumPrice": 4656,
+          "ppumListPrice": 5719,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346698-250-250/Ali%C3%B1o-limon-60--natural-320-ml.jpg?v=638776462441970000"
+          ],
+          "name": "Aliño Limón Traverso 60% Natural 320 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1490,
+              "ppumPrice": 4656,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "102579",
+      "reference": "1878036",
+      "sponsoredId": null,
+      "slug": "vinagre-vino-tinto-500-ml-cuisine-and-co-1878036",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "23175",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102848",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 1980,
+          "ppumListPrice": 1980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/373343-250-250/VIN-VT-500ML-C-CO.jpg?v=638776795348900000"
+          ],
+          "name": "Vinagre de Vino Rosado 500 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "102577",
+      "reference": "1878039",
+      "sponsoredId": null,
+      "slug": "sucedaneo-limon-de-pica-500-ml-cuisine-and-co-1878039",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "23175",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27499",
+        "27501",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102846",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1290,
+          "listPrice": 1590,
+          "ppumPrice": 2580,
+          "ppumListPrice": 3180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/373341-250-250/1878039-01_597238.jpg?v=638776795347630000"
+          ],
+          "name": "Sucedáneo Limón de Pica 500 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1290,
+              "ppumPrice": 2580,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "75958",
+      "reference": "1792620",
+      "sponsoredId": null,
+      "slug": "vinagre-de-manzana-organico-bragg-473-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299",
+        "831",
+        "999",
+        "1005"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Orgánico"
+      ],
+      "collections": [
+        "1054",
+        "14881",
+        "14967",
+        "18361"
+      ],
+      "brand": "Bragg",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "76213",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.473,
+          "price": 6990,
+          "listPrice": 6990,
+          "ppumPrice": 14778,
+          "ppumListPrice": 14778,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310527-250-250/Vinagre-de-manzana-organico-Bragg-473-ml.jpg?v=638776391692430000"
+          ],
+          "name": "Vinagre de Manzana Bragg Orgánico 473 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "87558",
+      "reference": "1844561",
+      "sponsoredId": null,
+      "slug": "vinagre-de-vino-blanco-250-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos"
+      ],
+      "collections": [
+        "14878",
+        "14880",
+        "14967",
+        "18363",
+        "22523",
+        "24961"
+      ],
+      "brand": "1840",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "87829",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 2290,
+          "listPrice": 2290,
+          "ppumPrice": 9160,
+          "ppumListPrice": 9160,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311876-250-250/Vinagre-de-vino-blanco-250-ml.jpg?v=638776394873170000"
+          ],
+          "name": "Vinagre de Vino Blanco 1840 - 250 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126720",
+      "reference": "1960163",
+      "sponsoredId": null,
+      "slug": "vinagre-de-manzana-miel-org-bragg-473ml-1960163",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299",
+        "831",
+        "999",
+        "1005"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Orgánico"
+      ],
+      "collections": [
+        "14881",
+        "14882",
+        "14967",
+        "18361",
+        "19270"
+      ],
+      "brand": "Bragg",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127012",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.473,
+          "price": 10990,
+          "listPrice": 10990,
+          "ppumPrice": 23235,
+          "ppumListPrice": 23235,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319216-250-250/Vinagre-de-Manzana-Miel-Organico-Bragg-473-ml.jpg?v=638776417015270000"
+          ],
+          "name": "Vinagre de Manzana Bragg Miel Orgánico 473 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "3428",
+      "reference": "267587",
+      "sponsoredId": null,
+      "slug": "sucedaneo-de-jugo-de-limon-de-pica-traverso-botella-500-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Traverso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3434",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 3780,
+          "ppumListPrice": 3780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/346699-250-250/Sucedaneo-jugo-limon-pica-500-ml.jpg?v=638776462451830000"
+          ],
+          "name": "Sucedáneo Jugo Limón Pica Traverso 500 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "87381",
+      "reference": "599717",
+      "sponsoredId": null,
+      "slug": "vinagre-al-jerez-250ml-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos"
+      ],
+      "collections": [
+        "14878",
+        "14880",
+        "14967",
+        "18363",
+        "24943",
+        "24961"
+      ],
+      "brand": "La Española",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "87652",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 3390,
+          "listPrice": 3390,
+          "ppumPrice": 13560,
+          "ppumListPrice": 13560,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311737-250-250/Vinagre-de-jerez-250-ml.jpg?v=638776394472770000"
+          ],
+          "name": "Vinagre de Jerez 250 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139476",
+      "reference": "1998663",
+      "sponsoredId": null,
+      "slug": "vinagre-malta-250g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos"
+      ],
+      "collections": [
+        "14878",
+        "24954"
+      ],
+      "brand": "Sarson's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139770",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 8990,
+          "listPrice": 8990,
+          "ppumPrice": 35960,
+          "ppumListPrice": 35960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/332547-250-250/VINAGRE-MALTA-250G.jpg?v=638776434152770000"
+          ],
+          "name": "Vinagre de Malta Sarsons 250 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "87557",
+      "reference": "1844560",
+      "sponsoredId": null,
+      "slug": "vinagre-de-vino-tinto-250-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos"
+      ],
+      "collections": [
+        "14878",
+        "14880",
+        "14967",
+        "18363",
+        "22523",
+        "24961"
+      ],
+      "brand": "1840",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "87828",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 2290,
+          "listPrice": 2290,
+          "ppumPrice": 9160,
+          "ppumListPrice": 9160,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311866-250-250/Vinagre-de-vino-tinto-250-ml.jpg?v=638776394845270000"
+          ],
+          "name": "Vinagre de Vino Tinto 1840 - 250 ml",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "145870",
+      "reference": "2009958",
+      "sponsoredId": null,
+      "slug": "vinagre-de-grana-b-organics-500ml-2009958",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos"
+      ],
+      "collections": [
+        "23175"
+      ],
+      "brand": "Be Organics",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146167",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 4720,
+          "listPrice": 4720,
+          "ppumPrice": 9440,
+          "ppumListPrice": 9440,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/410492-250-250/Vinagre-de-Grana-B-Organics-500-ml.jpg?v=638790481767930000"
+          ],
+          "name": "Vinagre de Grana B Organics 500 ml",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "14887",
+      "reference": "1656360",
+      "sponsoredId": null,
+      "slug": "sucedaneo-de-jugo-de-limon-de-pica-traverso-1-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "57",
+        "299"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Vinagres y Sucedáneos",
+        "Aceites, Sal y Condimentos"
+      ],
+      "collections": [
+        "17609",
+        "17846"
+      ],
+      "brand": "Traverso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "16219",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 2390,
+          "ppumListPrice": 2390,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352262-250-250/Sucedaneo-jugo-limon-pica-1-L.jpg?v=638776692307100000"
+          ],
+          "name": "Sucedáneo Jugo Limón Pica Traverso 1 L",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Vinagres y Sucedáneos",
+          "value": "/despensa/aceites-sal-y-condimentos/vinagres-y-sucedaneos",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Vinagres y Sucedáneos",
+          "value": "/despensa/aceites-sal-y-condimentos/vinagres-y-sucedaneos",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Vinagres y Sucedáneos",
+          "value": "/despensa/aceites-sal-y-condimentos/vinagres-y-sucedaneos",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Vinagre Balsámico",
+          "value": "Vinagre Balsámico",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vinagre Vino Blanco",
+          "value": "Vinagre Vino Blanco",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vinagre Incoloro",
+          "value": "Vinagre Incoloro",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vinagre de Manzana",
+          "value": "Vinagre de Manzana",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vinagre Vino Rosado",
+          "value": "Vinagre Vino Rosado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sucedáneo de Limón",
+          "value": "Sucedáneo de Limón",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Condimentos",
+          "value": "Condimentos",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vinagre de Arroz",
+          "value": "Vinagre de Arroz",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vinagre de Jerez",
+          "value": "Vinagre de Jerez",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Beorganics",
+          "value": "Beorganics",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Traverso",
+          "value": "Traverso",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bragg",
+          "value": "Bragg",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vitta",
+          "value": "Vitta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nutrisa",
+          "value": "Nutrisa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1840",
+          "value": "1840",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gold Label",
+          "value": "Gold Label",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Española",
+          "value": "La Española",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sarson's",
+          "value": "Sarson's",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Be Organics",
+          "value": "Be Organics",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 890,
+          "maxValue": 10990
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 32,
+  "metaTag": {
+    "title": "Vinagres y Sucedáneos | Jumbo.cl",
+    "description": "Realza el sabor de tus preparaciones con un versátil sucedáneo de limón, vinagre o aceto balsámico.  ¡Aprovecha de comprar online destacadas marcas!"
+  }
+}

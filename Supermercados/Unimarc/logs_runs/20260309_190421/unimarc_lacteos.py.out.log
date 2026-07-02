@@ -1,0 +1,110 @@
+No pude extraer links desde el menú (headless). Usando Plan B (slugify).
+
+Subcategorías detectadas en [Lácteos, Huevos y Refrigerados]: 26
+ - Leches y cremas | Leches blancas -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/leches-y-cremas/leches-blancas
+ - Leches y cremas | Leches sin lactosa -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/leches-y-cremas/leches-sin-lactosa
+ - Leches y cremas | Leches saborizadas -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/leches-y-cremas/leches-saborizadas
+ - Leches y cremas | Leches cultivadas -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/leches-y-cremas/leches-cultivadas
+ - Leches y cremas | Cremas -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/leches-y-cremas/cremas
+ - Leches y cremas | Leche en polvo y suplementos -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/leches-y-cremas/leche-en-polvo-y-suplementos
+ - Leches y cremas | Saborizantes para leche -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/leches-y-cremas/saborizantes-para-leche
+ - Leches y cremas | Bebidas lácteas -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/leches-y-cremas/bebidas-lacteas
+ - Leches y cremas | Leches individuales -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/leches-y-cremas/leches-individuales
+ - Yoghurt | Batido -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/yoghurt/batido
+ - Yoghurt | Proteína -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/yoghurt/proteina
+ - Yoghurt | Trozos y especiales -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/yoghurt/trozos-y-especiales
+ - Yoghurt | Con cereal e infantiles -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/yoghurt/con-cereal-e-infantiles
+ - Yoghurt | Probióticos y funcionales -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/yoghurt/probioticos-y-funcionales
+ - Yoghurt | Formato familiar -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/yoghurt/formato-familiar
+ - Mantequillas | Mantequilla -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/mantequillas/mantequilla
+ - Mantequillas | Margarina y manteca -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/mantequillas/margarina-y-manteca
+ - Huevos | Huevos gallina -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/huevos/huevos-gallina
+ - Huevos | Huevos especiales -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/huevos/huevos-especiales
+ - Postres | Compotas -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/postres/compotas
+ - Postres | Jaleas -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/postres/jaleas
+ - Postres | Flanes -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/postres/flanes
+ - Postres | Leche asada y arroz con leche -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/postres/leche-asada-y-arroz-con-leche
+ - Postres | Sémolas -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/postres/semolas
+ - Postres | Postres especiales -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/postres/postres-especiales
+ - Bebidas vegetales | Ver todo -> https://www.unimarc.cl/category/lacteos-huevos-y-refrigerados/bebidas-vegetales/ver-todo
+
+Scrape: [Leches y cremas] Leches blancas
+  productos únicos: 28
+
+Scrape: [Leches y cremas] Leches sin lactosa
+  productos únicos: 25
+
+Scrape: [Leches y cremas] Leches saborizadas
+  productos únicos: 29
+
+Scrape: [Leches y cremas] Leches cultivadas
+  productos únicos: 23
+
+Scrape: [Leches y cremas] Cremas
+  productos únicos: 32
+
+Scrape: [Leches y cremas] Leche en polvo y suplementos
+  productos únicos: 40
+
+Scrape: [Leches y cremas] Saborizantes para leche
+  productos únicos: 34
+
+Scrape: [Leches y cremas] Bebidas lácteas
+  productos únicos: 7
+
+Scrape: [Leches y cremas] Leches individuales
+  productos únicos: 59
+
+Scrape: [Yoghurt] Batido
+  productos únicos: 73
+
+Scrape: [Yoghurt] Proteína
+  productos únicos: 31
+
+Scrape: [Yoghurt] Trozos y especiales
+  productos únicos: 45
+
+Scrape: [Yoghurt] Con cereal e infantiles
+  productos únicos: 10
+
+Scrape: [Yoghurt] Probióticos y funcionales
+  productos únicos: 28
+
+Scrape: [Yoghurt] Formato familiar
+  productos únicos: 32
+
+Scrape: [Mantequillas] Mantequilla
+  productos únicos: 28
+
+Scrape: [Mantequillas] Margarina y manteca
+  productos únicos: 29
+
+Scrape: [Huevos] Huevos gallina
+  productos únicos: 48
+
+Scrape: [Huevos] Huevos especiales
+  productos únicos: 1
+
+Scrape: [Postres] Compotas
+  productos únicos: 33
+
+Scrape: [Postres] Jaleas
+  productos únicos: 31
+
+Scrape: [Postres] Flanes
+  productos únicos: 10
+
+Scrape: [Postres] Leche asada y arroz con leche
+  productos únicos: 5
+
+Scrape: [Postres] Sémolas
+  productos únicos: 7
+
+Scrape: [Postres] Postres especiales
+  productos únicos: 32
+
+Scrape: [Bebidas vegetales] Ver todo
+  productos únicos: 0
+
+Total filas: 720
+CSV generado: output\lacteos\unimarc_lacteos-huevos-y-refrigerados_subcats_20260309_200011.csv

@@ -1,0 +1,2328 @@
+{
+  "products": [
+    {
+      "productId": "155561",
+      "reference": "2043453",
+      "sponsoredId": null,
+      "slug": "nescafe-fina-seleccion-van-jar-95-g-2043453",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "26777",
+        "26793",
+        "27105",
+        "27309",
+        "27394",
+        "27471",
+        "27507",
+        "27512"
+      ],
+      "brand": "Nescafé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "155877",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.095,
+          "price": 9250,
+          "listPrice": 9250,
+          "ppumPrice": 97368,
+          "ppumListPrice": 97368,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/519280-250-250/Cafe-Nescafe-Fina-Seleccion-Van-Jar-95-g.jpg?v=638950438828070000"
+          ],
+          "name": "Café Nescafé Fina Selección Vainilla 95 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1736",
+      "reference": "994387",
+      "sponsoredId": null,
+      "slug": "crema-para-cafe-nescafe-pote-425-g-coffee-mate-vainilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "19631",
+        "22523",
+        "25333",
+        "25334",
+        "25347",
+        "25422",
+        "25519",
+        "25520",
+        "25695",
+        "26777",
+        "26793",
+        "27105",
+        "27507",
+        "27512"
+      ],
+      "brand": "Coffee Mate",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1741",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.425,
+          "price": 4590,
+          "listPrice": 4590,
+          "ppumPrice": 10800,
+          "ppumListPrice": 10800,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298918-250-250/Crema-para-cafe-French-Vanilla-4252g.jpg?v=638775758285230000"
+          ],
+          "name": "Crema para Café Coffee Mate Vanilla 425 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150404",
+      "reference": "2038168",
+      "sponsoredId": null,
+      "slug": "capp-kruger-cla-2038168",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "22856",
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Krüger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150702",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 2990,
+          "listPrice": 3890,
+          "ppumPrice": 23920,
+          "ppumListPrice": 31120,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/556025-250-250/Cappuccino-Kruger-Dolce-Vita-Clasico-125-g.jpg?v=639020571105100000"
+          ],
+          "name": "Cappuccino Krüger Dolce Vita Clásico 125 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2990,
+              "ppumPrice": 23920,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137020",
+      "reference": "1997105",
+      "sponsoredId": null,
+      "slug": "kit-origen-x-4-sachets-juan-valdez-1997105",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "17609",
+        "17846",
+        "19629",
+        "22971"
+      ],
+      "brand": "Juan Valdez",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137312",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 19590,
+          "listPrice": 19590,
+          "ppumPrice": 19590,
+          "ppumListPrice": 19590,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/327910-250-250/Kit-Origen-Juan-Valdez-4-Sachets.jpg?v=638776430380030000"
+          ],
+          "name": "Kit Origen Juan Valdez 4 Sachets",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150402",
+      "reference": "2038169",
+      "sponsoredId": null,
+      "slug": "capp-kruger-cho-2038169",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "22856",
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Krüger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150700",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 2990,
+          "listPrice": 3890,
+          "ppumPrice": 23920,
+          "ppumListPrice": 31120,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/556026-250-250/Cappuccino-Kruger-Dolce-Vita-Choc-Ave-125-g.jpg?v=639020571113030000"
+          ],
+          "name": "Cappuccino Krüger Dolce Vita Choc-Ave 125 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2990,
+              "ppumPrice": 23920,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150311",
+      "reference": "2039834",
+      "sponsoredId": null,
+      "slug": "cafe-juan-valdez-2039834",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "22972",
+        "27564"
+      ],
+      "brand": "Juan Valdez",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150611",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 6,
+          "price": 5790,
+          "listPrice": 5790,
+          "ppumPrice": 965,
+          "ppumListPrice": 965,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/471656-250-250/Cafe-Juan-Valdez-Cappuccino-Vainilla-6-un.jpg?v=638870040265100000"
+          ],
+          "name": "Café Cappuccino Juan Valdez Vainilla 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "84718",
+      "reference": "1839288",
+      "sponsoredId": null,
+      "slug": "cafe-caramel-latte-sachet-4-un",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "19631",
+        "25347",
+        "25519",
+        "25520",
+        "27105",
+        "27507"
+      ],
+      "brand": "Starbucks",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "84988",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 4,
+          "price": 4040,
+          "listPrice": 4040,
+          "ppumPrice": 1010,
+          "ppumListPrice": 1010,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/489924-250-250/Cafe-Instantaneo-Starbucks-Caramel-Latte-92-g.jpg?v=638901254675130000"
+          ],
+          "name": "Café Instantáneo Starbucks Caramel Latte 92 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "130035",
+      "reference": "1976537",
+      "sponsoredId": null,
+      "slug": "coffee-marley-caramel-nut-227gr-1976537",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1047",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café en Grano",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "19270",
+        "19629",
+        "22523",
+        "22971",
+        "25741",
+        "25744",
+        "27591",
+        "27599",
+        "27601"
+      ],
+      "brand": "Marley Coffee",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "130329",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.227,
+          "price": 14690,
+          "listPrice": 14690,
+          "ppumPrice": 64714,
+          "ppumListPrice": 64714,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/320488-250-250/Cafe-Saborizado-Molido-Caramel-Nut-Cream-227-g.jpg?v=638776420565970000"
+          ],
+          "name": "Café Molido Marley Coffee Saborizado Caramel Nut Cream 227 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "158192",
+      "reference": "2050921",
+      "sponsoredId": null,
+      "slug": "bebida-cafe-helado-nescafe-latte-240cc-2050921",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "Nescafé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "158518",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.24,
+          "price": 1790,
+          "listPrice": 1990,
+          "ppumPrice": 7458,
+          "ppumListPrice": 8292,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/522888-250-250/Cafe-Helado-Nescafe-Latte-240-cc.jpg?v=638959818208370000"
+          ],
+          "name": "Café Helado Nescafé Latte 240 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1790 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1790,
+              "ppumPrice": 7458,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "15113",
+      "reference": "1444123",
+      "sponsoredId": null,
+      "slug": "crema-para-cafe-gold-tentaciones-152-g-8-unid-19-g-c-u-sabor-vainilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "19631",
+        "22523",
+        "22972",
+        "25333",
+        "25334",
+        "25422",
+        "25670",
+        "25695",
+        "26917",
+        "27309",
+        "27391",
+        "27461",
+        "27499",
+        "27501",
+        "27518",
+        "27521",
+        "27522",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Gold",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "16445",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.152,
+          "price": 2990,
+          "listPrice": 4190,
+          "ppumPrice": 19671,
+          "ppumListPrice": 27566,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/549753-250-250/Cafe-Sobres-Gold-Tentaciones-Vainilla-8-un-19-g-120-g-neto.jpg?v=639010064725700000"
+          ],
+          "name": "Café Sobres Gold Tentaciones Vainilla 112 g 8 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2990,
+              "ppumPrice": 19671,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X5700 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 5700,
+              "unitPrice": 2850,
+              "ppumPrice": 18750,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1693",
+      "reference": "1444125",
+      "sponsoredId": null,
+      "slug": "cafe-tentaciones-gold-envase-176-g-8-unid-22-g-cu-sabor-caramelo",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "19631",
+        "22523",
+        "22972",
+        "25333",
+        "25334",
+        "25422",
+        "25670",
+        "25695",
+        "26917",
+        "27309",
+        "27391",
+        "27461",
+        "27499",
+        "27501",
+        "27518",
+        "27521",
+        "27522",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Gold",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1698",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.176,
+          "price": 2990,
+          "listPrice": 4190,
+          "ppumPrice": 16989,
+          "ppumListPrice": 23807,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/549765-250-250/Cafe-Sobres-Gold-Tentaciones-Caramelo-8-un-22-g-120-g-neto.jpg?v=639010064757470000"
+          ],
+          "name": "Café Sobres Gold Tentaciones Caramelo 112 g 8 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2990,
+              "ppumPrice": 16989,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X5700 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 5700,
+              "unitPrice": 2850,
+              "ppumPrice": 16193,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "142438",
+      "reference": "2010180",
+      "sponsoredId": null,
+      "slug": "coffee-mate-regular-160gr-2010180",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "19631",
+        "22523",
+        "25333",
+        "25334",
+        "25347",
+        "25422",
+        "25519",
+        "25520",
+        "25695",
+        "26777",
+        "26793",
+        "27105",
+        "27507",
+        "27512"
+      ],
+      "brand": "Coffee Mate",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142736",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.16,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 13688,
+          "ppumListPrice": 13688,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/337353-250-250/COFFEE-MATE-REGULAR-160GR.jpg?v=638776438552600000"
+          ],
+          "name": "Crema para Café Coffe Mate Original 160 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150403",
+      "reference": "2038167",
+      "sponsoredId": null,
+      "slug": "capp-kruger-cho-2038167",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "22856",
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Krüger",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150701",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 2990,
+          "listPrice": 3890,
+          "ppumPrice": 23920,
+          "ppumListPrice": 31120,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/556023-250-250/Cappuccino-Kruger-Dolce-Vita-Choco-125-g.jpg?v=639020571097770000"
+          ],
+          "name": "Cappuccino Krüger Dolce Vita Choco 125 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2990,
+              "ppumPrice": 23920,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1733",
+      "reference": "1329804",
+      "sponsoredId": null,
+      "slug": "cafe-vienes-nescafe-18-g-cu-8-sobres-mixes",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "17609",
+        "17846",
+        "19270",
+        "19631",
+        "22523",
+        "22955",
+        "22972",
+        "25333",
+        "25334",
+        "25347",
+        "25422",
+        "25519",
+        "25520",
+        "25670",
+        "25695",
+        "26917",
+        "27105",
+        "27391",
+        "27461",
+        "27467",
+        "27499",
+        "27501",
+        "27507",
+        "27518",
+        "27521",
+        "27522",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Nescafé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1738",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.184,
+          "price": 3350,
+          "listPrice": 4190,
+          "ppumPrice": 18207,
+          "ppumListPrice": 22772,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298913-250-250/Cafe-Nescafe-Moka-144-g-8-un.jpg?v=638775758219330000"
+          ],
+          "name": "Café Nescafé Moka 144 g (8 un. x 18 g)",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3350 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3350,
+              "ppumPrice": 18207,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X5950 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 5950,
+              "unitPrice": 2975,
+              "ppumPrice": 16168,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "97556",
+      "reference": "1860090",
+      "sponsoredId": null,
+      "slug": "cafe-juan-valdez-liof-avellana-95g-1860090",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1049",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Liofilizado",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "8104",
+        "17609",
+        "19628",
+        "22970"
+      ],
+      "brand": "Juan Valdez",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "97824",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.095,
+          "price": 20990,
+          "listPrice": 20990,
+          "ppumPrice": 220947,
+          "ppumListPrice": 220947,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312915-250-250/Cafe-Liofilizado-Juan-Valdez-Avellana-95-g.jpg?v=638776398018100000"
+          ],
+          "name": "Café Liofilizado Juan Valdez Avellana 95 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1703",
+      "reference": "1353519",
+      "sponsoredId": null,
+      "slug": "cafe-juan-valdez-frasco-de-95-g-instantaneo-sabor-chocolate-liofilizado",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "27",
+        "1046",
+        "1049",
+        "1050"
+      ],
+      "categoryNames": [
+        "Despensa",
+        "Café y Cafeteras",
+        "Café Liofilizado",
+        "Café Saborizados y Cremas"
+      ],
+      "collections": [
+        "8104",
+        "17609",
+        "19628",
+        "22970"
+      ],
+      "brand": "Juan Valdez",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1708",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.095,
+          "price": 20990,
+          "listPrice": 20990,
+          "ppumPrice": 220947,
+          "ppumListPrice": 220947,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298841-250-250/Cafe-Liofilizado-Juan-Valdez-Chocolate-95-g.jpg?v=638775757425930000"
+          ],
+          "name": "Café Liofilizado Juan Valdez Chocolate 95 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Café Saborizados y Cremas",
+          "value": "/despensa/cafe-y-cafeteras/cafe-saborizados-y-cremas",
+          "selected": false,
+          "quantity": 56,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Café Saborizados y Cremas",
+          "value": "/despensa/cafe-y-cafeteras/cafe-saborizados-y-cremas",
+          "selected": false,
+          "quantity": 56,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Café Saborizados y Cremas",
+          "value": "/despensa/cafe-y-cafeteras/cafe-saborizados-y-cremas",
+          "selected": false,
+          "quantity": 56,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Nescafé",
+          "value": "Nescafé",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gold",
+          "value": "Gold",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Marley Coffee",
+          "value": "Marley Coffee",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Starbucks",
+          "value": "Starbucks",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Coffee Mate",
+          "value": "Coffee Mate",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Krüger",
+          "value": "Krüger",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Juan Valdez",
+          "value": "Juan Valdez",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Revitta",
+          "value": "Revitta",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Monterrey",
+          "value": "Monterrey",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cruzeiro",
+          "value": "Cruzeiro",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Illy",
+          "value": "Illy",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Campoverde",
+          "value": "Campoverde",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "112 g",
+          "value": "112 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "120 g",
+          "value": "120 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "160 g",
+          "value": "160 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "280 g",
+          "value": "280 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "300 g",
+          "value": "300 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "435gr",
+          "value": "435gr",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "8 unidades",
+          "value": "8 unidades",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "8 unidades 15 g c/u",
+          "value": "8 unidades 15 g c/u",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "8 unidades 184 g",
+          "value": "8 unidades 184 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "8 unidades 19 g c/u",
+          "value": "8 unidades 19 g c/u",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "8 unidades 22 g c/u",
+          "value": "8 unidades 22 g c/u",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "95 g",
+          "value": "95 g",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Menor a 1 lt",
+          "value": "Menor a 1 lt",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frasco",
+          "value": "Frasco",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lata",
+          "value": "Lata",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack",
+          "value": "Pack",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pote",
+          "value": "Pote",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sachet",
+          "value": "Sachet",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tarro",
+          "value": "Tarro",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tira",
+          "value": "Tira (ej: alfajores, dulces)",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 48,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Halal",
+          "value": "Halal",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Café Moka",
+          "value": "Café Moka",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Café Chocolate",
+          "value": "Café Chocolate",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Café Cappuccino",
+          "value": "Café Cappuccino",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Café Instantáneo Premium",
+          "value": "Café Instantáneo Premium",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Café Helados",
+          "value": "Café Helados",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Café Caramelo",
+          "value": "Café Caramelo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Café Saborizado",
+          "value": "Café Saborizado",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Café Vainilla",
+          "value": "Café Vainilla",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremas Instantáneas",
+          "value": "Cremas Instantáneas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crema para Café",
+          "value": "Crema para Café",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Café Grano Molido",
+          "value": "Café Grano Molido",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Café Instantáneo Liofilizado Saborizado",
+          "value": "Café Instantáneo Liofilizado Saborizado",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Café Instantáneo Tradicional",
+          "value": "Café Instantáneo Tradicional",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Postres Únicos/Especiales",
+          "value": "Postres Únicos/Especiales",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "Mezcla para frappes sabor Banana y Salted Caramel",
+          "value": "Mezcla para frappes sabor Banana y Salted Caramel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sabor Caramelo y Vainilla",
+          "value": "Sabor Caramelo y Vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Envasado",
+          "value": "ENVASADO",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Granulado",
+          "value": "Granulado",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Molido",
+          "value": "Molido",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Polvo",
+          "value": "Polvo",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1790,
+          "maxValue": 20990
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Choca Moka",
+          "value": "Choca Moka",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Económico",
+          "value": "Económico",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Instantánea",
+          "value": "Instantánea",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Moka",
+          "value": "Moka",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Premium",
+          "value": "Premium",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Saborizado",
+          "value": "Saborizado",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Lactosa",
+          "value": "Sin Lactosa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sobres",
+          "value": "Sobres",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vainilla Latte",
+          "value": "Vainilla Latte",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brasil",
+          "value": "Brasil",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bélgica",
+          "value": "Bélgica",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Colombia",
+          "value": "Colombia",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Malasia",
+          "value": "Malasia",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "México",
+          "value": "México",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Reino Unido",
+          "value": "Reino Unido",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suecia",
+          "value": "Suecia",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Turquía",
+          "value": "Turquía",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Banana y salted caramel",
+          "value": "Banana y salted caramel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cappuccino",
+          "value": "Cappuccino",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cappuccino Classic, Cappuccino Vainilla, Caramel Latte y Chai Latte",
+          "value": "Cappuccino Classic, Cappuccino Vainilla, Caramel Latte y Chai Latte",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Capuccino",
+          "value": "Capuccino",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Capuccino Clásico",
+          "value": "Capuccino Clásico",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Capuccino Vainilla",
+          "value": "Capuccino Vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Característico café, tostado con ligeras notas amargas",
+          "value": "Característico café, tostado con ligeras notas amargas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caramel Latte",
+          "value": "Caramel Latte",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caramel Nut",
+          "value": "Caramel Nut",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caramelo",
+          "value": "Caramelo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caramelo y Vainilla",
+          "value": "Caramelo y Vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caribbean Soul",
+          "value": "Caribbean Soul",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "chocolate",
+          "value": "chocolate",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate Capuccino",
+          "value": "Chocolate Capuccino",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doble Choca Moka",
+          "value": "Doble Choca Moka",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "French Vanilla",
+          "value": "French Vanilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Latte",
+          "value": "Latte",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mocha",
+          "value": "Mocha",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Original",
+          "value": "Original",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "vainilla",
+          "value": "vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vainilla Capuccino",
+          "value": "Vainilla Capuccino",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "4 Unidades",
+          "value": "4",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6 Unidades",
+          "value": "6",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "300 g",
+          "value": "300 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "8 sobres",
+          "value": "8 sobres",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "8 Unidades",
+          "value": "8 un.",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Gasificado",
+      "key": "Gasificado",
+      "values": [
+        {
+          "displayName": "Sin Gas",
+          "value": "Sin Gas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Congelados",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 56,
+  "metaTag": {
+    "title": "Café Saborizados y Cremas | Jumbo.cl",
+    "description": "¡En Jumbo.cl encontrarás lo mejor en café saborizados y cremas para el desayuno! Descubre el mejor café en sobre y crema para café."
+  }
+}

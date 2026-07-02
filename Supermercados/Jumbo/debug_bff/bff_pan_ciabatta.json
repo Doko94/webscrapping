@@ -1,0 +1,380 @@
+{
+  "products": [
+    {
+      "productId": "8882",
+      "reference": "1142748-KG",
+      "sponsoredId": null,
+      "slug": "pan-ciabatta-rustico-jumbo-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "161",
+        "177",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Pan Ciabatta",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "18271",
+        "18632",
+        "18637",
+        "25630",
+        "25715"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9083",
+          "cartLimit": 6,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1745,
+          "listPrice": 1745,
+          "ppumPrice": 3490,
+          "ppumListPrice": 3490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/349671-250-250/Principal-1304.jpg?v=638776678002300000"
+          ],
+          "name": "Pan Ciabatta Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "8881",
+      "reference": "1634488-KG",
+      "sponsoredId": null,
+      "slug": "pan-ciabatta-jumbo-rustica-integral",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "161",
+        "177",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Pan Ciabatta",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "18271",
+        "18632",
+        "18637",
+        "25630"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9082",
+          "cartLimit": 6,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1745,
+          "listPrice": 1745,
+          "ppumPrice": 3490,
+          "ppumListPrice": 3490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/349669-250-250/Principal-1305.jpg?v=638776677994630000"
+          ],
+          "name": "Pan Ciabatta Integral Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127387",
+      "reference": "1960849-KG",
+      "sponsoredId": null,
+      "slug": "ciab-med-jumbo-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "161",
+        "177",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Panadería granel",
+        "Pan Ciabatta",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "17846",
+        "18632",
+        "18637",
+        "23613",
+        "25630"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127681",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1745,
+          "listPrice": 1745,
+          "ppumPrice": 3490,
+          "ppumListPrice": 3490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393488-250-250/CIAB-MED-JUMBO-KG.jpg?v=638776874743900000"
+          ],
+          "name": "Pan Ciabatta Mediterránea Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Pan Ciabatta",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-ciabatta",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Pan Ciabatta",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-ciabatta",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Pan Ciabatta",
+          "value": "/panaderia-y-pasteleria/panaderia-granel/pan-ciabatta",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1745,
+          "maxValue": 1745
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Granel",
+          "value": "Granel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Granel",
+          "value": "Granel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "Granel",
+          "value": "Granel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Hecho en Jumbo",
+      "key": "Hecho en Jumbo",
+      "values": [
+        {
+          "displayName": "Si",
+          "value": "Si",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Jumbo Artesanal",
+          "value": "Jumbo Artesanal",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Pan Ciabatta",
+          "value": "Pan Ciabatta",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 3,
+  "metaTag": {
+    "title": "Pan Ciabatta | Jumbo.cl",
+    "description": "Pan Ciabatta"
+  }
+}

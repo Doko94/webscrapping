@@ -1,0 +1,238 @@
+No pude extraer links desde el menú (headless). Usando Plan B (slugify).
+
+Subcategorías detectadas en [Despensa]: 58
+ - Arroz y legumbres | Arroz -> https://www.unimarc.cl/category/despensa/arroz-y-legumbres/arroz
+ - Arroz y legumbres | Arroz preparado -> https://www.unimarc.cl/category/despensa/arroz-y-legumbres/arroz-preparado
+ - Arroz y legumbres | Legumbres -> https://www.unimarc.cl/category/despensa/arroz-y-legumbres/legumbres
+ - Arroz y legumbres | Quínoa -> https://www.unimarc.cl/category/despensa/arroz-y-legumbres/quinoa
+ - Fideos, pastas y salsas | Cortos -> https://www.unimarc.cl/category/despensa/fideos-pastas-y-salsas/cortos
+ - Fideos, pastas y salsas | Couscous -> https://www.unimarc.cl/category/despensa/fideos-pastas-y-salsas/couscous
+ - Fideos, pastas y salsas | Instantáneos -> https://www.unimarc.cl/category/despensa/fideos-pastas-y-salsas/instantaneos
+ - Fideos, pastas y salsas | Largos -> https://www.unimarc.cl/category/despensa/fideos-pastas-y-salsas/largos
+ - Fideos, pastas y salsas | Lasaña -> https://www.unimarc.cl/category/despensa/fideos-pastas-y-salsas/lasana
+ - Fideos, pastas y salsas | Rellenos -> https://www.unimarc.cl/category/despensa/fideos-pastas-y-salsas/rellenos
+ - Fideos, pastas y salsas | Salsa para pastas -> https://www.unimarc.cl/category/despensa/fideos-pastas-y-salsas/salsa-para-pastas
+ - Fideos, pastas y salsas | Pastas frescas -> https://www.unimarc.cl/category/despensa/fideos-pastas-y-salsas/pastas-frescas
+ - Aceite y aliños | Aceite maravilla -> https://www.unimarc.cl/category/despensa/aceite-y-alinos/aceite-maravilla
+ - Aceite y aliños | Aceite oliva -> https://www.unimarc.cl/category/despensa/aceite-y-alinos/aceite-oliva
+ - Aceite y aliños | Aceite vegetal -> https://www.unimarc.cl/category/despensa/aceite-y-alinos/aceite-vegetal
+ - Aceite y aliños | Otros aceites -> https://www.unimarc.cl/category/despensa/aceite-y-alinos/otros-aceites
+ - Aceite y aliños | Sal -> https://www.unimarc.cl/category/despensa/aceite-y-alinos/sal
+ - Aceite y aliños | Sucedáneo -> https://www.unimarc.cl/category/despensa/aceite-y-alinos/sucedaneo
+ - Aceite y aliños | Vinagre y aceto -> https://www.unimarc.cl/category/despensa/aceite-y-alinos/vinagre-y-aceto
+ - Azúcar y endulzantes | Azúcar -> https://www.unimarc.cl/category/despensa/azucar-y-endulzantes/azucar
+ - Azúcar y endulzantes | Endulzantes -> https://www.unimarc.cl/category/despensa/azucar-y-endulzantes/endulzantes
+ - Condimentos y salsas | Condimentos -> https://www.unimarc.cl/category/despensa/condimentos-y-salsas/condimentos
+ - Condimentos y salsas | Ketchup -> https://www.unimarc.cl/category/despensa/condimentos-y-salsas/ketchup
+ - Condimentos y salsas | Mayonesa -> https://www.unimarc.cl/category/despensa/condimentos-y-salsas/mayonesa
+ - Condimentos y salsas | Mostaza -> https://www.unimarc.cl/category/despensa/condimentos-y-salsas/mostaza
+ - Condimentos y salsas | Otras salsas -> https://www.unimarc.cl/category/despensa/condimentos-y-salsas/otras-salsas
+ - Condimentos y salsas | Salsa de soya -> https://www.unimarc.cl/category/despensa/condimentos-y-salsas/salsa-de-soya
+ - Condimentos y salsas | Salsa picante -> https://www.unimarc.cl/category/despensa/condimentos-y-salsas/salsa-picante
+ - Harina y repostería | Harina -> https://www.unimarc.cl/category/despensa/harina-y-reposteria/harina
+ - Harina y repostería | Leche condensada y evaporada -> https://www.unimarc.cl/category/despensa/harina-y-reposteria/leche-condensada-y-evaporada
+ - Harina y repostería | Levadura y polvos de hornear -> https://www.unimarc.cl/category/despensa/harina-y-reposteria/levadura-y-polvos-de-hornear
+ - Harina y repostería | Maicena y sémola -> https://www.unimarc.cl/category/despensa/harina-y-reposteria/maicena-y-semola
+ - Harina y repostería | Postres en polvo -> https://www.unimarc.cl/category/despensa/harina-y-reposteria/postres-en-polvo
+ - Harina y repostería | Bases y premezclas -> https://www.unimarc.cl/category/despensa/harina-y-reposteria/bases-y-premezclas
+ - Harina y repostería | Decoración y coberturas -> https://www.unimarc.cl/category/despensa/harina-y-reposteria/decoracion-y-coberturas
+ - Harina y repostería | Esencias -> https://www.unimarc.cl/category/despensa/harina-y-reposteria/esencias
+ - Conservas | Comida en conserva -> https://www.unimarc.cl/category/despensa/conservas/comida-en-conserva
+ - Conservas | Frutas en conserva -> https://www.unimarc.cl/category/despensa/conservas/frutas-en-conserva
+ - Conservas | Legumbres en conserva -> https://www.unimarc.cl/category/despensa/conservas/legumbres-en-conserva
+ - Conservas | Pescados y mariscos en conserva -> https://www.unimarc.cl/category/despensa/conservas/pescados-y-mariscos-en-conserva
+ - Conservas | Verduras en conserva -> https://www.unimarc.cl/category/despensa/conservas/verduras-en-conserva
+ - Cóctel y snacks | Frutos secos -> https://www.unimarc.cl/category/despensa/coctel-y-snacks/frutos-secos
+ - Cóctel y snacks | Galletas cóctel -> https://www.unimarc.cl/category/despensa/coctel-y-snacks/galletas-coctel
+ - Cóctel y snacks | Papas fritas -> https://www.unimarc.cl/category/despensa/coctel-y-snacks/papas-fritas
+ - Cóctel y snacks | Pastas y salsas -> https://www.unimarc.cl/category/despensa/coctel-y-snacks/pastas-y-salsas
+ - Cóctel y snacks | Snack -> https://www.unimarc.cl/category/despensa/coctel-y-snacks/snack
+ - Cóctel y snacks | Aceitunas y encurtidos -> https://www.unimarc.cl/category/despensa/coctel-y-snacks/aceitunas-y-encurtidos
+ - Comida instantánea y preparada | Puré instantáneo -> https://www.unimarc.cl/category/despensa/comida-instantanea-y-preparada/pure-instantaneo
+ - Comida instantánea y preparada | Sopas, cremas y bases -> https://www.unimarc.cl/category/despensa/comida-instantanea-y-preparada/sopas-cremas-y-bases
+ - Comida instantánea y preparada | Sandwich y tortillas -> https://www.unimarc.cl/category/despensa/comida-instantanea-y-preparada/sandwich-y-tortillas
+ - Comida instantánea y preparada | Platos y ensaladas -> https://www.unimarc.cl/category/despensa/comida-instantanea-y-preparada/platos-y-ensaladas
+ - Comida instantánea y preparada | Fideos y pastas -> https://www.unimarc.cl/category/despensa/comida-instantanea-y-preparada/fideos-y-pastas
+ - Cocina internacional | Comida japonesa -> https://www.unimarc.cl/category/despensa/cocina-internacional/comida-japonesa
+ - Cocina internacional | Comida árabe -> https://www.unimarc.cl/category/despensa/cocina-internacional/comida-arabe
+ - Cocina internacional | Comida thai -> https://www.unimarc.cl/category/despensa/cocina-internacional/comida-thai
+ - Cocina internacional | Comida peruana -> https://www.unimarc.cl/category/despensa/cocina-internacional/comida-peruana
+ - Productos naturales | Cereales y funcionales -> https://www.unimarc.cl/category/despensa/productos-naturales/cereales-y-funcionales
+ - Productos naturales | Semillas -> https://www.unimarc.cl/category/despensa/productos-naturales/semillas
+
+Scrape: [Arroz y legumbres] Arroz
+  productos únicos: 21
+
+Scrape: [Arroz y legumbres] Arroz preparado
+  productos únicos: 10
+
+Scrape: [Arroz y legumbres] Legumbres
+  productos únicos: 26
+
+Scrape: [Arroz y legumbres] Quínoa
+  productos únicos: 7
+
+Scrape: [Fideos, pastas y salsas] Cortos
+  productos únicos: 50
+
+Scrape: [Fideos, pastas y salsas] Couscous
+  productos únicos: 4
+
+Scrape: [Fideos, pastas y salsas] Instantáneos
+  productos únicos: 15
+
+Scrape: [Fideos, pastas y salsas] Largos
+  productos únicos: 31
+
+Scrape: [Fideos, pastas y salsas] Lasaña
+  productos únicos: 5
+
+Scrape: [Fideos, pastas y salsas] Rellenos
+  productos únicos: 5
+
+Scrape: [Fideos, pastas y salsas] Salsa para pastas
+  productos únicos: 47
+
+Scrape: [Fideos, pastas y salsas] Pastas frescas
+  productos únicos: 19
+
+Scrape: [Aceite y aliños] Aceite maravilla
+  productos únicos: 7
+
+Scrape: [Aceite y aliños] Aceite oliva
+  productos únicos: 23
+
+Scrape: [Aceite y aliños] Aceite vegetal
+  productos únicos: 8
+
+Scrape: [Aceite y aliños] Otros aceites
+  productos únicos: 9
+
+Scrape: [Aceite y aliños] Sal
+  productos únicos: 30
+
+Scrape: [Aceite y aliños] Sucedáneo
+  productos únicos: 7
+
+Scrape: [Aceite y aliños] Vinagre y aceto
+  productos únicos: 16
+
+Scrape: [Azúcar y endulzantes] Azúcar
+  productos únicos: 21
+
+Scrape: [Azúcar y endulzantes] Endulzantes
+  productos únicos: 25
+
+Scrape: [Condimentos y salsas] Condimentos
+  productos únicos: 141
+
+Scrape: [Condimentos y salsas] Ketchup
+  productos únicos: 25
+
+Scrape: [Condimentos y salsas] Mayonesa
+  productos únicos: 30
+
+Scrape: [Condimentos y salsas] Mostaza
+  productos únicos: 22
+
+Scrape: [Condimentos y salsas] Otras salsas
+  productos únicos: 36
+
+Scrape: [Condimentos y salsas] Salsa de soya
+  productos únicos: 13
+
+Scrape: [Condimentos y salsas] Salsa picante
+  productos únicos: 21
+
+Scrape: [Harina y repostería] Harina
+  productos únicos: 33
+
+Scrape: [Harina y repostería] Leche condensada y evaporada
+  productos únicos: 9
+
+Scrape: [Harina y repostería] Levadura y polvos de hornear
+  productos únicos: 18
+
+Scrape: [Harina y repostería] Maicena y sémola
+  productos únicos: 6
+
+Scrape: [Harina y repostería] Postres en polvo
+  productos únicos: 34
+
+Scrape: [Harina y repostería] Bases y premezclas
+  productos únicos: 21
+
+Scrape: [Harina y repostería] Decoración y coberturas
+  productos únicos: 23
+
+Scrape: [Harina y repostería] Esencias
+  productos únicos: 8
+
+Scrape: [Conservas] Comida en conserva
+  productos únicos: 6
+
+Scrape: [Conservas] Frutas en conserva
+  productos únicos: 34
+
+Scrape: [Conservas] Legumbres en conserva
+  productos únicos: 16
+
+Scrape: [Conservas] Pescados y mariscos en conserva
+  productos únicos: 74
+
+Scrape: [Conservas] Verduras en conserva
+  productos únicos: 35
+
+Scrape: [Cóctel y snacks] Frutos secos
+  productos únicos: 82
+
+Scrape: [Cóctel y snacks] Galletas cóctel
+  productos únicos: 25
+
+Scrape: [Cóctel y snacks] Papas fritas
+  productos únicos: 81
+
+Scrape: [Cóctel y snacks] Pastas y salsas
+  productos únicos: 27
+
+Scrape: [Cóctel y snacks] Snack
+  productos únicos: 111
+
+Scrape: [Cóctel y snacks] Aceitunas y encurtidos
+  productos únicos: 49
+
+Scrape: [Comida instantánea y preparada] Puré instantáneo
+  productos únicos: 8
+
+Scrape: [Comida instantánea y preparada] Sopas, cremas y bases
+  productos únicos: 82
+
+Scrape: [Comida instantánea y preparada] Sandwich y tortillas
+  productos únicos: 9
+
+Scrape: [Comida instantánea y preparada] Platos y ensaladas
+  productos únicos: 32
+
+Scrape: [Comida instantánea y preparada] Fideos y pastas
+  productos únicos: 18
+
+Scrape: [Cocina internacional] Comida japonesa
+  productos únicos: 2
+
+Scrape: [Cocina internacional] Comida árabe
+  productos únicos: 8
+
+Scrape: [Cocina internacional] Comida thai
+  productos únicos: 8
+
+Scrape: [Cocina internacional] Comida peruana
+  productos únicos: 0
+
+Scrape: [Productos naturales] Cereales y funcionales
+  productos únicos: 23
+
+Scrape: [Productos naturales] Semillas
+  productos únicos: 8
+
+Total filas: 1564
+CSV generado: output\despensa\unimarc_despensa_subcats_20260309_194612.csv

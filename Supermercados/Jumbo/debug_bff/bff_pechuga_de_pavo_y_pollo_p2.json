@@ -1,0 +1,1401 @@
+{
+  "products": [
+    {
+      "productId": "159483",
+      "reference": "2055620-KG",
+      "sponsoredId": null,
+      "slug": "pechuga-pavo-gran-2055620-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "26936",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sopraval",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159843",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1116,
+          "listPrice": 1676,
+          "ppumPrice": 11160,
+          "ppumListPrice": 16760,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/535106-250-250/PECHUGA-PAVO-GRAN.jpg?v=638979453273130000"
+          ],
+          "name": "Pechuga de Pavo y Pollo Asada Granel",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 11160 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1116,
+              "ppumPrice": 11160,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "113633",
+      "reference": "1929036-KG",
+      "sponsoredId": null,
+      "slug": "pechuga-de-pollo-asada-rda-granel-1929036-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "113898",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1556,
+          "listPrice": 1556,
+          "ppumPrice": 15560,
+          "ppumListPrice": 15560,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/380800-250-250/PECH-POLLO-ASA-RDA.jpg?v=638776824681070000"
+          ],
+          "name": "Pechuga de Pollo Asada Receta del Abuelo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "120571",
+      "reference": "1942044",
+      "sponsoredId": null,
+      "slug": "pechuga-pavo-asada-sopraval-125g-1942044",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "17846",
+        "26936",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sopraval",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "120729",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 3150,
+          "listPrice": 3150,
+          "ppumPrice": 25200,
+          "ppumListPrice": 25200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/579268-250-250/Pechuga-Asada-Sopraval-125-g.jpg?v=639071561779900000"
+          ],
+          "name": "Pechuga Asada Sopraval 125 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X5000 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 5000,
+              "unitPrice": 2500,
+              "ppumPrice": 20000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 2X4500 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 4500,
+              "unitPrice": 2250,
+              "ppumPrice": 18000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "82295",
+      "reference": "1816879",
+      "sponsoredId": null,
+      "slug": "pechuga-de-pavo-finissima-pf",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "26936"
+      ],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "82568",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 2990,
+          "listPrice": 2990,
+          "ppumPrice": 23920,
+          "ppumListPrice": 23920,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311316-250-250/Pechuga-de-pavo-Finissimas-125-g.jpg?v=638776393483630000"
+          ],
+          "name": "Pechuga de Pavo PF Finissimas 125 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10638",
+      "reference": "1559170",
+      "sponsoredId": null,
+      "slug": "pechuga-de-pollo-cocida-pf-150-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [],
+      "brand": "PF",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10890",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 14600,
+          "ppumListPrice": 14600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350739-250-250/Pechuga-de-pollo-cocida-150-g.jpg?v=638776682515130000"
+          ],
+          "name": "Pechuga de Pollo PF Cocida 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "108456",
+      "reference": "1858251",
+      "sponsoredId": null,
+      "slug": "pechuga-pollo-asada-sp-150g-1858251",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523"
+      ],
+      "brand": "Super Pollo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "108723",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 2090,
+          "listPrice": 2090,
+          "ppumPrice": 13933,
+          "ppumListPrice": 13933,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/315059-250-250/Pechuga-de-pollo-asada-150-g.jpg?v=638776403673300000"
+          ],
+          "name": "Pechuga de Pollo Asada Super Pollo 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "125317",
+      "reference": "1961592",
+      "sponsoredId": null,
+      "slug": "pechuga-pollo-asada-corte-pluma-rda-125g-1961592",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "125608",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 2350,
+          "listPrice": 2350,
+          "ppumPrice": 18800,
+          "ppumListPrice": 18800,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/391131-250-250/Pechuga-pollo-asada-corte-pluma-125-g.jpg?v=638776866383970000"
+          ],
+          "name": "Pechuga Pollo Asada Receta del Abuelo Corte Pluma 125 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "97963",
+      "reference": "1859901",
+      "sponsoredId": null,
+      "slug": "pechuga-de-pavo-ahumada-lp-125-gr-1859901",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25629",
+        "25695",
+        "25969",
+        "25974",
+        "26936"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98241",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 3190,
+          "listPrice": 3190,
+          "ppumPrice": 25520,
+          "ppumListPrice": 25520,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313138-250-250/Pechuga-de-pavo-ahumada-125-g.jpg?v=638776398608130000"
+          ],
+          "name": "Pechuga de Pavo La Preferida Ahumada 125 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "71448",
+      "reference": "1772597-KG",
+      "sponsoredId": null,
+      "slug": "pechuga-de-pavo-asada-granel-receta-del-abuelo",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "26936"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "71704",
+          "cartLimit": 12,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1660,
+          "listPrice": 1660,
+          "ppumPrice": 16600,
+          "ppumListPrice": 16600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362347-250-250/Pechuga-de-pavo-asada-granel-Receta-Del-Abuelo-1-48082640.jpg?v=638776742532700000"
+          ],
+          "name": "Pechuga de Pavo Asada Receta del Abuelo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132511",
+      "reference": "1858250",
+      "sponsoredId": null,
+      "slug": "pechuga-pollo-ahum-super-pollo-150g-1858250",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523"
+      ],
+      "brand": "Super Pollo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132798",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 2090,
+          "listPrice": 2090,
+          "ppumPrice": 13933,
+          "ppumListPrice": 13933,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/400452-250-250/Pechuga-ahumada-150-g.jpg?v=638776901318730000"
+          ],
+          "name": "Pechuga Pollo Ahum Super Pollo 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "120491",
+      "reference": "1942042",
+      "sponsoredId": null,
+      "slug": "pechuga-pavo-ahumada-sopraval-125g-1942042",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "17846",
+        "26936",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sopraval",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "120812",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 3150,
+          "listPrice": 3150,
+          "ppumPrice": 25200,
+          "ppumListPrice": 25200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/579263-250-250/Pechuga-de-Pavo-Ahumada-Sopraval-125-g.jpg?v=639071561770070000"
+          ],
+          "name": "Pechuga de Pavo Ahumada Sopraval 125 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X5000 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 5000,
+              "unitPrice": 2500,
+              "ppumPrice": 20000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 2X4500 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 4500,
+              "unitPrice": 2250,
+              "ppumPrice": 18000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "10586",
+      "reference": "296234-KG",
+      "sponsoredId": null,
+      "slug": "pechuga-de-pavo-ahumada-jumbo-meson",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817",
+        "831",
+        "889",
+        "894"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo",
+        "Experiencias Jumbo",
+        "Jumbo Artesanal",
+        "Marcas Exclusivas"
+      ],
+      "collections": [
+        "25578",
+        "27564",
+        "27573"
+      ],
+      "brand": "Jumbo Artesanal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10838",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1836,
+          "listPrice": 1836,
+          "ppumPrice": 18360,
+          "ppumListPrice": 18360,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302036-250-250/Pechuga-de-Pavo-Ahumada-Granel-100-g.jpg?v=638776375728430000"
+          ],
+          "name": "Pechuga Pavo Ahumada Granel 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - PRI: JUMBO PRIME JUMBO CICLO PRIME CICLO 2 PRIME DESDE EL 3 AL 9  03032026 AL 09032026",
+              "description": "JUMBO CICLO PRIME CICLO 2 PRIME DESDE EL 3 AL 9 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1285,
+              "ppumPrice": 12850,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "PRIME_USER",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132510",
+      "reference": "1858249",
+      "sponsoredId": null,
+      "slug": "pechuga-pollo-acaram-super-pollo-150g-1858249",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523"
+      ],
+      "brand": "Super Pollo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132797",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 2090,
+          "listPrice": 2090,
+          "ppumPrice": 13933,
+          "ppumListPrice": 13933,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/400448-250-250/Pechuga-acaramelada-150-g.jpg?v=638776901314370000"
+          ],
+          "name": "Pechuga Pollo Acaram Super Pollo 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "120489",
+      "reference": "1942046",
+      "sponsoredId": null,
+      "slug": "pechuga-pavo-cocida-sopraval-125g-1942046",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "17846",
+        "26936",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sopraval",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "120810",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 3150,
+          "listPrice": 3150,
+          "ppumPrice": 25200,
+          "ppumListPrice": 25200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/579276-250-250/Pechuga-Cocida-Sopraval-125-g.jpg?v=639071561787770000"
+          ],
+          "name": "Pechuga Cocida Sopraval 125 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X5000 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 5000,
+              "unitPrice": 2500,
+              "ppumPrice": 20000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 2X4500 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 4500,
+              "unitPrice": 2250,
+              "ppumPrice": 18000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159480",
+      "reference": "2053544-KG",
+      "sponsoredId": null,
+      "slug": "pechuga-pavo-gran-2053544-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "26936",
+        "27214",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sopraval",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159863",
+          "cartLimit": 18,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1116,
+          "listPrice": 1676,
+          "ppumPrice": 11160,
+          "ppumListPrice": 16760,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/535062-250-250/PECHUGA-PAVO-GRAN.jpg?v=638979453110870000"
+          ],
+          "name": "Pechuga de Pavo y Pollo Cocida Granel",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 11160 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1116,
+              "ppumPrice": 11160,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "106055",
+      "reference": "1898639",
+      "sponsoredId": null,
+      "slug": "pechuga-pavo-cocida-la-preferida-250gr-1898639",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "86",
+        "88",
+        "817"
+      ],
+      "categoryNames": [
+        "Quesos y Fiambres",
+        "Fiambres",
+        "Pechuga de Pavo y Pollo"
+      ],
+      "collections": [
+        "19270",
+        "25629",
+        "26936"
+      ],
+      "brand": "La Preferida",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "106322",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 5390,
+          "listPrice": 5390,
+          "ppumPrice": 21560,
+          "ppumListPrice": 21560,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314826-250-250/Pechuga-de-pavo-cocida-250-g.jpg?v=638776402814300000"
+          ],
+          "name": "Pechuga de Pavo La Preferida Cocida 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Pechuga de Pavo y Pollo",
+          "value": "/quesos-y-fiambres/fiambres/pechuga-de-pavo-y-pollo",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Pechuga de Pavo y Pollo",
+          "value": "/quesos-y-fiambres/fiambres/pechuga-de-pavo-y-pollo",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Pechuga de Pavo y Pollo",
+          "value": "/quesos-y-fiambres/fiambres/pechuga-de-pavo-y-pollo",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "La Preferida",
+          "value": "La Preferida",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sopraval",
+          "value": "Sopraval",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Receta del Abuelo",
+          "value": "Receta del Abuelo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Super Pollo",
+          "value": "Super Pollo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "PF",
+          "value": "PF",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ariztía",
+          "value": "Ariztía",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo Artesanal",
+          "value": "Jumbo Artesanal",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rezende",
+          "value": "Rezende",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Pechuga de Pavo",
+          "value": "Pechuga de Pavo",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pechuga de Pavo y Pollo",
+          "value": "Pechuga de Pavo y Pollo",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pechuga de Pollo",
+          "value": "Pechuga de Pollo",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jamón de Pavo",
+          "value": "Jamón de Pavo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pollo",
+          "value": "Pollo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Acaramelado",
+          "value": "Acaramelado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ahumado",
+          "value": "Ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Asada",
+          "value": "Asada",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cocida",
+          "value": "Cocida",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pavo",
+          "value": "Pavo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pavo ahumado",
+          "value": "Pavo ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pechuga de Pollo cocida",
+          "value": "Pechuga de Pollo cocida",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pechuga pollo acaramelada",
+          "value": "Pechuga pollo acaramelada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 916,
+          "maxValue": 11980
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 41,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Corte",
+      "key": "Tipo de Corte",
+      "values": [
+        {
+          "displayName": "Barra",
+          "value": "Barra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Intensidad",
+      "key": "Intensidad",
+      "values": [
+        {
+          "displayName": "Media",
+          "value": "Media",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 43,
+  "metaTag": {
+    "title": "Pechuga de pavo y pollo | Jumbo.cl",
+    "description": "Los jamones de pechuga de pavo y pollo son opciones saludables, deliciosas y versátiles. ¡Compra en Jumbo.cl y recibe tu pedido cuanto antes!"
+  }
+}

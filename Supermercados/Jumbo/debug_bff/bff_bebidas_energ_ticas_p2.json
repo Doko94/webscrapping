@@ -1,0 +1,1811 @@
+{
+  "products": [
+    {
+      "productId": "159116",
+      "reference": "2048972",
+      "sponsoredId": null,
+      "slug": "bebida-energ473cc-2048972",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "27347",
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "Score",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159452",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.473,
+          "price": 1000,
+          "listPrice": 1460,
+          "ppumPrice": 2114,
+          "ppumListPrice": 3087,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/548065-250-250/Bebida-Energetica-Score-Rad-White-473-cc.jpg?v=639003629287430000"
+          ],
+          "name": "Bebida Energética Score Radical White 473 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1000 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1000,
+              "ppumPrice": 2114,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138499",
+      "reference": "1995390",
+      "sponsoredId": null,
+      "slug": "monster-ripper-non-juiced-473cc-1995390",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25773",
+        "27347"
+      ],
+      "brand": "Monster",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138793",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.473,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 3996,
+          "ppumListPrice": 3996,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/330577-250-250/Bebida-Energetica-Monster-Ripper-Non-Juiced-473-cc.jpg?v=638776432536600000"
+          ],
+          "name": "Bebida Energética Monster Juice Ripper 473 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3090 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 01032026 AL 30032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "mx",
+              "value": 3090,
+              "unitPrice": 1545,
+              "ppumPrice": 3266,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122038",
+      "reference": "1939390",
+      "sponsoredId": null,
+      "slug": "energ-red-bull-4pack-lata-250cc-1939390",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25500",
+        "25773",
+        "26683",
+        "27347",
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "Red Bull",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122334",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 5590,
+          "listPrice": 6550,
+          "ppumPrice": 5590,
+          "ppumListPrice": 6550,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/461875-250-250/Pack-4-un-Bebida-Energetica-Red-Bull-250-ml.jpg?v=638866453724430000"
+          ],
+          "name": "Pack 4 un. Bebida Energética Red Bull 250 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5590 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5590,
+              "ppumPrice": 5590,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134356",
+      "reference": "1991061",
+      "sponsoredId": null,
+      "slug": "monster-aussie-lemonade-473cc-1991061",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25773",
+        "27347"
+      ],
+      "brand": "Monster",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134647",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.473,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 3996,
+          "ppumListPrice": 3996,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/322701-250-250/Monster-Aussie-Lemonade-473-cc.jpg?v=638776426341470000"
+          ],
+          "name": "Monster Aussie Lemonade 473 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3090 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 01032026 AL 30032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "mx",
+              "value": 3090,
+              "unitPrice": 1545,
+              "ppumPrice": 3266,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "120915",
+      "reference": "1944049",
+      "sponsoredId": null,
+      "slug": "beb-energetica-monster-ultra-gold-473cc-1944049",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25773",
+        "27347"
+      ],
+      "brand": "Monster",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "121193",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.473,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 3996,
+          "ppumListPrice": 3996,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/386373-250-250/BEB-ENERGETICA-MONSTER-ULTRA-GOLD-473CC.jpg?v=638776848400170000"
+          ],
+          "name": "Bebida Energética Monster Ultra Gold 473 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3090 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 01032026 AL 30032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "mx",
+              "value": 3090,
+              "unitPrice": 1545,
+              "ppumPrice": 3266,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "148500",
+      "reference": "2039041",
+      "sponsoredId": null,
+      "slug": "bebida-energ-473cc-2039041",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25773",
+        "27347",
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "Score",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "148799",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.473,
+          "price": 1000,
+          "listPrice": 1460,
+          "ppumPrice": 2114,
+          "ppumListPrice": 3087,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/500093-250-250/Bebida-Energetica-Score-Bubblegum-473-cc.jpg?v=638917602621270000"
+          ],
+          "name": "Bebida Energética Score Bubblegum 473 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1000 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1000,
+              "ppumPrice": 2114,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "90730",
+      "reference": "1844530",
+      "sponsoredId": null,
+      "slug": "bebida-energetica-ultra-paradise-473-cc",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25773",
+        "27347"
+      ],
+      "brand": "Monster",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "91000",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.473,
+          "price": 1890,
+          "listPrice": 1890,
+          "ppumPrice": 3996,
+          "ppumListPrice": 3996,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/367473-250-250/Bebida-energetica-ultra-Paradise-473-cc.jpg?v=638776768130630000"
+          ],
+          "name": "Bebida Energética Monster Ultra Paradise 473 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X3090 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 01032026 AL 30032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "mx",
+              "value": 3090,
+              "unitPrice": 1545,
+              "ppumPrice": 3266,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "155399",
+      "reference": "2046387",
+      "sponsoredId": null,
+      "slug": "bebida-california-energy-drink-250cc-2046387",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "27347"
+      ],
+      "brand": "Energy Drink",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "155706",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 4760,
+          "ppumListPrice": 4760,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/492018-250-250/BEBIDA-CALIFORNIA-ENERGY-DRINK-250CC.jpg?v=638906369913930000"
+          ],
+          "name": "Bebida Energética California Energy Drink 250 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "122047",
+      "reference": "1939391",
+      "sponsoredId": null,
+      "slug": "energ-red-bull-6pack-lata-250cc-1939391",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "25773",
+        "27347"
+      ],
+      "brand": "Red Bull",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122299",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.2,
+          "price": 9690,
+          "listPrice": 9690,
+          "ppumPrice": 8075,
+          "ppumListPrice": 8075,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317631-250-250/Pack-6-un-Bebida-Energetica-Red-Bull-250-ml.jpg?v=638776413021570000"
+          ],
+          "name": "Pack 6 un. Bebida Energética Red Bull Lata 250 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "62360",
+      "reference": "1757671",
+      "sponsoredId": null,
+      "slug": "bebida-energetica-mr-big-2-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25773",
+        "27347"
+      ],
+      "brand": "Mr. Big",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "62347",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 2,
+          "price": 3890,
+          "listPrice": 3890,
+          "ppumPrice": 1945,
+          "ppumListPrice": 1945,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361136-250-250/Bebida-energetica-Mr-Big-2-L.jpg?v=638776735483800000"
+          ],
+          "name": "Bebida Energética Mr. Big 2.5 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "143020",
+      "reference": "2008295",
+      "sponsoredId": null,
+      "slug": "bebida-energetica-rockstar-mango-500cc-2008295",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25500",
+        "25569",
+        "25773",
+        "27347",
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "Rockstar",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "143314",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1090,
+          "listPrice": 1450,
+          "ppumPrice": 2180,
+          "ppumListPrice": 2900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/338324-250-250/Bebida-Energetica-Rockstar-Mango-500-cc.jpg?v=638776439248770000"
+          ],
+          "name": "Bebida Energética Rockstar Mango Power 500 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1090 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1090,
+              "ppumPrice": 2180,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153578",
+      "reference": "2044558",
+      "sponsoredId": null,
+      "slug": "energetica-rockstar-sandia-punch-pet-500-2044558",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "25500",
+        "25569",
+        "25773",
+        "27347",
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "Rockstar",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153888",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1090,
+          "listPrice": 1450,
+          "ppumPrice": 2180,
+          "ppumListPrice": 2900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/484541-250-250/ENERGETICA-ROCKSTAR-SANDIA-PUNCH-PET-500.jpg?v=638889829034330000"
+          ],
+          "name": "Bebida Energética Rockstar Sandía Punch 500 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1090 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1090,
+              "ppumPrice": 2180,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "45650",
+      "reference": "1730216",
+      "sponsoredId": null,
+      "slug": "bebida-energetica-sugar-free-red-bull-355-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "25773",
+        "27347"
+      ],
+      "brand": "Red Bull",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "45889",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.355,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 6732,
+          "ppumListPrice": 6732,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/527870-250-250/Bebida-Energetica-Red-Bull-Sin-Azucar-355-ml.jpg?v=638967404580230000"
+          ],
+          "name": "Bebida Energética Red Bull Sin Azúcar 355 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "97579",
+      "reference": "1858437",
+      "sponsoredId": null,
+      "slug": "bebida-energetica-mr-big-zero-720cc-1858437",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25500",
+        "25773",
+        "27347"
+      ],
+      "brand": "Mr. Big",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "97860",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.72,
+          "price": 1590,
+          "listPrice": 1590,
+          "ppumPrice": 2208,
+          "ppumListPrice": 2208,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/370062-250-250/Bebida-energetica-zero-720-ml.jpg?v=638776780315900000"
+          ],
+          "name": "Bebida Energética Mr. Big Zero 720 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "444",
+      "reference": "1436542",
+      "sponsoredId": null,
+      "slug": "bebida-energizante-red-bull-lata-355-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "25773",
+        "27347"
+      ],
+      "brand": "Red Bull",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "446",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.355,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 6732,
+          "ppumListPrice": 6732,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/429420-250-250/Bebida-Energetica-Red-Bull-Tradicional-Lata-355-ml.jpg?v=638814648579300000"
+          ],
+          "name": "Bebida Energética Red Bull 355 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132505",
+      "reference": "1983161",
+      "sponsoredId": null,
+      "slug": "bebida-energetica-rockstar-500cc",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "957"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Bebidas Energéticas"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25500",
+        "25569",
+        "25773",
+        "27347",
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "Rockstar",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132789",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 1090,
+          "listPrice": 1290,
+          "ppumPrice": 2180,
+          "ppumListPrice": 2580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/321749-250-250/Bebida-Energetica-Rockstar-500-ml.jpg?v=638776424011470000"
+          ],
+          "name": "Bebida Energética Rockstar 500 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1090 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1090,
+              "ppumPrice": 2180,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Bebidas Energéticas",
+          "value": "/licores-bebidas-y-aguas/bebidas-energeticas",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Bebidas Energéticas",
+          "value": "/licores-bebidas-y-aguas/bebidas-energeticas",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Bebidas Energéticas",
+          "value": "/licores-bebidas-y-aguas/bebidas-energeticas",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Monster",
+          "value": "Monster",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Red Bull",
+          "value": "Red Bull",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Score",
+          "value": "Score",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mr. Big",
+          "value": "Mr. Big",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rockstar",
+          "value": "Rockstar",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Atom Fruit",
+          "value": "Atom Fruit",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Energy Drink",
+          "value": "Energy Drink",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yeet Power Drink",
+          "value": "Yeet Power Drink",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Agridulce",
+          "value": "Agridulce",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Açaí",
+          "value": "Açaí",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bubble Gum",
+          "value": "Bubble Gum",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Citrico",
+          "value": "Citrico",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cítrico",
+          "value": "Cítrico",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce, intenso y refrescante, con el clásico toque de Panther Energy.",
+          "value": "Dulce, intenso y refrescante, con el clásico toque de Panther Energy.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce, refrescante y con el clásico toque de bebida",
+          "value": "Dulce, refrescante y con el clásico toque de bebida",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Durazno",
+          "value": "Durazno",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fruta del Dragon",
+          "value": "Fruta del Dragon",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutos Rojos",
+          "value": "Frutos Rojos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gorilla",
+          "value": "Gorilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Granada",
+          "value": "Granada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Guaraná",
+          "value": "Guaraná",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limonada",
+          "value": "Limonada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mango",
+          "value": "Mango",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Original",
+          "value": "Original",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Regular",
+          "value": "Regular",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sandía",
+          "value": "Sandía",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Azúcar",
+          "value": "Sin Azúcar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin azúcar",
+          "value": "Sin azúcar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tropical",
+          "value": "Tropical",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ultra Gold Piña",
+          "value": "Ultra Gold Piña",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Zero",
+          "value": "Zero",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "4 Unidades",
+          "value": "4",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6 Unidades",
+          "value": "6",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 35,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 952,
+          "maxValue": 9690
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "473",
+          "value": "473",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "250 ml",
+          "value": "250 ml",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "355 ml",
+          "value": "355 ml",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "473 ml",
+          "value": "473 ml",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entre 1 y 2 lt",
+          "value": "Entre 1 y 2 lt",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Menor a 1 lt",
+          "value": "Menor a 1 lt",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Más de 2 lt",
+          "value": "Más de 2 lt",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 42,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 41,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 41,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 33,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Austria",
+          "value": "Austria",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Polonia",
+          "value": "Polonia",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Botella plástico desechable",
+          "value": "Botella plástico desechable (bebidas)",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lata",
+          "value": "Lata",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Bebida",
+          "value": "Bebida",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Energética",
+          "value": "Energética",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Líquida",
+          "value": "Líquida",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Bebidas Energéticas",
+          "value": "Bebidas Energéticas",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Gasificado",
+      "key": "Gasificado",
+      "values": [
+        {
+          "displayName": "Con gas",
+          "value": "Con gas",
+          "selected": false,
+          "quantity": 39,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Modelo",
+      "key": "Modelo",
+      "values": [
+        {
+          "displayName": "Monster Juice Ripper",
+          "value": "Monster Juice Ripper",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 43,
+  "metaTag": {
+    "title": "Bebidas Energéticas | Jumbo.cl",
+    "description": "En Jumbo.cl encontrarás las mejores bebidas energéticas con fórmulas estimulantes que te darán toda la resistencia que necesitas. ¡Visita nuestro catálogo!"
+  }
+}

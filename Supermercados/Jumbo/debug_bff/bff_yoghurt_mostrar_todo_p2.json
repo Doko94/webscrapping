@@ -1,0 +1,1730 @@
+{
+  "products": [
+    {
+      "productId": "63195",
+      "reference": "1757898001",
+      "sponsoredId": null,
+      "slug": "yoghurt-griego-sin-trozos-danone-natural-110-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "910",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Vegetal",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Danone",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "63377",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 410,
+          "listPrice": 410,
+          "ppumPrice": 3727,
+          "ppumListPrice": 3727,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361284-250-250/Yoghurt-griego-natural-110-g.jpg?v=638776736506030000"
+          ],
+          "name": "Yogurt Griego Danone Oikos Natural Endulzado 110 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126512",
+      "reference": "1959602002",
+      "sponsoredId": null,
+      "slug": "yoghurt-colun-origen-120g-vainilla-1959602002",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "907"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Batido"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26935",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126806",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 410,
+          "listPrice": 410,
+          "ppumPrice": 3417,
+          "ppumListPrice": 3417,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/392568-250-250/Yoghurt-Colun-Origen-Vainilla-120-g.jpg?v=638776871402130000"
+          ],
+          "name": "Yogurt Colun Origen Vainilla 120 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 8X2600 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 2600,
+              "unitPrice": 325,
+              "ppumPrice": 2708,
+              "mQuantity": 8,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "69829",
+      "reference": "1775576002",
+      "sponsoredId": null,
+      "slug": "yogurt-soprole-proteina-maracuya-155-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "908"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt con Proteínas"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25316",
+        "25447",
+        "25610",
+        "25670",
+        "25675",
+        "25986",
+        "26863",
+        "26917",
+        "26935",
+        "27170",
+        "27309",
+        "27376",
+        "27379",
+        "27388",
+        "27391",
+        "27461",
+        "27487",
+        "27499",
+        "27501",
+        "27518",
+        "27521",
+        "27522",
+        "27527",
+        "27553",
+        "27601",
+        "27627"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "70085",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.155,
+          "price": 760,
+          "listPrice": 760,
+          "ppumPrice": 4903,
+          "ppumListPrice": 4903,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362047-250-250/Yoghurt-proteina-maracuya-155-g.jpg?v=638776740784830000"
+          ],
+          "name": "Yogurt Soprole Proteína Maracuyá 155 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 12X7000 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 7000,
+              "unitPrice": 583,
+              "ppumPrice": 3761,
+              "mQuantity": 12,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126515",
+      "reference": "1961117001",
+      "sponsoredId": null,
+      "slug": "yoghurt-kefir-colun-120g-natural-1961117001",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26935"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126809",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 470,
+          "listPrice": 470,
+          "ppumPrice": 3917,
+          "ppumListPrice": 3917,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/392577-250-250/Yoghurt-Kefir-Natural-120-g.jpg?v=638776871452930000"
+          ],
+          "name": "Yogurt Kéfir Colun Natural 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7076",
+      "reference": "1650315",
+      "sponsoredId": null,
+      "slug": "yoghurt-batido-soprole-155-g-natural",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "23175",
+        "26935",
+        "27323"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7164",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.155,
+          "price": 490,
+          "listPrice": 490,
+          "ppumPrice": 3161,
+          "ppumListPrice": 3161,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/429105-250-250/Yogurt-Natural-Soprole-Aflanado-155-g.jpg?v=638812786608970000"
+          ],
+          "name": "Yogurt Natural Soprole Aflanado 155 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "84342",
+      "reference": "1829954003",
+      "sponsoredId": null,
+      "slug": "yog-protein-plus-squeeze-frut-plat",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "908"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt con Proteínas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26935"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "84612",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 770,
+          "listPrice": 770,
+          "ppumPrice": 5133,
+          "ppumListPrice": 5133,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365574-250-250/Yoghurt-protein-plus-squeeze-frutilla-platano-150-g.jpg?v=638776759572830000"
+          ],
+          "name": "Yogurt Colun Protein Plus Frutilla-Plátano 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6979",
+      "reference": "407611001",
+      "sponsoredId": null,
+      "slug": "yoghurt-batido-colun-vainilla-125-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "907"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Batido"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "26935",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7067",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 330,
+          "listPrice": 330,
+          "ppumPrice": 2640,
+          "ppumListPrice": 2640,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348711-250-250/Yoghurt-batido-vainilla-125-g.jpg?v=638776487850070000"
+          ],
+          "name": "Yogurt Batido Colun Vainilla 125 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 8X2200 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 2200,
+              "unitPrice": 275,
+              "ppumPrice": 2200,
+              "mQuantity": 8,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6972",
+      "reference": "407611002",
+      "sponsoredId": null,
+      "slug": "yoghurt-batido-colun-frutilla-125-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "907"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Batido"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "26935",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7060",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 330,
+          "listPrice": 330,
+          "ppumPrice": 2640,
+          "ppumListPrice": 2640,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348705-250-250/Yoghurt-batido-frutilla-125-g.jpg?v=638776487750300000"
+          ],
+          "name": "Yogurt Batido Colun Frutilla 125 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 8X2200 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 2200,
+              "unitPrice": 275,
+              "ppumPrice": 2200,
+              "mQuantity": 8,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137137",
+      "reference": "1959602005",
+      "sponsoredId": null,
+      "slug": "yoghurt-colun-origen-120g-chirimoya-1959602005",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "907"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Batido"
+      ],
+      "collections": [
+        "23175",
+        "26935",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137428",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 410,
+          "listPrice": 410,
+          "ppumPrice": 3417,
+          "ppumListPrice": 3417,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/327939-250-250/YOGHURT-COLUN-ORIGEN-120G-CHIRIMOYA.jpg?v=638776430407770000"
+          ],
+          "name": "Yogurt Colun Origen Chirimoya 120 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 8X2600 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 2600,
+              "unitPrice": 325,
+              "ppumPrice": 2708,
+              "mQuantity": 8,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7101",
+      "reference": "1538670001",
+      "sponsoredId": null,
+      "slug": "yoghurt-light-soprole-120-g-sabor-frutilla-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "907"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt Batido"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7189",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 360,
+          "listPrice": 360,
+          "ppumPrice": 3000,
+          "ppumListPrice": 3000,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/411396-250-250/Yogurt-Soprole-Sin-Azucar-Frutilla-120-g.jpg?v=638791317070170000"
+          ],
+          "name": "Yogurt Soprole Sin Azúcar Frutilla 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "142997",
+      "reference": "2007945",
+      "sponsoredId": null,
+      "slug": "yog-colun-prot-plus-s-a-frutilla-150g-2007945",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "908"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt con Proteínas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26935",
+        "27323"
+      ],
+      "brand": "Colun",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "143291",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 850,
+          "listPrice": 850,
+          "ppumPrice": 5667,
+          "ppumListPrice": 5667,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/338184-250-250/YOG-COLUN-PROT-PLUS-S-A-FRUTILLA-150G.jpg?v=638776439148400000"
+          ],
+          "name": "Yogurt Colun Protein Plus Sin Azúcar Frutilla 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "99891",
+      "reference": "1865068003",
+      "sponsoredId": null,
+      "slug": "yog-griego-prot-quillayes-tr-1-berries-1865068003",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "908",
+        "913"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt con Proteínas",
+        "Yoghurt Natural y Griego"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "26935",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "100158",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.11,
+          "price": 680,
+          "listPrice": 680,
+          "ppumPrice": 6182,
+          "ppumListPrice": 6182,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/372187-250-250/Yoghurt-griego-proteina-berries.jpg?v=638776790281500000"
+          ],
+          "name": "Yogurt Griego Quillayes Proteína Berries 110 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6X3500 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 3500,
+              "unitPrice": 583,
+              "ppumPrice": 5300,
+              "mQuantity": 6,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "89136",
+      "reference": "1787599005",
+      "sponsoredId": null,
+      "slug": "yoghurt-protein-trozos-mango-maracuya-155-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "908"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt con Proteínas"
+      ],
+      "collections": [
+        "22523",
+        "25316",
+        "25447",
+        "25610",
+        "25675",
+        "25986",
+        "26935",
+        "27170",
+        "27309"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "89405",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.155,
+          "price": 820,
+          "listPrice": 820,
+          "ppumPrice": 5290,
+          "ppumListPrice": 5290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/367100-250-250/Yoghurt-proteina-trozos-mango-maracuya-155-g.jpg?v=638776766357700000"
+          ],
+          "name": "Yogurt Soprole Proteína Trozos Mango Maracuyá 155 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7141",
+      "reference": "891081001",
+      "sponsoredId": null,
+      "slug": "yoghurt-1-1-soprole-140-g-zucaritas-con-cuchara",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "911"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt con Cereales"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "26935",
+        "27376",
+        "27388",
+        "27553",
+        "27559",
+        "27627"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7229",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 750,
+          "listPrice": 750,
+          "ppumPrice": 5357,
+          "ppumListPrice": 5357,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348764-250-250/Yoghurt-con-cereal-Zucaritas-140-g.jpg?v=638776488536270000"
+          ],
+          "name": "Yogurt con Cereal Soprole 1+1 Zucaritas 140 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6X3800 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 3800,
+              "unitPrice": 633,
+              "ppumPrice": 4521,
+              "mQuantity": 6,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 6X3420 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 3420,
+              "unitPrice": 570,
+              "ppumPrice": 4071,
+              "mQuantity": 6,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "72755",
+      "reference": "1787596001",
+      "sponsoredId": null,
+      "slug": "yoghurt-loncoleche-proteina-frutilla-140-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "908"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt con Proteínas"
+      ],
+      "collections": [
+        "17846",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25523",
+        "25695",
+        "25741",
+        "25747",
+        "26935"
+      ],
+      "brand": "Loncoleche",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "73011",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 750,
+          "listPrice": 750,
+          "ppumPrice": 5357,
+          "ppumListPrice": 5357,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310238-250-250/Yogurt-Protein-Frutilla-140-g.jpg?v=638776391162700000"
+          ],
+          "name": "Yogurt Loncoleche Proteína Frutilla 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153510",
+      "reference": "2044542",
+      "sponsoredId": null,
+      "slug": "yogurt-full-pro-lonco-prot-natural-150g-2044542",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "908"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Yoghurt con Proteínas"
+      ],
+      "collections": [
+        "25523",
+        "25524",
+        "25638",
+        "25741",
+        "25747",
+        "26935",
+        "27323"
+      ],
+      "brand": "Activia",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153819",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 7933,
+          "ppumListPrice": 7933,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/485106-250-250/YOGURT-FULL-PRO-LONCO-PROT-NATURAL-150G.jpg?v=638892673329230000"
+          ],
+          "name": "Yogurt Loncoleche Full Pro Proteína Natural 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Yoghurt Batido",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-batido",
+          "selected": false,
+          "quantity": 77,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Natural y Griego",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-natural-y-griego",
+          "selected": false,
+          "quantity": 53,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Sin Lactosa",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-sin-lactosa",
+          "selected": false,
+          "quantity": 48,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt con Proteínas",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-con-proteinas",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Light y Sin Azúcar",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-light-y-sin-azucar",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Trozos y Frutas",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-trozos-y-frutas",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt con Cereales",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-con-cereales",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Vegetal",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-vegetal",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Yoghurt Batido",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-batido",
+          "selected": false,
+          "quantity": 77,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Natural y Griego",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-natural-y-griego",
+          "selected": false,
+          "quantity": 53,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Sin Lactosa",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-sin-lactosa",
+          "selected": false,
+          "quantity": 48,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt con Proteínas",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-con-proteinas",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Light y Sin Azúcar",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-light-y-sin-azucar",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Trozos y Frutas",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-trozos-y-frutas",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt con Cereales",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-con-cereales",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Vegetal",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-vegetal",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Yoghurt Batido",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-batido",
+          "selected": false,
+          "quantity": 77,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Natural y Griego",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-natural-y-griego",
+          "selected": false,
+          "quantity": 53,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Sin Lactosa",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-sin-lactosa",
+          "selected": false,
+          "quantity": 48,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt con Proteínas",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-con-proteinas",
+          "selected": false,
+          "quantity": 45,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Light y Sin Azúcar",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-light-y-sin-azucar",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Trozos y Frutas",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-trozos-y-frutas",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt con Cereales",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-con-cereales",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Vegetal",
+          "value": "/lacteos-huevos-y-congelados/yoghurt/yoghurt-vegetal",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Colun",
+          "value": "Colun",
+          "selected": false,
+          "quantity": 63,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Soprole",
+          "value": "Soprole",
+          "selected": false,
+          "quantity": 93,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Danone",
+          "value": "Danone",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quillayes",
+          "value": "Quillayes",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nestlé",
+          "value": "Nestlé",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Loncoleche",
+          "value": "Loncoleche",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Activia",
+          "value": "Activia",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Oikos",
+          "value": "Oikos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Artisan",
+          "value": "Artisan",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San Benito",
+          "value": "San Benito",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ghali",
+          "value": "Ghali",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Calan",
+          "value": "Calan",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pucará",
+          "value": "Pucará",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo Artesanal",
+          "value": "Jumbo Artesanal",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo",
+          "value": "Jumbo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yogu - Yogu",
+          "value": "Yogu - Yogu",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Surlat",
+          "value": "Surlat",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tinguiririca",
+          "value": "Tinguiririca",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 267,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 264,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 262,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 256,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 195,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 187,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 165,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 92,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 90,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 127,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 51,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Yoghurt Natural",
+          "value": "Yoghurt Natural",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Proteínas",
+          "value": "Yoghurt Proteínas",
+          "selected": false,
+          "quantity": 41,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt Batido",
+          "value": "Yoghurt Batido",
+          "selected": false,
+          "quantity": 84,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kéfir",
+          "value": "Kéfir",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt sin Azúcar",
+          "value": "Yoghurt sin Azúcar",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt con Cereal",
+          "value": "Yoghurt con Cereal",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt sin Lactosa",
+          "value": "Yoghurt sin Lactosa",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yoghurt con Fruta",
+          "value": "Yoghurt con Fruta",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Avena",
+          "value": "Avena",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aguas de Coco",
+          "value": "Aguas de Coco",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bebida Láctea",
+          "value": "Bebida Láctea",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 295,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 220,
+          "maxValue": 6490
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Líquido",
+          "value": "Líquido",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Hecho en Jumbo",
+      "key": "Hecho en Jumbo",
+      "values": [
+        {
+          "displayName": "Si",
+          "value": "Si",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 294,
+  "metaTag": {
+    "title": "Yoghurt | Jumbo.cl",
+    "description": "¡El yoghurt es uno de los lácteos preferidos de muchos! Compra online tus sabores favoritos y disfruta su cremosidad cuando tú quieras."
+  }
+}

@@ -1,0 +1,1025 @@
+{
+  "products": [
+    {
+      "productId": "1404",
+      "reference": "1624128",
+      "sponsoredId": null,
+      "slug": "sofrito-minuto-verde-150-g-con-ajo-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1160"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Sofritos y Mix de Verduras"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25470",
+        "25662",
+        "25695",
+        "25719",
+        "26696",
+        "27316",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1407",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 890,
+          "listPrice": 890,
+          "ppumPrice": 5933,
+          "ppumListPrice": 5933,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298591-250-250/Sofrito-con-Ajo-150-g.jpg?v=638775754245070000"
+          ],
+          "name": "Sofrito con Ajo Minuto Verde 150 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4X3000 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3000,
+              "unitPrice": 750,
+              "ppumPrice": 5000,
+              "mQuantity": 4,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1381",
+      "reference": "982287",
+      "sponsoredId": null,
+      "slug": "sofrito-frutos-del-maipo-bolsa-150-g-congelado-100-natural-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1160"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Sofritos y Mix de Verduras"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1384",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 960,
+          "listPrice": 960,
+          "ppumPrice": 6400,
+          "ppumListPrice": 6400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298570-250-250/Sofrito-Frutos-del-Maipo-150-g.jpg?v=638775754009870000"
+          ],
+          "name": "Sofrito Frutos del Maipo 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "88861",
+      "reference": "1845748",
+      "sponsoredId": null,
+      "slug": "sofrito-apio-tomate-150-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1160"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Sofritos y Mix de Verduras"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "89130",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 6600,
+          "ppumListPrice": 6600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/311996-250-250/Sofrito-Frutos-del-Maipo-Apio-Tomate-150-g.jpg?v=638776395267700000"
+          ],
+          "name": "Sofrito Frutos del Maipo Apio Tomate 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "68724",
+      "reference": "1757449",
+      "sponsoredId": null,
+      "slug": "mix-pimentos-minuto-verde-150g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1160"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Sofritos y Mix de Verduras"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25470",
+        "25662",
+        "25719",
+        "26696",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "68978",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 1120,
+          "listPrice": 1120,
+          "ppumPrice": 7467,
+          "ppumListPrice": 7467,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/422932-250-250/Mix-pimentos-150-g.jpg?v=638809587349230000"
+          ],
+          "name": "Mix Pimentón Minuto Verde 150 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4X3000 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "mx",
+              "value": 3000,
+              "unitPrice": 750,
+              "ppumPrice": 5000,
+              "mQuantity": 4,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "100260",
+      "reference": "1857658",
+      "sponsoredId": null,
+      "slug": "mix-oriental-frutos-del-maipo-350g-1857658",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1160"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Sofritos y Mix de Verduras"
+      ],
+      "collections": [
+        "17846"
+      ],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "100527",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 6257,
+          "ppumListPrice": 6257,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313421-250-250/Mix-Oriental-350-g.jpg?v=638776399625970000"
+          ],
+          "name": "Mix Oriental Frutos del Maipo 350 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1365",
+      "reference": "1449285",
+      "sponsoredId": null,
+      "slug": "salteado-chapsui-wok-frutos-del-maipo-bolsa-500-g-surtido-de-diente-de-dragon-champinon-zanahoria-poroto-verde-y-pimenton-listos-en-8-minutos",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1160"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Sofritos y Mix de Verduras"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1368",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 6180,
+          "ppumListPrice": 6180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298559-250-250/Salteado-Chapsui-Wok-bolsa-500-g.jpg?v=638775753879700000"
+          ],
+          "name": "Salteado Chapsui Frutos del Maipo Wok Bolsa 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1366",
+      "reference": "1449284",
+      "sponsoredId": null,
+      "slug": "salteado-thai-wok-frutos-del-maipo-bolsa-500-g-surtido-de-zanahoria-pimenton-puerro-y-champinon-listos-en-8-minutos",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1160"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Sofritos y Mix de Verduras"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1369",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 6180,
+          "ppumListPrice": 6180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298560-250-250/Salteado-Thai-Frutos-del-Maipo-Wok-Bolsa-500-g.jpg?v=638775753893630000"
+          ],
+          "name": "Salteado Thai Frutos del Maipo Wok Bolsa 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1379",
+      "reference": "1449283",
+      "sponsoredId": null,
+      "slug": "mix-de-pimentones-frutos-del-maipo-bolsa-150-g-congelados-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1160"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Sofritos y Mix de Verduras"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1382",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.15,
+          "price": 1290,
+          "listPrice": 1290,
+          "ppumPrice": 8600,
+          "ppumListPrice": 8600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298568-250-250/Mix-de-Pimentones-150-g.jpg?v=638775753983970000"
+          ],
+          "name": "Mix de Pimentones Frutos del Maipo 150 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134506",
+      "reference": "1990498",
+      "sponsoredId": null,
+      "slug": "ajo-fdm-100-gr-1990498",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1157",
+        "1160"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Verduras Congeladas",
+        "Sofritos y Mix de Verduras"
+      ],
+      "collections": [],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134799",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 880,
+          "listPrice": 880,
+          "ppumPrice": 8800,
+          "ppumListPrice": 8800,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/323127-250-250/Ajo-En-Cubos-Frutos-del-Maipo-100-g.jpg?v=638776426673400000"
+          ],
+          "name": "Ajo En Cubos Frutos del Maipo 100 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Sofritos y Mix de Verduras",
+          "value": "/lacteos-huevos-y-congelados/verduras-congeladas/sofritos-y-mix-de-verduras",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Sofritos y Mix de Verduras",
+          "value": "/lacteos-huevos-y-congelados/verduras-congeladas/sofritos-y-mix-de-verduras",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Sofritos y Mix de Verduras",
+          "value": "/lacteos-huevos-y-congelados/verduras-congeladas/sofritos-y-mix-de-verduras",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "150 g",
+          "value": "150 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Bélgica",
+          "value": "Bélgica",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "China",
+          "value": "China",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Portugal",
+          "value": "Portugal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 880,
+          "maxValue": 3090
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Cubos",
+          "value": "Cubos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Envasado",
+          "value": "ENVASADO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Familar",
+          "value": "Familar",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Chapsui",
+          "value": "Chapsui",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Oriental",
+          "value": "Oriental",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sofrito",
+          "value": "Sofrito",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Thai",
+          "value": "Thai",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Mix Sofritos",
+          "value": "Mix Sofritos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pimentones Congelados",
+          "value": "Pimentones Congelados",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix Verduras Congeladas",
+          "value": "Mix Verduras Congeladas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salteados",
+          "value": "Salteados",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ajo",
+          "value": "Ajo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Congelados",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Minuto Verde",
+          "value": "Minuto Verde",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutos Del Maipo",
+          "value": "Frutos Del Maipo",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Artesanal - Cebolla",
+          "value": "Artesanal - Cebolla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Artesanal - Chapsui",
+          "value": "Artesanal - Chapsui",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Congelados",
+          "value": "Congelados",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix de Verduras",
+          "value": "Mix de Verduras",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mediano",
+          "value": "Mediano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 9,
+  "metaTag": {
+    "title": "Sofritos y Mix de Verduras | Jumbo.cl",
+    "description": "Si tienes poco tiempo para cocinar, los mix de verduras serán tu gran aliado. ¡Pide en Jumbo.cl y prepara ensaladas, salteados y más!"
+  }
+}

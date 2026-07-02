@@ -1,0 +1,3512 @@
+{
+  "products": [
+    {
+      "productId": "4078",
+      "reference": "498075001",
+      "sponsoredId": null,
+      "slug": "oblea-mckay-140-g-alteza-sabor-helado",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "26777",
+        "26793",
+        "26794",
+        "26912",
+        "27105",
+        "27367",
+        "27507",
+        "27512"
+      ],
+      "brand": "Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4087",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 1630,
+          "listPrice": 1630,
+          "ppumPrice": 11643,
+          "ppumListPrice": 11643,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299969-250-250/Galleta-Oblea-Alteza-Helado-140-g.jpg?v=638776371506300000"
+          ],
+          "name": "Galletas Oblea Alteza Helado 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4054",
+      "reference": "269461",
+      "sponsoredId": null,
+      "slug": "galletas-criollitas-mckay-bolsa-100-g-criollitas-sabor-vainilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "27105",
+        "27499",
+        "27501",
+        "27507"
+      ],
+      "brand": "Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4063",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 1000,
+          "listPrice": 1390,
+          "ppumPrice": 10000,
+          "ppumListPrice": 13900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/573188-250-250/Galletas-Mckay-Criollitas-100-g.jpg?v=639053949665000000"
+          ],
+          "name": "Galletas Mckay Criollitas 100 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1000 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 21012026 AL 02052026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1000,
+              "ppumPrice": 10000,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3935",
+      "reference": "498071003",
+      "sponsoredId": null,
+      "slug": "galletas-dulces-costa-71-g-bocado-nik",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "17846"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3944",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.071,
+          "price": 580,
+          "listPrice": 580,
+          "ppumPrice": 8169,
+          "ppumListPrice": 8169,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347039-250-250/Galletas-Nik-bocado-71-g.jpg?v=638776466239300000"
+          ],
+          "name": "Galletas Nik Bocado 71 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4077",
+      "reference": "498075003",
+      "sponsoredId": null,
+      "slug": "oblea-mckay-140-g-alteza-sabor-chirimoya",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "26912",
+        "27105",
+        "27367",
+        "27507"
+      ],
+      "brand": "Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4086",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 1630,
+          "listPrice": 1630,
+          "ppumPrice": 11643,
+          "ppumListPrice": 11643,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299938-250-250/Galleta-Oblea-Alteza-Chirimoya-140-g.jpg?v=638776371456470000"
+          ],
+          "name": "Galletas Oblea Alteza Chirimoya 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4170",
+      "reference": "269554",
+      "sponsoredId": null,
+      "slug": "galletas-champana-vicenzono-vicenzi-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "14878",
+        "14882",
+        "14967",
+        "18359",
+        "19270",
+        "21726",
+        "22523",
+        "27499",
+        "27501",
+        "27541"
+      ],
+      "brand": "Matilde Vicenzi",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4179",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1673,
+          "listPrice": 2390,
+          "ppumPrice": 8365,
+          "ppumListPrice": 11950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300018-250-250/Galletas-de-champa%C3%B1a-200-g.jpg?v=638776371593800000"
+          ],
+          "name": "Galletas de Champaña Matilde Vicenzi 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1673,
+              "ppumPrice": 8365,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "79833",
+      "reference": "1818566",
+      "sponsoredId": null,
+      "slug": "bolsa-oblea-banada-super-8-de-8-unid-29-g-c-u",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25347",
+        "25519",
+        "25520",
+        "27105",
+        "27507"
+      ],
+      "brand": "Super 8",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "80086",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.232,
+          "price": 3690,
+          "listPrice": 3690,
+          "ppumPrice": 15905,
+          "ppumListPrice": 15905,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/364315-250-250/Oblea-Super-8-bolsa-292-g.jpg?v=638776753440230000"
+          ],
+          "name": "Galletas Bañadas Super 8 - 232 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "153791",
+      "reference": "2044473",
+      "sponsoredId": null,
+      "slug": "galleta-oblea-larga-chocolate-120-gr-2044473",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "25670",
+        "26816",
+        "26853",
+        "26912",
+        "26916",
+        "26917",
+        "27065",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27541"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154100",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 1290,
+          "listPrice": 1450,
+          "ppumPrice": 10750,
+          "ppumListPrice": 12083,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/491993-250-250/Galleta-Oblea-Larga-Chocolate-120-g.jpg?v=638905694119300000"
+          ],
+          "name": "Galleta Oblea Larga Chocolate 120 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1290,
+              "ppumPrice": 10750,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X2300 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 2300,
+              "unitPrice": 1150,
+              "ppumPrice": 9583,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "90854",
+      "reference": "1843783",
+      "sponsoredId": null,
+      "slug": "galletas-de-champagne-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27541"
+      ],
+      "brand": "Gullón",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "91118",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1990,
+          "listPrice": 2690,
+          "ppumPrice": 9950,
+          "ppumListPrice": 13450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/367529-250-250/Galletas-de-champagne-200-g.jpg?v=638776768365030000"
+          ],
+          "name": "Galletas Gullón Champaña 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1990,
+              "ppumPrice": 9950,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4076",
+      "reference": "498075004",
+      "sponsoredId": null,
+      "slug": "oblea-mckay-140-g-alteza-sabor-bocado",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "26912",
+        "27105",
+        "27367",
+        "27507"
+      ],
+      "brand": "Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4085",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.19,
+          "price": 1630,
+          "listPrice": 1630,
+          "ppumPrice": 8579,
+          "ppumListPrice": 8579,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/299919-250-250/Galleta-Oblea-Alteza-Bocado-140-g.jpg?v=638776371404770000"
+          ],
+          "name": "Galletas Oblea Alteza Bocado 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "83225",
+      "reference": "1818593",
+      "sponsoredId": null,
+      "slug": "bolsa-super-8-mini-20gr-7-uni",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "25347",
+        "25519",
+        "25520",
+        "27105",
+        "27507"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "83491",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 19214,
+          "ppumListPrice": 19214,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365301-250-250/Chocolate-Super-8-Mini-20-un-7-g-c-u.jpg?v=638776758188370000"
+          ],
+          "name": "Chocolate Super 8 Mini 7 g 20 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4424",
+      "reference": "1219182",
+      "sponsoredId": null,
+      "slug": "barquillo-gullon-envase-210-g-sabor-vainilla-sin-azucar",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1002",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Azúcar Añadida",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "6471",
+        "27499",
+        "27501",
+        "27541"
+      ],
+      "brand": "Gullón",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4433",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 2990,
+          "listPrice": 3550,
+          "ppumPrice": 16611,
+          "ppumListPrice": 19722,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347280-250-250/Barquillo-sabor-Vainilla-Sin-Azucar-180-g.jpg?v=638776469403900000"
+          ],
+          "name": "Barquillos Gullón Sabor Vainilla Sin Azúcar 180 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2990,
+              "ppumPrice": 16611,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4171",
+      "reference": "269555",
+      "sponsoredId": null,
+      "slug": "galletas-champana-vicenzono-vicenzi-bolsa-400-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "14878",
+        "14882",
+        "14967",
+        "18359",
+        "19270",
+        "21726",
+        "22523",
+        "27499",
+        "27501",
+        "27541"
+      ],
+      "brand": "Matilde Vicenzi",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4180",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3353,
+          "listPrice": 4790,
+          "ppumPrice": 8383,
+          "ppumListPrice": 11975,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300030-250-250/Galletas-de-champa%C3%B1a-400-g.jpg?v=638776371620400000"
+          ],
+          "name": "Galletas de Champaña Matilde Vicenzi 400 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3353,
+              "ppumPrice": 8383,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "140637",
+      "reference": "2005177",
+      "sponsoredId": null,
+      "slug": "mckay-criollita-80gr-2005177",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25347",
+        "25519",
+        "25520",
+        "27105",
+        "27507"
+      ],
+      "brand": "Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "140930",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.08,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 17375,
+          "ppumListPrice": 17375,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/573138-250-250/Galletas-Mckay-Criollitas-80-g.jpg?v=639053949331370000"
+          ],
+          "name": "Galletas Mckay Criollitas 80 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "153044",
+      "reference": "2041991",
+      "sponsoredId": null,
+      "slug": "galleta-criollita-mc-kay-175g-2041991",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "27105",
+        "27507"
+      ],
+      "brand": "Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153341",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.175,
+          "price": 2650,
+          "listPrice": 2650,
+          "ppumPrice": 15143,
+          "ppumListPrice": 15143,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/579606-250-250/Galletas-Mckay-Criollitas-Clasica-175-g.jpg?v=639071562721970000"
+          ],
+          "name": "Galletas Mckay Criollitas Clásica 175 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4075",
+      "reference": "498075002",
+      "sponsoredId": null,
+      "slug": "oblea-alteza-mckay-140-g-alteza-sabor-frutilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "26912",
+        "27105",
+        "27367",
+        "27507"
+      ],
+      "brand": "Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4084",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 1630,
+          "listPrice": 1630,
+          "ppumPrice": 11643,
+          "ppumListPrice": 11643,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300230-250-250/Galleta-Oblea-Alteza-Frutilla-140-g.jpg?v=638776372120300000"
+          ],
+          "name": "Galletas Oblea Alteza Frutilla 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3918",
+      "reference": "572166",
+      "sponsoredId": null,
+      "slug": "galletas-champana-costa-140-g-dulces-azucaradas",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "17846",
+        "22523"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3927",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 2090,
+          "listPrice": 2090,
+          "ppumPrice": 14929,
+          "ppumListPrice": 14929,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347024-250-250/Galletas-Champa%C3%B1a-140-g.jpg?v=638776466042970000"
+          ],
+          "name": "Galletas Champaña 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3936",
+      "reference": "498071001",
+      "sponsoredId": null,
+      "slug": "galletas-dulces-costa-71-g-limon-nik",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "17846"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3945",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.071,
+          "price": 580,
+          "listPrice": 580,
+          "ppumPrice": 8169,
+          "ppumListPrice": 8169,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347040-250-250/498071001-01_3840.jpg?v=638776466253930000"
+          ],
+          "name": "Galletas Nik Limón 71 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "142528",
+      "reference": "1998564",
+      "sponsoredId": null,
+      "slug": "galleta-oblea-vainilla-c-and-co-140-grs-1998564",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "894",
+        "895",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26912",
+        "27047",
+        "27048",
+        "27049",
+        "27051",
+        "27056",
+        "27057",
+        "27060",
+        "27061",
+        "27065",
+        "27066",
+        "27067",
+        "27068",
+        "27070",
+        "27367",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142822",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 1470,
+          "listPrice": 1470,
+          "ppumPrice": 10500,
+          "ppumListPrice": 10500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/421521-250-250/Galleta-Oblea-Vainilla-Cuisne---Co-140-g.jpg?v=638809562860170000"
+          ],
+          "name": "Galletas Oblea Cuisine & Co Vainilla 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "153400",
+      "reference": "2041427",
+      "sponsoredId": null,
+      "slug": "galleta-alteza-2041427",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "25347",
+        "25519",
+        "25520",
+        "26777",
+        "26793",
+        "26794",
+        "26912",
+        "27105",
+        "27367",
+        "27507",
+        "27512"
+      ],
+      "brand": "Mckay",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153706",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 1630,
+          "listPrice": 1630,
+          "ppumPrice": 11643,
+          "ppumListPrice": 11643,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/488686-250-250/GALLETA-ALTEZA.jpg?v=638895037971270000"
+          ],
+          "name": "Galletas Oblea Alteza Choco Vainilla 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "146058",
+      "reference": "2021682",
+      "sponsoredId": null,
+      "slug": "galleta-nik-chirimoya-alegre-71-gr-2021682",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146350",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.071,
+          "price": 580,
+          "listPrice": 580,
+          "ppumPrice": 8169,
+          "ppumListPrice": 8169,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/344623-250-250/GALLETA-NIK-CHIRIMOYA-ALEGRE-71-GR.jpg?v=638776444093570000"
+          ],
+          "name": "Galletas Nik Chirimoya 71 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "4015",
+      "reference": "1441305",
+      "sponsoredId": null,
+      "slug": "galleta-gullon-210-g-sabor-chocolate-sin-azucar-diet-nature",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1002",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Azúcar Añadida",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "6471",
+        "27499",
+        "27501",
+        "27541"
+      ],
+      "brand": "Gullón",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "4024",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.18,
+          "price": 2990,
+          "listPrice": 3550,
+          "ppumPrice": 16611,
+          "ppumListPrice": 19722,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347076-250-250/Barquillo-sabor-chocolate-180-g.jpg?v=638776466762370000"
+          ],
+          "name": "Barquillos Gullón Sabor Chocolate 180 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2990,
+              "ppumPrice": 16611,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3937",
+      "reference": "498071002",
+      "sponsoredId": null,
+      "slug": "galletas-dulces-costa-71-g-nik-frutilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "17846"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3946",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.071,
+          "price": 580,
+          "listPrice": 580,
+          "ppumPrice": 8169,
+          "ppumListPrice": 8169,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347041-250-250/Galletas-Nik-frutilla-71-g.jpg?v=638776466267700000"
+          ],
+          "name": "Galletas Nik Frutilla 71 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "142527",
+      "reference": "1998562",
+      "sponsoredId": null,
+      "slug": "galleta-oblea-chocolate-c-and-co-140-grs-1998562",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "894",
+        "895",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26912",
+        "27047",
+        "27048",
+        "27049",
+        "27051",
+        "27056",
+        "27057",
+        "27060",
+        "27061",
+        "27065",
+        "27066",
+        "27067",
+        "27068",
+        "27070",
+        "27367",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142823",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 1470,
+          "listPrice": 1470,
+          "ppumPrice": 10500,
+          "ppumListPrice": 10500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/421548-250-250/Galleta-Oblea-Chocolate-Cuisne---Co-140-g.jpg?v=638809563476000000"
+          ],
+          "name": "Galletas Oblea Cuisine & Co Chocolate 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "142526",
+      "reference": "1998556",
+      "sponsoredId": null,
+      "slug": "galleta-oblea-frutilla-c-and-co-140-grs-1998556",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "894",
+        "895",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26912",
+        "27047",
+        "27048",
+        "27049",
+        "27051",
+        "27056",
+        "27057",
+        "27060",
+        "27061",
+        "27065",
+        "27066",
+        "27067",
+        "27068",
+        "27070",
+        "27367",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142821",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.14,
+          "price": 1470,
+          "listPrice": 1470,
+          "ppumPrice": 10500,
+          "ppumListPrice": 10500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/421502-250-250/Galleta-Oblea-Frutilla-Cuisne---Co-140-g.jpg?v=638809562608930000"
+          ],
+          "name": "Galletas Oblea Cuisine & Co Frutilla 140 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "69911",
+      "reference": "1755651",
+      "sponsoredId": null,
+      "slug": "galleta-vicenzi-champana-sin-gluten-125g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1003",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Gluten",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "7956",
+        "14878",
+        "14882",
+        "14967",
+        "18359",
+        "19270",
+        "24500",
+        "27499",
+        "27501",
+        "27541"
+      ],
+      "brand": "Matilde Vicenzi",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "70166",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.125,
+          "price": 3353,
+          "listPrice": 4790,
+          "ppumPrice": 26824,
+          "ppumListPrice": 38320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309931-250-250/Galletas-de-champa%C3%B1a-sin-gluten-125-g.jpg?v=638776390288570000"
+          ],
+          "name": "Galletas de Champaña Matilde Vicenzi Sin Gluten 125 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3353,
+              "ppumPrice": 26824,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "153716",
+      "reference": "2037991",
+      "sponsoredId": null,
+      "slug": "galleta-super-8-pack-6x29g-2037991",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25347",
+        "25422",
+        "25519",
+        "25520",
+        "25695",
+        "27105",
+        "27499",
+        "27501",
+        "27507",
+        "27541"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154026",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.174,
+          "price": 2000,
+          "listPrice": 2590,
+          "ppumPrice": 11494,
+          "ppumListPrice": 14885,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/488682-250-250/GALLETA-SUPER-8-PACK-6X29G.jpg?v=638895037953100000"
+          ],
+          "name": "Pack 6 un. Galletas Super 8 - 29 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2000 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 13012026 AL 02052026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2000,
+              "ppumPrice": 11494,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "150476",
+      "reference": "2037254",
+      "sponsoredId": null,
+      "slug": "galleta-tirma-choc-2037254",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "14878",
+        "14880",
+        "24961",
+        "27261",
+        "27499",
+        "27501",
+        "27541"
+      ],
+      "brand": "Tirma",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150774",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 0.086,
+          "price": 1393,
+          "listPrice": 1990,
+          "ppumPrice": 16198,
+          "ppumListPrice": 23140,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/526375-250-250/Galleta-Wafer-Tirma-Ba%C3%B1ado-en-Chocolate-con-Leche-86-g.jpg?v=638966657009000000"
+          ],
+          "name": "Galleta Wafer Tirma Bañado en Chocolate con Leche 86 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1393,
+              "ppumPrice": 16198,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "153787",
+      "reference": "2045060",
+      "sponsoredId": null,
+      "slug": "galleta-oblea-larga-vainilla-120-gr-2045060",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "25670",
+        "26816",
+        "26853",
+        "26912",
+        "26916",
+        "26917",
+        "27065",
+        "27092",
+        "27280",
+        "27281",
+        "27296",
+        "27309",
+        "27367",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27537",
+        "27541"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154106",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 1290,
+          "listPrice": 1450,
+          "ppumPrice": 10750,
+          "ppumListPrice": 12083,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/491657-250-250/Galletas-Oblea-Larga-Vainilla-120-g.jpg?v=638905524848570000"
+          ],
+          "name": "Galleta Oblea Larga Vainilla 120 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1290,
+              "ppumPrice": 10750,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X2300 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 2300,
+              "unitPrice": 1150,
+              "ppumPrice": 9583,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "64976",
+      "reference": "1769589",
+      "sponsoredId": null,
+      "slug": "galletas-oblea-santa-oblea-gigante-72-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "831",
+        "999",
+        "1006",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "1055",
+        "23984",
+        "23985"
+      ],
+      "brand": "Santa Oblea",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "65183",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.072,
+          "price": 3290,
+          "listPrice": 3290,
+          "ppumPrice": 45694,
+          "ppumListPrice": 45694,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361444-250-250/Galletas-Santa-Oblea-gigante-72-g.jpg?v=638776737341100000"
+          ],
+          "name": "Galletas Santa Oblea Gigante 72 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "126006",
+      "reference": "1961210",
+      "sponsoredId": null,
+      "slug": "nik-block-130-gr-1961210",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "17846",
+        "19270"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "126331",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.13,
+          "price": 1550,
+          "listPrice": 1550,
+          "ppumPrice": 11923,
+          "ppumListPrice": 11923,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/391746-250-250/Nik-Block-130-g.jpg?v=638776868810830000"
+          ],
+          "name": "Galletas Nik Block 130 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3938",
+      "reference": "619632",
+      "sponsoredId": null,
+      "slug": "galletas-dulces-costa-85-g-champanitas",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "19270"
+      ],
+      "brand": "Costa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3947",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.085,
+          "price": 1000,
+          "listPrice": 1000,
+          "ppumPrice": 11765,
+          "ppumListPrice": 11765,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347042-250-250/Galletas-Champa%C3%B1ita-85-g.jpg?v=638776466282500000"
+          ],
+          "name": "Galletas Champañitas 85 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "150477",
+      "reference": "2037253",
+      "sponsoredId": null,
+      "slug": "galleta-tirma-zero-2037253",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "14878",
+        "14880",
+        "24961",
+        "27261",
+        "27499",
+        "27501",
+        "27541"
+      ],
+      "brand": "Tirma",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150775",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 0.064,
+          "price": 1393,
+          "listPrice": 1990,
+          "ppumPrice": 21766,
+          "ppumListPrice": 31094,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/526368-250-250/Galleta-Wafer-Tirma-Zero-64-g.jpg?v=638966656996500000"
+          ],
+          "name": "Galleta Wafer Tirma Zero 64 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1393,
+              "ppumPrice": 21766,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "18889",
+      "reference": "1607558",
+      "sponsoredId": null,
+      "slug": "bolsa-hanuta-mini-200-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "14878",
+        "14879",
+        "14967",
+        "18357",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Hanuta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "19213",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 29950,
+          "ppumListPrice": 29950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304201-250-250/Galletas-Hanuta-mini-bolsa-200-g.jpg?v=638776379450330000"
+          ],
+          "name": "Galletas Hanuta Mini Bolsa 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Exclusivo Jumbo",
+            "backgroundColor": "#b9e3be",
+            "textColor": "#000000",
+            "imageTagUrl": "https://provider-jumbo.ecomm.cencosud.com/cms/cl/configurations/view_version/68093f29b41ba3d036f05ab4/79f3b45a-60b8-4cd2-a11c-cdc5c3638f22.png"
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "3964",
+      "reference": "1547048",
+      "sponsoredId": null,
+      "slug": "galletas-mini-cua-cua-42-g-obleas-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "22088"
+      ],
+      "brand": "Cua Cua",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "3973",
+          "cartLimit": 10,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.042,
+          "price": 640,
+          "listPrice": 640,
+          "ppumPrice": 15238,
+          "ppumListPrice": 15238,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347060-250-250/Galleta-oblea-mini-Cua-Cua-cubierta-de-chocolate-con-vainilla-42-g.jpg?v=638776466534230000"
+          ],
+          "name": "Galletas Oblea Mini Cua Cua Cubierta de Chocolate con Vainilla 42 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "148509",
+      "reference": "2036069",
+      "sponsoredId": null,
+      "slug": "vicenzi-fruti-200g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "14878",
+        "14882",
+        "27499",
+        "27501",
+        "27541"
+      ],
+      "brand": "Vicenzi",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "148805",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 2093,
+          "listPrice": 2990,
+          "ppumPrice": 10465,
+          "ppumListPrice": 14950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/424371-250-250/VICENZI-FRUTI-200G.jpg?v=638810575021470000"
+          ],
+          "name": "Galleta Vicenzi Champaña Frutilla 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 2093,
+              "ppumPrice": 10465,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "150475",
+      "reference": "2039274",
+      "sponsoredId": null,
+      "slug": "galleta-tirma-wafb-2039274",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "14878",
+        "14880",
+        "24961",
+        "27261",
+        "27499",
+        "27501",
+        "27541"
+      ],
+      "brand": "Tirma",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150773",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 0.086,
+          "price": 1393,
+          "listPrice": 1990,
+          "ppumPrice": 16198,
+          "ppumListPrice": 23140,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/526410-250-250/Galleta-Wafer-Tirma-Ba%C3%B1ado-en-Chocolate-Blanco-86-g.jpg?v=638966657105170000"
+          ],
+          "name": "Galleta Wafer Tirma Bañado en Chocolate Blanco 86 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1393,
+              "ppumPrice": 16198,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "150474",
+      "reference": "2037255",
+      "sponsoredId": null,
+      "slug": "galleta-tirma-wafa-2037255",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "14878",
+        "14880",
+        "24961",
+        "27261",
+        "27499",
+        "27501"
+      ],
+      "brand": "Tirma",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150772",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 0.086,
+          "price": 1393,
+          "listPrice": 1990,
+          "ppumPrice": 16198,
+          "ppumListPrice": 23140,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/526380-250-250/Galleta-Wafer-Tirma-Avellana-Chocolate-con-Leche-86-g.jpg?v=638966657019530000"
+          ],
+          "name": "Galleta Wafer Tirma Avellana Chocolate con Leche 86 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 1393,
+              "ppumPrice": 16198,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "158873",
+      "reference": "2054036",
+      "sponsoredId": null,
+      "slug": "galleta-knoppers-25gr-2054036",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [],
+      "brand": "Storck",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159204",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.025,
+          "price": 1090,
+          "listPrice": 1090,
+          "ppumPrice": 43600,
+          "ppumListPrice": 43600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/533268-250-250/Galleta-Knoppers-25-g.jpg?v=638979415213600000"
+          ],
+          "name": "Galleta Knoppers 25 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "64977",
+      "reference": "1769590",
+      "sponsoredId": null,
+      "slug": "galletas-oblea-santa-oblea-con-manjar-74-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "23984",
+        "23985"
+      ],
+      "brand": "Santa Oblea",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "65177",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.074,
+          "price": 1490,
+          "listPrice": 1490,
+          "ppumPrice": 20135,
+          "ppumListPrice": 20135,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361445-250-250/Galletas-Santa-Oblea-con-manjar-74-g.jpg?v=638776737341400000"
+          ],
+          "name": "Galletas Santa Oblea con Manjar 74 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "106349",
+      "reference": "1898261",
+      "sponsoredId": null,
+      "slug": "obleas-hersheys-mais-c-c-102-gr-1898261",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "47",
+        "1041",
+        "1057"
+      ],
+      "categoryNames": [
+        "Chocolates, Galletas y Snacks",
+        "Galletas Dulces",
+        "Galletas Obleas y Champagne"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Hershey's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "106618",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.102,
+          "price": 2000,
+          "listPrice": 2000,
+          "ppumPrice": 19608,
+          "ppumListPrice": 19608,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/375925-250-250/Obleas-Mais-chocolate-con-leche-102-g.jpg?v=638776805543230000"
+          ],
+          "name": "Obleas Mais Hershey's Chocolate con Leche 102 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Galletas Obleas y Champagne",
+          "value": "/chocolates-galletas-y-snacks/galletas-dulces/galletas-obleas-y-champagne",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Galletas Obleas y Champagne",
+          "value": "/chocolates-galletas-y-snacks/galletas-dulces/galletas-obleas-y-champagne",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Galletas Obleas y Champagne",
+          "value": "/chocolates-galletas-y-snacks/galletas-dulces/galletas-obleas-y-champagne",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mckay",
+          "value": "Mckay",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Costa",
+          "value": "Costa",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Matilde Vicenzi",
+          "value": "Matilde Vicenzi",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gullón",
+          "value": "Gullón",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Super 8",
+          "value": "Super 8",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nestlé",
+          "value": "Nestlé",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tirma",
+          "value": "Tirma",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Santa Oblea",
+          "value": "Santa Oblea",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cua Cua",
+          "value": "Cua Cua",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vicenzi",
+          "value": "Vicenzi",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hershey's",
+          "value": "Hershey's",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hanuta",
+          "value": "Hanuta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Storck",
+          "value": "Storck",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cuetara",
+          "value": "Cuetara",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arcor",
+          "value": "Arcor",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 40,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 40,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "232 g",
+          "value": "232 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Bocado",
+          "value": "Bocado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chirimoya",
+          "value": "Chirimoya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate",
+          "value": "Chocolate",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate De Leche",
+          "value": "Chocolate De Leche",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cookies and Creme",
+          "value": "Cookies and Creme",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutilla",
+          "value": "Frutilla",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas oblea cubierta de chocolate con vainilla",
+          "value": "Galletas oblea cubierta de chocolate con vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Helado",
+          "value": "Helado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vainilla",
+          "value": "Vainilla",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "71",
+          "value": "71",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "100g",
+          "value": "100g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "125 g",
+          "value": "125 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "140 g",
+          "value": "140 g",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "140g",
+          "value": "140g",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "210 g",
+          "value": "210 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "232 g",
+          "value": "232 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "29 g",
+          "value": "29 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "71 g",
+          "value": "71 g",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "85 g",
+          "value": "85 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Galletas Oblea",
+          "value": "Galletas Oblea",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas de Champaña",
+          "value": "Galletas de Champaña",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Clásicas",
+          "value": "Galletas Clásicas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Bañadas y Rellenas",
+          "value": "Galletas Bañadas y Rellenas",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Tradicionales",
+          "value": "Galletas Tradicionales",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate en Barra",
+          "value": "Chocolate en Barra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas Chips",
+          "value": "Galletas Chips",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack",
+          "value": "Pack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Dulce",
+          "value": "Dulce",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulces",
+          "value": "Dulces",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Galletas bañadas y rellenas",
+          "value": "Galletas bañadas y rellenas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Super 8",
+          "value": "Super 8",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "Chocolate con Galleta",
+          "value": "Chocolate con Galleta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crema de vainilla",
+          "value": "Crema de vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 550,
+          "maxValue": 5990
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brasil",
+          "value": "Brasil",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bulgaria",
+          "value": "Bulgaria",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Italia",
+          "value": "Italia",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Perú",
+          "value": "Perú",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Barra",
+          "value": "Barra",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bolsas",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Entera",
+          "value": "Entera",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Envasado",
+          "value": "ENVASADO",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Seco",
+          "value": "Seco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Rango Porcentaje de Cacao",
+      "key": "Rango Porcentaje de Cacao",
+      "values": [
+        {
+          "displayName": "Entre 51% y 70%",
+          "value": "Entre 51% y 70% Cacao",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 44,
+  "metaTag": null
+}

@@ -1,0 +1,142 @@
+No pude extraer links desde el menú (headless). Usando Plan B (slugify).
+
+Subcategorías detectadas en [Perfumería]: 34
+ - Cuidado capilar | Shampoo -> https://www.unimarc.cl/category/perfumeria/cuidado-capilar/shampoo
+ - Cuidado capilar | Acondicionador -> https://www.unimarc.cl/category/perfumeria/cuidado-capilar/acondicionador
+ - Cuidado capilar | Cremas para peinar -> https://www.unimarc.cl/category/perfumeria/cuidado-capilar/cremas-para-peinar
+ - Cuidado capilar | Coloración y tinturas -> https://www.unimarc.cl/category/perfumeria/cuidado-capilar/coloracion-y-tinturas
+ - Cuidado capilar | Fijadores -> https://www.unimarc.cl/category/perfumeria/cuidado-capilar/fijadores
+ - Cuidado capilar | Cepillos, peinetas y accesorios -> https://www.unimarc.cl/category/perfumeria/cuidado-capilar/cepillos-peinetas-y-accesorios
+ - Cuidado bucal | Pasta dental -> https://www.unimarc.cl/category/perfumeria/cuidado-bucal/pasta-dental
+ - Cuidado bucal | Cepillos -> https://www.unimarc.cl/category/perfumeria/cuidado-bucal/cepillos
+ - Cuidado bucal | Enjuague bucal y sedas -> https://www.unimarc.cl/category/perfumeria/cuidado-bucal/enjuague-bucal-y-sedas
+ - Cuidado personal | Jabón en barra -> https://www.unimarc.cl/category/perfumeria/cuidado-personal/jabon-en-barra
+ - Cuidado personal | Jabón líquido -> https://www.unimarc.cl/category/perfumeria/cuidado-personal/jabon-liquido
+ - Cuidado personal | Gel de ducha -> https://www.unimarc.cl/category/perfumeria/cuidado-personal/gel-de-ducha
+ - Cuidado personal | Alcohol gel -> https://www.unimarc.cl/category/perfumeria/cuidado-personal/alcohol-gel
+ - Cuidado personal | Cosméticos y desmaquillantes -> https://www.unimarc.cl/category/perfumeria/cuidado-personal/cosmeticos-y-desmaquillantes
+ - Cuidado personal | Cuidado pies -> https://www.unimarc.cl/category/perfumeria/cuidado-personal/cuidado-pies
+ - Cuidado personal | Esponjas y accesorios -> https://www.unimarc.cl/category/perfumeria/cuidado-personal/esponjas-y-accesorios
+ - Cuidado corporal y facial | Cremas corporales -> https://www.unimarc.cl/category/perfumeria/cuidado-corporal-y-facial/cremas-corporales
+ - Cuidado corporal y facial | Cremas de mano -> https://www.unimarc.cl/category/perfumeria/cuidado-corporal-y-facial/cremas-de-mano
+ - Cuidado corporal y facial | Protección solar -> https://www.unimarc.cl/category/perfumeria/cuidado-corporal-y-facial/proteccion-solar
+ - Cuidado corporal y facial | Cremas faciales -> https://www.unimarc.cl/category/perfumeria/cuidado-corporal-y-facial/cremas-faciales
+ - Cuidado femenino | Protección femenina -> https://www.unimarc.cl/category/perfumeria/cuidado-femenino/proteccion-femenina
+ - Cuidado femenino | Desodorante -> https://www.unimarc.cl/category/perfumeria/cuidado-femenino/desodorante
+ - Cuidado femenino | Depilación -> https://www.unimarc.cl/category/perfumeria/cuidado-femenino/depilacion
+ - Cuidado femenino | Colonia -> https://www.unimarc.cl/category/perfumeria/cuidado-femenino/colonia
+ - Cuidado masculino | Desodorantes -> https://www.unimarc.cl/category/perfumeria/cuidado-masculino/desodorantes
+ - Cuidado masculino | Afeitadoras y repuestos -> https://www.unimarc.cl/category/perfumeria/cuidado-masculino/afeitadoras-y-repuestos
+ - Cuidado masculino | Crema, gel y espuma de afeitar -> https://www.unimarc.cl/category/perfumeria/cuidado-masculino/crema-gel-y-espuma-de-afeitar
+ - Cuidado masculino | Colonias -> https://www.unimarc.cl/category/perfumeria/cuidado-masculino/colonias
+ - Cuidado adulto | Pañales y pants -> https://www.unimarc.cl/category/perfumeria/cuidado-adulto/panales-y-pants
+ - Cuidado adulto | Protectores y toallas húmedas -> https://www.unimarc.cl/category/perfumeria/cuidado-adulto/protectores-y-toallas-humedas
+ - Cuidado adulto | Protección cama -> https://www.unimarc.cl/category/perfumeria/cuidado-adulto/proteccion-cama
+ - Farmacia | Primeros auxilios -> https://www.unimarc.cl/category/perfumeria/farmacia/primeros-auxilios
+ - Farmacia | Preservativos y lubricantes -> https://www.unimarc.cl/category/perfumeria/farmacia/preservativos-y-lubricantes
+ - Farmacia | Vitaminas y suplementos -> https://www.unimarc.cl/category/perfumeria/farmacia/vitaminas-y-suplementos
+
+Scrape: [Cuidado capilar] Shampoo
+  productos únicos: 50
+
+Scrape: [Cuidado capilar] Acondicionador
+  productos únicos: 100
+
+Scrape: [Cuidado capilar] Cremas para peinar
+  productos únicos: 93
+
+Scrape: [Cuidado capilar] Coloración y tinturas
+  productos únicos: 100
+
+Scrape: [Cuidado capilar] Fijadores
+  productos únicos: 11
+
+Scrape: [Cuidado capilar] Cepillos, peinetas y accesorios
+  productos únicos: 7
+
+Scrape: [Cuidado bucal] Pasta dental
+  productos únicos: 50
+
+Scrape: [Cuidado bucal] Cepillos
+  productos únicos: 59
+
+Scrape: [Cuidado bucal] Enjuague bucal y sedas
+  productos únicos: 23
+
+Scrape: [Cuidado personal] Jabón en barra
+  productos únicos: 26
+
+Scrape: [Cuidado personal] Jabón líquido
+  productos únicos: 49
+
+Scrape: [Cuidado personal] Gel de ducha
+  productos únicos: 3
+
+Scrape: [Cuidado personal] Alcohol gel
+  productos únicos: 3
+
+Scrape: [Cuidado personal] Cosméticos y desmaquillantes
+  productos únicos: 38
+
+Scrape: [Cuidado personal] Cuidado pies
+  productos únicos: 10
+
+Scrape: [Cuidado personal] Esponjas y accesorios
+  productos únicos: 3
+
+Scrape: [Cuidado corporal y facial] Cremas corporales
+  productos únicos: 32
+
+Scrape: [Cuidado corporal y facial] Cremas de mano
+  productos únicos: 6
+
+Scrape: [Cuidado corporal y facial] Protección solar
+  productos únicos: 6
+
+Scrape: [Cuidado corporal y facial] Cremas faciales
+  productos únicos: 31
+
+Scrape: [Cuidado femenino] Protección femenina
+  productos únicos: 100
+
+Scrape: [Cuidado femenino] Desodorante
+  productos únicos: 100
+
+Scrape: [Cuidado femenino] Depilación
+  productos únicos: 26
+
+Scrape: [Cuidado femenino] Colonia
+  productos únicos: 13
+
+Scrape: [Cuidado masculino] Desodorantes
+  productos únicos: 93
+
+Scrape: [Cuidado masculino] Afeitadoras y repuestos
+  productos únicos: 40
+
+Scrape: [Cuidado masculino] Crema, gel y espuma de afeitar
+  productos únicos: 11
+
+Scrape: [Cuidado masculino] Colonias
+  productos únicos: 3
+
+Scrape: [Cuidado adulto] Pañales y pants
+  productos únicos: 32
+
+Scrape: [Cuidado adulto] Protectores y toallas húmedas
+  productos únicos: 7
+
+Scrape: [Cuidado adulto] Protección cama
+  productos únicos: 2
+
+Scrape: [Farmacia] Primeros auxilios
+  productos únicos: 12
+
+Scrape: [Farmacia] Preservativos y lubricantes
+  productos únicos: 7
+
+Scrape: [Farmacia] Vitaminas y suplementos
+  productos únicos: 0
+
+Total filas: 1146
+CSV generado: output\perfumerias\unimarc_perfumeria_subcats_20260309_201737.csv

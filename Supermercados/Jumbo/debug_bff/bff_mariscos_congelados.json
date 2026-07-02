@@ -1,0 +1,1460 @@
+{
+  "products": [
+    {
+      "productId": "23828",
+      "reference": "1668552",
+      "sponsoredId": null,
+      "slug": "surtido-de-mariscos-mar-verde-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [],
+      "brand": "Mar Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24145",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 0.5,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 7980,
+          "ppumListPrice": 7980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/354881-250-250/Principal-22834.jpg?v=638776704196400000"
+          ],
+          "name": "Surtido de Mariscos 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "97792",
+      "reference": "1861050",
+      "sponsoredId": null,
+      "slug": "machas-parmesanas-congelados-12-uni-1861050",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98051",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 12,
+          "price": 11290,
+          "listPrice": 11290,
+          "ppumPrice": 941,
+          "ppumListPrice": 941,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/370213-250-250/Machas-Premium-parmesanas-congeladas-12-un.jpg?v=638776781104370000"
+          ],
+          "name": "Machas Parmesanas Cuisine & Co Congeladas 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "95546",
+      "reference": "1856589",
+      "sponsoredId": null,
+      "slug": "carna-de-jaiba-congelada-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "95811",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 12190,
+          "listPrice": 12190,
+          "ppumPrice": 24380,
+          "ppumListPrice": 24380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/369027-250-250/Carne-de-jaiba-congelada-500-g.jpg?v=638776775308630000"
+          ],
+          "name": "Carne de Jaiba Premium Congelada 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "95544",
+      "reference": "1856587",
+      "sponsoredId": null,
+      "slug": "ostiones-media-concha-congelados-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "95809",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 12990,
+          "listPrice": 12990,
+          "ppumPrice": 25980,
+          "ppumListPrice": 25980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/369031-250-250/Ostiones-media-concha-congelados-500-g.jpg?v=638776775315230000"
+          ],
+          "name": "Ostiones Premium Media Concha Congelado 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "23813",
+      "reference": "1696583",
+      "sponsoredId": null,
+      "slug": "choritos-con-concha-san-jose-454-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [
+        "22523",
+        "27499",
+        "27501",
+        "27554",
+        "27563",
+        "27601"
+      ],
+      "brand": "San José",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24130",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.454,
+          "price": 2490,
+          "listPrice": 3290,
+          "ppumPrice": 5485,
+          "ppumListPrice": 7247,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/578308-250-250/Choritos-con-Concha-Congelados-454-g.jpg?v=639071560360230000"
+          ],
+          "name": "Choritos con Concha Congelados 454 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2490 - CAE: JUMBO CATALOGO ESPECIAL JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2490,
+              "ppumPrice": 5485,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "23822",
+      "reference": "1076506",
+      "sponsoredId": null,
+      "slug": "almeja-juliana-south-wind-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [],
+      "brand": "South Wind",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "24139",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 0.5,
+          "price": 4090,
+          "listPrice": 4090,
+          "ppumPrice": 8180,
+          "ppumListPrice": 8180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/305122-250-250/Almeja-Juliana-South-Wind-500-g.jpg?v=638776381257930000"
+          ],
+          "name": "Almeja Juliana Congelada 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "95515",
+      "reference": "1843962",
+      "sponsoredId": null,
+      "slug": "anillos-de-calamar-apanados-400-g-cuisine-and-co-1843962",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "95780",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 5690,
+          "listPrice": 5690,
+          "ppumPrice": 14225,
+          "ppumListPrice": 14225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/369010-250-250/Anillos-de-calamar-apanados-400-g-1-196039342.jpg?v=638776775231330000"
+          ],
+          "name": "Anillos de Calamar Apanados 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "136943",
+      "reference": "1996594",
+      "sponsoredId": null,
+      "slug": "pulpo-coc-panamei-454gr-1996594",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [],
+      "brand": "Panamei",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "137239",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.454,
+          "price": 22990,
+          "listPrice": 22990,
+          "ppumPrice": 50639,
+          "ppumListPrice": 50639,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/410154-250-250/Pulpo-Cocido-Congelado-454-g.jpg?v=638790480911300000"
+          ],
+          "name": "Pulpo Cocido Congelado 454 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146757",
+      "reference": "2007047",
+      "sponsoredId": null,
+      "slug": "colas-langosta-norteamaerica-lukes-198gr-2007047",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [],
+      "brand": "Lukes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147052",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.198,
+          "price": 24990,
+          "listPrice": 24990,
+          "ppumPrice": 126212,
+          "ppumListPrice": 126212,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/410381-250-250/Colas-de-Langosta-Norteamerica-Luke%E2%80%99s-198-g.jpg?v=638790481488130000"
+          ],
+          "name": "Colas de Langosta Norteamérica Luke’s 198 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "95545",
+      "reference": "1856588",
+      "sponsoredId": null,
+      "slug": "pinzas-de-jaiba-congelada-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "95810",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 12790,
+          "listPrice": 12790,
+          "ppumPrice": 25580,
+          "ppumListPrice": 25580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/369029-250-250/Pinzas-de-jaiba-congelada-500-g.jpg?v=638776775312900000"
+          ],
+          "name": "Pinzas de Jaiba Premium Congelado 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "46178",
+      "reference": "1700568",
+      "sponsoredId": null,
+      "slug": "machas-a-la-parmesana-12-unid-chef-vitto",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [],
+      "brand": "Chef Vittó",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "46423",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 12,
+          "price": 15990,
+          "listPrice": 15990,
+          "ppumPrice": 1333,
+          "ppumListPrice": 1333,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/357986-250-250/1700568-1.jpg?v=638776721537630000"
+          ],
+          "name": "Machas A La Parmesana Congeladas 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "97773",
+      "reference": "1861051",
+      "sponsoredId": null,
+      "slug": "ostiones-parmesanos-congelados-8-uni-1861051",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98050",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 8,
+          "price": 13190,
+          "listPrice": 13190,
+          "ppumPrice": 1649,
+          "ppumListPrice": 1649,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/370214-250-250/Ostiones-parmesanos-seleccionados-8-un.jpg?v=638776781104830000"
+          ],
+          "name": "Ostiones Parmesanos Cuisine & Co Congelados 360 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146452",
+      "reference": "2027105",
+      "sponsoredId": null,
+      "slug": "molde-carne-de-jaiba-500g-cuisine-and-co-2027105",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146746",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 14990,
+          "listPrice": 14990,
+          "ppumPrice": 29980,
+          "ppumListPrice": 29980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/417054-250-250/Molde-de-Carne-de-Jaiba-Cuisine---Co-500-g.jpg?v=638803698088200000"
+          ],
+          "name": "Molde de Carne de Jaiba Cuisine & Co 500 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "97787",
+      "reference": "1861049",
+      "sponsoredId": null,
+      "slug": "machas-media-concha-congelados-20-uni-1861049",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "831",
+        "894",
+        "895",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98057",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 14,
+          "price": 12690,
+          "listPrice": 12690,
+          "ppumPrice": 906,
+          "ppumListPrice": 906,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/370229-250-250/Machas-media-concha-congeladas-20-un.jpg?v=638776781269300000"
+          ],
+          "name": "Machas Media Concha Congeladas 220 g 14 un.",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "106064",
+      "reference": "1880233",
+      "sponsoredId": null,
+      "slug": "pulpo-cocido-laminado-300-gr-1880233",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [],
+      "brand": "Congelados Premium",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "106332",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 10990,
+          "listPrice": 10990,
+          "ppumPrice": 36633,
+          "ppumListPrice": 36633,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/375541-250-250/Pulpo-cocido-laminado-300-g.jpg?v=638776804109470000"
+          ],
+          "name": "Pulpo Cocido Laminado Congelado 300 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "97791",
+      "reference": "1857001",
+      "sponsoredId": null,
+      "slug": "carne-centolla-congelada-250-g-1857001",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "990",
+        "991"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Mariscos",
+        "Mariscos Congelados"
+      ],
+      "collections": [],
+      "brand": "Congelados Premium",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98066",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 22990,
+          "listPrice": 22990,
+          "ppumPrice": 91960,
+          "ppumListPrice": 91960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/370235-250-250/Carne-de-Centolla-congelada-250-g.jpg?v=638776781296600000"
+          ],
+          "name": "Centolla Congelada 250 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Mariscos Congelados",
+          "value": "/carnes-y-pescados/mariscos/mariscos-congelados",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Mariscos Congelados",
+          "value": "/carnes-y-pescados/mariscos/mariscos-congelados",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Mariscos Congelados",
+          "value": "/carnes-y-pescados/mariscos/mariscos-congelados",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bandeja",
+          "value": "Bandeja",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Almejas",
+          "value": "Almejas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Surtido de Mariscos",
+          "value": "Surtido de Mariscos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Choritos",
+          "value": "Choritos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Calamares",
+          "value": "Calamares",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Machas",
+          "value": "Machas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jaibas",
+          "value": "Jaibas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ostiones",
+          "value": "Ostiones",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Langostas",
+          "value": "Langostas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pulpos",
+          "value": "Pulpos",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Accesorios Repostería",
+          "value": "Accesorios Repostería",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Centollas",
+          "value": "Centollas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2490,
+          "maxValue": 24990
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "454 g",
+          "value": "454 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "500 g",
+          "value": "500 g",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "South Wind",
+          "value": "South Wind",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mar Verde",
+          "value": "Mar Verde",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "San José",
+          "value": "San José",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lukes",
+          "value": "Lukes",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Panamei",
+          "value": "Panamei",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chef Vittó",
+          "value": "Chef Vittó",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Congelados Premium",
+          "value": "Congelados Premium",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Crudo",
+          "value": "Crudo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mariscos",
+          "value": "Mariscos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Moldes de Repostería",
+          "value": "Moldes de Repostería",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "500 g",
+          "value": "500 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 16,
+  "metaTag": {
+    "title": "Mariscos congelados | Jumbo.cl",
+    "description": "Disfruta los exquisitos sabores del mar en cualquier momento con nuestra selección de mariscos congelados. Encuentra choritos, ostiones y más en Jumbo.cl"
+  }
+}

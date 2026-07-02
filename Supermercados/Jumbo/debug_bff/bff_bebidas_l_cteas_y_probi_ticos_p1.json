@@ -1,0 +1,3561 @@
+{
+  "products": [
+    {
+      "productId": "57375",
+      "reference": "1630180001",
+      "sponsoredId": null,
+      "slug": "bebida-lactea-shot-protein-100ml-berries",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "25524",
+        "25741",
+        "25747",
+        "26935"
+      ],
+      "brand": "Loncoleche",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "57688",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.1,
+          "price": 690,
+          "listPrice": 690,
+          "ppumPrice": 6900,
+          "ppumListPrice": 6900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360266-250-250/1630180001-01_56582.jpg?v=638776731966170000"
+          ],
+          "name": "Bebida Láctea Loncoleche Shot Proteína Berries 100 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7068",
+      "reference": "1650314002",
+      "sponsoredId": null,
+      "slug": "bebida-lactea-soprole-pack-12-unid-8-uno-multifruta",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "691",
+        "914",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Yoghurt Trozos y Frutas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25778",
+        "26935",
+        "27376",
+        "27388",
+        "27553",
+        "27627"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7156",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.96,
+          "price": 3900,
+          "listPrice": 4720,
+          "ppumPrice": 4063,
+          "ppumListPrice": 4917,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348727-250-250/Pack-12-un-Probiotico-defensas-sabor-multifruta-80-ml.jpg?v=638776488059500000"
+          ],
+          "name": "Pack 12 un. Probiótico Uno Multifruta 80 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3900 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3900,
+              "ppumPrice": 4063,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "119876",
+      "reference": "1940648002",
+      "sponsoredId": null,
+      "slug": "yog-soprole-kefir-1lt-natural-1940648002",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "120038",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 2690,
+          "ppumListPrice": 2690,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/385132-250-250/Yoghurt-Kefir-sabor-natural-1-L.jpg?v=638776843027300000"
+          ],
+          "name": "Bebida Láctea Soprole Kéfir Natural 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "56165",
+      "reference": "1450170004",
+      "sponsoredId": null,
+      "slug": "pack-prob-chamyto-12x80ml-frambuesa",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22681",
+        "23175",
+        "25347",
+        "25520",
+        "25778",
+        "26777",
+        "26793",
+        "26935",
+        "27105",
+        "27507",
+        "27512"
+      ],
+      "brand": "Chamyto",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "56444",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.96,
+          "price": 4970,
+          "listPrice": 4970,
+          "ppumPrice": 5177,
+          "ppumListPrice": 5177,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308901-250-250/Multipack-12-un-Yogurt-Probiotico-Chamyto-Frambuesa-80-ml.jpg?v=638776387751730000"
+          ],
+          "name": "Multipack 12 un. Yogurt Probiótico Chamyto Frambuesa 80 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "119948",
+      "reference": "1940648001",
+      "sponsoredId": null,
+      "slug": "yog-soprole-kefir-1lt-berries-1940648001",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "120205",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 2690,
+          "ppumListPrice": 2690,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/385247-250-250/Kefir-Tropical-1-L.jpg?v=638776843455700000"
+          ],
+          "name": "Bebida Láctea Soprole Kéfir Berries 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7022",
+      "reference": "1450170002",
+      "sponsoredId": null,
+      "slug": "bebida-lactea-nestle-12-unid-x-80-ml-chamyto-probiotico-manzana",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "19270",
+        "22681",
+        "23175",
+        "25347",
+        "25520",
+        "25778",
+        "26777",
+        "26793",
+        "26935",
+        "27105",
+        "27507",
+        "27512"
+      ],
+      "brand": "Chamyto",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7110",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.96,
+          "price": 4970,
+          "listPrice": 4970,
+          "ppumPrice": 5177,
+          "ppumListPrice": 5177,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300390-250-250/Multipack-12-un-Yogurt-Probiotico-Chamyto-Manzana-80-ml.jpg?v=638776373308230000"
+          ],
+          "name": "Multipack 12 un. Yogurt Probiótico Chamyto Manzana 80 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127314",
+      "reference": "1966546002",
+      "sponsoredId": null,
+      "slug": "beb-lac-probio-surlat-sl12un-manzana-1966546002",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "691",
+        "912",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Yoghurt Sin Lactosa",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "25778",
+        "26935"
+      ],
+      "brand": "Surlat",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127608",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 12,
+          "price": 4570,
+          "listPrice": 4570,
+          "ppumPrice": 381,
+          "ppumListPrice": 381,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319547-250-250/Pack-12-un-Yogurt-Probiotico-Surlat-Sin-Lactosa-Manzana.jpg?v=638776417756900000"
+          ],
+          "name": "Pack 12 un. Yogurt Probiótico Surlat Sin Lactosa Manzana",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "136421",
+      "reference": "1650314004",
+      "sponsoredId": null,
+      "slug": "pack-beb-lact-uno-soprole-12x80ml-manza-1650314004",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25778",
+        "26935",
+        "27376",
+        "27388",
+        "27553",
+        "27627"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "136711",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.96,
+          "price": 3900,
+          "listPrice": 4720,
+          "ppumPrice": 4063,
+          "ppumListPrice": 4917,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/327073-250-250/PACK-BEB-LACT-UNO-SOPROLE-12X80ML-MANZA.jpg?v=638776429713230000"
+          ],
+          "name": "Probiótico Uno Manzana 80 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3900 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3900,
+              "ppumPrice": 4063,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7023",
+      "reference": "1450170001",
+      "sponsoredId": null,
+      "slug": "bebida-lactea-nestle-12-unid-80-ml-cu-chamyto-probiotico-frutilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "19270",
+        "22681",
+        "23175",
+        "25347",
+        "25520",
+        "25778",
+        "26777",
+        "26793",
+        "26935",
+        "27105",
+        "27507",
+        "27512"
+      ],
+      "brand": "Chamyto",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7111",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.96,
+          "price": 4970,
+          "listPrice": 4970,
+          "ppumPrice": 5177,
+          "ppumListPrice": 5177,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300415-250-250/Multipack-12-un-Yogurt-Probiotico-Chamyto-Frutilla-80-ml.jpg?v=638776373357230000"
+          ],
+          "name": "Multipack 12 un. Yogurt Probiótico Chamyto Frutilla 80 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "80080",
+      "reference": "1817183",
+      "sponsoredId": null,
+      "slug": "pack-beb-lact-uno-sop-te-frut12x80ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "691",
+        "914",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Yoghurt Trozos y Frutas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "25778",
+        "26935",
+        "27323"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "80335",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.96,
+          "price": 4380,
+          "listPrice": 4380,
+          "ppumPrice": 4563,
+          "ppumListPrice": 4563,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/364402-250-250/Pack-12-un-Probiotico-defensas-con-bombilla-sabor-frutilla-80-ml.jpg?v=638776753875430000"
+          ],
+          "name": "Pack 12 un. Probiótico Uno Frutilla 80 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127313",
+      "reference": "1966546001",
+      "sponsoredId": null,
+      "slug": "beb-lac-probio-surlat-sl-12un-frutilla-1966546001",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "691",
+        "912",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Yoghurt Sin Lactosa",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "25778",
+        "26935"
+      ],
+      "brand": "Surlat",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127606",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 12,
+          "price": 4570,
+          "listPrice": 4570,
+          "ppumPrice": 381,
+          "ppumListPrice": 381,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319533-250-250/Pack-12-un-Yogurt-Probiotico-Surlat-Sin-Lactosa-Frutilla.jpg?v=638776417701970000"
+          ],
+          "name": "Pack 12 un. Yogurt Probiótico Surlat Sin Lactosa Frutilla",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "57368",
+      "reference": "784819005",
+      "sponsoredId": null,
+      "slug": "beb-lac-prob-chamyto-80ml-frambuesa",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "22681",
+        "25347",
+        "25520",
+        "25778",
+        "26935",
+        "27105",
+        "27507"
+      ],
+      "brand": "Chamyto",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "57681",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.08,
+          "price": 2730,
+          "listPrice": 2730,
+          "ppumPrice": 34125,
+          "ppumListPrice": 34125,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309174-250-250/784819005-01_56577.jpg?v=638776388449670000"
+          ],
+          "name": "Bebida Láctea Chamyto Frambuesa 80 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "14614",
+      "reference": "1663883",
+      "sponsoredId": null,
+      "slug": "alimento-nutricional-ensure-advance-237-ml-chocolate",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "26937"
+      ],
+      "brand": "Ensure",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "15946",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 3590,
+          "listPrice": 3590,
+          "ppumPrice": 17950,
+          "ppumListPrice": 17950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352142-250-250/Ensure-Advance-chocolate-237-ml.jpg?v=638776691865430000"
+          ],
+          "name": "Alimento Nutricional Ensure Advance Chocolate 220 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "14157",
+      "reference": "1559921",
+      "sponsoredId": null,
+      "slug": "alimento-nutricional-ensure-237-ml-advance",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "26937"
+      ],
+      "brand": "Ensure",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "15489",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.22,
+          "price": 3590,
+          "listPrice": 3590,
+          "ppumPrice": 16318,
+          "ppumListPrice": 16318,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/425954-250-250/1559921-01_14421.jpg?v=638810980194830000"
+          ],
+          "name": "Alimento Nutricional Ensure Advance 220 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127165",
+      "reference": "1960245001",
+      "sponsoredId": null,
+      "slug": "beb-lact-prob-chamyto-18x80ml-frutilla-1960245001",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "22681",
+        "25347",
+        "25520",
+        "25778",
+        "26935",
+        "27105",
+        "27507"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127459",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.44,
+          "price": 6650,
+          "listPrice": 6650,
+          "ppumPrice": 4618,
+          "ppumListPrice": 4618,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393190-250-250/BEB-LACT-PROB-CHAMYTO-18X80ML-FRUTILLA.jpg?v=638776873677600000"
+          ],
+          "name": "Pack 18 un. Bebida Láctea Chamyto Frutilla 80 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "111026",
+      "reference": "1901841",
+      "sponsoredId": null,
+      "slug": "wild-protein-shake-and-go-vainilla-330ml-1901841",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "21770",
+        "27323"
+      ],
+      "brand": "The Wild Foods",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "111293",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 6030,
+          "ppumListPrice": 6030,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/424282-250-250/Shakego-Wild-Protein-Vainilla-330-ml.jpg?v=638810456904800000"
+          ],
+          "name": "Batido Proteico Wild Protein Shake & Go Vainilla 310 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115486",
+      "reference": "1932401003",
+      "sponsoredId": null,
+      "slug": "pack-yog-quillayes-kefir-4x80ml-maqui-1932401003",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115752",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.32,
+          "price": 2190,
+          "listPrice": 2190,
+          "ppumPrice": 6844,
+          "ppumListPrice": 6844,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/381638-250-250/Pack-4-un-Yoghurt-Kefir-maqui-80-ml.jpg?v=638776827796470000"
+          ],
+          "name": "Pack 4 un. Yogurt Kéfir Quillayes Maqui 80 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "7067",
+      "reference": "1650314001",
+      "sponsoredId": null,
+      "slug": "bebida-lactea-soprole-pack-12-unid-80-ml-cu-uno-frutilla",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "8",
+        "691",
+        "914",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Yoghurt",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Yoghurt Trozos y Frutas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25778",
+        "26935",
+        "27376",
+        "27388",
+        "27553",
+        "27627"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "7155",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.96,
+          "price": 3900,
+          "listPrice": 4720,
+          "ppumPrice": 4063,
+          "ppumListPrice": 4917,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348726-250-250/Pack-12-un-Probiotico-defensas-sabor-frutilla-80-ml.jpg?v=638776488044670000"
+          ],
+          "name": "Pack 12 un. Probiótico Uno Frutilla 80 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3900 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3900,
+              "ppumPrice": 4063,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153564",
+      "reference": "2044561",
+      "sponsoredId": null,
+      "slug": "pack-beb-lact-uno-sp-te-multifru-12x80ml-2044561",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "25778",
+        "26935",
+        "27323"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153874",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.96,
+          "price": 4380,
+          "listPrice": 4380,
+          "ppumPrice": 4563,
+          "ppumListPrice": 4563,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/484542-250-250/PACK-BEB-LACT-UNO-SP-TE-MULTIFRU-12X80ML.jpg?v=638889829043430000"
+          ],
+          "name": "Pack 12 un. Bebida Láctea Uno Multifrut 80 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "57650",
+      "reference": "891084002-PAK",
+      "sponsoredId": null,
+      "slug": "bebida-lac-yogu-yogu-cj-200cc-frutilla-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "23175",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Yogu - Yogu",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "56714",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.2,
+          "price": 2800,
+          "listPrice": 3780,
+          "ppumPrice": 2333,
+          "ppumListPrice": 3150,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360054-250-250/Pack-6-un-Bebida-lactea-frutilla-200-ml.jpg?v=638776730944030000"
+          ],
+          "name": "Pack 6 un. Bebida Láctea Yogu Yogu Frutilla 200 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2800 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2800,
+              "ppumPrice": 2333,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146131",
+      "reference": "2021753",
+      "sponsoredId": null,
+      "slug": "beb-lact-starbucks-frappuc-caram-280ml-2021753",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "25347",
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "Starbucks",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146426",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.28,
+          "price": 2780,
+          "listPrice": 2990,
+          "ppumPrice": 9929,
+          "ppumListPrice": 10679,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/344892-250-250/BEB-LACT-STARBUCKS-FRAPPUC-CARAM-280ML.jpg?v=638776444288270000"
+          ],
+          "name": "Café Starbucks Frappuccino Caramelo 280 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2780 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2780,
+              "ppumPrice": 9929,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "115471",
+      "reference": "1932402001",
+      "sponsoredId": null,
+      "slug": "yog-quillayes-kefir-900ml-natural-1932402001",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "26935"
+      ],
+      "brand": "Quillayes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "115740",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.9,
+          "price": 3020,
+          "listPrice": 3020,
+          "ppumPrice": 3356,
+          "ppumListPrice": 3356,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/381636-250-250/Yoghurt-Kefir-natural-900-ml.jpg?v=638776827795370000"
+          ],
+          "name": "Yogurt Quillayes Kéfir Natural 900 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "57651",
+      "reference": "891084003-PAK",
+      "sponsoredId": null,
+      "slug": "bebida-lac-yogu-yogu-cj-200cc-mora",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "23175",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Yogu - Yogu",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "56700",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.2,
+          "price": 2800,
+          "listPrice": 3780,
+          "ppumPrice": 2333,
+          "ppumListPrice": 3150,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360044-250-250/Pack-bebida-lactea-Yogu-Yogu-mora-6-un-200-ml-c-u.jpg?v=638776730904330000"
+          ],
+          "name": "Pack 6 un. Bebida Láctea Yogu Yogu Mora 200 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2800 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2800,
+              "ppumPrice": 2333,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126766",
+      "reference": "1962072",
+      "sponsoredId": null,
+      "slug": "beb-lactea-milo-sin-lactosa-200cc-1962072",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "19270",
+        "25347",
+        "25519",
+        "25520",
+        "27105",
+        "27323",
+        "27507"
+      ],
+      "brand": "Milo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127058",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 680,
+          "listPrice": 680,
+          "ppumPrice": 3400,
+          "ppumListPrice": 3400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319274-250-250/Bebida-Lactea-Milo-Sin-Lactosa-200-ml.jpg?v=638863365139800000"
+          ],
+          "name": "Bebida Láctea Milo Sin Lactosa Chocolate 200 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "107475",
+      "reference": "1897864",
+      "sponsoredId": null,
+      "slug": "beb-lactea-milo-protein-330ml-1897864",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25347",
+        "25422",
+        "25519",
+        "25520",
+        "25695",
+        "27105",
+        "27309",
+        "27323",
+        "27507"
+      ],
+      "brand": "Milo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "107742",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1690,
+          "listPrice": 1690,
+          "ppumPrice": 5121,
+          "ppumListPrice": 5121,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/314976-250-250/Leche-Milo-Protein-Up-330ml.jpg?v=638776403428600000"
+          ],
+          "name": "Leche con Chocolate Milo Protein Up 330 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "46113",
+      "reference": "1716098",
+      "sponsoredId": null,
+      "slug": "pack-suplemento-pediasure-4-unid-x-237-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "19270",
+        "26937"
+      ],
+      "brand": "Pediasure",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "46357",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.237,
+          "price": 9990,
+          "listPrice": 9990,
+          "ppumPrice": 42152,
+          "ppumListPrice": 42152,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/357973-250-250/Principal-44998.jpg?v=638776721470430000"
+          ],
+          "name": "Pack 4 un. Suplemento Pediasure 220 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "57654",
+      "reference": "891084006-PAK",
+      "sponsoredId": null,
+      "slug": "bebida-lac-yogu-yogu-cj-200cc-chirimoya",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "23175",
+        "27376",
+        "27388"
+      ],
+      "brand": "Yogu - Yogu",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "56698",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.2,
+          "price": 2800,
+          "listPrice": 3780,
+          "ppumPrice": 2333,
+          "ppumListPrice": 3150,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360041-250-250/Pack-6-un-Bebida-lactea-chirimoya-200-ml.jpg?v=638776730901200000"
+          ],
+          "name": "Pack 6 un. Bebida Láctea Yogu Yogu Chirimoya 200 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2800 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2800,
+              "ppumPrice": 2333,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "152936",
+      "reference": "2042314",
+      "sponsoredId": null,
+      "slug": "nutren-senior-v-2042314",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "25519",
+        "25520",
+        "26937",
+        "27105",
+        "27499",
+        "27501",
+        "27507",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Nutren",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153239",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 2590,
+          "listPrice": 3250,
+          "ppumPrice": 12950,
+          "ppumListPrice": 16250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/491617-250-250/Bebida-Lactea-Nutren-Senior-Vainilla-200-ml.jpg?v=638905524580700000"
+          ],
+          "name": "Bebida Láctea Nutren Senior Vainilla 200 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2590 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2590,
+              "ppumPrice": 12950,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139040",
+      "reference": "1960245003",
+      "sponsoredId": null,
+      "slug": "beb-lact-prob-chamyto-18x80ml-manzana-1960245003",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "22681",
+        "25347",
+        "25520",
+        "25778",
+        "26935",
+        "27105",
+        "27507"
+      ],
+      "brand": "Nestlé",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139336",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.44,
+          "price": 6650,
+          "listPrice": 6650,
+          "ppumPrice": 4618,
+          "ppumListPrice": 4618,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/331453-250-250/Pack-18-un-Bebida-Lactea-Chamyto-Manzana-Multipack-80-ml.jpg?v=638776433152430000"
+          ],
+          "name": "Pack 18 un. Bebida Láctea Chamyto Manzana Multipack 80 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146132",
+      "reference": "2021755",
+      "sponsoredId": null,
+      "slug": "beb-lact-starbucks-frappuc-mocha-280ml-2021755",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "25347",
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "Starbucks",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146425",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.28,
+          "price": 2780,
+          "listPrice": 2990,
+          "ppumPrice": 9929,
+          "ppumListPrice": 10679,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/344850-250-250/BEB-LACT-STARBUCKS-FRAPPUC-MOCHA-280ML.jpg?v=638776444258970000"
+          ],
+          "name": "Café Starbucks Frappuccino Mocha 280 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2780 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2780,
+              "ppumPrice": 9929,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "46111",
+      "reference": "1716096",
+      "sponsoredId": null,
+      "slug": "pack-suplemento-ensure-advance-vainilla-4-unid-x-237-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "26937"
+      ],
+      "brand": "Ensure",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "46355",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.88,
+          "price": 13850,
+          "listPrice": 13850,
+          "ppumPrice": 15739,
+          "ppumListPrice": 15739,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/357963-250-250/Pack-4-un-Suplemento-vainilla-220-ml.jpg?v=638776721434770000"
+          ],
+          "name": "Pack 4 un. Alimento Nutricional Ensure Advance Vainilla 220 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "46112",
+      "reference": "1716097",
+      "sponsoredId": null,
+      "slug": "pack-suplemento-ensure-advance-chocolate-4-unid-x-237-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "26937"
+      ],
+      "brand": "Ensure",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "46356",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.88,
+          "price": 13850,
+          "listPrice": 13850,
+          "ppumPrice": 15739,
+          "ppumListPrice": 15739,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/357974-250-250/Principal-44997.jpg?v=638776721473400000"
+          ],
+          "name": "Pack 4 un. Alimento Nutricional Ensure Advance Chocolate 220 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "146129",
+      "reference": "2021754",
+      "sponsoredId": null,
+      "slug": "beb-lact-starbucks-frappuc-classic-280ml-2021754",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "25347",
+        "27499",
+        "27501",
+        "27540",
+        "27563",
+        "27601"
+      ],
+      "brand": "Starbucks",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146423",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.28,
+          "price": 2780,
+          "listPrice": 2990,
+          "ppumPrice": 9929,
+          "ppumListPrice": 10679,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/344761-250-250/BEB-LACT-STARBUCKS-FRAPPUC-CLASSIC-280ML.jpg?v=638776444191600000"
+          ],
+          "name": "Café Starbucks Frappuccino Classic 280 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2780 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2780,
+              "ppumPrice": 9929,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150192",
+      "reference": "2036258",
+      "sponsoredId": null,
+      "slug": "shake-choco-330ml-2036258",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "831",
+        "999",
+        "1007",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Suplementos Deportivos",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "27323",
+        "27376",
+        "27380",
+        "27553"
+      ],
+      "brand": "Spartan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150490",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.33,
+          "price": 1990,
+          "listPrice": 2590,
+          "ppumPrice": 6030,
+          "ppumListPrice": 7848,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/459058-250-250/Shake-de-Proteina-Chocolate-330-ml.jpg?v=638863182727470000"
+          ],
+          "name": "Shake de Proteína Chocolate 330 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1990 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026 1",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1990,
+              "ppumPrice": 6030,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "57649",
+      "reference": "891084001-PAK",
+      "sponsoredId": null,
+      "slug": "bebida-lac-yogu-yogu-cj-200cc-damasco-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "23175",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Yogu - Yogu",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "56699",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.2,
+          "price": 2800,
+          "listPrice": 3780,
+          "ppumPrice": 2333,
+          "ppumListPrice": 3150,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360045-250-250/Pack-6-un-Bebida-lactea-damasco-200-ml.jpg?v=638776730905130000"
+          ],
+          "name": "Pack 6 un. Bebida Láctea Yogu Yogu Damasco 200 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2800 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2800,
+              "ppumPrice": 2333,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "57652",
+      "reference": "891084004-PAK",
+      "sponsoredId": null,
+      "slug": "bebida-lac-yogu-yogu-cj-200cc-pi-a-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "23175",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Yogu - Yogu",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "56701",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.2,
+          "price": 2800,
+          "listPrice": 3780,
+          "ppumPrice": 2333,
+          "ppumListPrice": 3150,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360043-250-250/Pack-6-un-Bebida-lactea-pi%C3%B1a-200-ml.jpg?v=638776730903100000"
+          ],
+          "name": "Pack 6 un. Bebida Láctea Yogu Yogu Piña 200 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2800 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2800,
+              "ppumPrice": 2333,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139029",
+      "reference": "2002678",
+      "sponsoredId": null,
+      "slug": "pack-uno-soprole-12x80ml-vit-c-mora-2002678",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25778",
+        "26935",
+        "27323",
+        "27376",
+        "27388",
+        "27553",
+        "27627"
+      ],
+      "brand": "Soprole",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139327",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.96,
+          "price": 3900,
+          "listPrice": 4490,
+          "ppumPrice": 4063,
+          "ppumListPrice": 4677,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/331762-250-250/PACK-UNO-SOPROLE-12X80ML-VIT-C-MORA.jpg?v=638776433438570000"
+          ],
+          "name": "Pack 12 un. Probiótico Uno Mora Vitamina C 80 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3900 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3900,
+              "ppumPrice": 4063,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "108552",
+      "reference": "1900206",
+      "sponsoredId": null,
+      "slug": "pack-suplemento-glucerna-4un-x-237ml-1900206",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "26937"
+      ],
+      "brand": "Glucerna",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "108820",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.237,
+          "price": 13990,
+          "listPrice": 13990,
+          "ppumPrice": 59030,
+          "ppumListPrice": 59030,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/377079-250-250/1900206-01_617233.jpg?v=638776810366670000"
+          ],
+          "name": "Pack 4 un. Suplemento Glucerna 237 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6752",
+      "reference": "891084002",
+      "sponsoredId": null,
+      "slug": "bebida-lactea-yogu-yogu-frutilla-200-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "23175",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Yogu - Yogu",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6840",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 650,
+          "listPrice": 650,
+          "ppumPrice": 3250,
+          "ppumListPrice": 3250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300349-250-250/Bebida-Lactea-Yogu-Yogu-Frutilla-200-ml.jpg?v=638776373108230000"
+          ],
+          "name": "Bebida Láctea Yogu Yogu Frutilla 200 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6X2800 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 2800,
+              "unitPrice": 467,
+              "ppumPrice": 2335,
+              "mQuantity": 6,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "6750",
+      "reference": "891084006",
+      "sponsoredId": null,
+      "slug": "yoghurt-liquido-yogu-yogu-caja-200-cc-chirimoya",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "691",
+        "1124"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Leches Cultivadas y Bebidas Lácteas",
+        "Bebidas Lácteas y Probióticos"
+      ],
+      "collections": [
+        "23175",
+        "27376",
+        "27388",
+        "27553"
+      ],
+      "brand": "Yogu - Yogu",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "6838",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 650,
+          "listPrice": 650,
+          "ppumPrice": 3250,
+          "ppumListPrice": 3250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300345-250-250/Bebida-Lactea-Yogu-Yogu-Chirimoya-200-ml.jpg?v=638776373058700000"
+          ],
+          "name": "Bebida Láctea Yogu Yogu Chirimoya 200 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6X2800 - CAE: JUMBO CATALOGOS ESPECIALES JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB  17022026 AL 23032026",
+              "description": "JUMBO ESPECIAL JUMBO COLACIONES DESDE EL 17 FEB ",
+              "type": "mx",
+              "value": 2800,
+              "unitPrice": 467,
+              "ppumPrice": 2335,
+              "mQuantity": 6,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Bebidas Lácteas y Probióticos",
+          "value": "/lacteos-huevos-y-congelados/leches-cultivadas-y-bebidas-lacteas/bebidas-lacteas-y-probioticos",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Bebidas Lácteas y Probióticos",
+          "value": "/lacteos-huevos-y-congelados/leches-cultivadas-y-bebidas-lacteas/bebidas-lacteas-y-probioticos",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Bebidas Lácteas y Probióticos",
+          "value": "/lacteos-huevos-y-congelados/leches-cultivadas-y-bebidas-lacteas/bebidas-lacteas-y-probioticos",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Loncoleche",
+          "value": "Loncoleche",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Soprole",
+          "value": "Soprole",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chamyto",
+          "value": "Chamyto",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Surlat",
+          "value": "Surlat",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ensure",
+          "value": "Ensure",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nestlé",
+          "value": "Nestlé",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "The Wild Foods",
+          "value": "The Wild Foods",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Quillayes",
+          "value": "Quillayes",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yogu - Yogu",
+          "value": "Yogu - Yogu",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Starbucks",
+          "value": "Starbucks",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Milo",
+          "value": "Milo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pediasure",
+          "value": "Pediasure",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nutren",
+          "value": "Nutren",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Spartan",
+          "value": "Spartan",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Glucerna",
+          "value": "Glucerna",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nido",
+          "value": "Nido",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "MaxShake",
+          "value": "MaxShake",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 64,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 63,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 62,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 61,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 52,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 49,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 35,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 35,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Halal",
+          "value": "Halal",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Bebida Láctea",
+          "value": "Bebida Láctea",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kéfir",
+          "value": "Kéfir",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suplementos Alimenticios",
+          "value": "Suplementos Alimenticios",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vainilla",
+          "value": "Vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caramelos",
+          "value": "Caramelos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Leche Descremada",
+          "value": "Leche Descremada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Café Moka",
+          "value": "Café Moka",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Café Cappuccino",
+          "value": "Café Cappuccino",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bebidas Vegetales",
+          "value": "Bebidas Vegetales",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Leches en Polvo",
+          "value": "Leches en Polvo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aguas de Coco",
+          "value": "Aguas de Coco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella de vidrio",
+          "value": "Botella de vidrio",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella plástico desechable",
+          "value": "Botella plástico desechable (bebidas)",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frasco",
+          "value": "Frasco",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lata",
+          "value": "Lata",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack",
+          "value": "Pack",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pote",
+          "value": "Pote",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tarro",
+          "value": "Tarro",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tetrapack",
+          "value": "Tetrapack",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 570,
+          "maxValue": 23190
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "200 ml",
+          "value": "200 ml",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "237 cc",
+          "value": "237 cc",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "237 ml",
+          "value": "237 ml",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "310 ml",
+          "value": "310 ml",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "330 ml",
+          "value": "330 ml",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "4 unidades",
+          "value": "4 unidades",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "80 ml 12 un.",
+          "value": "80 ml 12 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "80 ml 18 un.",
+          "value": "80 ml 18 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "80 ml x 6 un.",
+          "value": "80 ml x 6 un.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "960 ml",
+          "value": "960 ml",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Berries",
+          "value": "Berries",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caramelo",
+          "value": "Caramelo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chocolate",
+          "value": "Chocolate",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Classic",
+          "value": "Classic",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Descremada",
+          "value": "Descremada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frambuesa",
+          "value": "Frambuesa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutilla",
+          "value": "Frutilla",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manzana",
+          "value": "Manzana",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Maqui",
+          "value": "Maqui",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mocha",
+          "value": "Mocha",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mora",
+          "value": "Mora",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Naranja Pomelo",
+          "value": "Naranja Pomelo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Natural",
+          "value": "Natural",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Neutro",
+          "value": "Neutro",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tropical",
+          "value": "Tropical",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vainilla",
+          "value": "Vainilla",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Alemania",
+          "value": "Alemania",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brasil",
+          "value": "Brasil",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Países Bajos",
+          "value": "Países Bajos",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vietnam",
+          "value": "Vietnam",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 55,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Probiótico Frutilla",
+          "value": "Probiótico Frutilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Probióticos",
+          "value": "Probióticos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Saborizada",
+          "value": "Saborizada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Saborizado",
+          "value": "Saborizado",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suplementos Alimenticios",
+          "value": "Suplementos Alimenticios",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "4 Unidades",
+          "value": "4",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6 Unidades",
+          "value": "6",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "12 Unidades",
+          "value": "12 colores",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "18 Unidades",
+          "value": "18 collets",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Envasado",
+          "value": "ENVASADO",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Líquida",
+          "value": "Líquida",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "No Aplica",
+          "value": "No Aplica",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Polvo",
+          "value": "Polvo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pote",
+          "value": "Pote",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Leche",
+      "key": "Tipo de Leche",
+      "values": [
+        {
+          "displayName": "Leche de Vaca",
+          "value": "Leche de Vaca",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Líquido",
+          "value": "Líquido",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Intensidad",
+      "key": "Intensidad",
+      "values": [
+        {
+          "displayName": "Media",
+          "value": "Media",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 68,
+  "metaTag": {
+    "title": "Bebidas Lácteas y Probióticos en Jumbo.cl",
+    "description": "Descubre la mejor variedad de bebidas lácteas y probióticos en Jumbo.cl. Disfruta sabores deliciosos, con beneficios digestivos y nutritivos. ¡Compra online tus favoritos y recíbelos en casa!"
+  }
+}

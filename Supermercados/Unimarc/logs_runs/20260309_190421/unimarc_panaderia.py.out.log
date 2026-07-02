@@ -1,0 +1,78 @@
+No pude extraer links desde el menú (headless). Usando Plan B (slugify).
+
+Subcategorías detectadas en [Panadería y Pastelería]: 18
+ - Pan | Pan corriente -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pan/pan-corriente
+ - Pan | Pan hamburguesa y hot dog -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pan/pan-hamburguesa-y-hot-dog
+ - Pan | Panes especiales -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pan/panes-especiales
+ - Pan envasado | Marraqueta y hallulla -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pan-envasado/marraqueta-y-hallulla
+ - Pan envasado | Pan molde y pita -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pan-envasado/pan-molde-y-pita
+ - Pan envasado | Pan hot dog y hamburguesa -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pan-envasado/pan-hot-dog-y-hamburguesa
+ - Pan envasado | Pan especial -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pan-envasado/pan-especial
+ - Pan envasado | Pan cóctel -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pan-envasado/pan-coctel
+ - Pan envasado | Pan para hornear -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pan-envasado/pan-para-hornear
+ - Pan envasado | Pan rallado y crutones -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pan-envasado/pan-rallado-y-crutones
+ - Pan envasado | Tortillas y masas -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pan-envasado/tortillas-y-masas
+ - Pastelería | Envasados y colaciones -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pasteleria/envasados-y-colaciones
+ - Pastelería | Tortas -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pasteleria/tortas
+ - Pastelería | Masas dulces -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pasteleria/masas-dulces
+ - Pastelería | Pie, kuchen y tartas -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pasteleria/pie-kuchen-y-tartas
+ - Pastelería | Pasteles -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pasteleria/pasteles
+ - Pastelería | Pan de pascua -> https://www.unimarc.cl/category/panaderia-y-pasteleria/pasteleria/pan-de-pascua
+ - Asaduría | Empanadas -> https://www.unimarc.cl/category/panaderia-y-pasteleria/asaduria/empanadas
+
+Scrape: [Pan] Pan corriente
+  productos únicos: 18
+
+Scrape: [Pan] Pan hamburguesa y hot dog
+  productos únicos: 5
+
+Scrape: [Pan] Panes especiales
+  productos únicos: 50
+
+Scrape: [Pan envasado] Marraqueta y hallulla
+  productos únicos: 2
+
+Scrape: [Pan envasado] Pan molde y pita
+  productos únicos: 100
+
+Scrape: [Pan envasado] Pan hot dog y hamburguesa
+  productos únicos: 24
+
+Scrape: [Pan envasado] Pan especial
+  productos únicos: 33
+
+Scrape: [Pan envasado] Pan cóctel
+  productos únicos: 8
+
+Scrape: [Pan envasado] Pan para hornear
+  productos únicos: 6
+
+Scrape: [Pan envasado] Pan rallado y crutones
+  productos únicos: 5
+
+Scrape: [Pan envasado] Tortillas y masas
+  productos únicos: 38
+
+Scrape: [Pastelería] Envasados y colaciones
+  productos únicos: 80
+
+Scrape: [Pastelería] Tortas
+  productos únicos: 45
+
+Scrape: [Pastelería] Masas dulces
+  productos únicos: 63
+
+Scrape: [Pastelería] Pie, kuchen y tartas
+  productos únicos: 12
+
+Scrape: [Pastelería] Pasteles
+  productos únicos: 1
+
+Scrape: [Pastelería] Pan de pascua
+  productos únicos: 0
+
+Scrape: [Asaduría] Empanadas
+  productos únicos: 8
+
+Total filas: 498
+CSV generado: output\panaderia_y_pasteleria\unimarc_panaderia-y-pasteleria_subcats_20260309_201125.csv

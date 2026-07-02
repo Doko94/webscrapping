@@ -1,0 +1,117 @@
+
+Subcategorías CARNES detectadas: 28
+ - Vacuno | Vacuno -> https://www.unimarc.cl/category/carnes/vacuno
+ - Vacuno | Molida, bistec y otros -> https://www.unimarc.cl/category/carnes/vacuno/molida-bistec-y-otros
+ - Vacuno | Huesos y otros -> https://www.unimarc.cl/category/carnes/vacuno/huesos-y-otros
+ - Vacuno | Filete y lomo -> https://www.unimarc.cl/category/carnes/vacuno/filete-y-lomo
+ - Vacuno | Parrilleros -> https://www.unimarc.cl/category/carnes/vacuno/parrilleros
+ - Vacuno | Otros cortes -> https://www.unimarc.cl/category/carnes/vacuno/otros-cortes
+ - Vacuno | Vacuno premium -> https://www.unimarc.cl/category/carnes/vacuno/vacuno-premium
+ - Pollo | Pollo -> https://www.unimarc.cl/category/carnes/pollo
+ - Pollo | Pechugas y filetitos -> https://www.unimarc.cl/category/carnes/pollo/pechugas-y-filetitos
+ - Pollo | Trutro -> https://www.unimarc.cl/category/carnes/pollo/trutro
+ - Pollo | Saborizados -> https://www.unimarc.cl/category/carnes/pollo/saborizados
+ - Pollo | Pollo entero -> https://www.unimarc.cl/category/carnes/pollo/pollo-entero
+ - Cerdo | Cerdo -> https://www.unimarc.cl/category/carnes/cerdo
+ - Cerdo | Costillas y costillar -> https://www.unimarc.cl/category/carnes/cerdo/costillas-y-costillar
+ - Cerdo | Malaya y plateada -> https://www.unimarc.cl/category/carnes/cerdo/malaya-y-plateada
+ - Cerdo | Chuleta -> https://www.unimarc.cl/category/carnes/cerdo/chuleta
+ - Cerdo | Lomo cerdo -> https://www.unimarc.cl/category/carnes/cerdo/lomo-cerdo
+ - Cerdo | Pulpa cerdo -> https://www.unimarc.cl/category/carnes/cerdo/pulpa-cerdo
+ - Cerdo | Otros cortes -> https://www.unimarc.cl/category/carnes/cerdo/otros-cortes
+ - Pavo | Pavo -> https://www.unimarc.cl/category/carnes/pavo
+ - Pavo | Pechuga y filete -> https://www.unimarc.cl/category/carnes/pavo/pechuga-y-filete
+ - Pavo | Pavo molido y picado -> https://www.unimarc.cl/category/carnes/pavo/pavo-molido-y-picado
+ - Pavo | Pavo entero -> https://www.unimarc.cl/category/carnes/pavo/pavo-entero
+ - Pavo | Trutros y otros -> https://www.unimarc.cl/category/carnes/pavo/trutros-y-otros
+ - Cordero Y Otros | Cordero y otros -> https://www.unimarc.cl/category/carnes/cordero-y-otros
+ - Cordero Y Otros | Cordero -> https://www.unimarc.cl/category/carnes/cordero-y-otros/cordero
+ - Cordero Y Otros | Otros -> https://www.unimarc.cl/category/carnes/cordero-y-otros/otros
+ - Pescaderia | Pescadería -> https://www.unimarc.cl/category/carnes/pescaderia
+
+Scrape: [Vacuno] Vacuno
+  productos únicos: 100
+
+Scrape: [Vacuno] Molida, bistec y otros
+  productos únicos: 24
+
+Scrape: [Vacuno] Huesos y otros
+  productos únicos: 2
+
+Scrape: [Vacuno] Filete y lomo
+  productos únicos: 9
+
+Scrape: [Vacuno] Parrilleros
+  productos únicos: 24
+
+Scrape: [Vacuno] Otros cortes
+  productos únicos: 28
+
+Scrape: [Vacuno] Vacuno premium
+  productos únicos: 50
+
+Scrape: [Pollo] Pollo
+  productos únicos: 87
+
+Scrape: [Pollo] Pechugas y filetitos
+  productos únicos: 41
+
+Scrape: [Pollo] Trutro
+  productos únicos: 38
+
+Scrape: [Pollo] Saborizados
+  productos únicos: 6
+
+Scrape: [Pollo] Pollo entero
+  productos únicos: 2
+
+Scrape: [Cerdo] Cerdo
+  productos únicos: 53
+
+Scrape: [Cerdo] Costillas y costillar
+  productos únicos: 15
+
+Scrape: [Cerdo] Malaya y plateada
+  productos únicos: 8
+
+Scrape: [Cerdo] Chuleta
+  productos únicos: 8
+
+Scrape: [Cerdo] Lomo cerdo
+  productos únicos: 8
+
+Scrape: [Cerdo] Pulpa cerdo
+  productos únicos: 9
+
+Scrape: [Cerdo] Otros cortes
+  productos únicos: 5
+
+Scrape: [Pavo] Pavo
+  productos únicos: 8
+
+Scrape: [Pavo] Pechuga y filete
+  productos únicos: 2
+
+Scrape: [Pavo] Pavo molido y picado
+  productos únicos: 2
+
+Scrape: [Pavo] Pavo entero
+  productos únicos: 1
+
+Scrape: [Pavo] Trutros y otros
+  productos únicos: 3
+
+Scrape: [Cordero Y Otros] Cordero y otros
+  productos únicos: 4
+
+Scrape: [Cordero Y Otros] Cordero
+  productos únicos: 4
+
+Scrape: [Cordero Y Otros] Otros
+  productos únicos: 0
+
+Scrape: [Pescaderia] Pescadería
+  productos únicos: 0
+
+Total filas: 541
+CSV generado: C:\Users\fvergram\OneDrive - NTT DATA EMEAL\Desktop\webscrapping\Supermercados\Unimarc\src\output\carnes\unimarc_carnes_subcats_20260219_170048.csv

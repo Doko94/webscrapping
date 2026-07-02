@@ -1,0 +1,818 @@
+{
+  "products": [
+    {
+      "productId": "63952",
+      "reference": "1757865",
+      "sponsoredId": null,
+      "slug": "coctel-secreto-peruano-santo-mojito-blend-700-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "217"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Mojitos y Margaritas"
+      ],
+      "collections": [
+        "22523",
+        "24971"
+      ],
+      "brand": "Secreto Peruano",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "63974",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 4890,
+          "listPrice": 4890,
+          "ppumPrice": 6986,
+          "ppumListPrice": 6986,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/472358-250-250/Coctel-Santo-Mojito-Blend-Botella-700-cc.jpg?v=638870874207300000"
+          ],
+          "name": "Cóctel Santo Mojito Blend Botella 700 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "159915",
+      "reference": "2056640",
+      "sponsoredId": null,
+      "slug": "coctel-16-1lt",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "217"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Mojitos y Margaritas"
+      ],
+      "collections": [],
+      "brand": "La Pizka",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160278",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 14990,
+          "listPrice": 14990,
+          "ppumPrice": 14990,
+          "ppumListPrice": 14990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/544809-250-250/Coctel-La-Pizka-Mojito-16%C2%B0-1-L.jpg?v=638995843696970000"
+          ],
+          "name": "Cóctel La Pizka Mojito 16° 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127787",
+      "reference": "1966994",
+      "sponsoredId": null,
+      "slug": "coc-la-pizca-moscow-mul-100-nat-14-g-1l-1966994",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "217"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Mojitos y Margaritas"
+      ],
+      "collections": [
+        "25500",
+        "25508"
+      ],
+      "brand": "La Pizka",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128084",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 14990,
+          "listPrice": 14990,
+          "ppumPrice": 14990,
+          "ppumListPrice": 14990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319767-250-250/Coctel-Natural-Moscow-Mule-1-L.jpg?v=638776418167100000"
+          ],
+          "name": "Cóctel Natural La Pizka Moscow Mule 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "67215",
+      "reference": "1770324",
+      "sponsoredId": null,
+      "slug": "coctel-mojito-sierra-morena-710-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "217"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Mojitos y Margaritas"
+      ],
+      "collections": [
+        "22523",
+        "24971",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sierra Morena",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "67374",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 2490,
+          "listPrice": 2990,
+          "ppumPrice": 3557,
+          "ppumListPrice": 4271,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309935-250-250/Coctel-Mojito-Sierra-Morena-710-cc.jpg?v=638776390308930000"
+          ],
+          "name": "Cóctel Mojito Sierra Morena 710 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2490,
+              "ppumPrice": 3557,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "133386",
+      "reference": "1982404",
+      "sponsoredId": null,
+      "slug": "dr-lemon-mojito-5-g-1lt-1982404",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "217"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Mojitos y Margaritas"
+      ],
+      "collections": [
+        "24971"
+      ],
+      "brand": "Dr. Lemon",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "133670",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 3690,
+          "listPrice": 3690,
+          "ppumPrice": 3690,
+          "ppumListPrice": 3690,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/322076-250-250/Coctel-Dr-Lemon-Mojito-5%C2%B0-1-L.jpg?v=638776424935730000"
+          ],
+          "name": "Cóctel Dr. Lemon Mojito 5° 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159073",
+      "reference": "2056535",
+      "sponsoredId": null,
+      "slug": "coctel-vod-18-950-2056535",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "217"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Mojitos y Margaritas"
+      ],
+      "collections": [],
+      "brand": "Eristoff",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159406",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.95,
+          "price": 8990,
+          "listPrice": 8990,
+          "ppumPrice": 9463,
+          "ppumListPrice": 9463,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/535119-250-250/Coctel-de-Vodka-Eristoff-Black-18%C2%B0-950-cc.jpg?v=638979453398400000"
+          ],
+          "name": "Cóctel de Vodka Eristoff Black 18° 950 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "21382",
+      "reference": "263880",
+      "sponsoredId": null,
+      "slug": "licor-de-limon-genojese-500-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "217"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Mojitos y Margaritas"
+      ],
+      "collections": [],
+      "brand": "Genojese",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "21704",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.5,
+          "price": 9590,
+          "listPrice": 9590,
+          "ppumPrice": 19180,
+          "ppumListPrice": 19180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304393-250-250/Limoncello-Genovesse.jpg?v=638776379931200000"
+          ],
+          "name": "Limoncello Genovesse",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "29284",
+      "reference": "1524555",
+      "sponsoredId": null,
+      "slug": "licor-amaretto-genojese-limoncello-700-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "217"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Mojitos y Margaritas"
+      ],
+      "collections": [],
+      "brand": "Genojese",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "32187",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 17390,
+          "listPrice": 17390,
+          "ppumPrice": 17390,
+          "ppumListPrice": 17390,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/356187-250-250/Licor-Amaretto-Limoncello-700-cc.jpg?v=638776711147730000"
+          ],
+          "name": "Pack Regalo Genojese Limoncello Amaretto",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "21239",
+      "reference": "263777",
+      "sponsoredId": null,
+      "slug": "crema-de-cassis-marie-brizard-700-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "217"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Mojitos y Margaritas"
+      ],
+      "collections": [],
+      "brand": "Marie Brizard",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "21561",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 19990,
+          "listPrice": 19990,
+          "ppumPrice": 28557,
+          "ppumListPrice": 28557,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304318-250-250/Crema-de-cassis-Marie-Brizard-700-ml.jpg?v=638776379805370000"
+          ],
+          "name": "Crema de Cassis Marie Brizard 700 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "139089",
+      "reference": "2002688",
+      "sponsoredId": null,
+      "slug": "coctel-dr-lemon-red-berry-1000cc-5-2002688",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "217"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Mojitos y Margaritas"
+      ],
+      "collections": [],
+      "brand": "Dr. Lemon",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139382",
+          "cartLimit": 16,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 3290,
+          "listPrice": 3290,
+          "ppumPrice": 3290,
+          "ppumListPrice": 3290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/331831-250-250/Coctel-Dr-Lemon-Red-Berry-5%C2%B0-1-L.jpg?v=638776433505900000"
+          ],
+          "name": "Cóctel Dr. Lemon Red Berry 5° 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159894",
+      "reference": "2056641",
+      "sponsoredId": null,
+      "slug": "coctel-16-350cc-2056641",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "217"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Mojitos y Margaritas"
+      ],
+      "collections": [],
+      "brand": "La Pizka",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160258",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 22829,
+          "ppumListPrice": 22829,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/544813-250-250/Coctel-La-Pizka-Mojito-16%C2%B0-350-cc.jpg?v=638995843722400000"
+          ],
+          "name": "Cóctel La Pizka Mojito 16° 350 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Mojitos y Margaritas",
+          "value": "/licores-bebidas-y-aguas/cocteles/mojitos-y-margaritas",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Mojitos y Margaritas",
+          "value": "/licores-bebidas-y-aguas/cocteles/mojitos-y-margaritas",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Mojitos y Margaritas",
+          "value": "/licores-bebidas-y-aguas/cocteles/mojitos-y-margaritas",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Secreto Peruano",
+          "value": "Secreto Peruano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Pizka",
+          "value": "La Pizka",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sierra Morena",
+          "value": "Sierra Morena",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dr. Lemon",
+          "value": "Dr. Lemon",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Genojese",
+          "value": "Genojese",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Eristoff",
+          "value": "Eristoff",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Marie Brizard",
+          "value": "Marie Brizard",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2490,
+          "maxValue": 19990
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Cócteles Sour",
+          "value": "Cócteles Sour",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cócteles Ice",
+          "value": "Cócteles Ice",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Otros Licores",
+          "value": "Otros Licores",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vodka",
+          "value": "Vodka",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremas de Licores",
+          "value": "Cremas de Licores",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella de vidrio",
+          "value": "Botella de vidrio",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 11,
+  "metaTag": {
+    "title": "Mojitos y Margaritas | Jumbo.cl",
+    "description": "Refresca tus momentos con mojitos y margaritas de tequila listos para tomar. Disfrútalos en casa, en la playa o en tu próximo asado. Encuentra las mejores ofertas en Jumbo.cl"
+  }
+}

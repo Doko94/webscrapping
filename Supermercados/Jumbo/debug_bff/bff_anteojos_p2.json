@@ -1,0 +1,288 @@
+{
+  "products": [
+    {
+      "productId": "60285",
+      "reference": "1125228",
+      "sponsoredId": null,
+      "slug": "anteojos-de-lectura-gris-2-5",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "222",
+        "230",
+        "457"
+      ],
+      "categoryNames": [
+        "Farmacia",
+        "Cuidado Personal y Bebé",
+        "Anteojos"
+      ],
+      "collections": [],
+      "brand": "Total View",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "60442",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 6790,
+          "listPrice": 6790,
+          "ppumPrice": 6790,
+          "ppumListPrice": 6790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/423038-250-250/Anteojos-de-lectura-gris-25.jpg?v=638809589284070000"
+          ],
+          "name": "Anteojos de Lectura Gris 2.5",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "60282",
+      "reference": "1125225",
+      "sponsoredId": null,
+      "slug": "anteojos-de-lectura-cafe-2-0",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "222",
+        "230",
+        "457"
+      ],
+      "categoryNames": [
+        "Farmacia",
+        "Cuidado Personal y Bebé",
+        "Anteojos"
+      ],
+      "collections": [],
+      "brand": "Total View",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "60439",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 6790,
+          "listPrice": 6790,
+          "ppumPrice": 6790,
+          "ppumListPrice": 6790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/422998-250-250/Anteojos-de-lectura-cafe-20.jpg?v=638809588624630000"
+          ],
+          "name": "Anteojos de Lectura Café 2.0",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Anteojos",
+          "value": "/cuidado-personal-y-bebe/farmacia/anteojos",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Anteojos",
+          "value": "/cuidado-personal-y-bebe/farmacia/anteojos",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Anteojos",
+          "value": "/cuidado-personal-y-bebe/farmacia/anteojos",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Talla",
+      "key": "Talla",
+      "values": [
+        {
+          "displayName": "1.5",
+          "value": "1.5",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sin Talla",
+          "value": "SIN TALLA",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2490,
+          "maxValue": 7990
+        }
+      ]
+    },
+    {
+      "label": "Modelo",
+      "key": "Modelo",
+      "values": [
+        {
+          "displayName": "IZIPC",
+          "value": "IZIPC",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "China",
+          "value": "China",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Lentes Ópticos",
+          "value": "Lentes Ópticos",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suplementos Alimenticios",
+          "value": "Suplementos Alimenticios",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Total View",
+          "value": "Total View",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 18,
+  "metaTag": {
+    "title": "Anteojos - Obtén cómodos lentes de lectura | Jumbo.cl",
+    "description": "¡Obtén lentes ópticos en la sección de anteojos de Jumbo.cl! Hay eficientes modelos y bellos diseños que te acompañarán en cada una de tus lecturas."
+  }
+}

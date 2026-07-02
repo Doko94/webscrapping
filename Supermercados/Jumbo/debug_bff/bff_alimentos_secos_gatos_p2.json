@@ -1,0 +1,1599 @@
+{
+  "products": [
+    {
+      "productId": "57614",
+      "reference": "1756203",
+      "sponsoredId": null,
+      "slug": "alimento-gato-adulto-animal-planet-21-kg-1756203",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "17846",
+        "24506",
+        "25670",
+        "26917",
+        "27162",
+        "27309",
+        "27391",
+        "27461",
+        "27499",
+        "27501",
+        "27512",
+        "27518",
+        "27521",
+        "27522",
+        "27563",
+        "27601"
+      ],
+      "brand": "Animal Planet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "57947",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 11590,
+          "listPrice": 12950,
+          "ppumPrice": 11590,
+          "ppumListPrice": 12950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309200-250-250/Alimento-Gato-Adulto-Animal-Planet-21-kg.jpg?v=638776388522270000"
+          ],
+          "name": "Alimento Gato Adulto Animal Planet 2.1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 11590 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 11590,
+              "ppumPrice": 11590,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X22000 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 22000,
+              "unitPrice": 11000,
+              "ppumPrice": 11000,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "100267",
+      "reference": "1864052",
+      "sponsoredId": null,
+      "slug": "alimento-gato-adulto-purina-one-pollo-y-salmon-6-kg-1864052",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "17846",
+        "25520",
+        "27105",
+        "27507"
+      ],
+      "brand": "Purina One",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "100535",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 6,
+          "price": 36990,
+          "listPrice": 36990,
+          "ppumPrice": 6165,
+          "ppumListPrice": 6165,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/372381-250-250/Alimento-gato-adulto-pollo-y-salmon-6-kg.jpg?v=638776791108170000"
+          ],
+          "name": "Alimento Gato Adulto Purina One Pollo y Salmón 6 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "59780",
+      "reference": "1751064",
+      "sponsoredId": null,
+      "slug": "alimento-gato-adulto-cat-chow-pescado-3-kg-1751064",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "25520",
+        "25670",
+        "26917",
+        "27105",
+        "27391",
+        "27461",
+        "27507",
+        "27511",
+        "27518",
+        "27521",
+        "27522",
+        "27601"
+      ],
+      "brand": "Cat Chow",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "59945",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 3,
+          "price": 11990,
+          "listPrice": 16490,
+          "ppumPrice": 3997,
+          "ppumListPrice": 5497,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360576-250-250/Alimento-gato-adulto-pescado-3-kg.jpg?v=638776733264870000"
+          ],
+          "name": "Alimento Gato Adulto Cat Chow Pescado 3 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 11990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 11990,
+              "ppumPrice": 3997,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "76208",
+      "reference": "1802679",
+      "sponsoredId": null,
+      "slug": "alimento-gato-adulto-master-cat-relleno-3-kg-1802679",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "23175",
+        "25367",
+        "27581"
+      ],
+      "brand": "Master Cat",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "76463",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 3,
+          "price": 12590,
+          "listPrice": 12590,
+          "ppumPrice": 4197,
+          "ppumListPrice": 4197,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/567432-250-250/Alimento-Gato-Adulto-Master-Cat-Relleno-3-kg.jpg?v=639045136366000000"
+          ],
+          "name": "Alimento Gato Adulto Master Cat Mix Gourmet 3 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "8325",
+      "reference": "934180",
+      "sponsoredId": null,
+      "slug": "alimento-gato-adulto-master-cat-salmon-y-sardina-8-kg-934180",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25333",
+        "25334",
+        "25367",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25670",
+        "25695",
+        "26917",
+        "27391",
+        "27461",
+        "27499",
+        "27501",
+        "27518",
+        "27521",
+        "27522",
+        "27538",
+        "27539",
+        "27563",
+        "27581",
+        "27601"
+      ],
+      "brand": "Master Cat",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "8478",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 8,
+          "price": 22670,
+          "listPrice": 27990,
+          "ppumPrice": 2834,
+          "ppumListPrice": 3499,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300935-250-250/Alimento-Gato-Adulto-Master-Cat-Salmon-y-Sardina-8-kg.jpg?v=638776374229800000"
+          ],
+          "name": "Alimento Gato Adulto Master Cat Salmón y Sardina 8 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 22670 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 22670,
+              "ppumPrice": 2834,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 20990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 20990,
+              "ppumPrice": 2624,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "111226",
+      "reference": "1907039",
+      "sponsoredId": null,
+      "slug": "alimento-gato-adulto-whiskas-bueno-por-naturaleza-salmon-3-kg-1907039",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27419",
+        "27499",
+        "27501"
+      ],
+      "brand": "Whiskas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "111491",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 3,
+          "price": 14990,
+          "listPrice": 14990,
+          "ppumPrice": 4997,
+          "ppumListPrice": 4997,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/378430-250-250/Alimento-Gato-Adulto-Whiskas-Bueno-Por-Naturaleza-Salmon-3-kg.jpg?v=638776815363670000"
+          ],
+          "name": "Alimento Gato Adulto Whiskas Bueno Por Naturaleza Salmón 3 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "8320",
+      "reference": "934175",
+      "sponsoredId": null,
+      "slug": "alimento-gato-adulto-master-cat-salmon-y-sardina-1-kg-934175",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "22523",
+        "25367",
+        "27581"
+      ],
+      "brand": "Master Cat",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "8473",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 5290,
+          "listPrice": 5290,
+          "ppumPrice": 5290,
+          "ppumListPrice": 5290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300892-250-250/Alimento-Gato-Adulto-Master-Cat-Salmon-y-Sardina-1-kg.jpg?v=638776374090670000"
+          ],
+          "name": "Alimento Gato Adulto Master Cat Salmón y Sardina 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "31829",
+      "reference": "1602700",
+      "sponsoredId": null,
+      "slug": "alimento-gato-cubi-cat-1-kg-1602700",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Cubicat",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "33718",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 2950,
+          "listPrice": 2950,
+          "ppumPrice": 2950,
+          "ppumListPrice": 2950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/356398-250-250/Alimento-gato-1-kg.jpg?v=638776712238570000"
+          ],
+          "name": "Alimento Gato Sabro Cat 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "8310",
+      "reference": "701883",
+      "sponsoredId": null,
+      "slug": "alimento-gato-cubi-cat-tradicional-8-kg-701883",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Cubicat",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "8450",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 8,
+          "price": 16490,
+          "listPrice": 16490,
+          "ppumPrice": 2061,
+          "ppumListPrice": 2061,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/300856-250-250/Alimento-Gato-Cubi-Cat-Tradicional-8-kg.jpg?v=638776374037500000"
+          ],
+          "name": "Alimento Gato Sabro Cat Tradicional 8 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "106606",
+      "reference": "1898160",
+      "sponsoredId": null,
+      "slug": "alimento-gato-champion-cat-carne-8-kg-1898160",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "25969",
+        "25974"
+      ],
+      "brand": "Champion Cat",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "106874",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 8,
+          "price": 24190,
+          "listPrice": 24190,
+          "ppumPrice": 3024,
+          "ppumListPrice": 3024,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/376109-250-250/Alimento-gato-carne-8-kg.jpg?v=638776806419830000"
+          ],
+          "name": "Alimento Gato Adulto Champion Cat Carne 8 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "8376",
+      "reference": "925138",
+      "sponsoredId": null,
+      "slug": "alimento-gato-adulto-whiskas-pescado-3-kg-925138",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27419",
+        "27499",
+        "27501"
+      ],
+      "brand": "Whiskas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "8542",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 3,
+          "price": 14290,
+          "listPrice": 14290,
+          "ppumPrice": 4763,
+          "ppumListPrice": 4763,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/349406-250-250/Alimento-Gato-Adulto-Whiskas-Pescado-3-kg.jpg?v=638776676752570000"
+          ],
+          "name": "Alimento Gato Adulto Whiskas Pescado 3 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "8367",
+      "reference": "925141",
+      "sponsoredId": null,
+      "slug": "alimento-gato-adulto-whiskas-carne-1-kg-925141",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "22523",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Whiskas",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "8533",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 4990,
+          "listPrice": 5890,
+          "ppumPrice": 4990,
+          "ppumListPrice": 5890,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/349380-250-250/Alimento-Gato-Adulto-Whiskas-Carne-1-kg.jpg?v=638776676686000000"
+          ],
+          "name": "Alimento Gato Adulto Whiskas Carne 1 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4990,
+              "ppumPrice": 4990,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "141982",
+      "reference": "2002971",
+      "sponsoredId": null,
+      "slug": "alim-gato-amity-p-salmon-and-rice-1-5kg-2002971",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "23175",
+        "25137",
+        "25145",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Amity",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142274",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.5,
+          "price": 9592,
+          "listPrice": 11990,
+          "ppumPrice": 6395,
+          "ppumListPrice": 7993,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/336361-250-250/Alimento-Gato-Amity-Premium-Salmon-y-Arroz-15-kg.jpg?v=638776437528330000"
+          ],
+          "name": "Alimento Gato Amity Premium Salmón y Arroz 1.5 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 12",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 9592,
+              "ppumPrice": 6395,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 3",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 8393,
+              "ppumPrice": 5595,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "59781",
+      "reference": "1751065",
+      "sponsoredId": null,
+      "slug": "alimento-gato-adulto-cat-chow-pescado-8-kg-1751065",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "22523",
+        "25137",
+        "25142",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25520",
+        "25695",
+        "27105",
+        "27499",
+        "27501",
+        "27507",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Cat Chow",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "59946",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 8,
+          "price": 23990,
+          "listPrice": 29990,
+          "ppumPrice": 2999,
+          "ppumListPrice": 3749,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360575-250-250/Alimento-gato-adulto-pescado-8-kg.jpg?v=638776733264400000"
+          ],
+          "name": "Alimento Gato Adulto Cat Chow Pescado 8 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 23990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 23990,
+              "ppumPrice": 2999,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 21490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 21490,
+              "ppumPrice": 2686,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "59791",
+      "reference": "1751075",
+      "sponsoredId": null,
+      "slug": "alimento-gatito-cat-chow-carne-y-verduras-1-kg-1751075",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "25520",
+        "27105",
+        "27507"
+      ],
+      "brand": "Cat Chow",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "59956",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 6290,
+          "listPrice": 6290,
+          "ppumPrice": 6290,
+          "ppumListPrice": 6290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/360635-250-250/Alimento-para-gatito-1-kg.jpg?v=638776733416270000"
+          ],
+          "name": "Alimento Gatito Cat Chow Carne y Verduras 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "141981",
+      "reference": "2002929",
+      "sponsoredId": null,
+      "slug": "alim-gatito-amity-p-chicken-and-rice-10kg-2002929",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "400",
+        "402",
+        "410"
+      ],
+      "categoryNames": [
+        "Mascotas",
+        "Gatos",
+        "Alimentos Secos Gatos"
+      ],
+      "collections": [
+        "23175",
+        "25137",
+        "25145",
+        "25333",
+        "25334",
+        "25408",
+        "25409",
+        "25411",
+        "25412",
+        "25422",
+        "25695",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Amity",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "142278",
+          "cartLimit": 4,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 10,
+          "price": 41592,
+          "listPrice": 51990,
+          "ppumPrice": 4159,
+          "ppumListPrice": 5199,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/336477-250-250/Alimento-Gatito-Amity-Premium-Pollo-y-Arroz-10-kg.jpg?v=638776437643970000"
+          ],
+          "name": "Alimento Gatito Amity Premium Pollo y Arroz 10 kg",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 12",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 41592,
+              "ppumPrice": 4159,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 30% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 3",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 36393,
+              "ppumPrice": 3639,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Alimentos Secos Gatos",
+          "value": "/mascotas/gatos/alimentos-secos-gatos",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Alimentos Secos Gatos",
+          "value": "/mascotas/gatos/alimentos-secos-gatos",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Alimentos Secos Gatos",
+          "value": "/mascotas/gatos/alimentos-secos-gatos",
+          "selected": false,
+          "quantity": 68,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cat Chow",
+          "value": "Cat Chow",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Purina One",
+          "value": "Purina One",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Master Cat",
+          "value": "Master Cat",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Whiskas",
+          "value": "Whiskas",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Champion Cat",
+          "value": "Champion Cat",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Animal Planet",
+          "value": "Animal Planet",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cubicat",
+          "value": "Cubicat",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Amity",
+          "value": "Amity",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Felinnes",
+          "value": "Felinnes",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Felix",
+          "value": "Felix",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Etapa Mascota",
+      "key": "Etapa Mascota",
+      "values": [
+        {
+          "displayName": "Adulto",
+          "value": "Adulto",
+          "selected": false,
+          "quantity": 55,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cachorro",
+          "value": "Cachorro",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Carne",
+          "value": "Carne",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carne  de Pollo y Arroz",
+          "value": "Carne  de Pollo y Arroz",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carne y Leche",
+          "value": "Carne y Leche",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carne y leche",
+          "value": "Carne y leche",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carne y Verduras",
+          "value": "Carne y Verduras",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Megamix",
+          "value": "Megamix",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix de Carnes",
+          "value": "Mix de Carnes",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pescado",
+          "value": "Pescado",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pollo",
+          "value": "Pollo",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pollo Salmón",
+          "value": "Pollo Salmón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pollo y Arroz",
+          "value": "Pollo y Arroz",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pollo y Carne",
+          "value": "Pollo y Carne",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pollo y Leche",
+          "value": "Pollo y Leche",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pollo y Salmon",
+          "value": "Pollo y Salmon",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salmón",
+          "value": "Salmón",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salmón y Arroz",
+          "value": "Salmón y Arroz",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salmón y Pollo",
+          "value": "Salmón y Pollo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salmón y Sardina",
+          "value": "Salmón y Sardina",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Alimentos Secos para Gatos",
+          "value": "Alimentos Secos para Gatos",
+          "selected": false,
+          "quantity": 67,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Snacks para Gatos",
+          "value": "Snacks para Gatos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1390,
+          "maxValue": 41592
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 56,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño de Mascota",
+      "key": "Tamaño de Mascota",
+      "values": [
+        {
+          "displayName": "Mediano a Grande",
+          "value": "Mediano - Grande",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Todos los Tamaños",
+          "value": "Todos los Tamaños",
+          "selected": false,
+          "quantity": 67,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 68,
+  "metaTag": {
+    "title": "Alimentos Secos Gatos | Jumbo.cl",
+    "description": "Los alimentos de gatitos están especialmente formulados para entregar a tu minino los nutrientes necesarios para que crezca fuerte y sano. ¡Están en Jumbo.cl!"
+  }
+}

@@ -1,0 +1,3742 @@
+{
+  "products": [
+    {
+      "productId": "159896",
+      "reference": "2056646",
+      "sponsoredId": "ADZ7WgoQBpoMJbyHdL2zBDseseHe8xIQAZyK59MZcFGeXsKpltZLfhoQBkQS0ECWfW6bJOMD8MU0HiIKCgYxNjAyNjEQATDA-gFA2QJIAVDA7dzfyTNg2QJyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "smoothie-berr-595g-2056646",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1138"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Smoothies y Acai"
+      ],
+      "collections": [
+        "26945",
+        "27169"
+      ],
+      "brand": "Livemore",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160261",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.595,
+          "price": 6490,
+          "listPrice": 6490,
+          "ppumPrice": 10908,
+          "ppumListPrice": 10908,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/542301-250-250/Smoothie-Livemore-Berry-Bliss-595-g.jpg?v=638991189217430000"
+          ],
+          "name": "Smoothie Livemore Berry Bliss 595 g",
+          "stock": true,
+          "promotions": [],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1043",
+      "reference": "566597",
+      "sponsoredId": null,
+      "slug": "frutos-del-bosque-minuto-verde-400-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25354",
+        "25405",
+        "25470",
+        "25662",
+        "25670",
+        "25719",
+        "26696",
+        "26917",
+        "26945",
+        "27281",
+        "27316",
+        "27451",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27523",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1045",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3477,
+          "listPrice": 4090,
+          "ppumPrice": 8693,
+          "ppumListPrice": 10225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298348-250-250/Frutos-del-Bosque-400-g.jpg?v=638775751317930000"
+          ],
+          "name": "Frutos del Bosque Minuto Verde 400 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 3477,
+              "ppumPrice": 8693,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X6500 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 6500,
+              "unitPrice": 3250,
+              "ppumPrice": 8125,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "84694",
+      "reference": "1823095",
+      "sponsoredId": null,
+      "slug": "mix-berries-congelado-400-g-cuisine-and-co-1823095",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25764",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26945",
+        "27451",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "84964",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3590,
+          "listPrice": 3590,
+          "ppumPrice": 8975,
+          "ppumListPrice": 8975,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365686-250-250/Mix-berries-congelados-400-g.jpg?v=638776760110970000"
+          ],
+          "name": "Mix Berries Congelado 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "98063",
+      "reference": "902039",
+      "sponsoredId": null,
+      "slug": "frambuesa-frutos-del-maipo-250g-902039",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "25513",
+        "25969",
+        "25974",
+        "26945"
+      ],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "98333",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3550,
+          "listPrice": 3550,
+          "ppumPrice": 14200,
+          "ppumListPrice": 14200,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313087-250-250/Frambuesas-Frutos-del-Maipo-250-g.jpg?v=638776398431400000"
+          ],
+          "name": "Frambuesas Frutos del Maipo 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1042",
+      "reference": "255276",
+      "sponsoredId": null,
+      "slug": "frutillas-minuto-verde-bolsa-500-g-congelado-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "23175",
+        "25354",
+        "25405",
+        "25470",
+        "25662",
+        "25670",
+        "25719",
+        "26696",
+        "26917",
+        "26945",
+        "27281",
+        "27316",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27523",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1044",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3358,
+          "listPrice": 3950,
+          "ppumPrice": 6716,
+          "ppumListPrice": 7900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298347-250-250/Frutillas-500-g.jpg?v=638775751304800000"
+          ],
+          "name": "Frutillas Minuto Verde 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 3358,
+              "ppumPrice": 6716,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X6490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 6490,
+              "unitPrice": 3245,
+              "ppumPrice": 6490,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 3160,
+              "ppumPrice": 6320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1040",
+      "reference": "1144629",
+      "sponsoredId": null,
+      "slug": "arandanos-minuto-verde-bolsa-400-g-100-natural-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "23175",
+        "25354",
+        "25405",
+        "25470",
+        "25662",
+        "25670",
+        "25719",
+        "26696",
+        "26917",
+        "26945",
+        "27281",
+        "27316",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27523",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1042",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3732,
+          "listPrice": 4390,
+          "ppumPrice": 9330,
+          "ppumListPrice": 10975,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298345-250-250/Arandanos-400-g.jpg?v=638775751278400000"
+          ],
+          "name": "Arándanos Minuto Verde 400 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 3732,
+              "ppumPrice": 9330,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X6590 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 6590,
+              "unitPrice": 3295,
+              "ppumPrice": 8238,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "84693",
+      "reference": "1823094",
+      "sponsoredId": null,
+      "slug": "arandanos-congelado-400-g-cuisine-and-co-1823094",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25764",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26945",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "84963",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 9975,
+          "ppumListPrice": 9975,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365679-250-250/Arandanos-congelados-400-g.jpg?v=638776760079430000"
+          ],
+          "name": "Arándanos Congelado 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "17290",
+      "reference": "1470768",
+      "sponsoredId": null,
+      "slug": "mango-en-trozo-minuto-verde-400-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "23175",
+        "25354",
+        "25405",
+        "25470",
+        "25662",
+        "25670",
+        "25719",
+        "26696",
+        "26917",
+        "26945",
+        "27281",
+        "27316",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27523",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "14620",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3902,
+          "listPrice": 4590,
+          "ppumPrice": 9755,
+          "ppumListPrice": 11475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/351872-250-250/Mango-trozo-Minuto-Verde-500-g.jpg?v=638776687409770000"
+          ],
+          "name": "Mango Trozo Minuto Verde 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 3902,
+              "ppumPrice": 9755,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X6890 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 6890,
+              "unitPrice": 3445,
+              "ppumPrice": 8613,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "42775",
+      "reference": "1703120",
+      "sponsoredId": null,
+      "slug": "mix-smoothie-minuto-verde-green-desintoxicante-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1138"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Smoothies y Acai"
+      ],
+      "collections": [
+        "17846",
+        "25470",
+        "25662",
+        "25670",
+        "25719",
+        "26696",
+        "26917",
+        "26945",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27537",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "32457",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3590,
+          "listPrice": 4090,
+          "ppumPrice": 7180,
+          "ppumListPrice": 8180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/356241-250-250/Principal-41686.jpg?v=638776711455530000"
+          ],
+          "name": "Mix Smoothie Minuto Verde Green Desintoxicante 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3590 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3590,
+              "ppumPrice": 7180,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X6490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 6490,
+              "unitPrice": 3245,
+              "ppumPrice": 6490,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "29",
+      "reference": "1603562",
+      "sponsoredId": null,
+      "slug": "mix-de-berries-frutos-del-maipo-400-g-congelado-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "25969",
+        "25974",
+        "26945",
+        "27451"
+      ],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "31",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 4150,
+          "listPrice": 4150,
+          "ppumPrice": 10375,
+          "ppumListPrice": 10375,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/297579-250-250/Mix-de-Berries-Frutos-del-Maipo-400-g.jpg?v=638775740926700000"
+          ],
+          "name": "Mix de Berries Frutos del Maipo 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "1044",
+      "reference": "1582100",
+      "sponsoredId": null,
+      "slug": "pina-minuto-verde-500-g-en-trozos-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "23175",
+        "25354",
+        "25405",
+        "25470",
+        "25662",
+        "25670",
+        "25719",
+        "26696",
+        "26917",
+        "26945",
+        "27281",
+        "27316",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27523",
+        "27537",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "1046",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 4463,
+          "listPrice": 5250,
+          "ppumPrice": 8926,
+          "ppumListPrice": 10500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298349-250-250/Pi%C3%B1a-en-trozos-Minuto-Verde-500-g.jpg?v=638775751330670000"
+          ],
+          "name": "Piña en Trozos Minuto Verde 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 15% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 15,
+              "unitPrice": 4463,
+              "ppumPrice": 8926,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X7890 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 7890,
+              "unitPrice": 3945,
+              "ppumPrice": 7890,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159895",
+      "reference": "2056645",
+      "sponsoredId": null,
+      "slug": "smoothie-acai-198g-2056645",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1138"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Smoothies y Acai"
+      ],
+      "collections": [
+        "26945",
+        "27169"
+      ],
+      "brand": "Livemore",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160259",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.198,
+          "price": 2490,
+          "listPrice": 2490,
+          "ppumPrice": 12576,
+          "ppumListPrice": 12576,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/542300-250-250/Smoothie-Livemore-Acai-198-g.jpg?v=638991189208400000"
+          ],
+          "name": "Smoothie Livemore Acai 198 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "162131",
+      "reference": "2057876",
+      "sponsoredId": null,
+      "slug": "pulpa-maracu-500gr-2057876",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1137"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Pulpa de Fruta"
+      ],
+      "collections": [
+        "26816",
+        "26853",
+        "26916",
+        "26945",
+        "27280",
+        "27296",
+        "27309",
+        "27316",
+        "27367",
+        "27455",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "162505",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3990,
+          "listPrice": 4390,
+          "ppumPrice": 7980,
+          "ppumListPrice": 8780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/555619-250-250/PULPA-MARACU-500GR.jpg?v=639017015178130000"
+          ],
+          "name": "Pulpa de Maracuyá Minuto Verde 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 7980,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "162134",
+      "reference": "2061230",
+      "sponsoredId": null,
+      "slug": "pulpa-mango-500grr-2061230",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1137"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Pulpa de Fruta"
+      ],
+      "collections": [
+        "26816",
+        "26853",
+        "26916",
+        "26945",
+        "27280",
+        "27296",
+        "27309",
+        "27316",
+        "27367",
+        "27455",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "162508",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3990,
+          "listPrice": 4390,
+          "ppumPrice": 7980,
+          "ppumListPrice": 8780,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/555688-250-250/PULPA-MANGO-500GRR.jpg?v=639017015394300000"
+          ],
+          "name": "Pulpa de Mango Minuto Verde 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 7980,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "84695",
+      "reference": "1823096",
+      "sponsoredId": null,
+      "slug": "frutilla-congelada-500-g-cuisine-and-co-1823096",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25764",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26945",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "84965",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 6980,
+          "ppumListPrice": 6980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365683-250-250/Frutillas-congeladas-500-g.jpg?v=638776760106300000"
+          ],
+          "name": "Frutilla Congelada 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "84697",
+      "reference": "1823098",
+      "sponsoredId": null,
+      "slug": "mango-congelado-500-g-cuisine-and-co-1823098",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "894",
+        "895",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25764",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "26945",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "84967",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 7980,
+          "ppumListPrice": 7980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365685-250-250/Mango-congelado-500-g.jpg?v=638776760110370000"
+          ],
+          "name": "Mango Congelado 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "42777",
+      "reference": "1703122",
+      "sponsoredId": null,
+      "slug": "mix-smoothie-minuto-verde-pink-energetico-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1138"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Smoothies y Acai"
+      ],
+      "collections": [
+        "17846",
+        "25470",
+        "25662",
+        "25670",
+        "25719",
+        "26696",
+        "26917",
+        "26945",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27537",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "32459",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3590,
+          "listPrice": 4090,
+          "ppumPrice": 7180,
+          "ppumListPrice": 8180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306902-250-250/Mix-smoothie-Minuto-Verde-pink-energetico-500-g.jpg?v=638776383385530000"
+          ],
+          "name": "Mix Smoothie Minuto Verde Pink Energético 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3590 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3590,
+              "ppumPrice": 7180,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X6490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 6490,
+              "unitPrice": 3245,
+              "ppumPrice": 6490,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "45537",
+      "reference": "1712731",
+      "sponsoredId": null,
+      "slug": "smoothie-verde-frutos-del-maipo-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1138"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Smoothies y Acai"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26945"
+      ],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "45776",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 4750,
+          "listPrice": 4750,
+          "ppumPrice": 9500,
+          "ppumListPrice": 9500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/357810-250-250/Smoothie-verde-Frutos-del-Maipo-500-g.jpg?v=638776720840130000"
+          ],
+          "name": "Smoothie Frutos del Maipo Detox Manzana, Piña, Espinaca, Apio y Menta 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "100071",
+      "reference": "1866930",
+      "sponsoredId": null,
+      "slug": "fruti-mix-frutos-del-maipo-400g-1866930",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "25969",
+        "25974",
+        "26945"
+      ],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "100339",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3790,
+          "listPrice": 3790,
+          "ppumPrice": 9475,
+          "ppumListPrice": 9475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313476-250-250/Frutimix-Frutos-del-Maipo-400-g.jpg?v=638776399736730000"
+          ],
+          "name": "Frutimix Frutos del Maipo 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "42778",
+      "reference": "1703123",
+      "sponsoredId": null,
+      "slug": "mix-smoothie-minuto-verde-yellow-pasion-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1138"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Smoothies y Acai"
+      ],
+      "collections": [
+        "17846",
+        "25470",
+        "25662",
+        "25670",
+        "25719",
+        "26696",
+        "26917",
+        "26945",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27537",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "32460",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3590,
+          "listPrice": 4290,
+          "ppumPrice": 7180,
+          "ppumListPrice": 8580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/356236-250-250/Principal-41689.jpg?v=638776711443230000"
+          ],
+          "name": "Mix Smoothie Minuto Verde Yellow Pasion 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3590 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3590,
+              "ppumPrice": 7180,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X6490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 6490,
+              "unitPrice": 3245,
+              "ppumPrice": 6490,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "42776",
+      "reference": "1703121",
+      "sponsoredId": null,
+      "slug": "mix-smoothie-minuto-verde-red-antioxidante-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1138"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Smoothies y Acai"
+      ],
+      "collections": [
+        "17846",
+        "25470",
+        "25662",
+        "25670",
+        "25719",
+        "26696",
+        "26917",
+        "26945",
+        "27281",
+        "27455",
+        "27461",
+        "27499",
+        "27501",
+        "27509",
+        "27518",
+        "27521",
+        "27522",
+        "27537",
+        "27563",
+        "27601"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "32458",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3590,
+          "listPrice": 4090,
+          "ppumPrice": 7180,
+          "ppumListPrice": 8180,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/356242-250-250/Principal-41687.jpg?v=638776711455830000"
+          ],
+          "name": "Mix Smoothie Minuto Verde Red Antioxidante 500 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3590 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3590,
+              "ppumPrice": 7180,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2X6490 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 6490,
+              "unitPrice": 3245,
+              "ppumPrice": 6490,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "125142",
+      "reference": "1959095",
+      "sponsoredId": null,
+      "slug": "pulpa-maracuya-cong-doypack-1959095",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1137"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Pulpa de Fruta"
+      ],
+      "collections": [
+        "26945"
+      ],
+      "brand": "Frutta",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "125408",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 4790,
+          "listPrice": 4790,
+          "ppumPrice": 9580,
+          "ppumListPrice": 9580,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/391001-250-250/Pulpa-maracuya-congelada-500-g.jpg?v=638776865824400000"
+          ],
+          "name": "Pulpa de Maracuyá Congelada Frutta 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156036",
+      "reference": "2048559",
+      "sponsoredId": null,
+      "slug": "pulpa-acai-puro-nativo-100gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1137"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Pulpa de Fruta"
+      ],
+      "collections": [
+        "26945"
+      ],
+      "brand": "Nativo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156356",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 79900,
+          "ppumListPrice": 79900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/503230-250-250/PULPA-ACAI-PURO-NATIVO-100GR.jpg?v=638926267643430000"
+          ],
+          "name": "Pulpa de Acaí Nativo Orgánico Puro 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "135027",
+      "reference": "1993693",
+      "sponsoredId": null,
+      "slug": "pulpa-chirimoya-minuto-verde-335gr-1993693",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1137"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Pulpa de Fruta"
+      ],
+      "collections": [
+        "17846",
+        "25662",
+        "25719",
+        "26945"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135322",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.335,
+          "price": 3590,
+          "listPrice": 3590,
+          "ppumPrice": 10716,
+          "ppumListPrice": 10716,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/323824-250-250/PULPA-CHIRIMOYA-MINUTO-VERDE-335GR.jpg?v=638776427175430000"
+          ],
+          "name": "Pulpa Chirimoya Minuto Verde 335 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127529",
+      "reference": "1968708",
+      "sponsoredId": null,
+      "slug": "arandano-fdm-400-gr-1968708",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "25969",
+        "25974",
+        "26945"
+      ],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127827",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 4050,
+          "listPrice": 4050,
+          "ppumPrice": 10125,
+          "ppumListPrice": 10125,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319601-250-250/Arandano-Frutos-del-Maipo-400-g.jpg?v=638776417864300000"
+          ],
+          "name": "Arándano Frutos del Maipo 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "145978",
+      "reference": "2020957",
+      "sponsoredId": null,
+      "slug": "sorbete-acai-and-dragon-fruit-campov-443ml-2020957",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1138"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Smoothies y Acai"
+      ],
+      "collections": [
+        "26697",
+        "26934"
+      ],
+      "brand": "Campoverde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146271",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.443,
+          "price": 8390,
+          "listPrice": 8390,
+          "ppumPrice": 18939,
+          "ppumListPrice": 18939,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/344690-250-250/SORBETE-ACAI---DRAGON-FRUIT-CAMPOV-443ML.jpg?v=638776444137930000"
+          ],
+          "name": "Sorbete Acai & Dragon Fruit Campoverde 443 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "100070",
+      "reference": "1866929",
+      "sponsoredId": null,
+      "slug": "tuti-mango-frutos-del-maipo-400g-1866929",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "25969",
+        "25974",
+        "26945"
+      ],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "100336",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3790,
+          "listPrice": 3790,
+          "ppumPrice": 9475,
+          "ppumListPrice": 9475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313443-250-250/Tutimango-Frutos-del-Maipo-400-g.jpg?v=638776399667870000"
+          ],
+          "name": "Tutimango Frutos del Maipo 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138557",
+      "reference": "2002043",
+      "sponsoredId": null,
+      "slug": "jugo-de-limon-frutos-del-maipo-400gr-2002043",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1137"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Pulpa de Fruta"
+      ],
+      "collections": [
+        "26945"
+      ],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138854",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 4490,
+          "listPrice": 4490,
+          "ppumPrice": 11225,
+          "ppumListPrice": 11225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/330655-250-250/Jugo-de-Limon-Frutos-del-Maipo-400-g.jpg?v=638776432587870000"
+          ],
+          "name": "Jugo de Limón Frutos del Maipo 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "135016",
+      "reference": "1988951",
+      "sponsoredId": null,
+      "slug": "pulpa-limon-jengibre-mv-335gr-1988951",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1137"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Pulpa de Fruta"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25112",
+        "25333",
+        "25334",
+        "25422",
+        "25470",
+        "25662",
+        "25695",
+        "25719",
+        "26696",
+        "26945"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135317",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.335,
+          "price": 4490,
+          "listPrice": 4490,
+          "ppumPrice": 13403,
+          "ppumListPrice": 13403,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/323664-250-250/PULPA-LIMON-JENGIBRE-MV-335GR.jpg?v=638776427054000000"
+          ],
+          "name": "Pulpa Limón Jengibre Minuto Verde 335 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159897",
+      "reference": "2056647",
+      "sponsoredId": null,
+      "slug": "smoothie-acai-595g-2056647",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1138"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Smoothies y Acai"
+      ],
+      "collections": [
+        "26945",
+        "27169"
+      ],
+      "brand": "Livemore",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160260",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.595,
+          "price": 6490,
+          "listPrice": 6490,
+          "ppumPrice": 10908,
+          "ppumListPrice": 10908,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/542302-250-250/Smoothie-Livemore-Acai-595-g.jpg?v=638991189225500000"
+          ],
+          "name": "Smoothie Livemore Acai 595 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "135019",
+      "reference": "1993275",
+      "sponsoredId": null,
+      "slug": "pulpa-frambuesa-minuto-verde-335gr-1993275",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1137"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Pulpa de Fruta"
+      ],
+      "collections": [
+        "17846",
+        "25470",
+        "25662",
+        "25719",
+        "26696",
+        "26945",
+        "27451"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135309",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.335,
+          "price": 3790,
+          "listPrice": 3790,
+          "ppumPrice": 11313,
+          "ppumListPrice": 11313,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/324208-250-250/PULPA-FRAMBUESA-MINUTO-VERDE-335GR.jpg?v=638776427421300000"
+          ],
+          "name": "Pulpa Frambuesa Minuto Verde 335 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "135031",
+      "reference": "1993713",
+      "sponsoredId": null,
+      "slug": "pulpa-pina-coco-minuto-verde-335gr-1993713",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1137"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Pulpa de Fruta"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25112",
+        "25333",
+        "25334",
+        "25422",
+        "25470",
+        "25662",
+        "25695",
+        "25719",
+        "26696",
+        "26945"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135325",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.335,
+          "price": 4490,
+          "listPrice": 4490,
+          "ppumPrice": 13403,
+          "ppumListPrice": 13403,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/323992-250-250/PULPA-PI%C3%91A-COCO-MINUTO-VERDE-335GR.jpg?v=638776427277430000"
+          ],
+          "name": "Pulpa Piña Coco Minuto Verde 335 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "135028",
+      "reference": "1993692",
+      "sponsoredId": null,
+      "slug": "pulpa-mango-minuto-verde-335gr-1993692",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1137"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Pulpa de Fruta"
+      ],
+      "collections": [
+        "17846",
+        "25470",
+        "25662",
+        "25719",
+        "26696",
+        "26945"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135319",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.335,
+          "price": 3890,
+          "listPrice": 3890,
+          "ppumPrice": 11612,
+          "ppumListPrice": 11612,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/323753-250-250/PULPA-MANGO-MINUTO-VERDE-335GR.jpg?v=638776427118500000"
+          ],
+          "name": "Pulpa Mango Minuto Verde 335 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "135020",
+      "reference": "1993691",
+      "sponsoredId": null,
+      "slug": "pulpa-maracuya-minuto-verde-335gr-1993691",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1137"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Pulpa de Fruta"
+      ],
+      "collections": [
+        "17846",
+        "25470",
+        "25662",
+        "25719",
+        "26696",
+        "26945"
+      ],
+      "brand": "Minuto Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135312",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.335,
+          "price": 3190,
+          "listPrice": 3190,
+          "ppumPrice": 9522,
+          "ppumListPrice": 9522,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/324315-250-250/PULPA-MARACUYA-MINUTO-VERDE-335GR.jpg?v=638776427499670000"
+          ],
+          "name": "Pulpa Maracuyá Minuto Verde 335 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73764",
+      "reference": "1750065",
+      "sponsoredId": null,
+      "slug": "frut-cong-4-berry-mix-campo-verde-1360-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "26697",
+        "26945"
+      ],
+      "brand": "Campoverde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74011",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1.36,
+          "price": 13490,
+          "listPrice": 13490,
+          "ppumPrice": 9919,
+          "ppumListPrice": 9919,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362771-250-250/Fruta-congelada-4-berry-mix-Campo-Verde-1360-g-1-479928.jpg?v=638776744859270000"
+          ],
+          "name": "Fruta Congelada Campo Verde 4 Berry Mix 1.3 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "145979",
+      "reference": "2020958",
+      "sponsoredId": null,
+      "slug": "sorbete-acai-and-mango-campoverde-443ml-2020958",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1138"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Smoothies y Acai"
+      ],
+      "collections": [
+        "26697",
+        "26934"
+      ],
+      "brand": "Campoverde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146272",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.443,
+          "price": 8390,
+          "listPrice": 8390,
+          "ppumPrice": 18939,
+          "ppumListPrice": 18939,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/344741-250-250/SORBETE-ACAI---MANGO-CAMPOVERDE-443ML.jpg?v=638776444175070000"
+          ],
+          "name": "Sorbete Acai & Mango Campoverde 443 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "108174",
+      "reference": "1900038",
+      "sponsoredId": null,
+      "slug": "acai-pure-with-guarana-campo-verde-597gr-1900038",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1138"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Smoothies y Acai"
+      ],
+      "collections": [
+        "26945"
+      ],
+      "brand": "Acai",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "108440",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.597,
+          "price": 11490,
+          "listPrice": 11490,
+          "ppumPrice": 19246,
+          "ppumListPrice": 19246,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/376691-250-250/Acai-pure-with-guarana-597-g.jpg?v=638776808689070000"
+          ],
+          "name": "Açai Pure With Guaraná 597 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "45536",
+      "reference": "1712733",
+      "sponsoredId": null,
+      "slug": "smoothie-rojo-frutos-del-maipo-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1138"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Smoothies y Acai"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26945"
+      ],
+      "brand": "Frutos Del Maipo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "45775",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 4750,
+          "listPrice": 4750,
+          "ppumPrice": 9500,
+          "ppumListPrice": 9500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307946-250-250/Smoothie-Frutos-del-Maipo-Vitality-Frutilla-Platano-Arandano-y-Frambuesa-500-g.jpg?v=638776385715970000"
+          ],
+          "name": "Smoothie Frutos del Maipo Vitality Frutilla, Plátano, Arándano y Frambuesa 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73767",
+      "reference": "1750063",
+      "sponsoredId": null,
+      "slug": "frut-cong-mango-mambo-campo-verde-1360-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1136"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Frutas Congeladas"
+      ],
+      "collections": [
+        "26697",
+        "26945"
+      ],
+      "brand": "Campoverde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "74014",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.136,
+          "price": 12790,
+          "listPrice": 12790,
+          "ppumPrice": 94044,
+          "ppumListPrice": 94044,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362767-250-250/Fruta-congelada-mango-mambo-Campo-Verde-1360-g.jpg?v=638776744815430000"
+          ],
+          "name": "Fruta Congelada Campo Verde Mango Mambo 1360 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156037",
+      "reference": "2048560",
+      "sponsoredId": null,
+      "slug": "pulpa-acai-con-guarana-nativo-100gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1135",
+        "1137"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Frutas y Pulpas Congeladas",
+        "Pulpa de Fruta"
+      ],
+      "collections": [
+        "26945"
+      ],
+      "brand": "Nativo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156357",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 79900,
+          "ppumListPrice": 79900,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/503226-250-250/PULPA-ACAI-CON-GUARANA-NATIVO-100GR.jpg?v=638926267631370000"
+          ],
+          "name": "Pulpa de Acaí Nativo Orgánico Guaraná 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Frutas Congeladas",
+          "value": "/lacteos-huevos-y-congelados/frutas-y-pulpas-congeladas/frutas-congeladas",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pulpa de Fruta",
+          "value": "/lacteos-huevos-y-congelados/frutas-y-pulpas-congeladas/pulpa-de-fruta",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Smoothies y Acai",
+          "value": "/lacteos-huevos-y-congelados/frutas-y-pulpas-congeladas/smoothies-y-acai",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Frutas Congeladas",
+          "value": "/lacteos-huevos-y-congelados/frutas-y-pulpas-congeladas/frutas-congeladas",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pulpa de Fruta",
+          "value": "/lacteos-huevos-y-congelados/frutas-y-pulpas-congeladas/pulpa-de-fruta",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Smoothies y Acai",
+          "value": "/lacteos-huevos-y-congelados/frutas-y-pulpas-congeladas/smoothies-y-acai",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Frutas Congeladas",
+          "value": "/lacteos-huevos-y-congelados/frutas-y-pulpas-congeladas/frutas-congeladas",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pulpa de Fruta",
+          "value": "/lacteos-huevos-y-congelados/frutas-y-pulpas-congeladas/pulpa-de-fruta",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Smoothies y Acai",
+          "value": "/lacteos-huevos-y-congelados/frutas-y-pulpas-congeladas/smoothies-y-acai",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Livemore",
+          "value": "Livemore",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Minuto Verde",
+          "value": "Minuto Verde",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutos Del Maipo",
+          "value": "Frutos Del Maipo",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Campoverde",
+          "value": "Campoverde",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Yogen Früz",
+          "value": "Yogen Früz",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Acai",
+          "value": "Acai",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nativo",
+          "value": "Nativo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutta",
+          "value": "Frutta",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Superfoods",
+          "value": "Superfoods",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 48,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 48,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 48,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 48,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 48,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 48,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2490,
+          "maxValue": 13490
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Mix Smoothie Rojos",
+          "value": "Mix Smoothie Rojos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix Smoothie Verdes",
+          "value": "Mix Smoothie Verdes",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix Frutas Congeladas",
+          "value": "Mix Frutas Congeladas",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix Smoothie Amarillo",
+          "value": "Mix Smoothie Amarillo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Acai Congelados",
+          "value": "Acai Congelados",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix Smoothie Rosa",
+          "value": "Mix Smoothie Rosa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix Smoothie Naranjo",
+          "value": "Mix Smoothie Naranjo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frambuesas Congeladas",
+          "value": "Frambuesas Congeladas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutillas Congeladas",
+          "value": "Frutillas Congeladas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Arándanos",
+          "value": "Arándanos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Smoothie Quinoa",
+          "value": "Smoothie Quinoa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pulpa de Maracuyá",
+          "value": "Pulpa de Maracuyá",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Piñas Congeladas",
+          "value": "Piñas Congeladas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Postre de Helado",
+          "value": "Postre de Helado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mangos Congelados",
+          "value": "Mangos Congelados",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pulpa de Mango",
+          "value": "Pulpa de Mango",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jugo de Limón",
+          "value": "Jugo de Limón",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pulpa de Piña",
+          "value": "Pulpa de Piña",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pulpa de Frambuesa",
+          "value": "Pulpa de Frambuesa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pulpa de Frutilla",
+          "value": "Pulpa de Frutilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Moras Congeladas",
+          "value": "Moras Congeladas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Acai",
+          "value": "Acai",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Acai con Guarana",
+          "value": "ACAI CON GUARANA",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Acaí y mango",
+          "value": "Acaí y mango",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Acaí y pitaya",
+          "value": "Acaí y pitaya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chrimoya",
+          "value": "Chrimoya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frambuesa",
+          "value": "Frambuesa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutilla",
+          "value": "Frutilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutilla, Mango y Naranja",
+          "value": "Frutilla, Mango y Naranja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limón Jengibre",
+          "value": "Limón Jengibre",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mango",
+          "value": "Mango",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mango Maracuya",
+          "value": "Mango Maracuya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mango Piña Platano",
+          "value": "Mango Piña Platano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Maracuyá",
+          "value": "Maracuyá",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix de frutilla, plátano, piña y mango",
+          "value": "Mix de frutilla, plátano, piña y mango",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix de mango, uva, plátano y arándano",
+          "value": "Mix de mango, uva, plátano y arándano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix de mora, arándano, frutilla y frambuesa",
+          "value": "Mix de mora, arándano, frutilla y frambuesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Piña",
+          "value": "Piña",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Piña Coco",
+          "value": "Piña Coco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "15 Unidades",
+          "value": "15 colgadores",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "400 g",
+          "value": "400 g",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "473 ml",
+          "value": "473 ml",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "500 g",
+          "value": "500 g",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "907 g",
+          "value": "907 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Brasil",
+          "value": "Brasil",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Costa Rica",
+          "value": "Costa Rica",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Perú",
+          "value": "Perú",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 35,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "20 cm",
+          "value": "20 cm",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Entera",
+          "value": "Entera",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Envasado",
+          "value": "ENVASADO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Familar",
+          "value": "Familar",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Trozo",
+          "value": "Trozo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Congelados",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Artesanal",
+          "value": "Artesanal",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Artesanal - Frambuesas",
+          "value": "Artesanal - Frambuesas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fruta",
+          "value": "Fruta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutas Congeladas",
+          "value": "Frutas Congeladas",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jugo",
+          "value": "Jugo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Premium",
+          "value": "Premium",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pote",
+          "value": "Pote",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sachet",
+          "value": "Sachet",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Relleno",
+      "key": "Relleno",
+      "values": [
+        {
+          "displayName": "Frambuesas",
+          "value": "Frambuesas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 60,
+  "metaTag": {
+    "title": "Frutas y Pulpas Congeladas | Jumbo.cl",
+    "description": "Aprovecha el práctico y rico formato de las frutas congeladas y obtén las mejores frambuesas congeladas, pulpa de fruta y frutos rojos congelados en Jumbo.cl"
+  }
+}

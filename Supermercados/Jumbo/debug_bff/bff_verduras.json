@@ -1,0 +1,3546 @@
+{
+  "products": [
+    {
+      "productId": "5808",
+      "reference": "261074",
+      "sponsoredId": null,
+      "slug": "pepino-ensalada-jumbo-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "24612",
+        "25319",
+        "25338",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5876",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 790,
+          "listPrice": 790,
+          "ppumPrice": 790,
+          "ppumListPrice": 790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348029-250-250/Pepino-ensalada-un.jpg?v=638776479365130000"
+          ],
+          "name": "Pepino Ensalada 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "275",
+      "reference": "261275-KG",
+      "sponsoredId": null,
+      "slug": "tomate-larga-vida-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "23329",
+        "23858",
+        "23926",
+        "24287",
+        "25711",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "277",
+          "cartLimit": 10,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 995,
+          "listPrice": 995,
+          "ppumPrice": 1990,
+          "ppumListPrice": 1990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/297810-250-250/Tomate-granel.jpg?v=638775743642170000"
+          ],
+          "name": "Tomate Larga Vida Granel (1 a 2 un. Aprox)",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5837",
+      "reference": "261350",
+      "sponsoredId": null,
+      "slug": "zapallo-italiano-jumbo-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "24078",
+        "25511",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5906",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 790,
+          "listPrice": 790,
+          "ppumPrice": 790,
+          "ppumListPrice": 790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348057-250-250/Zapallo-italiano-un.jpg?v=638776479756130000"
+          ],
+          "name": "Zapallo Italiano 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5801",
+      "reference": "506862-KG",
+      "sponsoredId": null,
+      "slug": "palta-hass-jumbo-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "24941",
+        "25638",
+        "25652",
+        "25755",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [
+        "Para hoy",
+        "Para 2 a 3 días",
+        "Mixtas"
+      ],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5869",
+          "cartLimit": 20,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 3145,
+          "listPrice": 3145,
+          "ppumPrice": 6290,
+          "ppumListPrice": 6290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348021-250-250/Palta-Hass-Extra-Chilena-granel.jpg?v=638784526059170000"
+          ],
+          "name": "Palta Hass Extra Chilena (2 un. Aprox)",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5799",
+      "reference": "260818",
+      "sponsoredId": null,
+      "slug": "limon-jumbo-malla-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "20981",
+        "22665",
+        "23857",
+        "24532",
+        "24941",
+        "25067",
+        "25754",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5867",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 2090,
+          "listPrice": 2090,
+          "ppumPrice": 2090,
+          "ppumListPrice": 2090,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348018-250-250/Limon-malla-1-kg.jpg?v=638776479219900000"
+          ],
+          "name": "Limón Malla 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "25260",
+      "reference": "1333653",
+      "sponsoredId": null,
+      "slug": "champinon-200g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "24078",
+        "25223",
+        "25741",
+        "25745",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "25482",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1690,
+          "listPrice": 1690,
+          "ppumPrice": 8450,
+          "ppumListPrice": 8450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/355100-250-250/Champi%C3%B1on-bandeja-200-g.jpg?v=638776705195000000"
+          ],
+          "name": "Champiñón Bandeja 200 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "18604",
+      "reference": "1463041",
+      "sponsoredId": null,
+      "slug": "lechuga-espanola-hidroponica-unid-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "26255",
+        "26260"
+      ],
+      "brand": "Pura Hoja",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "18929",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1650,
+          "listPrice": 1650,
+          "ppumPrice": 1650,
+          "ppumListPrice": 1650,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/501318-250-250/Lechuga-Hidroponica-Espa%C3%B1ola-1-un.jpg?v=638920188566030000"
+          ],
+          "name": "Lechuga Hidropónica Española 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5804",
+      "reference": "261044",
+      "sponsoredId": null,
+      "slug": "papas-jumbo-malla-2-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "21577",
+        "22665",
+        "23329",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5872",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 2,
+          "price": 2490,
+          "listPrice": 2490,
+          "ppumPrice": 1245,
+          "ppumListPrice": 1245,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348025-250-250/Papa-malla-2-kg.jpg?v=638776479317000000"
+          ],
+          "name": "Papa Malla 2 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5832",
+      "reference": "1473035",
+      "sponsoredId": null,
+      "slug": "zanahoria-jumbo-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5901",
+          "cartLimit": 15,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 1350,
+          "listPrice": 1350,
+          "ppumPrice": 1350,
+          "ppumListPrice": 1350,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348051-250-250/Zanahoria-bolsa-1-kg.jpg?v=638776479671400000"
+          ],
+          "name": "Zanahoria Bolsa 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5768",
+      "reference": "260538",
+      "sponsoredId": null,
+      "slug": "brocoli-jumbo-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "25323",
+        "25338",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5835",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1690,
+          "listPrice": 1690,
+          "ppumPrice": 1690,
+          "ppumListPrice": 1690,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347994-250-250/Brocoli-films-un.jpg?v=638776478878200000"
+          ],
+          "name": "Brócoli Films 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5751",
+      "reference": "1437556",
+      "sponsoredId": null,
+      "slug": "lechuga-escarola-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5818",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 1390,
+          "ppumListPrice": 1390,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347982-250-250/Lechuga-escarola-un.jpg?v=638776478720700000"
+          ],
+          "name": "Lechuga Escarola 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5785",
+      "reference": "260621",
+      "sponsoredId": null,
+      "slug": "cilantro-120-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "24287",
+        "24495",
+        "25067",
+        "25755"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5853",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 8250,
+          "ppumListPrice": 8250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/508710-250-250/Cilantro-Paquete-120-g.jpg?v=638935566848530000"
+          ],
+          "name": "Cilantro Paquete 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "94519",
+      "reference": "1855743",
+      "sponsoredId": null,
+      "slug": "pimiento-rojo-extra",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "24531",
+        "25067",
+        "25223",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "94782",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1790,
+          "listPrice": 1790,
+          "ppumPrice": 1790,
+          "ppumListPrice": 1790,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/368596-250-250/Pimiento-rojo-extra.jpg?v=638776773409300000"
+          ],
+          "name": "Pimiento Rojo Extra",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5802",
+      "reference": "506863",
+      "sponsoredId": null,
+      "slug": "palta-hass-jumbo-malla-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "24287",
+        "25572",
+        "25578",
+        "26255",
+        "26260",
+        "27246"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5870",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 3990,
+          "ppumListPrice": 3990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348022-250-250/Palta-hass-malla-1-kg.jpg?v=638776479276530000"
+          ],
+          "name": "Palta Hass Malla 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5774",
+      "reference": "260574",
+      "sponsoredId": null,
+      "slug": "cebolla-3-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "21575",
+        "22665",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5841",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 3,
+          "price": 1790,
+          "listPrice": 1790,
+          "ppumPrice": 597,
+          "ppumListPrice": 597,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/196761-250-250/Cebolla-3-unid.jpg?v=638682284728400000"
+          ],
+          "name": "Cebolla Malla 3 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5813",
+      "reference": "261140",
+      "sponsoredId": null,
+      "slug": "pimiento-verde-jumbo-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "24531",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5881",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 990,
+          "listPrice": 990,
+          "ppumPrice": 990,
+          "ppumListPrice": 990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348032-250-250/Pimiento-verde-un.jpg?v=638776479402300000"
+          ],
+          "name": "Pimiento Verde 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5822",
+      "reference": "261296",
+      "sponsoredId": null,
+      "slug": "tomate-malla-1-kg",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5891",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 1,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 1990,
+          "ppumListPrice": 1990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348043-250-250/261296-01_5641.jpg?v=638776479537200000"
+          ],
+          "name": "Tomate Larga Vida Malla 1 kg",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5803",
+      "reference": "261029-KG",
+      "sponsoredId": null,
+      "slug": "papas-jumbo-1-kg-6-unidad-aprox-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "21577",
+        "22665",
+        "24736",
+        "25756"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5871",
+          "cartLimit": 10,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 745,
+          "listPrice": 745,
+          "ppumPrice": 1490,
+          "ppumListPrice": 1490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/450388-250-250/Papa-granel.jpg?v=638847369679500000"
+          ],
+          "name": "Papa Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5795",
+      "reference": "260783",
+      "sponsoredId": null,
+      "slug": "lechuga-costina-jumbo-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5863",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 1390,
+          "ppumListPrice": 1390,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/196778-250-250/Lechuga-costina-un.jpg?v=638682284941230000"
+          ],
+          "name": "Lechuga Costina 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5755",
+      "reference": "540734-KG",
+      "sponsoredId": null,
+      "slug": "aji-verde-jumbo-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "24287",
+        "24495",
+        "25067",
+        "25755"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5822",
+          "cartLimit": 24,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.1,
+          "price": 549,
+          "listPrice": 549,
+          "ppumPrice": 5490,
+          "ppumListPrice": 5490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347985-250-250/540734-KG-01_5574.jpg?v=638776478755200000"
+          ],
+          "name": "Ají Verde Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "18602",
+      "reference": "1463039",
+      "sponsoredId": null,
+      "slug": "lechuga-lollo-bionda-hidroponica-unid-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "26255",
+        "26260"
+      ],
+      "brand": "Pura Hoja",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "18927",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1650,
+          "listPrice": 1650,
+          "ppumPrice": 1650,
+          "ppumListPrice": 1650,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/501307-250-250/Lechuga-Lollo-Bionda-Hidroponica-1-un.jpg?v=638920188542470000"
+          ],
+          "name": "Lechuga Lollo Bionda Hidropónica 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "58852",
+      "reference": "1555311",
+      "sponsoredId": null,
+      "slug": "cebollin-feria-3un",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "23926",
+        "23927",
+        "24531"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "62634",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 3,
+          "price": 850,
+          "listPrice": 850,
+          "ppumPrice": 283,
+          "ppumListPrice": 283,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361208-250-250/1555311.jpg?v=638776736082200000"
+          ],
+          "name": "Cebollín Feria 3 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5828",
+      "reference": "899541-KG",
+      "sponsoredId": null,
+      "slug": "tomate-salad-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "21576"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5897",
+          "cartLimit": 20,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1245,
+          "listPrice": 1245,
+          "ppumPrice": 2490,
+          "ppumListPrice": 2490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348049-250-250/Principal-9264.jpg?v=638776479634970000"
+          ],
+          "name": "Tomate Salad Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "68809",
+      "reference": "261255-KG",
+      "sponsoredId": null,
+      "slug": "tomate-cocktail-frutas-y-verduras-jumbo-variedades",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "69063",
+          "cartLimit": 20,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.2,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1300,
+          "listPrice": 1300,
+          "ppumPrice": 6500,
+          "ppumListPrice": 6500,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361954-250-250/261255-01.png?v=638776740227400000"
+          ],
+          "name": "Tomate Cóctel Variedades Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5836",
+      "reference": "1641394",
+      "sponsoredId": null,
+      "slug": "zapallo-camote-jumbo-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "21577",
+        "21672",
+        "22665"
+      ],
+      "brand": "Proverde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5905",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 1990,
+          "ppumListPrice": 1990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/502750-250-250/Zapallo-Camote-1-un.jpg?v=638924450982570000"
+          ],
+          "name": "Zapallo en Trozo 700 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5807",
+      "reference": "261068",
+      "sponsoredId": null,
+      "slug": "pepino-alaska-jumbo-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5875",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1250,
+          "listPrice": 1250,
+          "ppumPrice": 1250,
+          "ppumListPrice": 1250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348028-250-250/261068-1.jpg?v=638776479353700000"
+          ],
+          "name": "Pepino Alaska 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5798",
+      "reference": "260814-KG",
+      "sponsoredId": null,
+      "slug": "limon-jumbo-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "20981",
+        "22665",
+        "23856",
+        "23927",
+        "24079",
+        "24285",
+        "24287",
+        "24288",
+        "24495",
+        "24737",
+        "24738",
+        "24972",
+        "25222",
+        "25589",
+        "25593",
+        "27112",
+        "27451"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5866",
+          "cartLimit": 20,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1495,
+          "listPrice": 1495,
+          "ppumPrice": 2990,
+          "ppumListPrice": 2990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348017-250-250/Limon-granel.jpg?v=638776479204030000"
+          ],
+          "name": "Limón Granel (1 a 2 un. Aprox)",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5839",
+      "reference": "260573-KG",
+      "sponsoredId": null,
+      "slug": "cebolla-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "21575",
+        "22665",
+        "23610",
+        "23612",
+        "23858",
+        "24080",
+        "24281",
+        "24282",
+        "24940",
+        "25065",
+        "25066",
+        "25511",
+        "25512",
+        "25711"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5908",
+          "cartLimit": 20,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 845,
+          "listPrice": 845,
+          "ppumPrice": 1690,
+          "ppumListPrice": 1690,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348059-250-250/Cebolla-granel.jpg?v=638776479779400000"
+          ],
+          "name": "Cebolla Granel (1 a 2 un. Aprox)",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5772",
+      "reference": "1437535-KG",
+      "sponsoredId": null,
+      "slug": "cebolla-morada-jumbo-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "23329",
+        "23926",
+        "24077",
+        "24078",
+        "24495",
+        "24736",
+        "24941",
+        "25067",
+        "25755"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5839",
+          "cartLimit": 10,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 995,
+          "listPrice": 995,
+          "ppumPrice": 1990,
+          "ppumListPrice": 1990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/347997-250-250/Cebolla-morada-granel.jpg?v=638776478923630000"
+          ],
+          "name": "Cebolla Morada Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "18458",
+      "reference": "1358168-KG",
+      "sponsoredId": null,
+      "slug": "camote-peruano-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "18784",
+          "cartLimit": 20,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1545,
+          "listPrice": 1545,
+          "ppumPrice": 3090,
+          "ppumListPrice": 3090,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352997-250-250/Camote-Peruano-granel.jpg?v=638776695574730000"
+          ],
+          "name": "Camote Peruano Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5793",
+      "reference": "260727",
+      "sponsoredId": null,
+      "slug": "espinaca-jumbo-500-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "25512"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5861",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1690,
+          "listPrice": 1690,
+          "ppumPrice": 3380,
+          "ppumListPrice": 3380,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348014-250-250/Espinaca-500-g.jpg?v=638776479162900000"
+          ],
+          "name": "Espinaca 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "18441",
+      "reference": "976123-KG",
+      "sponsoredId": null,
+      "slug": "tomate-san-marsano-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "18767",
+          "cartLimit": 20,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1245,
+          "listPrice": 1245,
+          "ppumPrice": 2490,
+          "ppumListPrice": 2490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/352983-250-250/976123-KG-1.jpg?v=638776695492800000"
+          ],
+          "name": "Tomate San Marzano Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "18580",
+      "reference": "260789",
+      "sponsoredId": null,
+      "slug": "lechuga-espanola-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "25066"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "18905",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 1290,
+          "listPrice": 1290,
+          "ppumPrice": 1290,
+          "ppumListPrice": 1290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/353061-250-250/Lechuga-espa%C3%B1ola-un.jpg?v=638776695844600000"
+          ],
+          "name": "Lechuga Española 1 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5777",
+      "reference": "260579",
+      "sponsoredId": null,
+      "slug": "cebollin-jumbo-6-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5844",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 6,
+          "price": 1590,
+          "listPrice": 1590,
+          "ppumPrice": 265,
+          "ppumListPrice": 265,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/495050-250-250/260579-02_5597.jpg?v=638907790347000000"
+          ],
+          "name": "Cebollín Paquete 6 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5821",
+      "reference": "261284",
+      "sponsoredId": null,
+      "slug": "tomate-coctel-250-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "21576",
+        "22665",
+        "23613",
+        "24737",
+        "24941",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5890",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 7960,
+          "ppumListPrice": 7960,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348040-250-250/Tomate-cocktail-pote-250-g.jpg?v=638776479500470000"
+          ],
+          "name": "Tomate Cóctel Pote 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5823",
+      "reference": "261265-KG",
+      "sponsoredId": null,
+      "slug": "tomate-hidroponico-racimo-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5892",
+          "cartLimit": 20,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 1275,
+          "listPrice": 1275,
+          "ppumPrice": 2550,
+          "ppumListPrice": 2550,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348044-250-250/261265-KG.jpg?v=638776479549630000"
+          ],
+          "name": "Tomate Hidropónico Racimo Granel",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5796",
+      "reference": "260784",
+      "sponsoredId": null,
+      "slug": "lechuga-escarola-jumbo-2-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "26255",
+        "26260"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5864",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 2,
+          "price": 2590,
+          "listPrice": 2590,
+          "ppumPrice": 1295,
+          "ppumListPrice": 1295,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348016-250-250/Lechuga-escarola-bandeja-2-un.jpg?v=638776479191200000"
+          ],
+          "name": "Lechuga Escarola Bandeja 2 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "58854",
+      "reference": "1555303",
+      "sponsoredId": null,
+      "slug": "betarraga-feria-5-un",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "62633",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 5,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 278,
+          "ppumListPrice": 278,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/361207-250-250/1555303.jpg?v=638776736081730000"
+          ],
+          "name": "Betarraga Feria 5 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "5833",
+      "reference": "1027562-KG",
+      "sponsoredId": null,
+      "slug": "zanahoria-jumbo-granel",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "23610",
+        "23611",
+        "24080",
+        "25711"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "5902",
+          "cartLimit": 4,
+          "measurementUnit": "kg",
+          "unitMultiplier": 0.5,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 595,
+          "listPrice": 595,
+          "ppumPrice": 1190,
+          "ppumListPrice": 1190,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/348052-250-250/1027562-KG.jpg?v=638776479685000000"
+          ],
+          "name": "Zanahoria Granel (3 a 4 un. Aprox)",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "118618",
+      "reference": "1939675",
+      "sponsoredId": null,
+      "slug": "lechuga-costina-bolsa-2-und-1939675",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "20",
+        "21",
+        "786"
+      ],
+      "categoryNames": [
+        "Frutas y Verduras",
+        "Verdura",
+        "Verduras"
+      ],
+      "collections": [
+        "22665",
+        "25638"
+      ],
+      "brand": "Frutas y Verduras Propias",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "118905",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 2,
+          "price": 2590,
+          "listPrice": 2590,
+          "ppumPrice": 1295,
+          "ppumListPrice": 1295,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/384184-250-250/Lechuga-costina-2-un.jpg?v=638776839010370000"
+          ],
+          "name": "Lechuga Costina 2 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Verdura",
+          "value": "/frutas-y-verduras/verduras/verdura",
+          "selected": false,
+          "quantity": 196,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ensaladas",
+          "value": "/frutas-y-verduras/verduras/ensaladas",
+          "selected": false,
+          "quantity": 102,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hierbas y Especias",
+          "value": "/frutas-y-verduras/verduras/hierbas-y-especias",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aderezos",
+          "value": "/frutas-y-verduras/verduras/aderezos",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Verdura",
+          "value": "/frutas-y-verduras/verduras/verdura",
+          "selected": false,
+          "quantity": 196,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ensaladas",
+          "value": "/frutas-y-verduras/verduras/ensaladas",
+          "selected": false,
+          "quantity": 102,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hierbas y Especias",
+          "value": "/frutas-y-verduras/verduras/hierbas-y-especias",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aderezos",
+          "value": "/frutas-y-verduras/verduras/aderezos",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Verdura",
+          "value": "/frutas-y-verduras/verduras/verdura",
+          "selected": false,
+          "quantity": 196,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ensaladas",
+          "value": "/frutas-y-verduras/verduras/ensaladas",
+          "selected": false,
+          "quantity": 102,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hierbas y Especias",
+          "value": "/frutas-y-verduras/verduras/hierbas-y-especias",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aderezos",
+          "value": "/frutas-y-verduras/verduras/aderezos",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Pepino Ensalada",
+          "value": "Pepino Ensalada",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tomate Larga Vida",
+          "value": "Tomate Larga Vida",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Zapallo Italiano",
+          "value": "Zapallo Italiano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Palta Hass",
+          "value": "Palta Hass",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limón",
+          "value": "Limón",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Champiñones",
+          "value": "Champiñones",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lechuga Escarola",
+          "value": "Lechuga Escarola",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Papas",
+          "value": "Papas",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Zanahoria",
+          "value": "Zanahoria",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brócoli",
+          "value": "Brócoli",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cilantro",
+          "value": "Cilantro",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pimiento",
+          "value": "Pimiento",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cebolla",
+          "value": "Cebolla",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lechuga Costina",
+          "value": "Lechuga Costina",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ají Verde",
+          "value": "Ají Verde",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cebollín",
+          "value": "Cebollín",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tomate",
+          "value": "Tomate",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tomate Cherry",
+          "value": "Tomate Cherry",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Zapallos Congelados",
+          "value": "Zapallos Congelados",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cebolla Morada",
+          "value": "Cebolla Morada",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Zapallo Camote",
+          "value": "Zapallo Camote",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Espinaca",
+          "value": "Espinaca",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Betarraga",
+          "value": "Betarraga",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apio",
+          "value": "Apio",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Acelga",
+          "value": "Acelga",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ajo",
+          "value": "Ajo",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limón Sutil",
+          "value": "Limón Sutil",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ciboulette",
+          "value": "Ciboulette",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Berenjena",
+          "value": "Berenjena",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Albahaca",
+          "value": "Albahaca",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix Frutos Secos",
+          "value": "Mix Frutos Secos",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Porotos Granados",
+          "value": "Porotos Granados",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Perejil",
+          "value": "Perejil",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Choclo",
+          "value": "Choclo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ensalada de Verduras",
+          "value": "Ensalada de Verduras",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ensaladas",
+          "value": "Ensaladas",
+          "selected": false,
+          "quantity": 57,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Especias",
+          "value": "Especias",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Refrigerantes",
+          "value": "Refrigerantes",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rúcula",
+          "value": "Rúcula",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix de Verduras",
+          "value": "Mix de Verduras",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Berro",
+          "value": "Berro",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rábano Cocktail",
+          "value": "Rábano Cocktail",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Repollo Crespo",
+          "value": "Repollo Crespo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Porotos Verdes",
+          "value": "Porotos Verdes",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Puerros",
+          "value": "Puerros",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ensalada Mixta",
+          "value": "Ensalada Mixta",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Diente de Dragón",
+          "value": "Diente de Dragón",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Repollo Morado",
+          "value": "Repollo Morado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chapsui",
+          "value": "Chapsui",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Endibia",
+          "value": "Endibia",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Desinfectantes",
+          "value": "Desinfectantes",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Condimentos",
+          "value": "Condimentos",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brotes de Alfalfa",
+          "value": "Brotes de Alfalfa",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lechuga Lollo Rosa",
+          "value": "Lechuga Lollo Rosa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mariscos en Conservas",
+          "value": "Mariscos en Conservas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salsas Untables",
+          "value": "Salsas Untables",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ensalada César",
+          "value": "Ensalada César",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Base Zapallo",
+          "value": "Base Zapallo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cochayuyo",
+          "value": "Cochayuyo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brotes de Soya",
+          "value": "Brotes de Soya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aderezo para Ensaladas",
+          "value": "Aderezo para Ensaladas",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hierbas",
+          "value": "Hierbas",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sazonadores",
+          "value": "Sazonadores",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brusquettas",
+          "value": "Brusquettas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ají Jalapeño",
+          "value": "Ají Jalapeño",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Champiñón Ostra",
+          "value": "Champiñón Ostra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Plantas Artificiales",
+          "value": "Plantas Artificiales",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mix Verduras en Conserva",
+          "value": "Mix Verduras en Conserva",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Papa Chilota",
+          "value": "Papa Chilota",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bandeja",
+          "value": "Bandeja",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 99,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella de vidrio",
+          "value": "Botella de vidrio",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Clamshell",
+          "value": "Clamshell",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frasco",
+          "value": "Frasco",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Malla",
+          "value": "Malla",
+          "selected": false,
+          "quantity": 18,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack",
+          "value": "Pack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "PET",
+          "value": "PET",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pote",
+          "value": "Pote",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unidad",
+          "value": "Unidad",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Grupo",
+      "key": "Grupo",
+      "values": [
+        {
+          "displayName": "Brócoli - Coliflor y Repollos",
+          "value": "Brócoli - Coliflor y Repollos",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Champiñones",
+          "value": "Champiñones",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cilantro - Perejil y Verduras Surtidas",
+          "value": "Cilantro - Perejil y Verduras Surtidas",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ensaladas Mix",
+          "value": "Ensaladas Mix",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ensaladas Tradicionales",
+          "value": "Ensaladas Tradicionales",
+          "selected": false,
+          "quantity": 36,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutos Deshidratados",
+          "value": "Frutos Deshidratados",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hierbas Frescas",
+          "value": "Hierbas Frescas",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hierbas Secas",
+          "value": "Hierbas Secas",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hojas Verdes",
+          "value": "Hojas Verdes",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lechugas",
+          "value": "Lechugas",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Limones - Naranjas y Otros Cítricos",
+          "value": "Limones - Naranjas y Otros Cítricos",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Otras Hojas",
+          "value": "Otras Hojas",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Otras Verduras",
+          "value": "Otras Verduras",
+          "selected": false,
+          "quantity": 50,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paltas",
+          "value": "Paltas",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Papas y Zapallos",
+          "value": "Papas y Zapallos",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pimientos - Pepinos y Ajíes",
+          "value": "Pimientos - Pepinos y Ajíes",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tallarines y Arroz de Verduras",
+          "value": "Tallarines y Arroz de Verduras",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tomates",
+          "value": "Tomates",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tubérculos",
+          "value": "Tubérculos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Verduras Orgánicas",
+          "value": "Verduras Orgánicas",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Zanahorias y Cebollas",
+          "value": "Zanahorias y Cebollas",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutas y Verduras Propias",
+          "value": "Frutas y Verduras Propias",
+          "selected": false,
+          "quantity": 169,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pura Hoja",
+          "value": "Pura Hoja",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Proverde",
+          "value": "Proverde",
+          "selected": false,
+          "quantity": 31,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dole",
+          "value": "Dole",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Agrosano",
+          "value": "Agrosano",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Agrolam",
+          "value": "Agrolam",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fresh Cut",
+          "value": "Fresh Cut",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Genial",
+          "value": "Genial",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huertos del Ranco",
+          "value": "Huertos del Ranco",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Más Vida",
+          "value": "Más Vida",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fresh Toppins",
+          "value": "Fresh Toppins",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Germalimp",
+          "value": "Germalimp",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gourmet",
+          "value": "Gourmet",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegus",
+          "value": "Vegus",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Veggy Fresh",
+          "value": "Veggy Fresh",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Punto Azul",
+          "value": "Punto Azul",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Huercasa",
+          "value": "Huercasa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "3F",
+          "value": "3F",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cuatro Coigües",
+          "value": "Cuatro Coigües",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Agrourbana Spa",
+          "value": "Agrourbana Spa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Badia",
+          "value": "Badia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Don Clemente",
+          "value": "Don Clemente",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ecocultiva",
+          "value": "Ecocultiva",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fullimex",
+          "value": "Fullimex",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Verde Aroma",
+          "value": "Verde Aroma",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hojas Verdes",
+          "value": "Hojas Verdes",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fundo Hueleco",
+          "value": "Fundo Hueleco",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Orgánicos",
+          "value": "Orgánicos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 276,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 274,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 270,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 268,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 264,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 264,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 264,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 257,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 257,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 254,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 251,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 241,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 234,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 490,
+          "maxValue": 9995
+        }
+      ]
+    },
+    {
+      "label": "Temporada",
+      "key": "Temporada",
+      "values": [
+        {
+          "displayName": "Verdura de Temporada",
+          "value": "Verdura de Temporada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Orgánico",
+      "key": "Orgánico",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 328,
+  "metaTag": {
+    "title": "Verduras | Jumbo.cl",
+    "description": "En Jumbo.cl tenemos una gran variedad de verduras frescas y de calidad. ¡Escoge tu favorita entre todas las disponibles!"
+  }
+}

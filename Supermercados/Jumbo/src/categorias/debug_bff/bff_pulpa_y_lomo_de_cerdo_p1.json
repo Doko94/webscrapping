@@ -1,0 +1,1386 @@
+{
+  "products": [
+    {
+      "productId": "70498",
+      "reference": "547511",
+      "sponsoredId": null,
+      "slug": "lomo-centro-cerdo-super-vc-display-800gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo"
+      ],
+      "collections": [
+        "23175",
+        "25422",
+        "26304",
+        "27550"
+      ],
+      "brand": "Super Cerdo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "70755",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 5990,
+          "listPrice": 7490,
+          "ppumPrice": 7488,
+          "ppumListPrice": 9363,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/578063-250-250/Lomo-Centro-Cerdo-Super-Cerdo-800-g.jpg?v=639071559998030000"
+          ],
+          "name": "Lomo Centro Cerdo Super Cerdo 800 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 5",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5990,
+              "ppumPrice": 7488,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16587",
+      "reference": "547509",
+      "sponsoredId": null,
+      "slug": "pulpa-super-cerdo-900-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo"
+      ],
+      "collections": [
+        "23175",
+        "25422",
+        "26304",
+        "27550",
+        "27607"
+      ],
+      "brand": "Super Cerdo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17916",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.9,
+          "price": 6290,
+          "listPrice": 7190,
+          "ppumPrice": 6989,
+          "ppumListPrice": 7989,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/578052-250-250/Pulpa-Cerdo-Super-Cerdo-900-g.jpg?v=639071559989230000"
+          ],
+          "name": "Pulpa Cerdo Super Cerdo 900 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 6290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 3",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 6290,
+              "ppumPrice": 6989,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "47874",
+      "reference": "1730530",
+      "sponsoredId": null,
+      "slug": "lomo-super-cerdo-centro-medallon-800-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "26304"
+      ],
+      "brand": "Super Cerdo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "48183",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 9988,
+          "ppumListPrice": 9988,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/437402-250-250/Lomo-Centro-Medallon-Cerdo-Super-Cerdo-800-g.jpg?v=638831038698400000"
+          ],
+          "name": "Lomo Centro Medallon Cerdo Super Cerdo 800 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127393",
+      "reference": "1961137",
+      "sponsoredId": null,
+      "slug": "pulpa-tr-c-y-co700gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127687",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.7,
+          "price": 4990,
+          "listPrice": 4990,
+          "ppumPrice": 7129,
+          "ppumListPrice": 7129,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393489-250-250/PULPA-TR-C-CO700GR.jpg?v=638776874760470000"
+          ],
+          "name": "Pulpa Pierna Cerdo Cuisine & Co 700 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "78244",
+      "reference": "1568035",
+      "sponsoredId": null,
+      "slug": "pulpa-a-la-chilena-super-cerdo-900-gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "27607",
+        "27633"
+      ],
+      "brand": "Super Cerdo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "78058",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.9,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 8878,
+          "ppumListPrice": 8878,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/480156-250-250/Pulpa-Chilena-Cerdo-Super-Cerdo-900-g.jpg?v=638881418376100000"
+          ],
+          "name": "Pulpa Chilena Cerdo Super Cerdo 900 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127391",
+      "reference": "1961134",
+      "sponsoredId": null,
+      "slug": "lomo-ce-c-y-co-800gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127685",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.8,
+          "price": 6990,
+          "listPrice": 6990,
+          "ppumPrice": 8738,
+          "ppumListPrice": 8738,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393491-250-250/LOMO-CE-C-CO-800GR.jpg?v=638776874761100000"
+          ],
+          "name": "Lomo Centro Cerdo Cuisine & Co 800 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127394",
+      "reference": "1961138",
+      "sponsoredId": null,
+      "slug": "pulpa-ch-c-y-co700gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127688",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.7,
+          "price": 5290,
+          "listPrice": 5290,
+          "ppumPrice": 7557,
+          "ppumListPrice": 7557,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393490-250-250/PULPA-CH-C-CO700GR.jpg?v=638776874760470000"
+          ],
+          "name": "Pulpa Pierna Cerdo Chilena Cuisine & Co 700 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "137890",
+      "reference": "1998595",
+      "sponsoredId": null,
+      "slug": "medallon-de-lomo-iqf-super-cerdo-120-gr-1998595",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo"
+      ],
+      "collections": [
+        "22523",
+        "23175"
+      ],
+      "brand": "Super Cerdo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138182",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 1590,
+          "listPrice": 1590,
+          "ppumPrice": 13250,
+          "ppumListPrice": 13250,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/329377-250-250/MEDALLON-DE-LOMO-IQF-SUPER-CERDO-120-GR.jpg?v=638776431698770000"
+          ],
+          "name": "Medallon Lomo Cerdo Super Cerdo Cong 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139027",
+      "reference": "2002686",
+      "sponsoredId": null,
+      "slug": "pulpa-pierna-chimichurri-s-cerdo-400g-2002686",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo"
+      ],
+      "collections": [
+        "17846",
+        "23175"
+      ],
+      "brand": "Super Cerdo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139326",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 9975,
+          "ppumListPrice": 9975,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/331735-250-250/Pulpa-Pierna-Chimichurri-400-g.jpg?v=638776433409970000"
+          ],
+          "name": "Pulpa Chimichurri Cerdo Super Cerdo 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132535",
+      "reference": "1975680",
+      "sponsoredId": null,
+      "slug": "kit-sh-acondic-skala-kids-650ml-1975680",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83",
+        "230",
+        "235",
+        "396"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo",
+        "Cuidado Personal y Bebé",
+        "Bebé",
+        "Perfumería Infantil"
+      ],
+      "collections": [],
+      "brand": "Skala",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132820",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.65,
+          "price": 12990,
+          "listPrice": 12990,
+          "ppumPrice": 1999,
+          "ppumListPrice": 1999,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/400478-250-250/Kit-Shampoo---Acondicicionador-Skala-Kids-650-ml.jpg?v=638776901399870000"
+          ],
+          "name": "Kit Shampoo y Acondicionador Kids 650 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "132420",
+      "reference": "1983617",
+      "sponsoredId": null,
+      "slug": "asado-carnicero-super-cerdo-400-gr-1983617",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo"
+      ],
+      "collections": [
+        "23175"
+      ],
+      "brand": "Super Cerdo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "132709",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3290,
+          "listPrice": 3290,
+          "ppumPrice": 8225,
+          "ppumListPrice": 8225,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/400275-250-250/Asado-Carnicero-Super-Cerdo-400-g.jpg?v=638776900799900000"
+          ],
+          "name": "Asado Carnicero Super Cerdo 400 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "71496",
+      "reference": "1712074",
+      "sponsoredId": null,
+      "slug": "medalones-de-lomo-iqf-750-gr-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo"
+      ],
+      "collections": [
+        "27550"
+      ],
+      "brand": "Super Cerdo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "71751",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.75,
+          "price": 5490,
+          "listPrice": 6990,
+          "ppumPrice": 7320,
+          "ppumListPrice": 9320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362367-250-250/Medallones-de-lomo-750-g.jpg?v=638776742648900000"
+          ],
+          "name": "Lomo Medallones Cerdo Super Cerdo 750 g",
+          "stock": false,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 3",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5490,
+              "ppumPrice": 7320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127395",
+      "reference": "1961139",
+      "sponsoredId": null,
+      "slug": "lomo-med-c-y-co700gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127689",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.7,
+          "price": 6490,
+          "listPrice": 6490,
+          "ppumPrice": 9271,
+          "ppumListPrice": 9271,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393492-250-250/LOMO-MED-C-CO700GR.jpg?v=638776874761570000"
+          ],
+          "name": "Lomo Centro Medallon Cerdo Cuisine & Co 700 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159975",
+      "reference": "2056658",
+      "sponsoredId": null,
+      "slug": "carne-cerdo-filete-2056658",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo"
+      ],
+      "collections": [
+        "27215",
+        "27550"
+      ],
+      "brand": "Super Cerdo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160334",
+          "cartLimit": 5,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3090,
+          "listPrice": 3890,
+          "ppumPrice": 7725,
+          "ppumListPrice": 9725,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/542304-250-250/Carne-de-Cerdo-Filete-Medallon-Super-Cerdo-400-g.jpg?v=638991189246900000"
+          ],
+          "name": "Medallones Filete de Cerdo 400 g",
+          "stock": false,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3090 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3090,
+              "ppumPrice": 7725,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "158468",
+      "reference": "2052328",
+      "sponsoredId": null,
+      "slug": "lomito-de-cerdo-cuisine-and-co-960gr-2052328",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "158794",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.96,
+          "price": 10990,
+          "listPrice": 10990,
+          "ppumPrice": 11448,
+          "ppumListPrice": 11448,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/555961-250-250/Lomito-de-Cerdo-Cuisine-Co-960-g.jpg?v=639020031107200000"
+          ],
+          "name": "Lomito de Cerdo Cuisine&Co 960 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "158430",
+      "reference": "2048757",
+      "sponsoredId": null,
+      "slug": "lomito-de-cerdo-pampaverde-450g-2048757",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "75",
+        "82",
+        "83"
+      ],
+      "categoryNames": [
+        "Carnes y Pescados",
+        "Cerdo y Cordero",
+        "Pulpa y Lomo de Cerdo"
+      ],
+      "collections": [],
+      "brand": "Pampa Verde",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "158755",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.45,
+          "price": 6490,
+          "listPrice": 6490,
+          "ppumPrice": 14422,
+          "ppumListPrice": 14422,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/524591-250-250/Lomito-de-Cerdo-Pampaverde-450-g.jpg?v=638960672227970000"
+          ],
+          "name": "Lomito de Cerdo Pampaverde 450 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Pulpa y Lomo de Cerdo",
+          "value": "/carnes-y-pescados/cerdo-y-cordero/pulpa-y-lomo-de-cerdo",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Pulpa y Lomo de Cerdo",
+          "value": "/carnes-y-pescados/cerdo-y-cordero/pulpa-y-lomo-de-cerdo",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Pulpa y Lomo de Cerdo",
+          "value": "/carnes-y-pescados/cerdo-y-cordero/pulpa-y-lomo-de-cerdo",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Super Cerdo",
+          "value": "Super Cerdo",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Skala",
+          "value": "Skala",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pampa Verde",
+          "value": "Pampa Verde",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Carne de Cerdo",
+          "value": "Carne de Cerdo",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Shampoo sin Sal",
+          "value": "Shampoo sin Sal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pulpa de Cerdo",
+          "value": "Pulpa de Cerdo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lomitos de Cerdo",
+          "value": "Lomitos de Cerdo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Congelados",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frescos",
+          "value": "Fresco",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Refrigerado",
+          "value": "Refrigerado",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1590,
+          "maxValue": 12990
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bandeja",
+          "value": "Bandeja",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "9 Unidades",
+          "value": "9 Unidades",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "900 g",
+          "value": "900 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Cabello",
+      "key": "Tipo de Cabello",
+      "values": [
+        {
+          "displayName": "Cabello Rizado",
+          "value": "Cabello Rizado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Corte",
+      "key": "Tipo de Corte",
+      "values": [
+        {
+          "displayName": "Cortes Uso Diario",
+          "value": "Cortes Uso Diario",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 16,
+  "metaTag": {
+    "title": "Pulpa y Lomo de Cerdo | Jumbo.cl",
+    "description": "Agrega pulpa y lomo de cerdo a tus recetas caseras y sorprende a tus comensales con menús jugosos y auténticos. ¡Los mejores cortes están en Jumbo.cl!"
+  }
+}

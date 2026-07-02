@@ -1,0 +1,2091 @@
+{
+  "products": [
+    {
+      "productId": "159588",
+      "reference": "2055630",
+      "sponsoredId": "8G4fLQoQBpnggqJ8dd-CBGnleL6n9hIQAZueKeu0e8Cd549kcwpMXRoQBjxud9HoeXuYJEmR8MU0HiIKCgYxNTk5NTIQATDDrgFA4ANIAVC2yb-KyTNg4ANyEAAAAAAAAAAAAAAAAAAAAAA",
+      "slug": "coctel-pina12-700c-2055630",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "26739",
+        "26826",
+        "27363",
+        "27367"
+      ],
+      "brand": "Capel",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159952",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 5490,
+          "listPrice": 6990,
+          "ppumPrice": 7843,
+          "ppumListPrice": 9986,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/542247-250-250/Coctel-Capel-Pi%C3%B1a-Colada-Vegana-12%C2%B0-700-cc.jpg?v=638991188840130000"
+          ],
+          "name": "Cóctel Capel Piña Colada Vegana 12° 700 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5490 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL 18022026 AL 24022026",
+              "description": "JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5490,
+              "ppumPrice": 7843,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Patrocinado",
+            "backgroundColor": "#FFFFFF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "11100",
+      "reference": "964679",
+      "sponsoredId": null,
+      "slug": "pina-colada-campanario-botella-700-cc-12-gl",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "27499",
+        "27501"
+      ],
+      "brand": "Campanario",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11359",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 4690,
+          "listPrice": 5390,
+          "ppumPrice": 6700,
+          "ppumListPrice": 7700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302352-250-250/Coctel-Campanario-Pi%C3%B1a-Colada-12%C2%B0-700-cc.jpg?v=638776376009030000"
+          ],
+          "name": "Cóctel Campanario Piña Colada 12° 700 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4690,
+              "ppumPrice": 6700,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "127785",
+      "reference": "1971912",
+      "sponsoredId": null,
+      "slug": "coc-la-pizka-pina-col-100-nat-13-g-1lt-1971912",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "25500",
+        "25508",
+        "27256",
+        "27261"
+      ],
+      "brand": "La Pizka",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128079",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 14990,
+          "listPrice": 14990,
+          "ppumPrice": 14990,
+          "ppumListPrice": 14990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/320057-250-250/Coctel-La-Pizka-Pi%C3%B1a-Colada-1-L.jpg?v=638776418603830000"
+          ],
+          "name": "Cóctel La Pizka Piña Colada 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11107",
+      "reference": "918551",
+      "sponsoredId": null,
+      "slug": "pina-colada-capel-botella-700-cc-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "26739",
+        "26826",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Capel",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11366",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 4490,
+          "listPrice": 5390,
+          "ppumPrice": 6414,
+          "ppumListPrice": 7700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302529-250-250/Coctel-Capel-Pi%C3%B1a-Colada-12%C2%B0-700-cc.jpg?v=638776376137500000"
+          ],
+          "name": "Cóctel Capel Piña Colada 12° 700 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4490,
+              "ppumPrice": 6414,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "21324",
+      "reference": "953155",
+      "sponsoredId": null,
+      "slug": "chirimoya-colada-capel-700-ml-drinks",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26739",
+        "26826",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Capel",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "21646",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 4490,
+          "listPrice": 5390,
+          "ppumPrice": 6414,
+          "ppumListPrice": 7700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304382-250-250/Coctel-Capel-Chirimoya-12%C2%B0-700-cc.jpg?v=638776379915000000"
+          ],
+          "name": "Cóctel Capel Chirimoya 12° 700 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4490,
+              "ppumPrice": 6414,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "120822",
+      "reference": "1945547",
+      "sponsoredId": null,
+      "slug": "coc-sto-cocktail-pina-colada-750cc-12-1945547",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "23175",
+        "27499",
+        "27501"
+      ],
+      "brand": "Secreto Peruano",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "121108",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 3790,
+          "listPrice": 4890,
+          "ppumPrice": 5053,
+          "ppumListPrice": 6520,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/317405-250-250/Cocktail--Santo-Pi%C3%B1a-Colada-12%C2%B0-botella-750-cc.jpg?v=638776411859900000"
+          ],
+          "name": "Cóctel Santo Piña Colada 12° Botella 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3790 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3790,
+              "ppumPrice": 5053,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "137842",
+      "reference": "1996856",
+      "sponsoredId": null,
+      "slug": "mom-pina-colada-1lt-master-of-mixes-1996856",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "23175"
+      ],
+      "brand": "Master of Mixes",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138135",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 7990,
+          "ppumListPrice": 7990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/328980-250-250/Master-Of-Mixes-Pi%C3%B1a-Colada-1-L.jpg?v=638776431430770000"
+          ],
+          "name": "Master Of Mixes Piña Colada 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "139646",
+      "reference": "2003488",
+      "sponsoredId": null,
+      "slug": "coctel-capel-mocca-700cc-12-g-2003488",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26739",
+        "26826",
+        "26912",
+        "27363",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Capel",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139940",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 3990,
+          "listPrice": 5390,
+          "ppumPrice": 5700,
+          "ppumListPrice": 7700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/333033-250-250/Coctel-Capel-Mocca-Cream-12%C2%B0-700-cc.jpg?v=638776434533100000"
+          ],
+          "name": "Cóctel Capel Mocca Cream 12° 700 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 3990 - CIC: JUMBO CICLO JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL 18022026 AL 24022026",
+              "description": "JUMBO CICLO SEMANAL JUMBO CICLO 4 DESDE EL 18 AL",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 3990,
+              "ppumPrice": 5700,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "163679",
+      "reference": "2064721",
+      "sponsoredId": null,
+      "slug": "coctel-cam14-700c-2064721",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "27499",
+        "27501"
+      ],
+      "brand": "Campanario",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "164072",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 4290,
+          "listPrice": 5190,
+          "ppumPrice": 6129,
+          "ppumListPrice": 7414,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/573185-250-250/Coctel-Campanario-Sour-14%C2%B0-700-cc.jpg?v=639053949606670000"
+          ],
+          "name": "Cóctel Campanario Sour 14° 700 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4290 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4290,
+              "ppumPrice": 6129,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16232",
+      "reference": "266112",
+      "sponsoredId": null,
+      "slug": "jarabe-de-goma-mel-1-03-l-para-endulzar-refrescos-y-tragos",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "23925"
+      ],
+      "brand": "Mel",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17562",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.03,
+          "price": 5790,
+          "listPrice": 5790,
+          "ppumPrice": 5621,
+          "ppumListPrice": 5621,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303995-250-250/Jarabe-de-Goma-Mel-Para-Endulzar-Refrescos-y-Tragos-103-L.jpg?v=638776378558970000"
+          ],
+          "name": "Jarabe de Goma Mel para Endulzar Refrescos y Tragos 1.03 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "16173",
+      "reference": "263804",
+      "sponsoredId": null,
+      "slug": "jarabe-de-goma-extra-fino-mitjans-900-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [],
+      "brand": "Mitjans",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "17503",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.9,
+          "price": 6990,
+          "listPrice": 6990,
+          "ppumPrice": 7767,
+          "ppumListPrice": 7767,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303951-250-250/Jarabe-de-Goma-Mitjans-900-ml.jpg?v=638776378454030000"
+          ],
+          "name": "Jarabe de Goma Mitjans 900 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "36706",
+      "reference": "1656250",
+      "sponsoredId": null,
+      "slug": "jarabe-goma-mel-zero-1-03-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793",
+        "794",
+        "797"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros",
+        "Sin Alcohol",
+        "Cócteles y Licores sin Alcohol"
+      ],
+      "collections": [],
+      "brand": "Mel",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "40723",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.03,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 5816,
+          "ppumListPrice": 5816,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307291-250-250/Jarabe-de-Goma-Mel-Zero-103-L.jpg?v=638776384273700000"
+          ],
+          "name": "Jarabe de Goma Mel Zero 1.03 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "117970",
+      "reference": "1940045",
+      "sponsoredId": null,
+      "slug": "pina-colada-100-nat-la-pizka-13-350cc-1940045",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [],
+      "brand": "La Pizka",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "118240",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 7490,
+          "listPrice": 7490,
+          "ppumPrice": 21400,
+          "ppumListPrice": 21400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316617-250-250/Coctel-Natural-Pi%C3%B1a-Colada-350CC.jpg?v=638776409578400000"
+          ],
+          "name": "Cóctel Natural La Pizka Piña Colada 350 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11111",
+      "reference": "978699",
+      "sponsoredId": null,
+      "slug": "toffee-capel-toffee-cream-colada-botella-700-cc-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "19270",
+        "26739",
+        "26826"
+      ],
+      "brand": "Capel",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11370",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 5290,
+          "listPrice": 5290,
+          "ppumPrice": 7557,
+          "ppumListPrice": 7557,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302661-250-250/Coctel-Capel-Toffe-Cream-12%C2%B0-700-cc.jpg?v=638776376237400000"
+          ],
+          "name": "Cóctel Capel Toffe Cream 12° 700 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "21323",
+      "reference": "941746",
+      "sponsoredId": null,
+      "slug": "mango-colada-capel-700-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26739",
+        "26826"
+      ],
+      "brand": "Capel",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "21645",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 5390,
+          "listPrice": 5390,
+          "ppumPrice": 7700,
+          "ppumListPrice": 7700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304358-250-250/Coctel-Capel-Mango-Colada-12%C2%B0-700-cc.jpg?v=638776379878570000"
+          ],
+          "name": "Cóctel Capel Mango Colada 12° 700 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "111722",
+      "reference": "1897788",
+      "sponsoredId": null,
+      "slug": "campanario-seleccion-creme-14gl-700cc-1897788",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "27499",
+        "27501"
+      ],
+      "brand": "Campanario",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "111985",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 4690,
+          "listPrice": 6290,
+          "ppumPrice": 6700,
+          "ppumListPrice": 8986,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/315447-250-250/Coctel-Campanario-Seleccion-Creme-14%C2%B0-700-cc.jpg?v=638776405330170000"
+          ],
+          "name": "Cóctel Campanario Selección Creme 14° 700 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4690,
+              "ppumPrice": 6700,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "21357",
+      "reference": "949062",
+      "sponsoredId": null,
+      "slug": "chirimoya-colada-campanario-700-ml-12",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "19270",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Campanario",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "21679",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 4690,
+          "listPrice": 5690,
+          "ppumPrice": 6700,
+          "ppumListPrice": 8129,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304442-250-250/Coctel-Campanario-Chirimoya-Colada-12%C2%B0-700-cc.jpg?v=638776380002330000"
+          ],
+          "name": "Cóctel Campanario Chirimoya Colada 12° 700 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4690,
+              "ppumPrice": 6700,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "113952",
+      "reference": "1931614",
+      "sponsoredId": null,
+      "slug": "coctel-campanario-caramel-700cc-12-1931614",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "26912",
+        "27367",
+        "27499",
+        "27501"
+      ],
+      "brand": "Campanario",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "114216",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 4690,
+          "listPrice": 5450,
+          "ppumPrice": 6700,
+          "ppumListPrice": 7786,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316130-250-250/Coctel-Campanario-Caramel-12%C2%B0-700-cc.jpg?v=638776407425870000"
+          ],
+          "name": "Cóctel Campanario Caramel 12° 700 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4690,
+              "ppumPrice": 6700,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11099",
+      "reference": "1641436",
+      "sponsoredId": null,
+      "slug": "mango-colada-campanario-12-700-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "27499",
+        "27501"
+      ],
+      "brand": "Campanario",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "11358",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 4690,
+          "listPrice": 5690,
+          "ppumPrice": 6700,
+          "ppumListPrice": 8129,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302311-250-250/Coctel-Campanario-Mango-Colado-12%C2%B0-700-cc.jpg?v=638776375976730000"
+          ],
+          "name": "Cóctel Campanario Mango Colado 12° 700 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4690 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4690,
+              "ppumPrice": 6700,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "153999",
+      "reference": "2044494",
+      "sponsoredId": null,
+      "slug": "limon-cocteleria-go-barman-25gr-2044494",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "24970",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25695"
+      ],
+      "brand": "Go Barman",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "154312",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.025,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 239600,
+          "ppumListPrice": 239600,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/488981-250-250/Limon-para-Cocteleria-Go-Barman-25-g.jpg?v=638899456655530000"
+          ],
+          "name": "Limón para Coctelería Go Barman 25 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "155745",
+      "reference": "2048219",
+      "sponsoredId": null,
+      "slug": "naranja-cocteleria-go-barman-32gr-2048219",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [
+        "24970",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25695"
+      ],
+      "brand": "Go Barman",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156062",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.032,
+          "price": 5990,
+          "listPrice": 5990,
+          "ppumPrice": 187188,
+          "ppumListPrice": 187188,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/498411-250-250/NARANJA-COCTELERIA-GO-BARMAN-32GR.jpg?v=638913492410700000"
+          ],
+          "name": "Naranja Coctelería Go Barman 32 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "163678",
+      "reference": "2064720",
+      "sponsoredId": null,
+      "slug": "coctel-cam14-700c-2064720",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [],
+      "brand": "Campanario",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "164071",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 6290,
+          "listPrice": 6290,
+          "ppumPrice": 6290,
+          "ppumListPrice": 6290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/573183-250-250/Coctel-Campanario-Sour-14%C2%B0-1000-cc.jpg?v=639053949591330000"
+          ],
+          "name": "Cóctel Campanario Sour 14° 1000 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "163676",
+      "reference": "2064723",
+      "sponsoredId": null,
+      "slug": "coctel-3r-5-275c-2064723",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [],
+      "brand": "RRR",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "164069",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.275,
+          "price": 1190,
+          "listPrice": 1190,
+          "ppumPrice": 4327,
+          "ppumListPrice": 4327,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/570095-250-250/Coctel-3R-Ice-de-Manzana-5%C2%B0-275-cc.jpg?v=639050387219400000"
+          ],
+          "name": "Cóctel 3R Ice de Manzana 5° 275 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "25508",
+      "reference": "263802",
+      "sponsoredId": null,
+      "slug": "granadina-mitjans-900-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [],
+      "brand": "Mitjans",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "29083",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.9,
+          "price": 6990,
+          "listPrice": 6990,
+          "ppumPrice": 7767,
+          "ppumListPrice": 7767,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306555-250-250/Jarabe-de-Granadina-Mitjans-900-ml.jpg?v=638776382555300000"
+          ],
+          "name": "Jarabe de Granadina Mitjans 900 ml",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "25564",
+      "reference": "266114",
+      "sponsoredId": null,
+      "slug": "jarabe-granadina-mel-1-03-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [],
+      "brand": "Mel",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "29137",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1.03,
+          "price": 6550,
+          "listPrice": 6550,
+          "ppumPrice": 6359,
+          "ppumListPrice": 6359,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306578-250-250/Jarabe-granadina-Mel-103-L.jpg?v=638776382596770000"
+          ],
+          "name": "Jarabe Granadina Mel 1.03 L",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "163677",
+      "reference": "2064719",
+      "sponsoredId": null,
+      "slug": "coctel-camp-12-1l-2064719",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "206",
+        "793"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Cócteles",
+        "Piña Colada y Otros"
+      ],
+      "collections": [],
+      "brand": "Campanario",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "164070",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 6290,
+          "listPrice": 6290,
+          "ppumPrice": 6290,
+          "ppumListPrice": 6290,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/570084-250-250/Coctel-Campanario-Sour-de-Maracuya-12%C2%B0-1-L.jpg?v=639050387179870000"
+          ],
+          "name": "Cóctel Campanario Sour de Maracuyá 12° 1 L",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Piña Colada y Otros",
+          "value": "/licores-bebidas-y-aguas/cocteles/pina-colada-y-otros",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Piña Colada y Otros",
+          "value": "/licores-bebidas-y-aguas/cocteles/pina-colada-y-otros",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Piña Colada y Otros",
+          "value": "/licores-bebidas-y-aguas/cocteles/pina-colada-y-otros",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Campanario",
+          "value": "Campanario",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Pizka",
+          "value": "La Pizka",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Capel",
+          "value": "Capel",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Secreto Peruano",
+          "value": "Secreto Peruano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Master of Mixes",
+          "value": "Master of Mixes",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mel",
+          "value": "Mel",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mitjans",
+          "value": "Mitjans",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Go Barman",
+          "value": "Go Barman",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "RRR",
+          "value": "RRR",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Valle",
+      "key": "Valle",
+      "values": [
+        {
+          "displayName": "Valle del Elqui",
+          "value": "Valle del Elqui",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Cócteles Colados",
+          "value": "Cócteles Colados",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Piña",
+          "value": "Piña",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cócteles Sour",
+          "value": "Cócteles Sour",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jarabes de Goma",
+          "value": "Jarabes de Goma",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cócteles Frutales",
+          "value": "Cócteles Frutales",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremas de Licores",
+          "value": "Cremas de Licores",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aperitivos Sin Alcohol",
+          "value": "Aperitivos Sin Alcohol",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Otros Aperitivos",
+          "value": "Otros Aperitivos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cócteles Ice",
+          "value": "Cócteles Ice",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Granadina",
+          "value": "Granadina",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Esencias y Jarabes",
+          "value": "Esencias y Jarabes",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Grado",
+      "key": "Grado",
+      "values": [
+        {
+          "displayName": "12° G.L.",
+          "value": "12° G.L.",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "14° G.L.",
+          "value": "14° G.L.",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5° G.L.",
+          "value": "5° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 12% vol.",
+          "value": "Alc. 12% vol.",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1190,
+          "maxValue": 14990
+        }
+      ]
+    },
+    {
+      "label": "Gasificado",
+      "key": "Gasificado",
+      "values": [
+        {
+          "displayName": "Sin Gas",
+          "value": "Sin Gas",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Perú",
+          "value": "Perú",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 26,
+  "metaTag": {
+    "title": "Piña Colada y Otros en Jumbo.cl",
+    "description": "Piña colada, daiquiri y otros clásicos tropicales listos para disfrutar, con sabor a piña, coco y frutas cítricas. Encuentra en Jumbo.cl los mejores cócteles colados."
+  }
+}

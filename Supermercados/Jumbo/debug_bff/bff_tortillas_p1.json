@@ -1,0 +1,2372 @@
+{
+  "products": [
+    {
+      "productId": "22568",
+      "reference": "1689035",
+      "sponsoredId": null,
+      "slug": "tortilla-para-burritos-y-wraps-pancho-villa-350-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "23175",
+        "24728"
+      ],
+      "brand": "Pancho Villa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "22887",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.35,
+          "price": 2590,
+          "listPrice": 2590,
+          "ppumPrice": 7400,
+          "ppumListPrice": 7400,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/354097-250-250/Tortillas-XL-8-un-350-g.jpg?v=638776700738700000"
+          ],
+          "name": "Tortillas Pancho Villa XL 350 g 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "22567",
+      "reference": "1454039",
+      "sponsoredId": null,
+      "slug": "burro-integral-pancho-villa-xl-8-unid-380g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "24728",
+        "25670",
+        "26917",
+        "27391",
+        "27461",
+        "27499",
+        "27501",
+        "27518",
+        "27521",
+        "27522",
+        "27563",
+        "27601"
+      ],
+      "brand": "Pancho Villa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "22886",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.38,
+          "price": 1990,
+          "listPrice": 2790,
+          "ppumPrice": 5237,
+          "ppumListPrice": 7342,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/354094-250-250/Tortillas-integrales-burrito-XL-380-g.jpg?v=638776700733700000"
+          ],
+          "name": "Tortillas Pancho Villa Integrales XL 380 g 8 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1990 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1990,
+              "ppumPrice": 5237,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2x3690 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 3690,
+              "unitPrice": 1845,
+              "ppumPrice": 4855,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "72263",
+      "reference": "1756707",
+      "sponsoredId": null,
+      "slug": "tortillas-rapiditas-ideal-200-gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Ideal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "72520",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1290,
+          "listPrice": 1790,
+          "ppumPrice": 6450,
+          "ppumListPrice": 8950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/362522-250-250/Tortillas-Rapiditas-M-8-un-200-g.jpg?v=638776743485000000"
+          ],
+          "name": "Tortilla Ideal Rapiditas m 200 g 8 un.",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1290 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1290,
+              "ppumPrice": 6450,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "153574",
+      "reference": "2044086",
+      "sponsoredId": null,
+      "slug": "tortilla-maxivilla-xxl-pancho-villa-544g-2044086",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "24728",
+        "25333",
+        "25334",
+        "25422",
+        "25670",
+        "25695",
+        "26917",
+        "27391",
+        "27461",
+        "27499",
+        "27501",
+        "27518",
+        "27521",
+        "27522",
+        "27563",
+        "27601"
+      ],
+      "brand": "Pancho Villa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153884",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.544,
+          "price": 2590,
+          "listPrice": 3590,
+          "ppumPrice": 4761,
+          "ppumListPrice": 6599,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/485105-250-250/TORTILLA-MAXIVILLA-XXL-PANCHO-VILLA-544G.jpg?v=638892673324230000"
+          ],
+          "name": "Tortilla Pancho Villa Maxivilla 544 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2590 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 2590,
+              "ppumPrice": 4761,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TMP OFERTA 2x4990 - COR: JUMBO Ofertas CS JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR 24022026 AL 23032026",
+              "description": "JUMBO EXCLUSIVAS XL MARZO DEL 24 FEB AL 23 MAR",
+              "type": "mx",
+              "value": 4990,
+              "unitPrice": 2495,
+              "ppumPrice": 4586,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "51788",
+      "reference": "1740262",
+      "sponsoredId": null,
+      "slug": "tortilla-de-maiz-saniito-s-gluten-8-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164",
+        "831",
+        "999",
+        "1003"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Gluten"
+      ],
+      "collections": [
+        "7956"
+      ],
+      "brand": "Saniito",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "51548",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.24,
+          "price": 2890,
+          "listPrice": 2890,
+          "ppumPrice": 12042,
+          "ppumListPrice": 12042,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/358947-250-250/Tortillas-de-maiz-sin-gluten-8-un-240-g.jpg?v=638776726091170000"
+          ],
+          "name": "Tortillas de Maíz Saniito Sin Gluten 240 g 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "9123",
+      "reference": "1010569",
+      "sponsoredId": null,
+      "slug": "tortillas-mexicanas-pancho-villa-bolsa-200-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "24728"
+      ],
+      "brand": "Pancho Villa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9324",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.6,
+          "price": 3890,
+          "listPrice": 3890,
+          "ppumPrice": 6483,
+          "ppumListPrice": 6483,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/349758-250-250/Pack-3-un-Tortillas-tacos-y-fajitas-M-200-g.jpg?v=638776678457430000"
+          ],
+          "name": "Tortillas Pancho Villa m 600 g 24 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150218",
+      "reference": "2037346",
+      "sponsoredId": null,
+      "slug": "tortilla-r-xl-clas-2037346",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Ideal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150515",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.145,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 16483,
+          "ppumListPrice": 16483,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/452034-250-250/Tortillas-Rapiditas-XL-Clasica-8-Piezas-145-g.jpg?v=638852049609370000"
+          ],
+          "name": "Tortillas Rapiditas XL Clásica 8 Piezas 415 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "81568",
+      "reference": "1821279",
+      "sponsoredId": null,
+      "slug": "quesadillas-8-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "24728"
+      ],
+      "brand": "Pancho Villa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "81840",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1290,
+          "listPrice": 1290,
+          "ppumPrice": 6450,
+          "ppumListPrice": 6450,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/364786-250-250/Quesadillas-8-un.jpg?v=638776755648230000"
+          ],
+          "name": "Tortillas Pancho Villa Quesavilla m 200 g 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "9127",
+      "reference": "1054878",
+      "sponsoredId": null,
+      "slug": "tortilla-burrera-tia-rosa-bolsa-350-g-8-unid",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "22523",
+        "25649"
+      ],
+      "brand": "Tía Rosa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9328",
+          "cartLimit": 8,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 2790,
+          "listPrice": 2790,
+          "ppumPrice": 6975,
+          "ppumListPrice": 6975,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301029-250-250/Tortillas-Burrera-Tia-Rosa-8-un.jpg?v=638776374394700000"
+          ],
+          "name": "Tortillas Burrera Tía Rosa 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150217",
+      "reference": "2037345",
+      "sponsoredId": null,
+      "slug": "tortilla-r-xl-inte-2037345",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "25333",
+        "25334",
+        "25422",
+        "25695"
+      ],
+      "brand": "Ideal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150514",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.145,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 16483,
+          "ppumListPrice": 16483,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/452033-250-250/Tortillas-Rapiditas-XL-Integral-8-Piezas-145-g.jpg?v=638852049602770000"
+          ],
+          "name": "Tortillas Rapiditas XL Integral 8 Piezas 415 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126928",
+      "reference": "1951501",
+      "sponsoredId": null,
+      "slug": "tortilla-burrera-8-un-cuisine-and-co-1951501",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "18770",
+        "25638",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127222",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 8,
+          "price": 2390,
+          "listPrice": 2390,
+          "ppumPrice": 299,
+          "ppumListPrice": 299,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319239-250-250/Tortilla-Burrera-8-un.jpg?v=638776417075730000"
+          ],
+          "name": "Tortilla Burrera 400 g 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "54699",
+      "reference": "1740190",
+      "sponsoredId": null,
+      "slug": "tortilla-grandota-620g-tia-rosa",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "25649"
+      ],
+      "brand": "Tía Rosa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "54986",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.62,
+          "price": 3790,
+          "listPrice": 3790,
+          "ppumPrice": 6113,
+          "ppumListPrice": 6113,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308546-250-250/Tortillas-Grandota-Tia-Rosa-XXL-620-g-8-un.jpg?v=638776387138400000"
+          ],
+          "name": "Tortillas Grandota Tía Rosa XXL 620 g 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "159939",
+      "reference": "2055739",
+      "sponsoredId": null,
+      "slug": "tortillas-rapidita-2055739",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Ideal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "160307",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1290,
+          "listPrice": 1590,
+          "ppumPrice": 6450,
+          "ppumListPrice": 7950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/542264-250-250/Tortillas-Rapiditas-Cero-Cero-200-g.jpg?v=638991188931230000"
+          ],
+          "name": "Tortillas Rapiditas Cero Cero 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1290 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1290,
+              "ppumPrice": 6450,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127135",
+      "reference": "1963558",
+      "sponsoredId": null,
+      "slug": "tortilla-ideal-rapidita-linaza-chia-200g-1963558",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Ideal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127429",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1290,
+          "listPrice": 1790,
+          "ppumPrice": 6450,
+          "ppumListPrice": 8950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393116-250-250/Tortilla-Ideal-Rapiditas-Linaza-Chia-200-g.jpg?v=638776873432900000"
+          ],
+          "name": "Tortilla Ideal Rapidita Linaza Chía 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1290 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1290,
+              "ppumPrice": 6450,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "9128",
+      "reference": "1210592",
+      "sponsoredId": null,
+      "slug": "tortillas-mexicanas-tia-rosa-24-unid-pack-fie",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "25649"
+      ],
+      "brand": "Tía Rosa",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "9329",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.6,
+          "price": 3990,
+          "listPrice": 3990,
+          "ppumPrice": 6650,
+          "ppumListPrice": 6650,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/301045-250-250/Tortillas-Tia-Rosa-Pack-Fiesta-24-un.jpg?v=638776374422900000"
+          ],
+          "name": "Tortillas Tía Rosa Pack Fiesta 24 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127874",
+      "reference": "1951505",
+      "sponsoredId": null,
+      "slug": "tortilla-wrap-integral-8-un-c-and-co-1951505",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "18770",
+        "19270",
+        "25638",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128168",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 8,
+          "price": 2490,
+          "listPrice": 2490,
+          "ppumPrice": 311,
+          "ppumListPrice": 311,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319779-250-250/Tortilla-Wrap-Integral-8-un.jpg?v=638776418187000000"
+          ],
+          "name": "Tortilla Wrap Integral 410 g 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "151010",
+      "reference": "2007085",
+      "sponsoredId": null,
+      "slug": "tort-amarilla-ort-2007085",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "14881",
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "151308",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.117,
+          "price": 3192,
+          "listPrice": 3990,
+          "ppumPrice": 27282,
+          "ppumListPrice": 34103,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/488789-250-250/Tortilla-Maiz-Amarillo-Tacos-Ortega-117-g.jpg?v=638896701015470000"
+          ],
+          "name": "Tortilla Maíz Amarillo Tacos Ortega 117 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 3192,
+              "ppumPrice": 27282,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127139",
+      "reference": "1964137",
+      "sponsoredId": null,
+      "slug": "tortilla-ideal-rapidita-tomate-200g-1964137",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Ideal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127433",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.2,
+          "price": 1290,
+          "listPrice": 1790,
+          "ppumPrice": 6450,
+          "ppumListPrice": 8950,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/393122-250-250/Tortilla-Ideal-Rapiditas-Tomate-200-g.jpg?v=638776873462100000"
+          ],
+          "name": "Tortilla Ideal Rapidita Tomate 200 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1290 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1290,
+              "ppumPrice": 6450,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "86668",
+      "reference": "1819242",
+      "sponsoredId": null,
+      "slug": "tortilla-de-maiz-9-cms-24-un",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164",
+        "831",
+        "999",
+        "1003"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Libre de Gluten"
+      ],
+      "collections": [
+        "7956"
+      ],
+      "brand": "Saniito",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "86938",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.24,
+          "price": 2890,
+          "listPrice": 2890,
+          "ppumPrice": 12042,
+          "ppumListPrice": 12042,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/365885-250-250/Mini-tortilla-de-maiz-sin-gluten-24-un.jpg?v=638776761018530000"
+          ],
+          "name": "Mini Tortilla de Maíz Saniito Sin Gluten 24 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126930",
+      "reference": "1951502",
+      "sponsoredId": null,
+      "slug": "tortilla-fajita-10-un-cuisine-and-co-1951502",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "18770",
+        "25638",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127223",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 10,
+          "price": 1990,
+          "listPrice": 1990,
+          "ppumPrice": 199,
+          "ppumListPrice": 199,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319257-250-250/Tortilla-Fajita-10-un.jpg?v=638776417104530000"
+          ],
+          "name": "Tortilla Fajita 300 g 10 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "92421",
+      "reference": "1841333",
+      "sponsoredId": null,
+      "slug": "pack-calentador-tortilla-17-cm",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [],
+      "brand": "Saniito",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "92685",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 7990,
+          "ppumListPrice": 7990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/367786-250-250/Pack-calentador-Tortilla-17-cm-2-172026402.jpg?v=638776769461230000"
+          ],
+          "name": "Pack Calentador Saniito + 2 Paquetes de Tortillas 17 cm 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126933",
+      "reference": "1951507",
+      "sponsoredId": null,
+      "slug": "tortilla-pesto-8-un-cuisine-and-co-1951507",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "18770",
+        "23175",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127226",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 8,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 174,
+          "ppumListPrice": 174,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319292-250-250/Tortilla-Pesto-8-un.jpg?v=638776417191730000"
+          ],
+          "name": "Tortilla Pesto 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126932",
+      "reference": "1951506",
+      "sponsoredId": null,
+      "slug": "tortilla-finas-hierbas-8-un-c-and-co-1951506",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "18770",
+        "23175",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127227",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 8,
+          "price": 1390,
+          "listPrice": 1390,
+          "ppumPrice": 174,
+          "ppumListPrice": 174,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319304-250-250/Tortilla-Finas-Hierbas-8-un.jpg?v=638776417217670000"
+          ],
+          "name": "Tortilla Finas Hierbas 8 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "151011",
+      "reference": "2007086",
+      "sponsoredId": null,
+      "slug": "tort-azul-ortega-2007086",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "14881",
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "151310",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.117,
+          "price": 3192,
+          "listPrice": 3990,
+          "ppumPrice": 27282,
+          "ppumListPrice": 34103,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/488790-250-250/Tortilla-Maiz-Azul-Tacos-Ortega-117-g.jpg?v=638896701034830000"
+          ],
+          "name": "Tortilla Maíz Azul Tacos Ortega 117 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 3192,
+              "ppumPrice": 27282,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "151128",
+      "reference": "2007084",
+      "sponsoredId": null,
+      "slug": "kit-cena-ort-252g-2007084",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "14881",
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Ortega",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "151425",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.252,
+          "price": 6392,
+          "listPrice": 7990,
+          "ppumPrice": 25365,
+          "ppumListPrice": 31706,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/488788-250-250/Kit-Cena-Tacos-Ortega-252-g.jpg?v=638896700996500000"
+          ],
+          "name": "Kit Cena Tacos Ortega 252 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 6392,
+              "ppumPrice": 25365,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "162082",
+      "reference": "2059664",
+      "sponsoredId": null,
+      "slug": "taco-crunchy-130g-2059664",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [],
+      "brand": "Old El Paso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "162459",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.13,
+          "price": 4990,
+          "listPrice": 4990,
+          "ppumPrice": 38385,
+          "ppumListPrice": 38385,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/555664-250-250/TACO-CRUNCHY-130G.jpg?v=639017015319930000"
+          ],
+          "name": "Taco Crunchy Old El Paso 130 g 12 un.",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "162081",
+      "reference": "2059663",
+      "sponsoredId": null,
+      "slug": "tortilla-old-311gr-2059663",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [],
+      "brand": "Old El Paso",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "162458",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.311,
+          "price": 4990,
+          "listPrice": 4990,
+          "ppumPrice": 16045,
+          "ppumListPrice": 16045,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/555660-250-250/TORTILLA-OLD-311GR.jpg?v=639017015313530000"
+          ],
+          "name": "Tortilla Old El Paso 311 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "151004",
+      "reference": "2007083",
+      "sponsoredId": null,
+      "slug": "kit-cena-ort-590g-2007083",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "14881",
+        "27499",
+        "27501",
+        "27542",
+        "27563",
+        "27601"
+      ],
+      "brand": "Jumbo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "151301",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.59,
+          "price": 7992,
+          "listPrice": 9990,
+          "ppumPrice": 13546,
+          "ppumListPrice": 16932,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/488787-250-250/Kit-Tacos-Duros-y-Suaves-Ortega-590-g.jpg?v=638896700983470000"
+          ],
+          "name": "Kit Tacos Duros y Suaves Ortega 590 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 7992,
+              "ppumPrice": 13546,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "22511",
+      "reference": "255081",
+      "sponsoredId": null,
+      "slug": "tortillas-tipo-rescoldo-pilmayquen-450-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "18636",
+        "23985"
+      ],
+      "brand": "Pilmayquén",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "22830",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.45,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 5978,
+          "ppumListPrice": 5978,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304778-250-250/Tortillas-Pilmayquen-Tipo-Rescoldo-450-g.jpg?v=638776380517900000"
+          ],
+          "name": "Tortillas Pilmayquen Tipo Rescoldo 450 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "126931",
+      "reference": "1951504",
+      "sponsoredId": null,
+      "slug": "tortilla-pack-fiesta-20-un-cuisine-and-co-1951504",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164",
+        "831",
+        "894",
+        "895"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas",
+        "Experiencias Jumbo",
+        "Marcas Exclusivas",
+        "Cuisine & Co"
+      ],
+      "collections": [
+        "18770",
+        "25695",
+        "26599",
+        "26603",
+        "26605",
+        "26608",
+        "26610",
+        "26613",
+        "26614",
+        "27513",
+        "27514",
+        "27515",
+        "27516",
+        "27517"
+      ],
+      "brand": "Cuisine & Co",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127225",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 24,
+          "price": 3490,
+          "listPrice": 3490,
+          "ppumPrice": 145,
+          "ppumListPrice": 145,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319279-250-250/Tortilla-Pack-Fiesta-20-un.jpg?v=638776417157700000"
+          ],
+          "name": "Tortilla Pack Fiesta 600 g 24 un.",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "95517",
+      "reference": "1849181",
+      "sponsoredId": null,
+      "slug": "tortilla-no-gluten-nutrisa-260gr",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "157",
+        "162",
+        "164"
+      ],
+      "categoryNames": [
+        "Panadería y Pastelería",
+        "Masas y Tortillas",
+        "Tortillas"
+      ],
+      "collections": [
+        "7956"
+      ],
+      "brand": "No+Gluten",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "95782",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.26,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 10346,
+          "ppumListPrice": 10346,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312713-250-250/Tortilla-Sin-Gluten-260-g.jpg?v=638776397365400000"
+          ],
+          "name": "Tortillas Nutrisa Sin Gluten 260 g 8 un.",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Tortillas",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/tortillas",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Tortillas",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/tortillas",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Tortillas",
+          "value": "/panaderia-y-pasteleria/masas-y-tortillas/tortillas",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Cuisine & Co",
+          "value": "Cuisine & Co",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pancho Villa",
+          "value": "Pancho Villa",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ideal",
+          "value": "Ideal",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tía Rosa",
+          "value": "Tía Rosa",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jumbo",
+          "value": "Jumbo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Saniito",
+          "value": "Saniito",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ortega",
+          "value": "Ortega",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Old El Paso",
+          "value": "Old El Paso",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pilmayquén",
+          "value": "Pilmayquén",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "No+Gluten",
+          "value": "No+Gluten",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 24,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Soya",
+          "value": "Libre de Soya",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apto para APLV",
+          "value": "Apto para APLV",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Trigo",
+          "value": "Libre de Trigo",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "Familiar",
+          "value": "Familiar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "XL",
+          "value": "XL",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Tortillas",
+          "value": "Tortillas",
+          "selected": false,
+          "quantity": 30,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tortillas Integrales",
+          "value": "Tortillas Integrales",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1290,
+          "maxValue": 7992
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Hecho en Jumbo",
+      "key": "Hecho en Jumbo",
+      "values": [
+        {
+          "displayName": "No",
+          "value": "No",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 32,
+  "metaTag": {
+    "title": "Tortillas - Crea tus recetas con masa de fajitas | Jumbo.cl",
+    "description": "La masa de fajitas de Jumbo.cl tiene una textura suave y un sabor inigualable. ¡Compra ahora en Jumbo.cl y sorprende a tu familia y amigos!"
+  }
+}

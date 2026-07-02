@@ -1,0 +1,5218 @@
+{
+  "products": [
+    {
+      "productId": "89321",
+      "reference": "1842714",
+      "sponsoredId": null,
+      "slug": "shampoo-classic-smooth-865-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "23175",
+        "25182",
+        "25185",
+        "25188",
+        "25288",
+        "25292",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25695",
+        "26947",
+        "27158",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27625",
+        "27628"
+      ],
+      "brand": "Herbal Essences",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "89591",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.865,
+          "price": 7613,
+          "listPrice": 10150,
+          "ppumPrice": 880,
+          "ppumListPrice": 1173,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/585687-250-250/Shampoo-Herbal-Essences-Smooth-Rose-Hips-865-ml.jpg?v=639078059734700000"
+          ],
+          "name": "Shampoo Herbal Essences Smooth Rose Hips 865 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 7613,
+              "ppumPrice": 880,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "122436",
+      "reference": "1949831",
+      "sponsoredId": null,
+      "slug": "serum-elvive-oleo-extraord-100ml-s-blist-1949831",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "17846",
+        "26045",
+        "26553",
+        "26947",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Elvive",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "122720",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.1,
+          "price": 7043,
+          "listPrice": 9390,
+          "ppumPrice": 7043,
+          "ppumListPrice": 9390,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/318096-250-250/Serum-Elvive-Oleo-Extraordinario-100-ml.jpg?v=638776413686300000"
+          ],
+          "name": "Aceite Elvive Óleo Extraordinario 100 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 7043,
+              "ppumPrice": 7043,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "151971",
+      "reference": "2040214",
+      "sponsoredId": null,
+      "slug": "shampoo-dove-bond-intense-repair-peptido-complex-350-ml-2040214",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "25064",
+        "25175",
+        "25177",
+        "25182",
+        "25183",
+        "25333",
+        "25334",
+        "25422",
+        "25458",
+        "25460",
+        "25467",
+        "25469",
+        "25473",
+        "25475",
+        "25477",
+        "25533",
+        "25542",
+        "25544",
+        "25695",
+        "25790",
+        "25792",
+        "25794",
+        "25795",
+        "25797",
+        "26947",
+        "27154",
+        "27294",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27634"
+      ],
+      "brand": "Dove",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "152264",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 3143,
+          "listPrice": 4490,
+          "ppumPrice": 898,
+          "ppumListPrice": 1283,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/540789-250-250/Shampoo-Dove-Bond-Intense-Repair---Peptido-Complex-350-ml.jpg?v=638986715045330000"
+          ],
+          "name": "Shampoo Dove Bond Intense Repair + Péptido Complex 350 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 02032026 AL 04032026",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3143,
+              "ppumPrice": 898,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "122789",
+      "reference": "1956675",
+      "sponsoredId": null,
+      "slug": "shampoo-elvive-ha-pure-680ml-1956675",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "23175",
+        "25182",
+        "25188",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25695",
+        "26045",
+        "26553",
+        "26947",
+        "27301",
+        "27393",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Elvive",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "123085",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.68,
+          "price": 5990,
+          "listPrice": 8490,
+          "ppumPrice": 881,
+          "ppumListPrice": 1249,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/388552-250-250/Shampoo-Elvive-Ha-Pure-680-ml.jpg?v=638776856270070000"
+          ],
+          "name": "Shampoo Elvive Ha Pure 680 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5990,
+              "ppumPrice": 881,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "89320",
+      "reference": "1842713",
+      "sponsoredId": null,
+      "slug": "shampoo-classic-shine-865-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "23175",
+        "25182",
+        "25185",
+        "25188",
+        "25288",
+        "25292",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25695",
+        "26947",
+        "27158",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27625",
+        "27628"
+      ],
+      "brand": "Herbal Essences",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "89590",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.865,
+          "price": 7613,
+          "listPrice": 10150,
+          "ppumPrice": 880,
+          "ppumListPrice": 1173,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/570950-250-250/Shampoo-Herbal-Essences-Shine-Chamomile-865-ml.jpg?v=639050411580630000"
+          ],
+          "name": "Shampoo Herbal Essences Shine Chamomile 865 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 7613,
+              "ppumPrice": 880,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "135054",
+      "reference": "1992777",
+      "sponsoredId": null,
+      "slug": "shampoo-elvive-glycogloss-680ml-1992777",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "23175",
+        "25182",
+        "25188",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25695",
+        "26045",
+        "26553",
+        "26947",
+        "27301",
+        "27393",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Elvive",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135348",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.68,
+          "price": 5990,
+          "listPrice": 8490,
+          "ppumPrice": 881,
+          "ppumListPrice": 1249,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/324279-250-250/Shampoo-Elvive-Glycolic-Gloss-680-ml.jpg?v=638776427479100000"
+          ],
+          "name": "Shampoo Elvive Glycolic Gloss 680 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 5990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 4",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 5990,
+              "ppumPrice": 881,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "150370",
+      "reference": "2039871",
+      "sponsoredId": null,
+      "slug": "shampoo-dove-hidra-2039871",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "25064",
+        "25175",
+        "25177",
+        "25182",
+        "25183",
+        "25333",
+        "25334",
+        "25422",
+        "25458",
+        "25460",
+        "25467",
+        "25469",
+        "25473",
+        "25475",
+        "25477",
+        "25542",
+        "25544",
+        "25695",
+        "25790",
+        "25792",
+        "25794",
+        "25795",
+        "25797",
+        "26947",
+        "27154",
+        "27294",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27634"
+      ],
+      "brand": "Dove",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150668",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.37,
+          "price": 3143,
+          "listPrice": 4490,
+          "ppumPrice": 849,
+          "ppumListPrice": 1214,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/540665-250-250/Shampoo-Dove-Hidratacion---Acido-Hialuronico-y-Vitamina-370-ml.jpg?v=638986714767200000"
+          ],
+          "name": "Shampoo Dove Hidratación + Ácido Hialurónico y Vitamina 370 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 02032026 AL 04032026",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3143,
+              "ppumPrice": 849,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "149400",
+      "reference": "2036714",
+      "sponsoredId": null,
+      "slug": "oleo-pantene-2036714",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "25182",
+        "25188",
+        "25288",
+        "25292",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25628",
+        "25695",
+        "26947",
+        "27158",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27625",
+        "27628"
+      ],
+      "brand": "Pantene",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149695",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.095,
+          "price": 5768,
+          "listPrice": 7690,
+          "ppumPrice": 6072,
+          "ppumListPrice": 8095,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/579551-250-250/Aceite-Capilar-Pantene-Nutre-Protege-y-da-Brillo-95-ml.jpg?v=639071562418630000"
+          ],
+          "name": "Aceite Capilar Pantene Nutre, Protege y da Brillo 95 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 5768,
+              "ppumPrice": 6072,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "150375",
+      "reference": "2039876",
+      "sponsoredId": null,
+      "slug": "crema-trat-dove-u-2039876",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "25064",
+        "25175",
+        "25177",
+        "25182",
+        "25199",
+        "25333",
+        "25422",
+        "25458",
+        "25460",
+        "25467",
+        "25469",
+        "25473",
+        "25475",
+        "25477",
+        "25533",
+        "25542",
+        "25544",
+        "25628",
+        "25695",
+        "25790",
+        "25792",
+        "25794",
+        "25795",
+        "25797",
+        "26947",
+        "27154",
+        "27294",
+        "27634"
+      ],
+      "brand": "Dove",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150673",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 5733,
+          "listPrice": 8190,
+          "ppumPrice": 2293,
+          "ppumListPrice": 3276,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/540753-250-250/Crema-de-Tratamiento-Dove-Reparacion-UV-250-g.jpg?v=638986714944470000"
+          ],
+          "name": "Crema de Tratamiento Dove Reparación UV 250 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 02032026 AL 04032026",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 5733,
+              "ppumPrice": 2293,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "101797",
+      "reference": "1871498",
+      "sponsoredId": null,
+      "slug": "sh-herbal-ess-bio-renew-argan-oil-865ml-1871498",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "23175",
+        "25182",
+        "25185",
+        "25188",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25695",
+        "26947",
+        "27158",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27625",
+        "27628"
+      ],
+      "brand": "Herbal Essences",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "102066",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.865,
+          "price": 11018,
+          "listPrice": 14690,
+          "ppumPrice": 1274,
+          "ppumListPrice": 1698,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313796-250-250/Shampoo-Herbal-Essences-Bio-Renew-Argan-Oil-865-ml.jpg?v=638776400534300000"
+          ],
+          "name": "Shampoo Herbal Essences Bio Renew Argan Oil 865 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 11018,
+              "ppumPrice": 1274,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "149396",
+      "reference": "2036708",
+      "sponsoredId": null,
+      "slug": "perfume-capilar-2036708",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "25182",
+        "25288",
+        "25292",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25628",
+        "25695",
+        "26947",
+        "27158",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27625",
+        "27628"
+      ],
+      "brand": "Herbal Essences",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149691",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.09,
+          "price": 4890,
+          "listPrice": 5790,
+          "ppumPrice": 5433,
+          "ppumListPrice": 6433,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/573159-250-250/Perfume-para-Cabello-Herbal-Essences-Fragancia-a-Rosas-90-ml.jpg?v=639053949463070000"
+          ],
+          "name": "Perfume para Cabello Herbal Essences Fragancia a Rosas 90 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4890 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 25022026 AL 23032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4890,
+              "ppumPrice": 5433,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "103606",
+      "reference": "1884158",
+      "sponsoredId": null,
+      "slug": "shampoo-pantene-restauracion-1lt-1884158",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "25182",
+        "25185",
+        "25188",
+        "25288",
+        "25292",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25695",
+        "26947",
+        "27158",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27625",
+        "27628"
+      ],
+      "brand": "Pantene",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "103873",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 7613,
+          "listPrice": 10150,
+          "ppumPrice": 761,
+          "ppumListPrice": 1015,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/480681-250-250/Shampoo-Pantene-Restauracion-Profunda-1-L.jpg?v=638881419818030000"
+          ],
+          "name": "Shampoo Pantene Restauración Profunda 1 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 7613,
+              "ppumPrice": 761,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "103951",
+      "reference": "1884157",
+      "sponsoredId": null,
+      "slug": "cr-trat-pantene-nutre-y-renueva-300ml-1884157",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "21278",
+        "22523",
+        "23175",
+        "25182",
+        "25188",
+        "25288",
+        "25292",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25628",
+        "25695",
+        "26947",
+        "27158",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27625",
+        "27628"
+      ],
+      "brand": "Pantene",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "104218",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 3743,
+          "listPrice": 4990,
+          "ppumPrice": 1248,
+          "ppumListPrice": 1663,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/509242-250-250/Mascarilla-Capilar-Pantene-Nutre-y-Sella-Puntas-300-ml.jpg?v=638935589253930000"
+          ],
+          "name": "Mascarilla Capilar Pantene Nutre y Sella Puntas 300 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 3743,
+              "ppumPrice": 1248,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "137913",
+      "reference": "1997820",
+      "sponsoredId": null,
+      "slug": "oleo-dove-bond-intense-repair-110ml-1997820",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "25064",
+        "25175",
+        "25177",
+        "25182",
+        "25199",
+        "25333",
+        "25334",
+        "25422",
+        "25458",
+        "25460",
+        "25467",
+        "25469",
+        "25473",
+        "25475",
+        "25477",
+        "25533",
+        "25542",
+        "25544",
+        "25695",
+        "25794",
+        "25795",
+        "25797",
+        "26947",
+        "27154",
+        "27294",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27634"
+      ],
+      "brand": "Dove",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138207",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.11,
+          "price": 5593,
+          "listPrice": 7990,
+          "ppumPrice": 5085,
+          "ppumListPrice": 7264,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/540584-250-250/Oleo-Capilar-Dove-Bond-Intense-Repair-Bifasico-110-ml.jpg?v=638986714627670000"
+          ],
+          "name": "Óleo Capilar Dove Bond Intense Repair Bifásico 110 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 02032026 AL 04032026",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 5593,
+              "ppumPrice": 5085,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "150372",
+      "reference": "2039873",
+      "sponsoredId": null,
+      "slug": "crema-trat-dove-2039873",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "25064",
+        "25175",
+        "25177",
+        "25182",
+        "25183",
+        "25333",
+        "25334",
+        "25422",
+        "25458",
+        "25460",
+        "25467",
+        "25469",
+        "25473",
+        "25475",
+        "25477",
+        "25542",
+        "25544",
+        "25695",
+        "25790",
+        "25792",
+        "25794",
+        "25795",
+        "25797",
+        "26947",
+        "27154",
+        "27294",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27634"
+      ],
+      "brand": "Dove",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150670",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 3143,
+          "listPrice": 4490,
+          "ppumPrice": 1048,
+          "ppumListPrice": 1497,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/540701-250-250/Crema-de-Tratamiento-Dove-Hidratacion---Acido-Hialuronico-y-Vitamina-300-g.jpg?v=638986714846700000"
+          ],
+          "name": "Crema de Tratamiento Dove Hidratación + Ácido Hialurónico y Vitamina 300 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 02032026 AL 04032026",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3143,
+              "ppumPrice": 1048,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "150578",
+      "reference": "2040224",
+      "sponsoredId": null,
+      "slug": "crema-trat-dove-ol-2040224",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "25064",
+        "25175",
+        "25177",
+        "25182",
+        "25199",
+        "25333",
+        "25422",
+        "25458",
+        "25460",
+        "25467",
+        "25469",
+        "25473",
+        "25475",
+        "25477",
+        "25533",
+        "25542",
+        "25544",
+        "25628",
+        "25695",
+        "25794",
+        "25795",
+        "25797",
+        "26947",
+        "27154",
+        "27294",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27634"
+      ],
+      "brand": "Dove",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150876",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.11,
+          "price": 5593,
+          "listPrice": 7990,
+          "ppumPrice": 5085,
+          "ppumListPrice": 7264,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/540847-250-250/Crema-de-Tratamiento-Dove-Oleo-Reparacion-UV-110-ml.jpg?v=638986715369000000"
+          ],
+          "name": "Crema de Tratamiento Dove Óleo Reparación UV 110 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 02032026 AL 04032026",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 5593,
+              "ppumPrice": 5085,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "135120",
+      "reference": "1992779",
+      "sponsoredId": null,
+      "slug": "shampoo-elvive-glycogloss-370ml-1992779",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "23175",
+        "26045",
+        "26553",
+        "26947",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Elvive",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135413",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.37,
+          "price": 4320,
+          "listPrice": 5400,
+          "ppumPrice": 1168,
+          "ppumListPrice": 1460,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/324839-250-250/Shampoo-Elvive-Glycolic-Gloss-370-ml.jpg?v=638776427900230000"
+          ],
+          "name": "Shampoo Elvive Glycolic Gloss 370 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 11",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 4320,
+              "ppumPrice": 1168,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "153013",
+      "reference": "2040931",
+      "sponsoredId": null,
+      "slug": "shampoo-fructis-2040931",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "25574",
+        "25578",
+        "26947",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Fructis",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153311",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 2993,
+          "listPrice": 3990,
+          "ppumPrice": 855,
+          "ppumListPrice": 1140,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/479722-250-250/Shampoo-Borrador-de-Da%C3%B1o-350-ml.jpg?v=638881345382500000"
+          ],
+          "name": "Shampoo Borrador de Daño 350 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 2993,
+              "ppumPrice": 855,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "152999",
+      "reference": "2040927",
+      "sponsoredId": null,
+      "slug": "crema-peinar-fruc-2040927",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "25574",
+        "25578",
+        "26506",
+        "26947",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Fructis",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "153297",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 3788,
+          "listPrice": 5050,
+          "ppumPrice": 1263,
+          "ppumListPrice": 1683,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/479702-250-250/Crema-para-Peinar-Garnier-Fructis-10-en-1-Borrador-de-Da%C3%B1o-Control-Grasa-300-ml.jpg?v=638881345211730000"
+          ],
+          "name": "Crema para Peinar Garnier Fructis 10 en 1 Borrador de Daño Control Grasa 300 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 3788,
+              "ppumPrice": 1263,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "78705",
+      "reference": "1810514",
+      "sponsoredId": null,
+      "slug": "shampoo-3-en-1-dove-men-sports-400-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "25797",
+        "26947"
+      ],
+      "brand": "Dove",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "78956",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.4,
+          "price": 4590,
+          "listPrice": 4590,
+          "ppumPrice": 1148,
+          "ppumListPrice": 1148,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/364089-250-250/Shampoo-sport-active-fresh-400-ml.jpg?v=638776752124000000"
+          ],
+          "name": "Shampoo Dove Men Sport Active Fresh 400 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "99193",
+      "reference": "1867063",
+      "sponsoredId": null,
+      "slug": "sh-head-and-shoulders-limpieza-renovadora-1l-1867063",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "23175",
+        "25182",
+        "25185",
+        "25188",
+        "25288",
+        "25292",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25695",
+        "26947",
+        "27158",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27625",
+        "27628"
+      ],
+      "brand": "Head & Shoulders",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "99460",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 8138,
+          "listPrice": 10850,
+          "ppumPrice": 814,
+          "ppumListPrice": 1085,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/477417-250-250/Shampoo-Head---Shoulders-Limpieza-Renovadora-1-L.jpg?v=638875813433700000"
+          ],
+          "name": "Shampoo Head & Shoulders Limpieza Renovadora 1 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 8138,
+              "ppumPrice": 814,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "134665",
+      "reference": "1992017",
+      "sponsoredId": null,
+      "slug": "shap-ballerina-reparacion-fco-750ml-1992017",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "21278",
+        "25182",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25695",
+        "26947",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Ballerina",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134957",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 1590,
+          "listPrice": 2090,
+          "ppumPrice": 212,
+          "ppumListPrice": 279,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/483669-250-250/Shampoo-Ballerina-Repara-Hidrata-con-Aceites-Esenciales-Frasco-750-ml.jpg?v=638888079570370000"
+          ],
+          "name": "Shampoo Ballerina Repara Hidrata con Aceites Esenciales Frasco 750 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1590 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1590,
+              "ppumPrice": 212,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156001",
+      "reference": "2051071",
+      "sponsoredId": null,
+      "slug": "shampoo-pantene-colageno-1lt-2051071",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "25182",
+        "25185",
+        "25188",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25695",
+        "26947",
+        "27158",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27625",
+        "27628"
+      ],
+      "brand": "Pantene",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156319",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 9743,
+          "listPrice": 12990,
+          "ppumPrice": 974,
+          "ppumListPrice": 1299,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/502474-250-250/SHAMPOO-PANTENE-COLAGENO-1LT.jpg?v=638924411041030000"
+          ],
+          "name": "Shampoo Pantene Pro-V Nutre y Revitaliza 1 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 9743,
+              "ppumPrice": 974,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "120882",
+      "reference": "1952035",
+      "sponsoredId": null,
+      "slug": "spray-l-oreal-everpure-glossing-200ml-1952035",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "17846",
+        "26045",
+        "26947"
+      ],
+      "brand": "L’Oréal Paris",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "121160",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 9990,
+          "listPrice": 9990,
+          "ppumPrice": 4995,
+          "ppumListPrice": 4995,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/422525-250-250/SPRAY-L-OREAL-EVERPURE-GLOSSING-200ML.jpg?v=638809579021130000"
+          ],
+          "name": "Spray L’Oréal Ever Pure Glossing 200 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "150575",
+      "reference": "2040221",
+      "sponsoredId": null,
+      "slug": "crema-trat-dove-2040221",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "25064",
+        "25533",
+        "25790",
+        "25792",
+        "25797",
+        "26947",
+        "27154",
+        "27294",
+        "27634"
+      ],
+      "brand": "Dove",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150872",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.11,
+          "price": 5593,
+          "listPrice": 7990,
+          "ppumPrice": 5085,
+          "ppumListPrice": 7264,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/540830-250-250/Crema-de-Tratamiento-Sin-Enjuague-Dove-Nutricion---Tri-Oleos-110-ml.jpg?v=638986715270370000"
+          ],
+          "name": "Crema de Tratamiento Sin Enjuague Dove Nutrición + Tri-Oleos 110 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 02032026 AL 04032026",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 5593,
+              "ppumPrice": 5085,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "150373",
+      "reference": "2039874",
+      "sponsoredId": null,
+      "slug": "shampoo-dove-uv-re-2039874",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "25064",
+        "25175",
+        "25177",
+        "25182",
+        "25183",
+        "25333",
+        "25334",
+        "25422",
+        "25458",
+        "25460",
+        "25467",
+        "25469",
+        "25473",
+        "25475",
+        "25477",
+        "25533",
+        "25542",
+        "25544",
+        "25628",
+        "25695",
+        "25790",
+        "25792",
+        "25794",
+        "25795",
+        "25797",
+        "26947",
+        "27154",
+        "27294",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27634"
+      ],
+      "brand": "Dove",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150671",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.37,
+          "price": 3213,
+          "listPrice": 4590,
+          "ppumPrice": 868,
+          "ppumListPrice": 1241,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/540721-250-250/Shampoo-Dove-UV-Repair---Glow---Ferulico-370-ml.jpg?v=638986714881000000"
+          ],
+          "name": "Shampoo Dove UV Repair & Glow + Ferúlico 370 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 02032026 AL 04032026",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3213,
+              "ppumPrice": 868,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "10051",
+      "reference": "498230007",
+      "sponsoredId": null,
+      "slug": "shampoo-familand-camomilla-manzanilla-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "21278",
+        "22523",
+        "26947",
+        "27599",
+        "27601"
+      ],
+      "brand": "Familand",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "10299",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 2290,
+          "listPrice": 2290,
+          "ppumPrice": 305,
+          "ppumListPrice": 305,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/350479-250-250/Shampoo-camomilla-750-cc.jpg?v=638776681212800000"
+          ],
+          "name": "Shampoo Familand Camomilla 750 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "131139",
+      "reference": "1969952",
+      "sponsoredId": null,
+      "slug": "aceite-elvive-dream-long-100-ml-1969952",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "17846",
+        "26045",
+        "26424",
+        "26553",
+        "26947",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Elvive",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "131424",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.1,
+          "price": 6968,
+          "listPrice": 9290,
+          "ppumPrice": 6968,
+          "ppumListPrice": 9290,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/398259-250-250/Aceite-Elvive-Dream-Long-100-ml.jpg?v=638776893244970000"
+          ],
+          "name": "Aceite Elvive Dream Long 100 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 6968,
+              "ppumPrice": 6968,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "138501",
+      "reference": "1997518",
+      "sponsoredId": null,
+      "slug": "sh-head-and-shoulders-anti-comezon-1lt-1997518",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "23175",
+        "25182",
+        "25185",
+        "25188",
+        "25288",
+        "25292",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25695",
+        "26947",
+        "27158",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27625",
+        "27628"
+      ],
+      "brand": "Head & Shoulders",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "138795",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 8138,
+          "listPrice": 10850,
+          "ppumPrice": 814,
+          "ppumListPrice": 1085,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/586027-250-250/Shampoo-Head---Shoulders-Anti-Comezon-con-Menta-1-L.jpg?v=639078060857430000"
+          ],
+          "name": "Shampoo Head & Shoulders Anti-Comezón con Menta 1 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 8138,
+              "ppumPrice": 814,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "67162",
+      "reference": "1768747",
+      "sponsoredId": null,
+      "slug": "mascara-capilar-fructis-hair-food-coconut-350-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "1056",
+        "17846",
+        "19270",
+        "21278",
+        "25182",
+        "25188",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25574",
+        "25578",
+        "25695",
+        "26045",
+        "26764",
+        "26947",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Fructis",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "67321",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 3743,
+          "listPrice": 4990,
+          "ppumPrice": 1069,
+          "ppumListPrice": 1426,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309813-250-250/Tratamiento-Fructis-Hair-Food-Coco-350-ml.jpg?v=638776389927930000"
+          ],
+          "name": "Mascarilla Garnier Fructis Hair Food Coco 350 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 3743,
+              "ppumPrice": 1069,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "149397",
+      "reference": "2036709",
+      "sponsoredId": null,
+      "slug": "crema-tratamiento-2036709",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "23175",
+        "25182",
+        "25288",
+        "25292",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25628",
+        "25695",
+        "26947",
+        "27158",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27625",
+        "27628"
+      ],
+      "brand": "Herbal Essences",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "149692",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.3,
+          "price": 4890,
+          "listPrice": 5790,
+          "ppumPrice": 1630,
+          "ppumListPrice": 1930,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/477504-250-250/Mascarilla-Capilar-Herbal-Essences-Rosa-Mosqueta-300-ml.jpg?v=638875814081300000"
+          ],
+          "name": "Mascarilla Capilar Herbal Essences Rosa Mosqueta 300 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 4890 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 25022026 AL 23032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 4890,
+              "ppumPrice": 1630,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "67160",
+      "reference": "1768745",
+      "sponsoredId": null,
+      "slug": "mascara-capilar-fructis-hair-food-aguacate-350-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "1056",
+        "17846",
+        "19270",
+        "21278",
+        "25182",
+        "25188",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25574",
+        "25578",
+        "25695",
+        "26045",
+        "26764",
+        "26947",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Fructis",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "67319",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.35,
+          "price": 3743,
+          "listPrice": 4990,
+          "ppumPrice": 1069,
+          "ppumListPrice": 1426,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/309769-250-250/Tratamiento-Fructis-Hair-Food-Aguacate-350-ml.jpg?v=638776389855400000"
+          ],
+          "name": "Mascarilla Garnier Fructis Hair Food Aguacate 350 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 3743,
+              "ppumPrice": 1069,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "155997",
+      "reference": "2051068",
+      "sponsoredId": null,
+      "slug": "shampoo-pantene-keratina-300ml-aco-250ml-2051068",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "26947"
+      ],
+      "brand": "Pantene",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156314",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.55,
+          "price": 7290,
+          "listPrice": 7290,
+          "ppumPrice": 1326,
+          "ppumListPrice": 1326,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/502459-250-250/SHAMPOO-PANTENE-KERATINA-300ML-ACO-250ML.jpg?v=638924410937500000"
+          ],
+          "name": "Pack 2 un. Shampoo + Acondicionador Pantene 550 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "135770",
+      "reference": "1993944",
+      "sponsoredId": null,
+      "slug": "acidifier-elvive-glycogloss-200ml-1993944",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "17846",
+        "26045",
+        "26424",
+        "26553",
+        "26947",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Elvive",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "136062",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.2,
+          "price": 7718,
+          "listPrice": 10290,
+          "ppumPrice": 3859,
+          "ppumListPrice": 5145,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/325378-250-250/Acidifier-Elvive-Glycolic-Gloss-200-ml.jpg?v=638776428322200000"
+          ],
+          "name": "Acidifier Elvive Glycolic Gloss 200 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 25% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 25,
+              "unitPrice": 7718,
+              "ppumPrice": 3859,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "118643",
+      "reference": "1939671",
+      "sponsoredId": null,
+      "slug": "sh-herbal-ess-bio-renew-pomelo-ment-400m-1939671",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "17846",
+        "26947",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27625",
+        "27628"
+      ],
+      "brand": "Herbal Essences",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "118909",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.4,
+          "price": 9390,
+          "listPrice": 9390,
+          "ppumPrice": 2348,
+          "ppumListPrice": 2348,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/316907-250-250/Shampoo-Herbal-Essences-Pomelo-y-Menta-400-ml.jpg?v=638776410356930000"
+          ],
+          "name": "Shampoo Herbal Essences Pomelo y Menta 400 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 2X13490 - OFA: JUMBO OFERTAS ADICIONALES ECOMMERCE JUMBO OFA 02 ENERO AL 02 MAYO 2026 25022026 AL 23032026",
+              "description": "JUMBO OFA 02 ENERO AL 02 MAYO 2026",
+              "type": "mx",
+              "value": 13490,
+              "unitPrice": 6745,
+              "ppumPrice": 1686,
+              "mQuantity": 2,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "148421",
+      "reference": "2038048",
+      "sponsoredId": null,
+      "slug": "shampoo-elvive-2038048",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "22210",
+        "23175",
+        "25182",
+        "25184",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25677",
+        "25695",
+        "26553",
+        "26869",
+        "26947",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Elvive",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "148717",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.37,
+          "price": 4520,
+          "listPrice": 5650,
+          "ppumPrice": 1222,
+          "ppumListPrice": 1527,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/418981-250-250/SHAMPOO-ELVIVE.jpg?v=638808648210670000"
+          ],
+          "name": "Shampoo Elvive Dream Liso 370 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 20% - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 11",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "percentual",
+              "value": 20,
+              "unitPrice": 4520,
+              "ppumPrice": 1222,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "150718",
+      "reference": "2040215",
+      "sponsoredId": null,
+      "slug": "shampoo-dove-recon-2040215",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "25064",
+        "25175",
+        "25177",
+        "25182",
+        "25183",
+        "25333",
+        "25334",
+        "25422",
+        "25458",
+        "25460",
+        "25467",
+        "25469",
+        "25473",
+        "25475",
+        "25477",
+        "25542",
+        "25544",
+        "25695",
+        "25790",
+        "25792",
+        "25794",
+        "25795",
+        "25797",
+        "26947",
+        "27154",
+        "27294",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27634"
+      ],
+      "brand": "Dove",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "151016",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.37,
+          "price": 3143,
+          "listPrice": 4490,
+          "ppumPrice": 849,
+          "ppumListPrice": 1214,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/540795-250-250/Shampoo-Dove-Reconstruccion---Aminoacidos-370-ml.jpg?v=638986715080100000"
+          ],
+          "name": "Shampoo Dove Reconstrucción + Aminoácidos 370 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 02032026 AL 04032026",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3143,
+              "ppumPrice": 849,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "144668",
+      "reference": "2017538",
+      "sponsoredId": null,
+      "slug": "tonico-crecimiento-lola-rapunzel-250ml-2017538",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "23278",
+        "26947"
+      ],
+      "brand": "Lola",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "144970",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.25,
+          "price": 14990,
+          "listPrice": 14990,
+          "ppumPrice": 5996,
+          "ppumListPrice": 5996,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/341669-250-250/Tonico-Crecimiento-Lola-Rapunzel-250-ml.jpg?v=638776441926230000"
+          ],
+          "name": "Tonico de Crecimiento Rapunzel Lola 250 ml",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "147351",
+      "reference": "2030101",
+      "sponsoredId": null,
+      "slug": "sham-ballerina-fza-and-cuidado-fras-750ml-2030101",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "244"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Shampoo"
+      ],
+      "collections": [
+        "25182",
+        "25333",
+        "25334",
+        "25422",
+        "25544",
+        "25695",
+        "26947",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Ballerina",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147647",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 1590,
+          "listPrice": 2090,
+          "ppumPrice": 212,
+          "ppumListPrice": 279,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "ml",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/483891-250-250/Shampoo-Ballerina-Fuerza---Cuidado-Frasco-750-ml.jpg?v=638888080734330000"
+          ],
+          "name": "Shampoo Ballerina Fuerza & Cuidado Frasco 750 ml",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 1590 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 2",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 1590,
+              "ppumPrice": 212,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "150369",
+      "reference": "2039870",
+      "sponsoredId": null,
+      "slug": "crema-trat-dove-un-2039870",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "230",
+        "233",
+        "246"
+      ],
+      "categoryNames": [
+        "Cuidado Personal y Bebé",
+        "Cuidado Capilar",
+        "Tratamiento Capilar"
+      ],
+      "collections": [
+        "25064",
+        "25175",
+        "25177",
+        "25182",
+        "25183",
+        "25333",
+        "25334",
+        "25422",
+        "25458",
+        "25460",
+        "25467",
+        "25469",
+        "25473",
+        "25475",
+        "25477",
+        "25542",
+        "25544",
+        "25695",
+        "25790",
+        "25792",
+        "25794",
+        "25795",
+        "25797",
+        "26947",
+        "27154",
+        "27294",
+        "27474",
+        "27499",
+        "27501",
+        "27563",
+        "27601",
+        "27634"
+      ],
+      "brand": "Dove",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "150667",
+          "cartLimit": 18,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 3143,
+          "listPrice": 4490,
+          "ppumPrice": 1048,
+          "ppumListPrice": 1497,
+          "ppumConversion": 100,
+          "ppumMeasurementUnit": "g",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/540647-250-250/Crema-de-Tratamiento-Dove-Nutricion---Tri-Oleos-300-g.jpg?v=638986714733170000"
+          ],
+          "name": "Crema de Tratamiento Dove Nutrición + Tri-Oleos 300 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP DESCUENTO 30% - EXC: JUMBO EXCLUSIVAS ECOMMERCE JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026 02032026 AL 04032026",
+              "description": "JUMBO EXCLUSIVAS 02 ENE AL 02 MAY 2026",
+              "type": "percentual",
+              "value": 30,
+              "unitPrice": 3143,
+              "ppumPrice": 1048,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Exclusivo online",
+            "backgroundColor": "#D5F7FF",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Shampoo",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/shampoo",
+          "selected": false,
+          "quantity": 285,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Acondicionadores",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/acondicionadores",
+          "selected": false,
+          "quantity": 192,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tratamiento Capilar",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/tratamiento-capilar",
+          "selected": false,
+          "quantity": 183,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cepillos de Pelo y Accesorios",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/cepillos-de-pelo-y-accesorios",
+          "selected": false,
+          "quantity": 179,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Coloración y Tintura de Pelo",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/coloracion-y-tintura-de-pelo",
+          "selected": false,
+          "quantity": 169,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fijadores, Lacas y Ceras",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/fijadores-lacas-y-ceras",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Shampoo",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/shampoo",
+          "selected": false,
+          "quantity": 285,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Acondicionadores",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/acondicionadores",
+          "selected": false,
+          "quantity": 192,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tratamiento Capilar",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/tratamiento-capilar",
+          "selected": false,
+          "quantity": 183,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cepillos de Pelo y Accesorios",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/cepillos-de-pelo-y-accesorios",
+          "selected": false,
+          "quantity": 179,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Coloración y Tintura de Pelo",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/coloracion-y-tintura-de-pelo",
+          "selected": false,
+          "quantity": 169,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fijadores, Lacas y Ceras",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/fijadores-lacas-y-ceras",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Shampoo",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/shampoo",
+          "selected": false,
+          "quantity": 285,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Acondicionadores",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/acondicionadores",
+          "selected": false,
+          "quantity": 192,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tratamiento Capilar",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/tratamiento-capilar",
+          "selected": false,
+          "quantity": 183,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cepillos de Pelo y Accesorios",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/cepillos-de-pelo-y-accesorios",
+          "selected": false,
+          "quantity": 179,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Coloración y Tintura de Pelo",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/coloracion-y-tintura-de-pelo",
+          "selected": false,
+          "quantity": 169,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fijadores, Lacas y Ceras",
+          "value": "/cuidado-personal-y-bebe/cuidado-capilar/fijadores-lacas-y-ceras",
+          "selected": false,
+          "quantity": 37,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Dove",
+          "value": "Dove",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Herbal Essences",
+          "value": "Herbal Essences",
+          "selected": false,
+          "quantity": 49,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "L’Oréal Paris",
+          "value": "L’Oréal Paris",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Elvive",
+          "value": "Elvive",
+          "selected": false,
+          "quantity": 54,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pantene",
+          "value": "Pantene",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fructis",
+          "value": "Fructis",
+          "selected": false,
+          "quantity": 55,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ballerina",
+          "value": "Ballerina",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lola",
+          "value": "Lola",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dazz",
+          "value": "Dazz",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Head & Shoulders",
+          "value": "Head & Shoulders",
+          "selected": false,
+          "quantity": 22,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Familand",
+          "value": "Familand",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Le Petit Olivier",
+          "value": "Le Petit Olivier",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Umai",
+          "value": "Umai",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Monday",
+          "value": "Monday",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Simonds",
+          "value": "Simonds",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Skala",
+          "value": "Skala",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frencciga",
+          "value": "Frencciga",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Garnier",
+          "value": "Garnier",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sedal",
+          "value": "Sedal",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mint",
+          "value": "Mint",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hask",
+          "value": "Hask",
+          "selected": false,
+          "quantity": 23,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cantu",
+          "value": "Cantu",
+          "selected": false,
+          "quantity": 20,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Naturaloe",
+          "value": "Naturaloe",
+          "selected": false,
+          "quantity": 15,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Batiste",
+          "value": "Batiste",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Petrizzio",
+          "value": "Petrizzio",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kativa",
+          "value": "Kativa",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Etniker",
+          "value": "Etniker",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Capilatis",
+          "value": "Capilatis",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Natur Vital",
+          "value": "Natur Vital",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ritzy Mash",
+          "value": "Ritzy Mash",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Simond's",
+          "value": "Simond's",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Marc Anthony",
+          "value": "Marc Anthony",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bioherapy",
+          "value": "Bioherapy",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tresemmé",
+          "value": "Tresemmé",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Organic Shop",
+          "value": "Organic Shop",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "John Frieda",
+          "value": "John Frieda",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tío Nacho",
+          "value": "Tío Nacho",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "OGX",
+          "value": "OGX",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Excellence",
+          "value": "Excellence",
+          "selected": false,
+          "quantity": 28,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ecostyle",
+          "value": "Ecostyle",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sheet",
+          "value": "Sheet",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Revlon",
+          "value": "Revlon",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ilicit",
+          "value": "Ilicit",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "ISSUE",
+          "value": "ISSUE",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Agrado",
+          "value": "Agrado",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lee Stafford",
+          "value": "Lee Stafford",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tangle Teezer",
+          "value": "Tangle Teezer",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Be Natural",
+          "value": "Be Natural",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "OMG!",
+          "value": "OMG!",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Clear",
+          "value": "Clear",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "DUO",
+          "value": "DUO",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nutrisse",
+          "value": "Nutrisse",
+          "selected": false,
+          "quantity": 27,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Moco gorila",
+          "value": "Moco gorila",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Linic",
+          "value": "Linic",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Beter",
+          "value": "Beter",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Conair",
+          "value": "Conair",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vanity",
+          "value": "Vanity",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gelatti",
+          "value": "Gelatti",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "IT",
+          "value": "IT",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Casting",
+          "value": "Casting",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Studio Line",
+          "value": "Studio Line",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Wet Brush",
+          "value": "Wet Brush",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Roby",
+          "value": "Roby",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kit",
+          "value": "Kit",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Goody",
+          "value": "Goody",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Koleston",
+          "value": "Koleston",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Harry Potter",
+          "value": "Harry Potter",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Urban Glow",
+          "value": "Urban Glow",
+          "selected": false,
+          "quantity": 65,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gelatti Kids",
+          "value": "Gelatti Kids",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Surya",
+          "value": "Surya",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Salon Line",
+          "value": "Salon Line",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alondra",
+          "value": "Alondra",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alberto Vo 5",
+          "value": "Alberto Vo 5",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mundial",
+          "value": "Mundial",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Scunci",
+          "value": "Scunci",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Imagihair",
+          "value": "Imagihair",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Magic Makeup",
+          "value": "Magic Makeup",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Beauty Care",
+          "value": "Beauty Care",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cala",
+          "value": "Cala",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lookwell",
+          "value": "Lookwell",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Nature's Miracles",
+          "value": "Nature's Miracles",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alpecin",
+          "value": "Alpecin",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Shampoos",
+          "value": "Shampoos",
+          "selected": false,
+          "quantity": 236,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Máscaras Capilares",
+          "value": "Máscaras Capilares",
+          "selected": false,
+          "quantity": 55,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremas de Tratamiento",
+          "value": "Cremas de Tratamiento",
+          "selected": false,
+          "quantity": 34,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aceites y Serums",
+          "value": "Aceites y Serums",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Óleos Secos",
+          "value": "Óleos Secos",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremas para Peinar",
+          "value": "Cremas para Peinar",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Shampoo sin Sal",
+          "value": "Shampoo sin Sal",
+          "selected": false,
+          "quantity": 16,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Shampoo Anti-Caspa",
+          "value": "Shampoo Anti-Caspa",
+          "selected": false,
+          "quantity": 19,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sérum",
+          "value": "Sérum",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremas Hidratantes",
+          "value": "Cremas Hidratantes",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Acondicionadores",
+          "value": "Acondicionadores",
+          "selected": false,
+          "quantity": 187,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Crema Coceduras",
+          "value": "Crema Coceduras",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Protectores de Calor",
+          "value": "Protectores de Calor",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Shampoo Neutro",
+          "value": "Shampoo Neutro",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gel",
+          "value": "Gel",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremas Corporales",
+          "value": "Cremas Corporales",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fijadores",
+          "value": "Fijadores",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mousse",
+          "value": "Mousse",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Shampoo Matizador",
+          "value": "Shampoo Matizador",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Shampoo en Seco",
+          "value": "Shampoo en Seco",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tinturas de Cabello",
+          "value": "Tinturas de Cabello",
+          "selected": false,
+          "quantity": 169,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mascarillas Faciales",
+          "value": "Mascarillas Faciales",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cepillos y Peinetas",
+          "value": "Cepillos y Peinetas",
+          "selected": false,
+          "quantity": 70,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ceras Capilares",
+          "value": "Ceras Capilares",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estuches de Regalo",
+          "value": "Estuches de Regalo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tratamientos para Uñas",
+          "value": "Tratamientos para Uñas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Shampoo Infantil",
+          "value": "Shampoo Infantil",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Acondicionadores Infantil",
+          "value": "Acondicionadores Infantil",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pinches",
+          "value": "Pinches",
+          "selected": false,
+          "quantity": 35,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Colets y Scrunchies",
+          "value": "Colets y Scrunchies",
+          "selected": false,
+          "quantity": 47,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Set de Belleza",
+          "value": "Set de Belleza",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Elásticos para Pelo",
+          "value": "Elásticos para Pelo",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Set de Accesorios",
+          "value": "Set de Accesorios",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Espejos",
+          "value": "Espejos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Aplicadores y Esponjas",
+          "value": "Aplicadores y Esponjas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cintillos",
+          "value": "Cintillos",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cintas",
+          "value": "Cintas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gel de Ducha",
+          "value": "Gel de Ducha",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pack Capilar",
+          "value": "Pack Capilar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Shampoo para Perros",
+          "value": "Shampoo para Perros",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Set de Maquillaje",
+          "value": "Set de Maquillaje",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Cabello",
+      "key": "Tipo de Cabello",
+      "values": [
+        {
+          "displayName": "Cabello Blanco y Gris",
+          "value": "Cabello Blanco y Gris",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabello Claro",
+          "value": "Cabello Claro",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabello Dañado",
+          "value": "Cabello Dañado",
+          "selected": false,
+          "quantity": 93,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabello Débil",
+          "value": "Cabello Débil",
+          "selected": false,
+          "quantity": 43,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabello Frágil",
+          "value": "Cabello Frágil",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabello Graso",
+          "value": "Cabello Graso",
+          "selected": false,
+          "quantity": 29,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabello Liso",
+          "value": "Cabello Liso",
+          "selected": false,
+          "quantity": 14,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabello Normal",
+          "value": "Cabello Normal",
+          "selected": false,
+          "quantity": 21,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabello Normal a Graso",
+          "value": "Cabello Normal a Graso",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabello Rebelde",
+          "value": "Cabello Rebelde",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabello Rizado",
+          "value": "Cabello Rizado",
+          "selected": false,
+          "quantity": 58,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabello Seco",
+          "value": "Cabello Seco",
+          "selected": false,
+          "quantity": 72,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cabello Teñido",
+          "value": "Cabello Teñido",
+          "selected": false,
+          "quantity": 38,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mixto",
+          "value": "Mixto",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Todo Tipo de Cabello",
+          "value": "Todo tipo de cabello",
+          "selected": false,
+          "quantity": 184,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 1290,
+          "maxValue": 19990
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 605,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 438,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 72,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Modelo",
+      "key": "Modelo",
+      "values": [
+        {
+          "displayName": "17975",
+          "value": "17975",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5/3 Castaño Nuez Dorado",
+          "value": "5/3 Castaño Nuez Dorado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "6/75 Chocolate Caoba",
+          "value": "6/75 Chocolate Caoba",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Argán",
+          "value": "Argán",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "BASE DIENTES COLOR",
+          "value": "BASE DIENTES COLOR",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "BASE NYLON FRAGIL NEGRO",
+          "value": "BASE NYLON FRAGIL NEGRO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "BASE NYLON NEGRO",
+          "value": "BASE NYLON NEGRO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "BASE NYLON THICK NEGRO",
+          "value": "BASE NYLON THICK NEGRO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Blond Care",
+          "value": "Blond Care",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Blueberry",
+          "value": "Blueberry",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Brillo Morado",
+          "value": "Brillo Morado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bubble Gum",
+          "value": "Bubble Gum",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Carbón",
+          "value": "Carbón",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "CASTAÑO",
+          "value": "CASTAÑO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chrome",
+          "value": "Chrome",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Classics",
+          "value": "Classics",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Coco",
+          "value": "Coco",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Curl Care",
+          "value": "Curl Care",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ducha Turquesa",
+          "value": "Ducha Turquesa",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "ELASTICO UNBREAKABLE PONYTAIL NEGRO",
+          "value": "ELASTICO UNBREAKABLE PONYTAIL NEGRO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Extra Fuerte",
+          "value": "Extra Fuerte",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Floral",
+          "value": "Floral",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Frutal",
+          "value": "Frutal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fuerte",
+          "value": "Fuerte",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gelatti",
+          "value": "Gelatti",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Húmedo",
+          "value": "Húmedo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kristal",
+          "value": "Kristal",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Liso Spray Antifrizz",
+          "value": "Liso Spray Antifrizz",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Macadamia",
+          "value": "Macadamia",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Manzanilla",
+          "value": "Manzanilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mascarilla Sensitive Capilar",
+          "value": "Mascarilla Sensitive Capilar",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Matizador",
+          "value": "Matizador",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "MC-001",
+          "value": "MC-001",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "MC-002",
+          "value": "MC-002",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "MC-003",
+          "value": "MC-003",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "MC-004",
+          "value": "MC-004",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "MC-005",
+          "value": "MC-005",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "MC-006",
+          "value": "MC-006",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mini Morado",
+          "value": "Mini Morado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Moringa Detox",
+          "value": "Moringa Detox",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Niños Arcoiris",
+          "value": "Niños Arcoiris",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Olive Oil",
+          "value": "Olive Oil",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Original Celeste",
+          "value": "Original Celeste",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Original Rosado",
+          "value": "Original Rosado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Post Alisado",
+          "value": "Post Alisado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pro-V Miracles",
+          "value": "Pro-V Miracles",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Probióticos Fuerza",
+          "value": "Probióticos Fuerza",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rapunzel Tonico de Crecimiento",
+          "value": "Rapunzel Tonico de Crecimiento",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "ROJO",
+          "value": "ROJO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "RUBIO",
+          "value": "RUBIO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rubios",
+          "value": "Rubios",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "SCRUNCHIES BASE DENIM COLOR",
+          "value": "SCRUNCHIES BASE DENIM COLOR",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Secado rapido rosado",
+          "value": "Secado rapido rosado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Set 6 Colets Hello Kitty",
+          "value": "Set 6 Colets Hello Kitty",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Smoothing Navy",
+          "value": "Smoothing Navy",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "TIBURON BASE 3-PACK",
+          "value": "TIBURON BASE 3-PACK",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "TIBURON UNBREAKABLE 2-PACK",
+          "value": "TIBURON UNBREAKABLE 2-PACK",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tiburón Olas Café",
+          "value": "Tiburón Olas Café",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tintura Nutrisse Oleos Rojo Intenso 7.64",
+          "value": "Tintura Nutrisse Oleos Rojo Intenso 7.64",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tintura Nutrisse Oleos Rubio Dorado 7.3",
+          "value": "Tintura Nutrisse Oleos Rubio Dorado 7.3",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "UNBREAKABLE PONYTAIL COLOR",
+          "value": "UNBREAKABLE PONYTAIL COLOR",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vanilla Passion",
+          "value": "Vanilla Passion",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ácido Hialurónico",
+          "value": "Ácido Hialurónico",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Líquido",
+          "value": "Líquido",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño de Mascota",
+      "key": "Tamaño de Mascota",
+      "values": [
+        {
+          "displayName": "Todos los Tamaños",
+          "value": "Todos los Tamaños",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 1043,
+  "metaTag": {
+    "title": "Cuidado Capilar | Jumbo.cl",
+    "description": "¡Encuentra shampoo, acondicionador y más en nuestra sección de Cuidado capilar! Los mejores productos para el cabello están en Jumbo.cl"
+  }
+}

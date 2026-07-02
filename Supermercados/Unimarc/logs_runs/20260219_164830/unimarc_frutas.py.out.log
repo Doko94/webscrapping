@@ -1,0 +1,38 @@
+No pude extraer links desde el menú (headless). Usando Plan B (slugify).
+
+Subcategorías detectadas en [Frutas y Verduras]: 8
+ - Frutas | Fruta -> https://www.unimarc.cl/category/frutas-y-verduras/frutas/fruta
+ - Frutas | Fruta deshidratada -> https://www.unimarc.cl/category/frutas-y-verduras/frutas/fruta-deshidratada
+ - Frutas | Fruta orgánica -> https://www.unimarc.cl/category/frutas-y-verduras/frutas/fruta-organica
+ - Verduras | Verduras -> https://www.unimarc.cl/category/frutas-y-verduras/verduras/verduras
+ - Verduras | Ensaladas listas -> https://www.unimarc.cl/category/frutas-y-verduras/verduras/ensaladas-listas
+ - Verduras | Verduras orgánicas -> https://www.unimarc.cl/category/frutas-y-verduras/verduras/verduras-organicas
+ - Frutos Secos | Frutos secos -> https://www.unimarc.cl/category/frutas-y-verduras/frutos-secos/frutos-secos
+ - Frutos Secos | Frutos secos orgánicos -> https://www.unimarc.cl/category/frutas-y-verduras/frutos-secos/frutos-secos-organicos
+
+Scrape: [Frutas] Fruta
+  productos únicos: 49
+
+Scrape: [Frutas] Fruta deshidratada
+  productos únicos: 5
+
+Scrape: [Frutas] Fruta orgánica
+  productos únicos: 0
+
+Scrape: [Verduras] Verduras
+  productos únicos: 100
+
+Scrape: [Verduras] Ensaladas listas
+  productos únicos: 50
+
+Scrape: [Verduras] Verduras orgánicas
+  productos únicos: 7
+
+Scrape: [Frutos Secos] Frutos secos
+  productos únicos: 31
+
+Scrape: [Frutos Secos] Frutos secos orgánicos
+  productos únicos: 0
+
+Total filas: 242
+CSV generado: C:\Users\fvergram\OneDrive - NTT DATA EMEAL\Desktop\webscrapping\Supermercados\Unimarc\src\output\frutas_verduras\unimarc_frutas-y-verduras_subcats_20260219_175136.csv

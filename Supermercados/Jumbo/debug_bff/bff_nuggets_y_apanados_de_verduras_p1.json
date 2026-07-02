@@ -1,0 +1,1328 @@
+{
+  "products": [
+    {
+      "productId": "958",
+      "reference": "1495038",
+      "sponsoredId": null,
+      "slug": "milanesa-de-soya-mr-veggie-bolsa-80-g-1-unid-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1152",
+        "1154"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Apanados de Verduras"
+      ],
+      "collections": [
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Mister Veggie",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "960",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.08,
+          "price": 690,
+          "listPrice": 790,
+          "ppumPrice": 8625,
+          "ppumListPrice": 9875,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298310-250-250/Milanesa-de-Soya-Mr-Veggie-80-g.jpg?v=638775750828570000"
+          ],
+          "name": "Milanesa de Soya Mister Veggie 80 g",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 690 - CAF: JUMBO CAT FDM JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 690,
+              "ppumPrice": 8625,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "99180",
+      "reference": "1866746",
+      "sponsoredId": null,
+      "slug": "nuggets-chicken-free-la-crianza-300g-1866746",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1152",
+        "1154"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Apanados de Verduras"
+      ],
+      "collections": [
+        "22523",
+        "27209"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "99447",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.3,
+          "price": 3390,
+          "listPrice": 3390,
+          "ppumPrice": 11300,
+          "ppumListPrice": 11300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/313231-250-250/Nuggets-Plan-Based-300-g.jpg?v=638776399110930000"
+          ],
+          "name": "Nuggets Vegetales La Crianza Plan Based 300 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "45668",
+      "reference": "1722701",
+      "sponsoredId": null,
+      "slug": "chorizo-vegano-rik",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1152",
+        "1154"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Apanados de Verduras"
+      ],
+      "collections": [],
+      "brand": "Rikü",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "45907",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.26,
+          "price": 2690,
+          "listPrice": 2690,
+          "ppumPrice": 10346,
+          "ppumListPrice": 10346,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/357846-250-250/1722701-1.jpg?v=638776720984800000"
+          ],
+          "name": "Chorizo Vegetal Rikü 260 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "103800",
+      "reference": "1891490",
+      "sponsoredId": null,
+      "slug": "vegan-crispy-receta-del-abuelo-120g-1891490",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1152",
+        "1154"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Apanados de Verduras"
+      ],
+      "collections": [
+        "17846"
+      ],
+      "brand": "Receta del Abuelo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "104068",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.12,
+          "price": 1650,
+          "listPrice": 1650,
+          "ppumPrice": 13750,
+          "ppumListPrice": 13750,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/374288-250-250/Vegan-Crispy-120-g.jpg?v=638776799056170000"
+          ],
+          "name": "Hamburguesa Vegetal Receta del Abuelo Vegan Crispy 120 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "135026",
+      "reference": "1992787",
+      "sponsoredId": null,
+      "slug": "nothotdog-500gr-1992787",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1152",
+        "1154"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Apanados de Verduras"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27174"
+      ],
+      "brand": "NotCo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135323",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.5,
+          "price": 7990,
+          "listPrice": 7990,
+          "ppumPrice": 15980,
+          "ppumListPrice": 15980,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/583963-250-250/Salchicha-Vegetal-NotHotDog-500-g.jpg?v=639076276121370000"
+          ],
+          "name": "Salchicha Vegetal NotHotDog 500 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "138726",
+      "reference": "2002196",
+      "sponsoredId": null,
+      "slug": "not-chorizo-notco-240-gr-2002196",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1152",
+        "1154"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Apanados de Verduras"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27174"
+      ],
+      "brand": "NotCo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139024",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.24,
+          "price": 4990,
+          "listPrice": 4990,
+          "ppumPrice": 20792,
+          "ppumListPrice": 20792,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/579264-250-250/Notchori-Vegetal-240-g.jpg?v=639071561772730000"
+          ],
+          "name": "Chorizo Vegetal NotChori 240 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "62862",
+      "reference": "1761210",
+      "sponsoredId": null,
+      "slug": "nuggets-gardein-vegano-sucedaneo-de-pollo-255-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1152",
+        "1154"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Apanados de Verduras"
+      ],
+      "collections": [
+        "1055"
+      ],
+      "brand": "Gardein",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "62893",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.255,
+          "price": 8390,
+          "listPrice": 8390,
+          "ppumPrice": 32902,
+          "ppumListPrice": 32902,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/406248-250-250/Pollo-Nugget-Vegano-Seven-Grain-Crispy-Tenders-255-g.jpg?v=638781024642830000"
+          ],
+          "name": "Nuggets Vegetales Seven Grain Crispy Tenders 255 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "156246",
+      "reference": "2050599",
+      "sponsoredId": null,
+      "slug": "pop-corn-beyond-chicken-sucedaneo-283g-2050599",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1152",
+        "1154"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Apanados de Verduras"
+      ],
+      "collections": [],
+      "brand": "Beyond Meat",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156567",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.283,
+          "price": 9990,
+          "listPrice": 9990,
+          "ppumPrice": 35300,
+          "ppumListPrice": 35300,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/510302-250-250/POP-CORN-BEYOND-CHICKEN-SUCEDANEO-283G.jpg?v=638940913298500000"
+          ],
+          "name": "Pop Corn Beyond Chicken Sucedáneo 283 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "147265",
+      "reference": "2029570",
+      "sponsoredId": null,
+      "slug": "salchi-surena-riku-225g-2029570",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1152",
+        "1154"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Apanados de Verduras"
+      ],
+      "collections": [],
+      "brand": "Rikü",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147559",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.225,
+          "price": 4190,
+          "listPrice": 4190,
+          "ppumPrice": 18622,
+          "ppumListPrice": 18622,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/411868-250-250/Salchicha-Sure%C3%B1a-Riku-225-g.jpg?v=638792158547130000"
+          ],
+          "name": "Salchicha Sureña Riku 225 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "127794",
+      "reference": "1970156",
+      "sponsoredId": null,
+      "slug": "nothotdog-250gr-1970156",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1152",
+        "1154"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Apanados de Verduras"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27174"
+      ],
+      "brand": "NotCo",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "128091",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 4290,
+          "listPrice": 4290,
+          "ppumPrice": 17160,
+          "ppumListPrice": 17160,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/579473-250-250/Salchicha-Vegetal-NotHotDog-250-g.jpg?v=639071562093700000"
+          ],
+          "name": "Salchicha Vegetal NotHotDog 250 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "140731",
+      "reference": "2004343",
+      "sponsoredId": null,
+      "slug": "chori-fortificado-dona-rosita-260gr-2004343",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "831",
+        "999",
+        "1006",
+        "1152",
+        "1154"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Experiencias Jumbo",
+        "Mundo Bio Natura",
+        "Vegano",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Apanados de Verduras"
+      ],
+      "collections": [
+        "23984",
+        "23985"
+      ],
+      "brand": "Doña Rosita",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "141025",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.26,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 11885,
+          "ppumListPrice": 11885,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/334935-250-250/CHORI-FORTIFICADO-DO%C3%91A-ROSITA-260GR.jpg?v=638776436013770000"
+          ],
+          "name": "Chori Fortificado Doña Rosita 260 g",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "956",
+      "reference": "1598194",
+      "sponsoredId": null,
+      "slug": "nugget-de-verdura-la-crianza-400-g-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1152",
+        "1154"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Apanados de Verduras"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "27209"
+      ],
+      "brand": "La Crianza",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "958",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.4,
+          "price": 3790,
+          "listPrice": 3790,
+          "ppumPrice": 9475,
+          "ppumListPrice": 9475,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/298304-250-250/Nuggets-La-Crianza-de-Verdura-400-g.jpg?v=638775750763700000"
+          ],
+          "name": "Nuggets de Verduras La Crianza 400 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "17382",
+      "reference": "1687566",
+      "sponsoredId": null,
+      "slug": "salchichas-veganas-rik-250-g",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "1",
+        "1152",
+        "1154"
+      ],
+      "categoryNames": [
+        "Lácteos, Huevos y Congelados",
+        "Nuggets, Apanados y Embutidos",
+        "Nuggets y Apanados de Verduras"
+      ],
+      "collections": [
+        "1055"
+      ],
+      "brand": "Rikü",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "14712",
+          "cartLimit": 24,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 0.25,
+          "price": 3090,
+          "listPrice": 3090,
+          "ppumPrice": 12360,
+          "ppumListPrice": 12360,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/351880-250-250/1687566-1.jpg?v=638776687447770000"
+          ],
+          "name": "Salchicha Vegetal Rikü 250 g",
+          "stock": false,
+          "promotions": [],
+          "pill": {
+            "name": "Agotado",
+            "backgroundColor": "#DDDDDD",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Nuggets y Apanados de Verduras",
+          "value": "/lacteos-huevos-y-congelados/nuggets-apanados-y-embutidos/nuggets-y-apanados-de-verduras",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Nuggets y Apanados de Verduras",
+          "value": "/lacteos-huevos-y-congelados/nuggets-apanados-y-embutidos/nuggets-y-apanados-de-verduras",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Nuggets y Apanados de Verduras",
+          "value": "/lacteos-huevos-y-congelados/nuggets-apanados-y-embutidos/nuggets-y-apanados-de-verduras",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Mister Veggie",
+          "value": "Mister Veggie",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "La Crianza",
+          "value": "La Crianza",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rikü",
+          "value": "Rikü",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Receta del Abuelo",
+          "value": "Receta del Abuelo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "NotCo",
+          "value": "NotCo",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gardein",
+          "value": "Gardein",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Beyond Meat",
+          "value": "Beyond Meat",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doña Rosita",
+          "value": "Doña Rosita",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 690,
+          "maxValue": 9990
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "4 Unidades",
+          "value": "4",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "5 Unidades",
+          "value": "5 Piezas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Peces",
+          "value": "Libre de Peces",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Nueces",
+          "value": "Libre de Nueces",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Mariscos",
+          "value": "Libre de Mariscos",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Maní",
+          "value": "Libre de Maní",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Frutos Secos",
+          "value": "Libre de Frutos Secos",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Lactosa",
+          "value": "Libre de Lactosa",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Huevo",
+          "value": "Libre de Huevo",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Libre de Sulfitos",
+          "value": "Libre de Sulfitos",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Kosher",
+          "value": "Kosher",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Halal",
+          "value": "Halal",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "120 g",
+          "value": "120 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "250 g",
+          "value": "250 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "255 g",
+          "value": "255 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "500 g",
+          "value": "500 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "80 g",
+          "value": "80 g",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Estado",
+      "key": "Estado",
+      "values": [
+        {
+          "displayName": "Congelados",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Canadá",
+          "value": "Canadá",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chile",
+          "value": "Chile",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Milanesas de Merluza",
+          "value": "Milanesas de Merluza",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Hamburguesas de Verduras",
+          "value": "Hamburguesas de Verduras",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pizza Vegetariana",
+          "value": "Pizza Vegetariana",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chorizos Vegetales",
+          "value": "Chorizos Vegetales",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Pollo",
+          "value": "Pollo",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vienesas Vegetales",
+          "value": "Vienesas Vegetales",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sucedáneos de Carne",
+          "value": "Sucedáneos de Carne",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Nacional",
+          "value": "Nacional",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Pack",
+          "value": "[\"Pack\"]",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tamaño",
+      "key": "Tamaño",
+      "values": [
+        {
+          "displayName": "16 cm",
+          "value": "16 cm",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Individual",
+          "value": "Individual",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Mediano",
+          "value": "Mediano",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Formato",
+      "key": "Formato",
+      "values": [
+        {
+          "displayName": "Congelado",
+          "value": "Congelado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Envasado",
+          "value": "ENVASADO",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Chorizo",
+          "value": "Chorizo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sabor a pollo",
+          "value": "Sabor a pollo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sureño, ahumado y especiado",
+          "value": "Sureño, ahumado y especiado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Bolsa",
+          "value": "Bolsa",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Doypack",
+          "value": "Doypack",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Paquete",
+          "value": "Paquete",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "Apanados",
+          "value": "Apanados",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Saborizada",
+          "value": "Saborizada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Intensidad",
+      "key": "Intensidad",
+      "values": [
+        {
+          "displayName": "Baja",
+          "value": "Baja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 13,
+  "metaTag": null
+}

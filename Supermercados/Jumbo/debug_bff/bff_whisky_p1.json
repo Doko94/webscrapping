@@ -1,0 +1,4078 @@
+{
+  "products": [
+    {
+      "productId": "21256",
+      "reference": "264266",
+      "sponsoredId": null,
+      "slug": "whisky-johnnie-walker-750-ml-40-etiqueta-negra",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25767",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Johnnie Walker",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "21578",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 27990,
+          "listPrice": 32990,
+          "ppumPrice": 37320,
+          "ppumListPrice": 43987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304554-250-250/Whisky-Johnnie-Walker-Black-Label-12-a%C3%B1os-40%C2%B0-750-cc.jpg?v=638776380160130000"
+          ],
+          "name": "Whisky Johnnie Walker Black Label 12 Años 40° 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 27990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 27990,
+              "ppumPrice": 37320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "21257",
+      "reference": "1461151",
+      "sponsoredId": null,
+      "slug": "whisky-johnnie-walker-double-black-botella-750cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "23175",
+        "25767",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Johnnie Walker",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "21579",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 34990,
+          "listPrice": 41990,
+          "ppumPrice": 46653,
+          "ppumListPrice": 55987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304576-250-250/Whisky-Johnnie-Walker-Double-Black-750-cc.jpg?v=638776380194970000"
+          ],
+          "name": "Whisky Johnnie Walker Double Black 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 34990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 34990,
+              "ppumPrice": 46653,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 30990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 30990,
+              "ppumPrice": 41320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11890",
+      "reference": "264268",
+      "sponsoredId": null,
+      "slug": "whisky-johnnie-walker-1-l-40-etiqueta-roja-importado",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25767"
+      ],
+      "brand": "Johnnie Walker",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "12132",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 18390,
+          "listPrice": 18390,
+          "ppumPrice": 18390,
+          "ppumListPrice": 18390,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303069-250-250/Whisky-Johnnie-Walker-Red-Label-40%C2%B0-1-L.jpg?v=638776376587130000"
+          ],
+          "name": "Whisky Johnnie Walker Red Label 40° 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11891",
+      "reference": "264267",
+      "sponsoredId": null,
+      "slug": "whisky-johnnie-walker-750-cc-40-etiqueta-roja-importado",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "25767",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Johnnie Walker",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "12133",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 12490,
+          "listPrice": 15290,
+          "ppumPrice": 16653,
+          "ppumListPrice": 20387,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303101-250-250/Whisky-Johnnie-Walker-Red-Label-40%C2%B0-750-cc.jpg?v=638776376624100000"
+          ],
+          "name": "Whisky Johnnie Walker Red Label 40° 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 12490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 12490,
+              "ppumPrice": 16653,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "25541",
+      "reference": "264247",
+      "sponsoredId": null,
+      "slug": "whisky-buchanans-deluxe-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "19270",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25506",
+        "25695",
+        "25767",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Buchanan's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "29116",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 24990,
+          "listPrice": 29990,
+          "ppumPrice": 33320,
+          "ppumListPrice": 39987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306721-250-250/Whisky-Buchanan-s-Deluxe-12-a%C3%B1os-750-ml.jpg?v=638776382995930000"
+          ],
+          "name": "Whisky Buchanan's Deluxe 12 Años 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 24990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 24990,
+              "ppumPrice": 33320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "25545",
+      "reference": "264264",
+      "sponsoredId": null,
+      "slug": "whisky-johnny-walker-blue-label-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "23278",
+        "25767"
+      ],
+      "brand": "Johnnie Walker",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "29120",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 289990,
+          "listPrice": 289990,
+          "ppumPrice": 386653,
+          "ppumListPrice": 386653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306776-250-250/Whisky-Johnnie-Walker-Blue-Label-750-cc.jpg?v=638953096192800000"
+          ],
+          "name": "Whisky Johnnie Walker Blue Label 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11884",
+      "reference": "264250",
+      "sponsoredId": null,
+      "slug": "whisky-chivas-regal-750-cc-importado-12-anos",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "19270",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25506",
+        "25695",
+        "25767",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Chivas Regal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "12126",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 28990,
+          "listPrice": 37990,
+          "ppumPrice": 38653,
+          "ppumListPrice": 50653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302795-250-250/Whisky-Chivas-12-40%C2%B0-750-cc.jpg?v=638776376340030000"
+          ],
+          "name": "Whisky Chivas Regal 12 Años 40° 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 28990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 28990,
+              "ppumPrice": 38653,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "101134",
+      "reference": "1874176",
+      "sponsoredId": null,
+      "slug": "whiskey-jack-daniel-s-apple-35o-750cc-1874176",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "25767"
+      ],
+      "brand": "Jack Daniel's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "101403",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 30990,
+          "listPrice": 30990,
+          "ppumPrice": 41320,
+          "ppumListPrice": 41320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/459829-250-250/Whisky-Jack-Daniel-s-Apple-35%C2%B0-750-cc.jpg?v=638864714037530000"
+          ],
+          "name": "Whisky Jack Daniel's Apple 35° 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "75609",
+      "reference": "1722067",
+      "sponsoredId": null,
+      "slug": "whisky-grants-reserve-40g-bot-1000cc-2",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "25767"
+      ],
+      "brand": "Grant's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "75864",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 10390,
+          "listPrice": 10390,
+          "ppumPrice": 10390,
+          "ppumListPrice": 10390,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/578323-250-250/Whisky-Grant-s-1-L.jpg?v=639071560384570000"
+          ],
+          "name": "Whisky Grant's 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11888",
+      "reference": "264240",
+      "sponsoredId": null,
+      "slug": "whisky-ballantines-750-cc-importado",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25506",
+        "25695",
+        "25767",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Ballantine's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "12130",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 10990,
+          "listPrice": 13990,
+          "ppumPrice": 14653,
+          "ppumListPrice": 18653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302967-250-250/Whisky-Ballantine-s-Finest-40%C2%B0-750-cc.jpg?v=638776376488330000"
+          ],
+          "name": "Whisky Ballantine's Finest 40° 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 10990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 10990,
+              "ppumPrice": 14653,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "135080",
+      "reference": "1993705",
+      "sponsoredId": null,
+      "slug": "whisky-buchanans-pina-750cc-35-g-1993705",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25695",
+        "25767",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Buchanan's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "135374",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 24990,
+          "listPrice": 32990,
+          "ppumPrice": 33320,
+          "ppumListPrice": 43987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/324590-250-250/Whisky-Buchanans-Pi%C3%B1a-35%C2%B0-750-cc.jpg?v=638776427703800000"
+          ],
+          "name": "Whisky Buchanan's Piña 35° 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 24990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 24990,
+              "ppumPrice": 33320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "21376",
+      "reference": "1553799",
+      "sponsoredId": null,
+      "slug": "whisky-sandy-mac-1-l-40",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "25767",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Sandy Mac",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "21698",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 11490,
+          "listPrice": 12990,
+          "ppumPrice": 11490,
+          "ppumListPrice": 12990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304344-250-250/Whisky-Sandy-Mac-1-L.jpg?v=638776379846100000"
+          ],
+          "name": "Whisky Sandy Mac 1 L",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 11490 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 11490,
+              "ppumPrice": 11490,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "12456",
+      "reference": "264260",
+      "sponsoredId": null,
+      "slug": "whisky-irlandes-jameson-40-grados-bot-750-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25506",
+        "25695",
+        "25767",
+        "25969",
+        "25974",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Jameson",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "12698",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 17990,
+          "listPrice": 21290,
+          "ppumPrice": 23987,
+          "ppumListPrice": 28387,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/303250-250-250/Whisky-Jameson-Irlandes-40%C2%B0-750-cc.jpg?v=638776376841500000"
+          ],
+          "name": "Whisky Jameson Irlandés 40° 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 17990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 17990,
+              "ppumPrice": 23987,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "45474",
+      "reference": "1712569",
+      "sponsoredId": null,
+      "slug": "whisky-johnnie-walker-40-botella-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "23278",
+        "25767"
+      ],
+      "brand": "Johnnie Walker",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "45700",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 109990,
+          "listPrice": 109990,
+          "ppumPrice": 146653,
+          "ppumListPrice": 146653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/509660-250-250/Whisky-Johnnie-Walker-18-A%C3%B1os-750-cc.jpg?v=638936261986370000"
+          ],
+          "name": "Whisky Johnnie Walker 18 Años 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "55357",
+      "reference": "1733527",
+      "sponsoredId": null,
+      "slug": "whiskey-jack-daniel-s-40-botella-1-l",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "25638",
+        "25643",
+        "25767"
+      ],
+      "brand": "Jack Daniel's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55647",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 35990,
+          "listPrice": 35990,
+          "ppumPrice": 35990,
+          "ppumListPrice": 35990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/509664-250-250/Whisky-Jack-Daniel-s-40%C2%B0-Botella-1-L.jpg?v=638936262002970000"
+          ],
+          "name": "Whisky Jack Daniel's 40° Botella 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "146056",
+      "reference": "2003317",
+      "sponsoredId": null,
+      "slug": "whisky-macallan-dc-12y-40-700ml-2003317",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "23278",
+        "25767"
+      ],
+      "brand": "Macallan",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "146353",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 129990,
+          "listPrice": 129990,
+          "ppumPrice": 185700,
+          "ppumListPrice": 185700,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/344712-250-250/WHISKY-MACALLAN-DC-12Y-40%C2%B0-700ML.jpg?v=638776444156230000"
+          ],
+          "name": "Whisky The Macallan Double Cask 12 Años 40° 700 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "25544",
+      "reference": "264258",
+      "sponsoredId": null,
+      "slug": "whisky-glenfiddich-12-anos-con-envase-750-cc",
+      "soldBy": "JUMBO",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "25767"
+      ],
+      "brand": "Glenfiddich",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "29119",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 42990,
+          "listPrice": 42990,
+          "ppumPrice": 57320,
+          "ppumListPrice": 57320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/577763-250-250/Whisky-Glenfiddich-12-A%C3%B1os-750-cc.jpg?v=639071559459470000"
+          ],
+          "name": "Whisky Glenfiddich 12 Años 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "89722",
+      "reference": "1844006",
+      "sponsoredId": null,
+      "slug": "whisky-honey-35-1000-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "25638",
+        "25643",
+        "25767"
+      ],
+      "brand": "Jack Daniel's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "89992",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 35990,
+          "listPrice": 35990,
+          "ppumPrice": 35990,
+          "ppumListPrice": 35990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/459826-250-250/Whisky-Jack-Daniel-s-Honey-35%C2%B0-1-L.jpg?v=638864714008000000"
+          ],
+          "name": "Whisky Jack Daniel's Honey 35° 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "21219",
+      "reference": "889612",
+      "sponsoredId": null,
+      "slug": "whisky-jack-daniel-s-750-ml-gentleman",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "25767"
+      ],
+      "brand": "Jack Daniel's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "21541",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 37190,
+          "listPrice": 37190,
+          "ppumPrice": 49587,
+          "ppumListPrice": 49587,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/488741-250-250/Whisky-Jack-Daniel-s-Gentleman-750-cc.jpg?v=638895721119500000"
+          ],
+          "name": "Whisky Jack Daniel's Gentleman 40° 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "21255",
+      "reference": "264263",
+      "sponsoredId": null,
+      "slug": "whisky-johnnie-walker-1-l-40-etiqueta-negra",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "23175",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25506",
+        "25695",
+        "25767"
+      ],
+      "brand": "Johnnie Walker",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "21577",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 41990,
+          "listPrice": 41990,
+          "ppumPrice": 41990,
+          "ppumListPrice": 41990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304526-250-250/Whisky-Johnnie-Walker-Black-Label-1-L.jpg?v=638776380125200000"
+          ],
+          "name": "Whisky Johnnie Walker Black Label 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "21221",
+      "reference": "1647078",
+      "sponsoredId": null,
+      "slug": "whisky-fireball-750-ml-cinnamon-33",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "25767"
+      ],
+      "brand": "Fireball",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "21543",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 15590,
+          "listPrice": 15590,
+          "ppumPrice": 20787,
+          "ppumListPrice": 20787,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304219-250-250/Whiskey-Cinnamon-33%C2%B0-750-cc.jpg?v=638776379582930000"
+          ],
+          "name": "Whisky Fireball Cinnamon 33° 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "26673",
+      "reference": "889613",
+      "sponsoredId": null,
+      "slug": "whisky-jack-daniels-sinbarr-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "23278",
+        "25767"
+      ],
+      "brand": "Jack Daniel's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "30246",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 60490,
+          "listPrice": 60490,
+          "ppumPrice": 80653,
+          "ppumListPrice": 80653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/306716-250-250/Whiskey-Sinbarr-750-cc.jpg?v=638776382988730000"
+          ],
+          "name": "Whisky Jack Daniel's Single Barrel 40° 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "138781",
+      "reference": "1995496",
+      "sponsoredId": null,
+      "slug": "whole-smoky-blended-whiskey-40-750-ml-1995496",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "22523",
+        "23175",
+        "25500",
+        "25506",
+        "25627",
+        "25767",
+        "26048",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Ole Smoky",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "139075",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 20990,
+          "listPrice": 26490,
+          "ppumPrice": 27987,
+          "ppumListPrice": 35320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/331674-250-250/Whisky-Whole-Smoky-Blended-Whiskey-40%C2%B0-750-ml.jpg?v=638776433354770000"
+          ],
+          "name": "Whisky Ole Smoky Blended Whisky 40° 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 20990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 20990,
+              "ppumPrice": 27987,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "35882",
+      "reference": "1651420",
+      "sponsoredId": null,
+      "slug": "whisky-johnny-walker-green-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "23278",
+        "25767",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Johnnie Walker",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "39902",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 67990,
+          "listPrice": 79990,
+          "ppumPrice": 90653,
+          "ppumListPrice": 106653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/307274-250-250/Whisky-Johnnie-Walker-Green-Label-750-cc.jpg?v=638776384195930000"
+          ],
+          "name": "Whisky Johnnie Walker Green Label 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 67990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 67990,
+              "ppumPrice": 90653,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 61990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 61990,
+              "ppumPrice": 82653,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "21253",
+      "reference": "264295",
+      "sponsoredId": null,
+      "slug": "whisky-white-horse-750-ml-40",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "25767",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "White Horse",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "21575",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 7990,
+          "listPrice": 9990,
+          "ppumPrice": 10653,
+          "ppumListPrice": 13320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/304482-250-250/Whisky-White-Horse-40%C2%B0-750-ml.jpg?v=638776380054270000"
+          ],
+          "name": "Whisky White Horse 40° 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 7990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026 1",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 7990,
+              "ppumPrice": 10653,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "134529",
+      "reference": "1523055",
+      "sponsoredId": null,
+      "slug": "whiskyjack-daniel-s-sinatra-select-1-00-1523055",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "22523",
+        "23278",
+        "25767"
+      ],
+      "brand": "Jack Daniel's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "134823",
+          "cartLimit": 3,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "un",
+          "unitMultiplierUn": 1,
+          "price": 229990,
+          "listPrice": 229990,
+          "ppumPrice": 229990,
+          "ppumListPrice": 229990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "un",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/322643-250-250/Whisky-Jack-Daniel-s-Sinatra-Select-1-L.jpg?v=638776426292300000"
+          ],
+          "name": "Whisky Jack Daniel's Sinatra Select 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "28799",
+      "reference": "1448641",
+      "sponsoredId": null,
+      "slug": "whisky-johnny-walker-gold-reser-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "19270",
+        "22523",
+        "23278",
+        "25767"
+      ],
+      "brand": "Johnnie Walker",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "35140",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 62990,
+          "listPrice": 62990,
+          "ppumPrice": 83987,
+          "ppumListPrice": 83987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/356524-250-250/Whisky-gold-reserva-botella750-cc.jpg?v=638776712959530000"
+          ],
+          "name": "Whisky Johnnie Walker Gold Reserve 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11885",
+      "reference": "264234",
+      "sponsoredId": null,
+      "slug": "whisky-jack-daniels-750-cc-importado",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "22523",
+        "25767",
+        "25969",
+        "25974"
+      ],
+      "brand": "Jack Daniel's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "12127",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 30990,
+          "listPrice": 30990,
+          "ppumPrice": 41320,
+          "ppumListPrice": 41320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/509674-250-250/Whisky-Jack-Daniel-s-Tennessee-40%C2%B0-750-cc.jpg?v=638936262076730000"
+          ],
+          "name": "Whisky Jack Daniel's Tennessee 40° 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "12454",
+      "reference": "264251",
+      "sponsoredId": null,
+      "slug": "whisky-chivas-reagal-40-grados18-anos-750-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "23278",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25506",
+        "25695",
+        "25767"
+      ],
+      "brand": "Chivas Regal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "12696",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 82490,
+          "listPrice": 82490,
+          "ppumPrice": 109987,
+          "ppumListPrice": 109987,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/509676-250-250/Whisky-Chivas-Regal-18-A%C3%B1os-40%C2%B0-750-cc.jpg?v=638936262100930000"
+          ],
+          "name": "Whisky Chivas Regal 18 Años 40° 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "146899",
+      "reference": "2028467",
+      "sponsoredId": null,
+      "slug": "whisky-glenlivet-founders-700cc-40-alc-2028467",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25506",
+        "25695",
+        "25767"
+      ],
+      "brand": "The Glenlivet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "147194",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 36990,
+          "listPrice": 36990,
+          "ppumPrice": 52843,
+          "ppumListPrice": 52843,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/418780-250-250/Whisky-Glenlivet-Founder%E2%80%99s-40%C2%B0-700-cc.jpg?v=638805319279030000"
+          ],
+          "name": "Whisky Glenlivet Founder’S 40° 700 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "97676",
+      "reference": "264291",
+      "sponsoredId": null,
+      "slug": "whisky-the-glenlivet-12-anos-700-cc-40g-264291",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "22523",
+        "25767"
+      ],
+      "brand": "The Glenlivet",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "97944",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 41990,
+          "listPrice": 41990,
+          "ppumPrice": 59986,
+          "ppumListPrice": 59986,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/312934-250-250/Whisky-Glenlivet-12-a%C3%B1os-40%C2%B0-700-cc.jpg?v=638776398046330000"
+          ],
+          "name": "Whisky Glenlivet 12 Años 40° 700 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "25543",
+      "reference": "264257",
+      "sponsoredId": null,
+      "slug": "whisky-glenfiddich-18-anos-malta-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "23278",
+        "25767"
+      ],
+      "brand": "Glenfiddich",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "29118",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 119490,
+          "listPrice": 119490,
+          "ppumPrice": 159320,
+          "ppumListPrice": 159320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/577756-250-250/Whisky-Glenfiddich-18-A%C3%B1os-750-cc.jpg?v=639071559447430000"
+          ],
+          "name": "Whisky Glenfiddich 18 Años 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "159080",
+      "reference": "2055074",
+      "sponsoredId": null,
+      "slug": "whisky-40-350cc-2055074",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [],
+      "brand": "Jack Daniel's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "159413",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "kg",
+          "unitMultiplierUn": 2,
+          "price": 15990,
+          "listPrice": 15990,
+          "ppumPrice": 7995,
+          "ppumListPrice": 7995,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "kg",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/533710-250-250/Whisky-Jack-Daniel-s-Old-N%C2%B07-40%C2%B0-350-cc.jpg?v=638979415725700000"
+          ],
+          "name": "Whisky Jack Daniel's Old N°7 40° 350 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": false,
+      "campaign": null
+    },
+    {
+      "productId": "73604",
+      "reference": "1787679",
+      "sponsoredId": null,
+      "slug": "whisky-chivas-regal-15-40-750-ml",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "23278",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25506",
+        "25695",
+        "25767",
+        "27332",
+        "27499",
+        "27501",
+        "27538",
+        "27539",
+        "27563",
+        "27601"
+      ],
+      "brand": "Chivas Regal",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "73857",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 42990,
+          "listPrice": 49990,
+          "ppumPrice": 57320,
+          "ppumListPrice": 66653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/310075-250-250/Whisky-Chivas-XV-15-a%C3%B1os-40%C2%B0-750-cc.jpg?v=638776390815730000"
+          ],
+          "name": "Whisky Chivas Regal XV 15 Años 40° 750 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 42990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 42990,
+              "ppumPrice": 57320,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            },
+            {
+              "name": "TCENCO OFERTA 37990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 37990,
+              "ppumPrice": 50653,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "CENCOSUD_CARD",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "11887",
+      "reference": "264241",
+      "sponsoredId": null,
+      "slug": "whisky-ballantine-s-1-l-finest",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "23175",
+        "25767"
+      ],
+      "brand": "Ballantine's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "12129",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 16990,
+          "listPrice": 16990,
+          "ppumPrice": 16990,
+          "ppumListPrice": 16990,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/302916-250-250/Whisky-Ballantine-s-Finest-40%C2%B0-1-L.jpg?v=638776376442830000"
+          ],
+          "name": "Whisky Ballantine's Finest 40° 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "57712",
+      "reference": "264278",
+      "sponsoredId": null,
+      "slug": "whisky-malta-glenfid-15-40g-bot-750cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "23278",
+        "25705",
+        "25767"
+      ],
+      "brand": "Glenfiddich",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "57995",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 82990,
+          "listPrice": 82990,
+          "ppumPrice": 110653,
+          "ppumListPrice": 110653,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/577779-250-250/Whisky-Glenfiddich-15-A%C3%B1os-750-cc.jpg?v=639071559484770000"
+          ],
+          "name": "Whisky Glenfiddich 15 Años 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "127094",
+      "reference": "1961007",
+      "sponsoredId": null,
+      "slug": "coc-whis-cereza-ballantines-w-700cc-30-1961007",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "19270",
+        "22523",
+        "25333",
+        "25334",
+        "25422",
+        "25500",
+        "25506",
+        "25695",
+        "25767",
+        "27499",
+        "27501",
+        "27563",
+        "27601"
+      ],
+      "brand": "Ballantine's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "127386",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.7,
+          "price": 10990,
+          "listPrice": 13590,
+          "ppumPrice": 15700,
+          "ppumListPrice": 19414,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/319456-250-250/Whisky-Ballantine-s-Wild-Sabor-Cereza-30%C2%B0-700-cc.jpg?v=638776417564800000"
+          ],
+          "name": "Whisky Ballantine's Wild Sabor Cereza 30° 700 cc",
+          "stock": true,
+          "promotions": [
+            {
+              "name": "TMP OFERTA 10990 - LPM: JUMBO LISTA DE PROMOCIONES MENSUALES JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23  24022026 AL 23032026",
+              "description": "JUMBO LPM JUMBO LPM MARZO DESDE EL 24 FEB AL 23 ",
+              "type": "nominal",
+              "value": 0,
+              "unitPrice": 10990,
+              "ppumPrice": 15700,
+              "mQuantity": 1,
+              "nQuantity": 0,
+              "paymentMethods": "ALL",
+              "userProperties": "ALL",
+              "allowProductCombination": true
+            }
+          ],
+          "pill": {
+            "name": "Oferta",
+            "backgroundColor": "#F8E688",
+            "textColor": "#000000",
+            "imageTagUrl": ""
+          }
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "42147",
+      "reference": "1696589",
+      "sponsoredId": null,
+      "slug": "whisky-jack-daniels-fire-750-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "25767"
+      ],
+      "brand": "Jack Daniel's",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "26321",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 30990,
+          "listPrice": 30990,
+          "ppumPrice": 41320,
+          "ppumListPrice": 41320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/459823-250-250/Whisky-Jack-Daniel-s-Fire-750-cc.jpg?v=638864713955630000"
+          ],
+          "name": "Whisky Jack Daniel's Fire 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "155975",
+      "reference": "2051058",
+      "sponsoredId": null,
+      "slug": "whiskey-maker-s-mark-45-750cc-2051058",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [],
+      "brand": "Maker's Mark",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "156295",
+          "cartLimit": 12,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 0.75,
+          "price": 39990,
+          "listPrice": 39990,
+          "ppumPrice": 53320,
+          "ppumListPrice": 53320,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/510329-250-250/WHISKEY-MAKER-S-MARK-45%C2%B0-750CC.jpg?v=638940913390770000"
+          ],
+          "name": "Whisky Maker's Mark 45° 750 cc",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    },
+    {
+      "productId": "55329",
+      "reference": "1729798",
+      "sponsoredId": null,
+      "slug": "whisky-blender-s-40-1000-cc",
+      "soldBy": "Jumbo",
+      "isMarketplace": false,
+      "weightToUnit": false,
+      "categories": [
+        "204",
+        "699",
+        "704"
+      ],
+      "categoryNames": [
+        "Licores, Bebidas y Aguas",
+        "Destilados",
+        "Whisky"
+      ],
+      "collections": [
+        "17846",
+        "25767"
+      ],
+      "brand": "Blenders",
+      "variant": [],
+      "event": null,
+      "items": [
+        {
+          "skuId": "55619",
+          "cartLimit": 6,
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "measurementUnitUn": "lt",
+          "unitMultiplierUn": 1,
+          "price": 7490,
+          "listPrice": 7490,
+          "ppumPrice": 7490,
+          "ppumListPrice": 7490,
+          "ppumConversion": 0,
+          "ppumMeasurementUnit": "lt",
+          "images": [
+            "https://jumbocl.vteximg.com.br/arquivos/ids/308954-250-250/Whisky-Blenders-Pride-40%C2%B0-1-L.jpg?v=638776387837100000"
+          ],
+          "name": "Whisky Blenders Pride 40° 1 L",
+          "stock": true,
+          "promotions": [],
+          "pill": null
+        }
+      ],
+      "isGiftEligible": true,
+      "campaign": null
+    }
+  ],
+  "redirect": "",
+  "facets": [
+    {
+      "label": "Categorías",
+      "key": "category1",
+      "values": [
+        {
+          "displayName": "Whisky",
+          "value": "/licores-bebidas-y-aguas/destilados/whisky",
+          "selected": false,
+          "quantity": 90,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category2",
+      "values": [
+        {
+          "displayName": "Whisky",
+          "value": "/licores-bebidas-y-aguas/destilados/whisky",
+          "selected": false,
+          "quantity": 90,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Categorías",
+      "key": "category3",
+      "values": [
+        {
+          "displayName": "Whisky",
+          "value": "/licores-bebidas-y-aguas/destilados/whisky",
+          "selected": false,
+          "quantity": 90,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Marcas",
+      "key": "brand",
+      "values": [
+        {
+          "displayName": "Buchanan's",
+          "value": "Buchanan's",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Johnnie Walker",
+          "value": "Johnnie Walker",
+          "selected": false,
+          "quantity": 11,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jameson",
+          "value": "Jameson",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Chivas Regal",
+          "value": "Chivas Regal",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jack Daniel's",
+          "value": "Jack Daniel's",
+          "selected": false,
+          "quantity": 13,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ballantine's",
+          "value": "Ballantine's",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Macallan",
+          "value": "Macallan",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Glenfiddich",
+          "value": "Glenfiddich",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sandy Mac",
+          "value": "Sandy Mac",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Ole Smoky",
+          "value": "Ole Smoky",
+          "selected": false,
+          "quantity": 5,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "White Horse",
+          "value": "White Horse",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Blenders",
+          "value": "Blenders",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "The Glenlivet",
+          "value": "The Glenlivet",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Grant's",
+          "value": "Grant's",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fireball",
+          "value": "Fireball",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jack & Coke",
+          "value": "Jack & Coke",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Iwai",
+          "value": "Iwai",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Old Parr",
+          "value": "Old Parr",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Maker's Mark",
+          "value": "Maker's Mark",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bulleit",
+          "value": "Bulleit",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Jim Beam",
+          "value": "Jim Beam",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Royal Salute",
+          "value": "Royal Salute",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "The Deacon",
+          "value": "The Deacon",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Drumshanbo",
+          "value": "Drumshanbo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "TX",
+          "value": "TX",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tamnavulin",
+          "value": "Tamnavulin",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "The Dead Rabbit",
+          "value": "The Dead Rabbit",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Scrub Daddy",
+          "value": "Scrub Daddy",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "The Singleton",
+          "value": "The Singleton",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Evan Williams",
+          "value": "Evan Williams",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Akashi",
+          "value": "Akashi",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Woodford Reserve",
+          "value": "Woodford Reserve",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tomatin",
+          "value": "Tomatin",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Wild Turkey",
+          "value": "Wild Turkey",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sir Edwards",
+          "value": "Sir Edwards",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "The Guiligan's Distinguished",
+          "value": "The Guiligan's Distinguished",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tullamore",
+          "value": "Tullamore",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Cantidad",
+      "key": "Cantidad",
+      "values": [
+        {
+          "displayName": "1 L",
+          "value": "1 L",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "1 Unidad",
+          "value": "1 un.",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "100 Unidades",
+          "value": "100 unidades",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "700 cc",
+          "value": "700 cc",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "750 cc",
+          "value": "750 cc",
+          "selected": false,
+          "quantity": 12,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Contenido",
+      "key": "content",
+      "values": [
+        {
+          "displayName": "1 L",
+          "value": "1 L",
+          "selected": false,
+          "quantity": 10,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "700 cc",
+          "value": "700 cc",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "700 ml",
+          "value": "700 ml",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "750 cc",
+          "value": "750 cc",
+          "selected": false,
+          "quantity": 26,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Variedad",
+      "key": "Variedad",
+      "values": [
+        {
+          "displayName": "12 Años",
+          "value": "12 Años",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "12 años 40°",
+          "value": "12 años 40°",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "25 Años 40°",
+          "value": "25 Años 40°",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Apple 35°",
+          "value": "Apple 35°",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bebida",
+          "value": "Bebida",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Black Label",
+          "value": "Black Label",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Black Label 12 Años",
+          "value": "Black Label 12 Años",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Blonde",
+          "value": "Blonde",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Blue Label",
+          "value": "Blue Label",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bourbon 40°",
+          "value": "Bourbon 40°",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Bourbon Whiskey",
+          "value": "Bourbon Whiskey",
+          "selected": false,
+          "quantity": 7,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cinnamon",
+          "value": "Cinnamon",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Double Black",
+          "value": "Double Black",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Gentleman",
+          "value": "Gentleman",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Green Label",
+          "value": "Green Label",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Honey 35°",
+          "value": "Honey 35°",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Irish Whiskey",
+          "value": "Irish Whiskey",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Licor de whisky con miel",
+          "value": "Licor de whisky con miel",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Old No. 7",
+          "value": "Old No. 7",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Red Label",
+          "value": "Red Label",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Scotch Whisky",
+          "value": "Scotch Whisky",
+          "selected": false,
+          "quantity": 17,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sinbarr",
+          "value": "Sinbarr",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Single Malt",
+          "value": "Single Malt",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Single Malt Whisky",
+          "value": "Single Malt Whisky",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Single Pot Still",
+          "value": "Single Pot Still",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Singleton 15 años",
+          "value": "Singleton 15 años",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Singleton 18 años",
+          "value": "Singleton 18 años",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Whisky Japonés",
+          "value": "Whisky Japonés",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "País de Origen",
+      "key": "País de Origen",
+      "values": [
+        {
+          "displayName": "Argentina",
+          "value": "Argentina",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Canadá",
+          "value": "Canadá",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Escocia",
+          "value": "Escocia",
+          "selected": false,
+          "quantity": 50,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "España",
+          "value": "España",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Estados Unidos",
+          "value": "Estados Unidos",
+          "selected": false,
+          "quantity": 25,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Irlanda",
+          "value": "Irlanda",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Japón",
+          "value": "Japón",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "México",
+          "value": "México",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Precio",
+      "key": "price",
+      "values": [
+        {
+          "displayName": "Precio",
+          "value": "",
+          "selected": false,
+          "quantity": 0,
+          "minValue": 2150,
+          "maxValue": 299990
+        }
+      ]
+    },
+    {
+      "label": "Envase",
+      "key": "Envase",
+      "values": [
+        {
+          "displayName": "Botella",
+          "value": "Botella",
+          "selected": false,
+          "quantity": 8,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Botella de vidrio",
+          "value": "Botella de vidrio",
+          "selected": false,
+          "quantity": 44,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Caja",
+          "value": "Caja",
+          "selected": false,
+          "quantity": 32,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Lata",
+          "value": "Lata",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Tarro",
+          "value": "Tarro",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Condiciones Alimentarias",
+      "key": "alimentaryConditions",
+      "values": [
+        {
+          "displayName": "Libre de Gluten",
+          "value": "Libre de Gluten",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegetariano",
+          "value": "Vegetariano",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vegano",
+          "value": "Vegano",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Grado",
+      "key": "Grado",
+      "values": [
+        {
+          "displayName": "29,5° G.L.",
+          "value": "29,5° G.L.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "30° G.L.",
+          "value": "30° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "40° G.L.",
+          "value": "40° G.L.",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "45° G.L.",
+          "value": "45° G.L.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 30% vol.",
+          "value": "Alc. 30% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 32,5% vol.",
+          "value": "Alc. 32,5% vol.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 33% vol.",
+          "value": "Alc. 33% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 35% vol.",
+          "value": "Alc. 35% vol.",
+          "selected": false,
+          "quantity": 9,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 40% vol.",
+          "value": "Alc. 40% vol.",
+          "selected": false,
+          "quantity": 46,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 40% vol.",
+          "value": "Alc. 40,0% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 40,5% vol.",
+          "value": "Alc. 40,5% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 41,5% vol.",
+          "value": "Alc. 41,5% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 43% vol.",
+          "value": "Alc. 43% vol.",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 43,2% vol.",
+          "value": "Alc. 43,2% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 45% vol.",
+          "value": "Alc. 45% vol.",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 47% vol.",
+          "value": "Alc. 47% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 51,5% vol.",
+          "value": "Alc. 51,5% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Alc. 7% vol.",
+          "value": "Alc. 7% vol.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Sabor",
+      "key": "Sabor",
+      "values": [
+        {
+          "displayName": "Complejo y sedoso, con notas de miel, especias y naranja",
+          "value": "Complejo y sedoso, con notas de miel, especias y naranja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremoso y complejo, con notas de chocolate y frutas secas",
+          "value": "Cremoso y complejo, con notas de chocolate y frutas secas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cremoso y suave, con notas de manzana, vainilla y avellana",
+          "value": "Cremoso y suave, con notas de manzana, vainilla y avellana",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce y cítrico, con el sabor jugoso de la naranja",
+          "value": "Dulce y cítrico, con el sabor jugoso de la naranja",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce y frutal, con notas marcadas de mora negra, vainilla, caramelo y un suave fondo ahumado.",
+          "value": "Dulce y frutal, con notas marcadas de mora negra, vainilla, caramelo y un suave fondo ahumado.",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce y jugoso, con el sabor vibrante de la cereza",
+          "value": "Dulce y jugoso, con el sabor vibrante de la cereza",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce y picante, con el sabor ardiente de la canela",
+          "value": "Dulce y picante, con el sabor ardiente de la canela",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce y picante, con el sabor exótico del mango y un calor sutil",
+          "value": "Dulce y picante, con el sabor exótico del mango y un calor sutil",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce y refrescante, con el sabor crujiente de la manzana",
+          "value": "Dulce y refrescante, con el sabor crujiente de la manzana",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce y refrescante, con el sabor crujiente de la manzana y un ligero toque de whisky",
+          "value": "Dulce y refrescante, con el sabor crujiente de la manzana y un ligero toque de whisky",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce y refrescante, con el sabor jugoso de la piña",
+          "value": "Dulce y refrescante, con el sabor jugoso de la piña",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Dulce y untuoso, con el sabor distintivo de la mantequilla de maní",
+          "value": "Dulce y untuoso, con el sabor distintivo de la mantequilla de maní",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Equilibrado y fresco, con notas de madera y un ahumado sutil",
+          "value": "Equilibrado y fresco, con notas de madera y un ahumado sutil",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Equilibrado, con notas de chocolate con leche y vainilla",
+          "value": "Equilibrado, con notas de chocolate con leche y vainilla",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Excepcionalmente suave y complejo, con notas de chocolate, especias y frutas secas",
+          "value": "Excepcionalmente suave y complejo, con notas de chocolate, especias y frutas secas",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Excepcionalmente suave y complejo, con notas de jerez, chocolate y un ahumado elegante",
+          "value": "Excepcionalmente suave y complejo, con notas de jerez, chocolate y un ahumado elegante",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Excepcionalmente suave, con notas de arce y especias",
+          "value": "Excepcionalmente suave, con notas de arce y especias",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Excepcionalmente suave, con notas de dátil y vainilla",
+          "value": "Excepcionalmente suave, con notas de dátil y vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Excepcionalmente suave, con notas de melocotón, mazapán y nuez",
+          "value": "Excepcionalmente suave, con notas de melocotón, mazapán y nuez",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Fresco y afrutado, con notas de caramelo y malta",
+          "value": "Fresco y afrutado, con notas de caramelo y malta",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Intenso y ahumado, con notas de caramelo y un dulzor persistente",
+          "value": "Intenso y ahumado, con notas de caramelo y un dulzor persistente",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Intenso y ahumado, con notas de madera y un ligero picante",
+          "value": "Intenso y ahumado, con notas de madera y un ligero picante",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Intenso y complejo, con notas de frutas secas y chocolate",
+          "value": "Intenso y complejo, con notas de frutas secas y chocolate",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Refrescante y dulce, con el sabor clásico de cola y un ligero toque de whisky",
+          "value": "Refrescante y dulce, con el sabor clásico de cola y un ligero toque de whisky",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rico y audaz, con notas de naranja, chocolate y un ahumado sutil",
+          "value": "Rico y audaz, con notas de naranja, chocolate y un ahumado sutil",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rico y complejo, con notas de caramelo y un ligero ahumado",
+          "value": "Rico y complejo, con notas de caramelo y un ligero ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rico y complejo, con notas de caramelo, especias y un ahumado persistente",
+          "value": "Rico y complejo, con notas de caramelo, especias y un ahumado persistente",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rico y complejo, con notas de chocolate y un dulzor elegante",
+          "value": "Rico y complejo, con notas de chocolate y un dulzor elegante",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rico y complejo, con notas de naranja y un dulzor persistente",
+          "value": "Rico y complejo, con notas de naranja y un dulzor persistente",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rico y cremoso, con notas de vainilla, especias y roble",
+          "value": "Rico y cremoso, con notas de vainilla, especias y roble",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rico y dulce, con notas de pera, caramelo y vainilla",
+          "value": "Rico y dulce, con notas de pera, caramelo y vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Rico y sedoso, con notas de chocolate, especias y un ahumado elegante",
+          "value": "Rico y sedoso, con notas de chocolate, especias y un ahumado elegante",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Robusto y picante, con notas de arce y nuez moscada",
+          "value": "Robusto y picante, con notas de arce y nuez moscada",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Robusto y picante, con notas de arce y un dulzor persistente",
+          "value": "Robusto y picante, con notas de arce y un dulzor persistente",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Sedoso y complejo, con notas de naranja, vainilla y almendra",
+          "value": "Sedoso y complejo, con notas de naranja, vainilla y almendra",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y afrutado, con notas de naranja y un dulzor sutil",
+          "value": "Suave y afrutado, con notas de naranja y un dulzor sutil",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y afrutado, con notas de sultanas y caramelo",
+          "value": "Suave y afrutado, con notas de sultanas y caramelo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y afrutado, con notas de vainilla y especias",
+          "value": "Suave y afrutado, con notas de vainilla y especias",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y afrutado, con notas de vainilla y un dulzor sutil",
+          "value": "Suave y afrutado, con notas de vainilla y un dulzor sutil",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y afrutado, con notas de vainilla y un ligero picante",
+          "value": "Suave y afrutado, con notas de vainilla y un ligero picante",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y ahumado, con notas de caramelo y un dulzor sutil",
+          "value": "Suave y ahumado, con notas de caramelo y un dulzor sutil",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y complejo, con notas de canela y jengibre",
+          "value": "Suave y complejo, con notas de canela y jengibre",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y cremoso, con notas de caramelo y un dulzor sutil",
+          "value": "Suave y cremoso, con notas de caramelo y un dulzor sutil",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y cremoso, con notas de naranja y frutos secos",
+          "value": "Suave y cremoso, con notas de naranja y frutos secos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y dulce, con notas de azúcar moreno y especias",
+          "value": "Suave y dulce, con notas de azúcar moreno y especias",
+          "selected": false,
+          "quantity": 6,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y dulce, con notas de caramelo y roble",
+          "value": "Suave y dulce, con notas de caramelo y roble",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y dulce, con notas de cereal y un ligero picante",
+          "value": "Suave y dulce, con notas de cereal y un ligero picante",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y dulce, con notas de manzana y un dulzor sutil",
+          "value": "Suave y dulce, con notas de manzana y un dulzor sutil",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y dulce, con notas de maíz y un ligero picante",
+          "value": "Suave y dulce, con notas de maíz y un ligero picante",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y dulce, con notas de miel y caramelo",
+          "value": "Suave y dulce, con notas de miel y caramelo",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y dulce, con notas de nuez y vainilla",
+          "value": "Suave y dulce, con notas de nuez y vainilla",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y dulce, con notas de roble tostado y especias",
+          "value": "Suave y dulce, con notas de roble tostado y especias",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y dulce, con notas de trigo y un ligero picante",
+          "value": "Suave y dulce, con notas de trigo y un ligero picante",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y dulce, con notas de vainilla y frutos secos",
+          "value": "Suave y dulce, con notas de vainilla y frutos secos",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y dulce, con notas de vainilla, caramelo y un ligero ahumado",
+          "value": "Suave y dulce, con notas de vainilla, caramelo y un ligero ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y equilibrado, con notas de manzana y un dulzor persistente",
+          "value": "Suave y equilibrado, con notas de manzana y un dulzor persistente",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y equilibrado, con notas de manzana y un dulzor sutil",
+          "value": "Suave y equilibrado, con notas de manzana y un dulzor sutil",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y equilibrado, con notas de vainilla y plátano",
+          "value": "Suave y equilibrado, con notas de vainilla y plátano",
+          "selected": false,
+          "quantity": 2,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y equilibrado, con notas de vainilla y un ligero ahumado",
+          "value": "Suave y equilibrado, con notas de vainilla y un ligero ahumado",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y equilibrado, con un dulzor sutil",
+          "value": "Suave y equilibrado, con un dulzor sutil",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y fácil de beber, con un dulzor sutil",
+          "value": "Suave y fácil de beber, con un dulzor sutil",
+          "selected": false,
+          "quantity": 4,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y ligero, con notas de miel y un dulzor sutil",
+          "value": "Suave y ligero, con notas de miel y un dulzor sutil",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave y vibrante, con notas de bayas y caramelo",
+          "value": "Suave y vibrante, con notas de bayas y caramelo",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Suave, con dulzura de malta y un ligero picante",
+          "value": "Suave, con dulzura de malta y un ligero picante",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Vibrante y ahumado, con notas de vainilla y manzana",
+          "value": "Vibrante y ahumado, con notas de vainilla y manzana",
+          "selected": false,
+          "quantity": 3,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Tipo de Producto",
+      "key": "Tipo de Producto",
+      "values": [
+        {
+          "displayName": "Whisky",
+          "value": "Whisky",
+          "selected": false,
+          "quantity": 89,
+          "minValue": null,
+          "maxValue": null
+        },
+        {
+          "displayName": "Cócteles Ice",
+          "value": "Cócteles Ice",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Origen",
+      "key": "Origen",
+      "values": [
+        {
+          "displayName": "Importado",
+          "value": "Importado",
+          "selected": false,
+          "quantity": 90,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Pack Unitario",
+      "key": "Pack-Unitario",
+      "values": [
+        {
+          "displayName": "Unitario",
+          "value": "[\"Unitario\"]",
+          "selected": false,
+          "quantity": 89,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    },
+    {
+      "label": "Exclusivo Jumbo",
+      "key": "Exclusivo Jumbo",
+      "values": [
+        {
+          "displayName": "Sí",
+          "value": "Sí",
+          "selected": false,
+          "quantity": 1,
+          "minValue": null,
+          "maxValue": null
+        }
+      ]
+    }
+  ],
+  "orderTypes": [
+    "OrderByRecommended",
+    "OrderByBestDiscountDESC",
+    "OrderByPriceDESC",
+    "OrderByPriceASC"
+  ],
+  "results": 90,
+  "metaTag": {
+    "title": "Whisky | Jumbo.cl",
+    "description": "Repleta tu bar y tus fiestas con elegancia gracias al whisky del mejor sabor. ¡Ve nuestras marcas de alta gama y pídelas por nuestro catálogo en Jumbo.cl!"
+  }
+}

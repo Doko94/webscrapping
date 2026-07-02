@@ -1,0 +1,54 @@
+No pude extraer links desde el menú (headless). Usando Plan B (slugify).
+
+Subcategorías detectadas en [Mascotas]: 12
+ - Alimento perro | Alimento perro adulto -> https://www.unimarc.cl/category/mascotas/alimento-perro/alimento-perro-adulto
+ - Alimento perro | Alimento cachorro -> https://www.unimarc.cl/category/mascotas/alimento-perro/alimento-cachorro
+ - Alimento perro | Alimentos húmedos y latas -> https://www.unimarc.cl/category/mascotas/alimento-perro/alimentos-humedos-y-latas
+ - Alimento perro | Snack perros -> https://www.unimarc.cl/category/mascotas/alimento-perro/snack-perros
+ - Alimento gato | Alimento gato adulto -> https://www.unimarc.cl/category/mascotas/alimento-gato/alimento-gato-adulto
+ - Alimento gato | Alimento gatito -> https://www.unimarc.cl/category/mascotas/alimento-gato/alimento-gatito
+ - Alimento gato | Alimentos húmedos -> https://www.unimarc.cl/category/mascotas/alimento-gato/alimentos-humedos
+ - Alimento otras mascotas | Alimentos -> https://www.unimarc.cl/category/mascotas/alimento-otras-mascotas/alimentos
+ - Accesorios mascota | Arena y sabanillas -> https://www.unimarc.cl/category/mascotas/accesorios-mascota/arena-y-sabanillas
+ - Accesorios mascota | Accesorios animales -> https://www.unimarc.cl/category/mascotas/accesorios-mascota/accesorios-animales
+ - Accesorios mascota | Shampoo animales -> https://www.unimarc.cl/category/mascotas/accesorios-mascota/shampoo-animales
+ - Accesorios mascota | Antipulgas y garrapatas -> https://www.unimarc.cl/category/mascotas/accesorios-mascota/antipulgas-y-garrapatas
+
+Scrape: [Alimento perro] Alimento perro adulto
+  productos únicos: 31
+
+Scrape: [Alimento perro] Alimento cachorro
+  productos únicos: 11
+
+Scrape: [Alimento perro] Alimentos húmedos y latas
+  productos únicos: 22
+
+Scrape: [Alimento perro] Snack perros
+  productos únicos: 28
+
+Scrape: [Alimento gato] Alimento gato adulto
+  productos únicos: 35
+
+Scrape: [Alimento gato] Alimento gatito
+  productos únicos: 6
+
+Scrape: [Alimento gato] Alimentos húmedos
+  productos únicos: 33
+
+Scrape: [Alimento otras mascotas] Alimentos
+  productos únicos: 5
+
+Scrape: [Accesorios mascota] Arena y sabanillas
+  productos únicos: 11
+
+Scrape: [Accesorios mascota] Accesorios animales
+  productos únicos: 20
+
+Scrape: [Accesorios mascota] Shampoo animales
+  productos únicos: 4
+
+Scrape: [Accesorios mascota] Antipulgas y garrapatas
+  productos únicos: 1
+
+Total filas: 207
+CSV generado: output\mascotas\unimarc_mascotas_subcats_20260309_200805.csv
