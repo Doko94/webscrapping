@@ -565,6 +565,6 @@ def main():
     print(f"[OK] totales ejecutivos: {len(df_exec)}")
     print(f"[OK] Archivos generados en: {OUT_DIR}")
 
-
+# hola
 if __name__ == "__main__":
     main()
