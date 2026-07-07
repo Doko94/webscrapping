@@ -28,7 +28,7 @@ def get_project_paths() -> dict[str, Path]:
     src_dir = script_dir.parent
     comparacion_dir = src_dir.parent
     supermercados_dir = comparacion_dir.parent
-    output_dir = src_dir / "output"
+    output_dir = src_dir / "output" / "consolidado"
 
     output_dir.mkdir(parents=True, exist_ok=True)
 

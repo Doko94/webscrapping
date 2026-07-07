@@ -521,7 +521,7 @@ def build_executive_total(df_summary: pd.DataFrame) -> pd.DataFrame:
 # PIPELINE
 # =========================================================
 def run_pipeline() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame]:
-    consolidado_path = latest_csv_by_prefix(OUTPUT_DIR, "supermercados_consolidado")
+    consolidado_path = latest_csv_by_prefix(OUTPUT_DIR / "consolidado", "supermercados_consolidado")
     if consolidado_path is None or not consolidado_path.exists():
         raise FileNotFoundError("No encontré supermercados_consolidado*.csv en src/output")
 

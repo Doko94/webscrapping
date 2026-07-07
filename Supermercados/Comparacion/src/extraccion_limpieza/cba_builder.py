@@ -555,7 +555,7 @@ def load_input_dataframe(input_csv: Optional[str]) -> pd.DataFrame:
     if input_csv:
         path = Path(input_csv)
     else:
-        path = latest_csv_by_prefix(output_dir, "supermercados_consolidado")
+        path = latest_csv_by_prefix(output_dir/ "consolidado", "supermercados_consolidado")
 
     if path is None or not path.exists():
         raise FileNotFoundError(

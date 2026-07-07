@@ -948,7 +948,7 @@ def build_total_cost_by_market(df_best_market: pd.DataFrame, df_cba: pd.DataFram
 # PIPELINE
 # =========================================================
 def run_pipeline(input_csv: Optional[str] = None) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame, pd.DataFrame]:
-    consolidado_path = Path(input_csv) if input_csv else latest_csv_by_prefix(OUTPUT_DIR, "supermercados_consolidado")
+    consolidado_path = Path(input_csv) if input_csv else latest_csv_by_prefix(OUTPUT_DIR / "consolidado", "supermercados_consolidado")
     if consolidado_path is None or not consolidado_path.exists():
         raise FileNotFoundError("No encontré supermercados_consolidado*.csv en src/output")
 
