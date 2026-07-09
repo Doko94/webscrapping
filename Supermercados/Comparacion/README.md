@@ -32,40 +32,53 @@ Este módulo toma los CSV generados por los procesos de scraping de cada superme
 
 ```text
 Supermercados/
-├── CBA/
-│   └── Valor_CBA_y_LPs_25.12.pdf
-├── Jumbo/
-│   └── output/
-├── Lider/
-│   └── output/
-├── Unimarc/
-│   └── output/
-└── Comparacion/
-    ├── README.md
-    └── src/
-        ├── extraccion_limpieza/
-        │   ├── extraccion_limpieza.py
-        │   ├── comparar_carrito.py
-        │   ├── cba_builder.py
-        │   ├── cba_ahorro_supermercado.py
-        │   ├── cba_escenario_economico.py
-        │   ├── cba_escenario_premium.py
-        │   ├── extraer_cba_desde_pdf.py
-        │   ├── carrito.txt
-        │   ├── config.py
-        │   ├── pipeline.py
-        │   ├── readers.py
-        │   ├── builders.py
-        │   ├── normalizers.py
-        │   ├── product_matcher.py
-        │   └── utils.py
-        └── output/
-            ├── consolidado/
-            ├── carrito_comparado/
-            ├── cba/
-            ├── cba_escenario1_economico/
-            ├── cba_escenario_premium/
-            └── out_cba/
++-- CBA/
+|   +-- Valor_CBA_y_LPs_25.12.pdf
++-- Jumbo/
+|   +-- output/
++-- Lider/
+|   +-- output/
++-- Unimarc/
+|   +-- output/
++-- Comparacion/
+    +-- README.md
+    +-- .gitignore
+    +-- src/
+    |   +-- api/
+    |   |   +-- main.py
+    |   |   +-- data_loader.py
+    |   |   +-- services.py
+    |   |   +-- requirements.txt
+    |   +-- extraccion_limpieza/
+    |   |   +-- extraccion_limpieza.py
+    |   |   +-- comparar_carrito.py
+    |   |   +-- cba_builder.py
+    |   |   +-- cba_ahorro_supermercado.py
+    |   |   +-- cba_escenario_economico.py
+    |   |   +-- cba_escenario_premium.py
+    |   |   +-- extraer_cba_desde_pdf.py
+    |   |   +-- carrito.txt
+    |   |   +-- config.py
+    |   |   +-- pipeline.py
+    |   |   +-- readers.py
+    |   |   +-- builders.py
+    |   |   +-- normalizers.py
+    |   |   +-- product_matcher.py
+    |   |   +-- utils.py
+    |   +-- output/
+    |       +-- consolidado/
+    |       +-- carrito_comparado/
+    |       +-- cba/
+    |       +-- cba_escenario1_economico/
+    |       +-- cba_escenario_premium/
+    |       +-- out_cba/
+    +-- web/
+        +-- package.json
+        +-- index.html
+        +-- src/
+            +-- App.jsx
+            +-- api.js
+            +-- components/
 ```
 
 ---
@@ -75,6 +88,7 @@ Supermercados/
 Versión recomendada:
 
 - Python 3.10 o superior
+- Node.js 20 o superior, solo para la web React
 
 Librerías usadas por los scripts:
 
@@ -87,6 +101,201 @@ Notas:
 - `pandas` y `numpy` se usan en casi todo el procesamiento.
 - `scikit-learn` se usa en el matching de productos (`product_matcher.py`).
 - `pdfplumber` se usa para extraer datos de la CBA oficial desde PDF (`extraer_cba_desde_pdf.py`).
+
+---
+
+## Aplicación web V1
+
+La primera versión pública se separa en dos partes:
+
+```text
+Supermercados/Comparacion/src/api/
+```
+
+Backend con FastAPI. Lee los CSV generados en `src/output` y los expone como endpoints.
+
+```text
+Supermercados/Comparacion/web/
+```
+
+Frontend con React + Tailwind. Consume la API y muestra dashboard, buscador, CBA y escenarios.
+
+Flujo:
+
+```text
+Scripts Python generan CSV
+        ↓
+FastAPI lee src/output
+        ↓
+React muestra los datos
+```
+
+### Levantar backend FastAPI
+
+Desde:
+
+```powershell
+cd "Supermercados\Comparacion\src\api"
+```
+
+Instalar dependencias:
+
+```powershell
+pip install -r requirements.txt
+```
+
+Levantar servidor:
+
+```powershell
+uvicorn main:app --reload
+```
+
+La API queda disponible en:
+
+```text
+http://localhost:8000
+```
+
+Documentación interactiva:
+
+```text
+http://localhost:8000/docs
+```
+
+Endpoints iniciales:
+
+```text
+GET /health
+GET /metadata
+GET /products/summary
+GET /products/search?q=leche
+GET /products/compare?q=arroz
+GET /cba/summary
+GET /cart/summary
+GET /scenarios/economic
+GET /scenarios/premium
+```
+
+### Levantar frontend React + Tailwind
+
+En otra terminal, desde:
+
+```powershell
+cd "Supermercados\Comparacion\web"
+```
+
+Instalar dependencias:
+
+```powershell
+npm install
+```
+
+Levantar servidor web:
+
+```powershell
+npm run dev
+```
+
+La web queda disponible en:
+
+```text
+http://localhost:5173
+```
+
+Por defecto el frontend consulta:
+
+```text
+http://localhost:8000
+```
+
+Si necesitas cambiar la URL de la API, crea un archivo `.env.local` en `web/`:
+
+```text
+VITE_API_BASE_URL=http://localhost:8000
+```
+
+Si aparece este error:
+
+```text
+npm : El término 'npm' no se reconoce como nombre de un cmdlet...
+```
+
+significa que Node.js/npm no está instalado o no quedó agregado al `PATH` de Windows.
+
+Solución recomendada:
+
+1. Instalar Node.js LTS desde `https://nodejs.org/`.
+2. Cerrar y volver a abrir PowerShell o VS Code.
+3. Verificar:
+
+```powershell
+node -v
+npm -v
+```
+
+4. Volver a ejecutar:
+
+```powershell
+npm install
+npm run dev
+```
+
+### Publicar en Netlify
+
+Netlify sirve muy bien el frontend React, pero no levanta FastAPI como servidor permanente. Para publicar una primera versión sin backend, el proyecto incluye un modo estático.
+
+Primero genera archivos JSON desde los CSV actuales:
+
+```powershell
+cd "Supermercados\Comparacion\src\api"
+python export_static_data.py
+```
+
+Esto crea:
+
+```text
+Supermercados/Comparacion/web/public/data/
+```
+
+con archivos como:
+
+```text
+health.json
+metadata.json
+products_summary.json
+products_index.json
+cba_summary.json
+scenarios_economic.json
+scenarios_premium.json
+```
+
+Luego instala y construye el frontend:
+
+```powershell
+cd "Supermercados\Comparacion\web"
+npm install
+npm run build
+```
+
+La carpeta que Netlify debe publicar es:
+
+```text
+Supermercados/Comparacion/web/dist
+```
+
+El archivo `web/netlify.toml` ya deja configurado:
+
+```text
+build command: npm run build
+publish directory: dist
+VITE_DATA_MODE: static
+```
+
+En Netlify puedes subir/publicar la carpeta `web` como proyecto. Para cada actualización de datos:
+
+1. Ejecuta nuevamente los scripts Python que generan CSV.
+2. Ejecuta `python export_static_data.py`.
+3. Vuelve a desplegar la web.
 
 ---
 
@@ -760,4 +969,3 @@ El proyecto ya cuenta con:
 - Extracción de CBA oficial desde PDF.
 - Escenario económico.
 - Escenario premium.
-
