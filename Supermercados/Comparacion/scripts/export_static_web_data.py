@@ -26,6 +26,8 @@ from services import (  # noqa: E402
     scenario_summary,
 )
 
+TOTAL_CBA_ITEMS = 79
+
 
 PRODUCT_INDEX_COLUMNS = [
     "sku",
@@ -92,6 +94,68 @@ def build_cba_items_by_supermarket() -> list[dict[str, Any]]:
     return sorted(rows, key=lambda row: row["supermarket"])
 
 
+def build_cba_summary_from_matches() -> dict[str, Any] | None:
+    if not CBA_ITEM_MATCHES_PATH.exists():
+        return None
+
+    df = pd.read_csv(CBA_ITEM_MATCHES_PATH, sep=";", encoding="utf-8-sig", low_memory=False)
+    if df.empty or "coverage_status" not in df.columns:
+        return None
+
+    matched = df[df["coverage_status"] == "matched"].copy()
+    matched["estimated_month_cost"] = pd.to_numeric(matched["estimated_month_cost"], errors="coerce")
+    matched = matched[matched["estimated_month_cost"].notna()].copy()
+
+    if matched.empty:
+        return None
+
+    best_market_item = (
+        matched.sort_values(["supermarket", "cba_name", "estimated_month_cost"])
+        .groupby(["supermarket", "cba_name"], as_index=False)
+        .first()
+    )
+    resumen = (
+        best_market_item.groupby("supermarket", as_index=False)
+        .agg(
+            cba_items_cubiertos=("cba_name", "nunique"),
+            costo_total_cba_detectada=("estimated_month_cost", "sum"),
+        )
+    )
+    resumen["cba_items_totales"] = TOTAL_CBA_ITEMS
+    resumen["cobertura_pct"] = (resumen["cba_items_cubiertos"] / TOTAL_CBA_ITEMS * 100).round(2)
+    resumen["cobertura_pct_fmt"] = resumen["cobertura_pct"].map(
+        lambda value: f"{value:.2f}%".replace(".", ",") if pd.notna(value) else None
+    )
+    resumen = resumen.sort_values("costo_total_cba_detectada")
+
+    optima = (
+        matched.sort_values(["cba_name", "estimated_month_cost"])
+        .groupby("cba_name", as_index=False)
+        .first()
+        .sort_values("estimated_month_cost")
+    )
+
+    cobertura = (
+        df.groupby("cba_name", as_index=False)
+        .agg(
+            candidatos_detectados=("name", lambda values: values.notna().sum()),
+            supermercados_detectados=("supermarket", lambda values: values.dropna().nunique()),
+            tiene_match=("coverage_status", lambda values: int((values == "matched").any())),
+        )
+    )
+    cobertura["estado"] = cobertura["tiene_match"].map(lambda value: "cubierto" if value == 1 else "faltante")
+    cobertura = cobertura.sort_values(
+        ["estado", "supermercados_detectados", "candidatos_detectados"],
+        ascending=[True, False, False],
+    )
+
+    base = cba_summary()
+    base["resumen_supermercado"] = clean_records(resumen)
+    base["canasta_optima"] = clean_records(optima, limit=30)
+    base["cobertura"] = clean_records(cobertura, limit=100)
+    return base
+
+
 def build_cba_cost_drivers(limit: int = 12) -> list[dict[str, Any]]:
     if not CBA_ITEM_MATCHES_PATH.exists():
         return []
@@ -125,7 +189,7 @@ def build_cba_cost_drivers(limit: int = 12) -> list[dict[str, Any]]:
 def main() -> None:
     WEB_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-    cba_data = cba_summary()
+    cba_data = build_cba_summary_from_matches() or cba_summary()
     cba_data["items_by_supermarket"] = build_cba_items_by_supermarket()
     cba_data["cost_drivers"] = build_cba_cost_drivers()
 

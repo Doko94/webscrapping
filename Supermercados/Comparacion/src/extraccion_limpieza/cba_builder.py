@@ -144,6 +144,45 @@ def normalize_unit_family(unit: Optional[str]) -> Optional[str]:
     return None
 
 
+def extract_size_from_text(value) -> tuple[float, Optional[str]]:
+    if pd.isna(value):
+        return np.nan, None
+
+    text = strip_accents(str(value).lower())
+    text = text.replace(",", ".")
+    text = re.sub(r"[^a-z0-9\.\s]", " ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    matches = list(
+        re.finditer(
+            r"(\d+(?:\.\d+)?)\s*(kg|kilo|kilos|g|gr|gramo|gramos|l|lt|lts|litro|litros|ml|cc|un|unidad|unidades)\b",
+            text,
+        )
+    )
+    if not matches:
+        return np.nan, None
+
+    amount = safe_to_float(matches[-1].group(1))
+    unit = matches[-1].group(2)
+    if pd.isna(amount):
+        return np.nan, None
+
+    normalized_unit = {
+        "kilo": "kg",
+        "kilos": "kg",
+        "gr": "g",
+        "gramo": "g",
+        "gramos": "g",
+        "lt": "l",
+        "lts": "l",
+        "litro": "l",
+        "litros": "l",
+        "unidad": "un",
+        "unidades": "un",
+    }.get(unit, unit)
+
+    return normalize_unit_value(amount, normalized_unit), normalize_unit_family(normalized_unit)
+
+
 def normalize_unit_value(value, unit) -> float:
     if pd.isna(value) or pd.isna(unit):
         return np.nan
@@ -322,6 +361,206 @@ CUSTOM_PATTERNS = {
     "Colación o menú del día o almuerzo ejecutivo": [r"\bmenu\b", r"\balmuerzo\b", r"\bejecutivo\b", r"\bcolacion\b"],
 }
 
+NON_FOOD_EXCLUDE_TERMS = [
+    "acondicionador",
+    "afeitar",
+    "ambiental",
+    "aromatizante",
+    "baby",
+    "balsamo",
+    "barra de labios",
+    "bebe",
+    "bronceador",
+    "cabello",
+    "capilar",
+    "corporal",
+    "crema",
+    "desodorante",
+    "ducha",
+    "emulsionado",
+    "gel",
+    "hidratante",
+    "jabon",
+    "locion",
+    "mascara",
+    "perro",
+    "piel",
+    "protector",
+    "repuesto",
+    "shampoo",
+    "toallitas",
+]
+
+CBA_MATCH_RULES = {
+    "Bebida energizante": {
+        "required_all": ["energizante"],
+        "required_any": ["bebida", "drink", "energy"],
+        "exclude": NON_FOOD_EXCLUDE_TERMS + ["isotonico", "isotonica"],
+    },
+    "Bebida gaseosa tradicional": {
+        "required_any": ["bebida", "gaseosa"],
+        "exclude": NON_FOOD_EXCLUDE_TERMS + ["jugo", "nectar", "energetica", "energizante", "isotonica", "isotonico"],
+    },
+    "Refresco isotónico": {
+        "required_any": ["isotonico", "isotonica", "sport"],
+        "exclude": NON_FOOD_EXCLUDE_TERMS,
+    },
+    "Jugo líquido": {
+        "required_any": ["jugo"],
+        "exclude": NON_FOOD_EXCLUDE_TERMS + ["polvo"],
+    },
+    "Néctar líquido": {
+        "required_any": ["nectar"],
+        "exclude": NON_FOOD_EXCLUDE_TERMS + ["polvo"],
+    },
+    "Aceite vegetal combinado o puro": {
+        "required_all": ["aceite"],
+        "required_any": ["vegetal", "maravilla", "canola", "maiz", "freir", "fritura", "cocina"],
+        "exclude": NON_FOOD_EXCLUDE_TERMS + ["oliva", "sesamo", "palta", "coco", "trufa", "lino", "bronceador"],
+    },
+    "Leche líquida entera": {
+        "required_all": ["leche"],
+        "required_any": ["entera"],
+        "exclude": NON_FOOD_EXCLUDE_TERMS + ["polvo", "chocolate", "condensada", "evaporada", "descremada", "semidescremada"],
+    },
+    "Leche en polvo entera instantánea": {
+        "required_all": ["leche", "polvo"],
+        "required_any": ["entera", "instantanea"],
+        "exclude": NON_FOOD_EXCLUDE_TERMS + ["descremada", "semidescremada"],
+    },
+    "Pollo entero": {
+        "required_all": ["pollo"],
+        "required_any": ["entero"],
+        "exclude": ["trutro", "pechuga", "tuto", "ala", "alitas", "asado", "filetillo", "nugget", "hamburguesa"],
+    },
+    "Pollo asado entero": {
+        "required_all": ["pollo", "asado"],
+        "required_any": ["entero"],
+        "exclude": ["tiras", "trutro", "pechuga", "filetillo", "nugget", "hamburguesa"],
+    },
+    "Trutro de pollo": {
+        "required_all": ["pollo"],
+        "required_any": ["trutro", "tuto"],
+        "exclude": ["entero", "pechuga", "asado", "filetillo"],
+    },
+    "Pechuga de pollo": {
+        "required_all": ["pechuga", "pollo"],
+        "exclude": ["trutro", "tuto", "entero", "asado"],
+    },
+    "Torta 15 o 20 personas": {
+        "required_all": ["torta"],
+        "exclude": NON_FOOD_EXCLUDE_TERMS + ["turron", "galleta", "bizcocho", "queque", "premezcla"],
+    },
+    "Galleta dulce": {
+        "required_all": ["galleta"],
+        "exclude": ["arroz", "salada", "cracker", "agua"],
+    },
+    "Galleta no dulce": {
+        "required_all": ["galleta"],
+        "required_any": ["salada", "agua", "cracker", "soda"],
+        "exclude": ["dulce", "chocolate", "rellena"],
+    },
+    "Completo": {
+        "required_all": ["completo"],
+        "exclude": ["pan", "vienesa", "salchicha", "molde", "alino", "polvo", "condimento", "sazon"],
+    },
+    "Asiento": {
+        "required_all": ["asiento"],
+        "exclude": ["lomo", "filete", "arrachera", "punta", "wagyu", "angus"],
+    },
+    "Carne molida": {
+        "required_all": ["carne", "molida"],
+        "exclude": ["pavo", "pollo", "trutro", "hamburguesa", "vegana", "vegetal", "sucedaneo", "cerdo"],
+    },
+    "Chuleta de cerdo centro o vetada": {
+        "required_all": ["chuleta", "cerdo"],
+        "exclude": ["paleta", "jamon", "pate"],
+    },
+    "Costillar de cerdo": {
+        "required_all": ["costillar", "cerdo"],
+        "exclude": ["paleta", "jamon", "pate"],
+    },
+    "Pulpa de cerdo": {
+        "required_all": ["pulpa", "cerdo"],
+        "exclude": ["cordero", "vacuno", "paleta", "jamon", "molida"],
+    },
+    "Pulpa de cordero fresco o refrigerado": {
+        "required_all": ["pulpa", "cordero"],
+        "exclude": ["cerdo", "vacuno", "pollo", "congelado"],
+    },
+    "Palta": {
+        "required_all": ["palta"],
+        "exclude": ["tapa", "tapas", "set", "aderezo", "sabor", "cilantro", "crema", "shampoo"],
+    },
+    "Lenteja": {
+        "required_all": ["lenteja"],
+        "exclude": ["snack", "popped", "galleta", "base", "tomate", "albahaca", "hummus"],
+    },
+    "Poroto": {
+        "required_all": ["poroto"],
+        "exclude": ["verde", "perlitas", "ensalada", "congelado"],
+    },
+    "Helado familiar un sabor": {
+        "required_all": ["helado"],
+        "exclude": ["galleta", "oblea", "barquillo", "te"],
+    },
+    "Empanada de horno": {
+        "required_all": ["empanada"],
+        "exclude": ["tapa", "masa", "hojaldrada", "disco"],
+    },
+    "Té corriente (según establecimiento) - para desayuno": {
+        "required_all": ["te"],
+        "exclude": ["mix", "desayuno", "galleta", "infusion"],
+    },
+    "Colación o menú del día o almuerzo ejecutivo": {
+        "required_all": ["promocion"],
+        "required_any": ["menu", "almuerzo ejecutivo", "combo"],
+        "exclude": ["galleta", "fruta", "colacion", "snack", "multipack", "plato", "dkora"],
+    },
+    "Promoción de comida rápida": {
+        "required_all": ["promocion"],
+        "required_any": ["comida rapida", "combo", "menu"],
+        "exclude": ["plato", "dkora", "fuente", "bandeja"],
+    },
+    "Espiral": {
+        "required_any": ["espiral", "fideo", "pasta"],
+        "exclude": NON_FOOD_EXCLUDE_TERMS + ["repelente", "tanax", "citronella", "insecticida"],
+    },
+    "Jurel en conserva": {
+        "required_all": ["jurel"],
+        "required_any": ["conserva", "lata", "natural", "aceite"],
+        "exclude": ["fresco", "granel"],
+    },
+    "Merluza fresca o refrigerada": {
+        "required_all": ["merluza"],
+        "exclude": ["nugget", "nuggets", "apanada", "apanadas", "croqueta", "hamburguesa", "tempura", "romana"],
+    },
+    "Jamón de cerdo": {
+        "required_all": ["jamon"],
+        "exclude": ["pate", "pata", "serrano"],
+    },
+    "Pate": {
+        "required_all": ["pate"],
+        "exclude": ["jamon"],
+    },
+    "Papa de guarda": {
+        "required_all": ["papa"],
+        "exclude": ["figura", "trendy", "senor", "cara", "juguete", "snack", "frita", "fritas", "mix", "gnocchi", "noquis", "pan", "hamburguesa", "crunchis", "sufle", "sufles", "chips", "popped", "doy"],
+    },
+    "Manzana": {
+        "required_all": ["manzana"],
+        "exclude": ["te", "galleta", "galletas", "jugo", "compota", "salsa", "canela", "sabor"],
+    },
+    "Tomate": {
+        "required_all": ["tomate"],
+        "exclude": ["salsa", "crema", "sopa", "jugo", "pasta", "conserva", "snack"],
+    },
+}
+
+CBA_MATCH_RULES_BY_CLEAN_NAME = {
+    clean_text(name): rule for name, rule in CBA_MATCH_RULES.items()
+}
+
 
 # ============================================================
 # PREPARACIÓN DE PRODUCTOS
@@ -352,6 +591,12 @@ def prepare_products(df: pd.DataFrame) -> pd.DataFrame:
     df["price_num"] = df["price"].apply(safe_to_float)
     df["unit_family"] = df["unit"].apply(normalize_unit_family)
     df["size_std"] = df.apply(lambda x: normalize_unit_value(x["net_content"], x["unit"]), axis=1)
+
+    missing_size = df["size_std"].isna()
+    if missing_size.any():
+        extracted = df.loc[missing_size, "name"].apply(extract_size_from_text)
+        df.loc[missing_size, "size_std"] = extracted.map(lambda x: x[0])
+        df.loc[missing_size, "unit_family"] = extracted.map(lambda x: x[1])
 
     df["price_per_std_unit"] = np.where(
         (df["price_num"].notna()) & (df["size_std"].notna()) & (df["size_std"] > 0),
@@ -392,6 +637,54 @@ def build_candidate_mask(df: pd.DataFrame, item: CBAItem) -> pd.Series:
             (df["unit_family"] == item_family) |
             (df["unit_family"].isna())
         )
+
+    mask = apply_match_rules(df, item, mask)
+
+    return mask
+
+
+def _contains_any(text: pd.Series, terms: list[str]) -> pd.Series:
+    if not terms:
+        return pd.Series(True, index=text.index)
+
+    out = pd.Series(False, index=text.index)
+    for term in terms:
+        out = out | text.str.contains(rf"\b{re.escape(clean_text(term))}\b", regex=True, na=False)
+    return out
+
+
+def _contains_all(text: pd.Series, terms: list[str]) -> pd.Series:
+    out = pd.Series(True, index=text.index)
+    for term in terms:
+        out = out & text.str.contains(rf"\b{re.escape(clean_text(term))}\b", regex=True, na=False)
+    return out
+
+
+def apply_match_rules(df: pd.DataFrame, item: CBAItem, mask: pd.Series) -> pd.Series:
+    rule = CBA_MATCH_RULES.get(item.cba_name) or CBA_MATCH_RULES_BY_CLEAN_NAME.get(clean_text(item.cba_name))
+    if not rule:
+        return mask
+
+    text = (
+        df["name_clean"].fillna("")
+        + " "
+        + df["brand_clean"].fillna("")
+        + " "
+        + df["category_std"].fillna("").astype(str).apply(clean_text)
+    )
+
+    required_all = rule.get("required_all", [])
+    required_any = rule.get("required_any", [])
+    exclude = rule.get("exclude", [])
+
+    if required_all:
+        mask = mask & _contains_all(text, required_all)
+
+    if required_any:
+        mask = mask & _contains_any(text, required_any)
+
+    if exclude:
+        mask = mask & ~_contains_any(text, exclude)
 
     return mask
 
