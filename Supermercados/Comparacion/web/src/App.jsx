@@ -30,6 +30,111 @@ function priceNumber(value) {
   return Number.isNaN(parsed) ? Number.POSITIVE_INFINITY : parsed
 }
 
+function normalizeText(value) {
+  return String(value ?? '')
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .trim()
+}
+
+function normalizeUnit(unit) {
+  const clean = normalizeText(unit).replace(/\./g, '')
+  if (['kg', 'kilo', 'kilos'].includes(clean)) return { family: 'mass', unit: 'kg', factor: 1000 }
+  if (['g', 'gr', 'gramo', 'gramos'].includes(clean)) return { family: 'mass', unit: 'g', factor: 1 }
+  if (['l', 'lt', 'lts', 'litro', 'litros'].includes(clean)) return { family: 'volume', unit: 'L', factor: 1000 }
+  if (['ml', 'cc'].includes(clean)) return { family: 'volume', unit: clean, factor: 1 }
+  return null
+}
+
+function formatSize(size) {
+  if (!size) return 'Formato no detectado'
+  if (size.family === 'mass') {
+    return size.amount >= 1000 ? `${size.amount / 1000} kg` : `${size.amount} g`
+  }
+  if (size.family === 'volume') {
+    return size.amount >= 1000 ? `${size.amount / 1000} L` : `${size.amount} ml`
+  }
+  return 'Formato no detectado'
+}
+
+function extractSizeFromText(value) {
+  const text = normalizeText(value).replace(/,/g, '.')
+  const matches = Array.from(text.matchAll(/(\d+(?:\.\d+)?)\s*(kg|kilos?|g|gr|gramos?|l|lt|lts|litros?|ml|cc)\b/g))
+  if (!matches.length) return null
+
+  const match = matches[matches.length - 1]
+  const amount = Number(match[1])
+  const unitInfo = normalizeUnit(match[2])
+  if (!unitInfo || Number.isNaN(amount)) return null
+
+  return {
+    amount: amount * unitInfo.factor,
+    family: unitInfo.family,
+    label: formatSize({ amount: amount * unitInfo.factor, family: unitInfo.family }),
+  }
+}
+
+function extractProductSize(product) {
+  const fromName = extractSizeFromText(product?.name)
+  if (fromName) return fromName
+
+  const fromContent = extractSizeFromText(`${product?.net_content ?? ''} ${product?.unit ?? ''}`)
+  if (fromContent) return fromContent
+
+  return null
+}
+
+function parseCartLine(value) {
+  const raw = String(value ?? '').trim()
+  const targetSize = extractSizeFromText(raw)
+  const searchTerm = raw
+    .replace(/(\d+(?:[.,]\d+)?)\s*(kg|kilos?|g|gr|gramos?|l|lt|lts|litros?|ml|cc)\b/gi, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+
+  return {
+    raw,
+    searchTerm: searchTerm || raw,
+    targetSize,
+  }
+}
+
+function productMatchesQuery(product, query) {
+  const haystack = normalizeText(product?.name)
+  return normalizeText(query)
+    .split(/\s+/)
+    .filter(Boolean)
+    .every((token) => haystack.includes(token))
+}
+
+function estimateComparablePrice(product, targetSize) {
+  const productPrice = priceNumber(product?.price)
+  const productSize = extractProductSize(product)
+
+  if (!Number.isFinite(productPrice)) {
+    return {
+      productSize,
+      estimatedPrice: Number.POSITIVE_INFINITY,
+      comparable: false,
+    }
+  }
+
+  if (!targetSize || !productSize || targetSize.family !== productSize.family || productSize.amount <= 0) {
+    return {
+      productSize,
+      estimatedPrice: productPrice,
+      comparable: false,
+    }
+  }
+
+  return {
+    productSize,
+    estimatedPrice: productPrice * (targetSize.amount / productSize.amount),
+    comparable: true,
+  }
+}
+
 function Pill({ children }) {
   return <span className="rounded-full bg-emerald-50 px-3 py-1 text-xs font-semibold text-emerald-700">{children}</span>
 }
@@ -104,7 +209,7 @@ export default function App() {
   const [query, setQuery] = useState('leche')
   const [market, setMarket] = useState('')
   const [searchResult, setSearchResult] = useState([])
-  const [cartText, setCartText] = useState('arroz\nleche\naceite')
+  const [cartText, setCartText] = useState('arroz basmati 1 kg\nleche entera 1 L\naceite vegetal 1 L')
   const [cartRows, setCartRows] = useState([])
   const [cartLoading, setCartLoading] = useState(false)
   const [loading, setLoading] = useState(true)
@@ -178,7 +283,7 @@ export default function App() {
 
   async function buildCart(event) {
     event?.preventDefault()
-    const items = parseCartText(cartText)
+    const items = parseCartText(cartText).map(parseCartLine)
     if (!items.length) {
       setCartRows([])
       return
@@ -190,30 +295,42 @@ export default function App() {
       setCartLoading(true)
       const rows = await Promise.all(
         items.map(async (item) => {
-          const result = await searchProducts(item, '', 200)
+          const result = await searchProducts(item.searchTerm, '', 500)
           const marketResults = Object.fromEntries(
             supermarkets.map((supermarket) => {
-              const options = (result.items ?? [])
+              let options = (result.items ?? [])
                 .filter((product) => String(product.supermarket ?? '').toLowerCase() === supermarket.toLowerCase())
-                .sort((a, b) => priceNumber(a.price) - priceNumber(b.price))
+                .filter((product) => productMatchesQuery(product, item.searchTerm))
+                .map((product) => ({
+                  product,
+                  ...estimateComparablePrice(product, item.targetSize),
+                }))
+
+              if (item.targetSize && options.some((option) => option.comparable)) {
+                options = options.filter((option) => option.comparable)
+              }
+
+              options = options.sort((a, b) => a.estimatedPrice - b.estimatedPrice)
 
               return [supermarket, options[0] ?? null]
             }),
           )
 
           const available = Object.entries(marketResults)
-            .filter(([, product]) => product)
-            .map(([supermarket, product]) => ({
+            .filter(([, option]) => option)
+            .map(([supermarket, option]) => ({
               supermarket,
-              product,
-              price: priceNumber(product.price),
+              product: option.product,
+              price: option.estimatedPrice,
             }))
             .filter((itemPrice) => Number.isFinite(itemPrice.price))
 
           const cheapest = available.sort((a, b) => a.price - b.price)[0] ?? null
 
           return {
-            query: item,
+            query: item.raw,
+            searchTerm: item.searchTerm,
+            targetSize: item.targetSize,
             markets: marketResults,
             cheapestMarket: cheapest?.supermarket ?? null,
             cheapestPrice: cheapest?.price ?? null,
@@ -245,7 +362,7 @@ export default function App() {
     const prices = cartRows
       .map((row) => row.markets?.[supermarket])
       .filter(Boolean)
-      .map((product) => priceNumber(product.price))
+      .map((option) => option.estimatedPrice)
       .filter((price) => Number.isFinite(price))
 
     return {
@@ -445,7 +562,7 @@ export default function App() {
 
         <SectionCard
           title="Armar carrito y comparar"
-          description="Escribe una lista de productos o agrega productos desde el buscador. Para cada ítem se toma el resultado de menor precio encontrado en cada supermercado y se destaca la opción más barata."
+          description="Escribe producto, tipo y formato objetivo, por ejemplo: arroz basmati 1 kg, leche entera 1 L, aceite vegetal 900 ml. Con esa información la comparación evita mezclar envases o productos parecidos."
         >
           <form onSubmit={buildCart} className="grid gap-4 lg:grid-cols-[minmax(280px,0.8fr)_1.2fr]">
             <div className="space-y-3">
@@ -453,7 +570,7 @@ export default function App() {
                 value={cartText}
                 onChange={(event) => setCartText(event.target.value)}
                 className="min-h-[170px] w-full rounded-2xl border border-slate-300 bg-white p-4 text-sm outline-none transition focus:border-emerald-500 focus:ring-4 focus:ring-emerald-100"
-                placeholder="Un producto por línea: arroz, leche, aceite..."
+                placeholder="Un producto por línea: arroz basmati 1 kg, leche entera 1 L, aceite vegetal 900 ml..."
               />
               <div className="flex flex-wrap gap-2">
                 {cartItems.map((item) => (
@@ -495,9 +612,15 @@ export default function App() {
                     {cartRows.length ? (
                       cartRows.map((row) => (
                         <tr key={row.query}>
-                          <td className="px-4 py-3 align-top font-semibold text-ink">{row.query}</td>
+                          <td className="px-4 py-3 align-top">
+                            <p className="font-semibold text-ink">{row.searchTerm}</p>
+                            <p className="mt-1 text-xs text-slate-500">
+                              Objetivo: {row.targetSize ? formatSize(row.targetSize) : 'sin formato'}
+                            </p>
+                          </td>
                           {supermarketNames.map((supermarket) => {
-                            const product = row.markets?.[supermarket]
+                            const option = row.markets?.[supermarket]
+                            const product = option?.product
                             const isLowest = row.cheapestMarket === supermarket
 
                             return (
@@ -510,13 +633,23 @@ export default function App() {
                                 {product ? (
                                   <div>
                                     <div className="flex items-center gap-2">
-                                      <span className="font-bold">{formatCurrency(product.price)}</span>
+                                      <span className="font-bold">
+                                        {option.comparable ? formatCurrency(option.estimatedPrice) : formatCurrency(product.price)}
+                                      </span>
                                       {isLowest ? (
                                         <span className="rounded-full bg-emerald-600 px-2 py-0.5 text-[11px] font-bold text-white">
                                           menor
                                         </span>
                                       ) : null}
                                     </div>
+                                    <p className="mt-1 text-xs font-medium text-slate-500">
+                                      {option.comparable
+                                        ? `Estimado para ${formatSize(row.targetSize)} · envase ${formatSize(option.productSize)}`
+                                        : `Envase ${formatSize(option.productSize)} · sin equivalencia`}
+                                    </p>
+                                    {option.comparable ? (
+                                      <p className="mt-1 text-xs text-slate-400">Precio envase: {formatCurrency(product.price)}</p>
+                                    ) : null}
                                     <p className="mt-1 max-w-[260px] text-xs leading-snug">{product.name}</p>
                                     <p className="mt-1 text-xs text-slate-400">{product.brand || 'Marca no informada'}</p>
                                   </div>
