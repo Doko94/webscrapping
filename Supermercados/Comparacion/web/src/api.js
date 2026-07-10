@@ -52,10 +52,6 @@ export function getDataMode() {
   return DATA_MODE
 }
 
-export function getDataMode() {
-  return DATA_MODE
-}
-
 export function getMetadata() {
   if (DATA_MODE === 'static') return requestStatic('metadata.json')
   return request('/metadata')
