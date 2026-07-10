@@ -136,7 +136,7 @@ function estimateComparablePrice(product, targetSize) {
 }
 
 function Pill({ children }) {
-  return <span className="rounded-full bg-emerald-50 px-3 py-1 text-xs font-semibold text-emerald-700">{children}</span>
+  return <span className="rounded-full bg-[#f8e4df] px-3 py-1 text-xs font-semibold text-[#8f4b62]">{children}</span>
 }
 
 function Muted({ children }) {
@@ -462,23 +462,28 @@ export default function App() {
     { key: 'best_price_num', label: 'Precio', render: formatCurrency },
   ]
 
+  const cbaDriverColumns = [
+    { key: 'supermarket', label: 'Supermercado', render: (value) => <Pill>{value}</Pill> },
+    { key: 'cba_name', label: 'Ítem CBA' },
+    { key: 'estimated_month_cost', label: 'Costo usado', render: formatCurrency },
+    { key: 'name', label: 'Producto detectado' },
+    { key: 'brand', label: 'Marca', render: formatBrand },
+  ]
+
   return (
     <main className="min-h-screen bg-soft text-ink">
-      <section className="bg-gradient-to-br from-emerald-700 via-emerald-600 to-lime-500 px-4 py-10 text-white sm:px-6 lg:px-8">
+      <section className="bg-gradient-to-br from-ocean via-plum to-brand px-4 py-10 text-white sm:px-6 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <div className="flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
             <div className="max-w-3xl">
               <h1 className="text-4xl font-black tracking-tight sm:text-5xl">
                 Comparador de precios de supermercados
               </h1>
-              <p className="mt-4 text-lg text-emerald-50">
-                Explora productos consolidados, costos de CBA y escenarios económico/premium usando las salidas reales del pipeline.
-              </p>
             </div>
             <div className="rounded-3xl bg-white/15 p-5 backdrop-blur">
-              <p className="text-sm text-emerald-50">Fuente de datos</p>
+              <p className="text-sm text-white/80">Fuente de datos</p>
               <p className="mt-1 text-2xl font-bold">{health?.status === 'ok' ? dataModeLabel : 'Pendiente'}</p>
-              <p className="mt-2 text-sm text-emerald-50">
+              <p className="mt-2 text-sm text-white/80">
                 Consolidado: {health?.consolidado_rows?.toLocaleString('es-CL') ?? '—'} filas
               </p>
             </div>
@@ -497,7 +502,7 @@ export default function App() {
           <MetricCard
             label="Productos consolidados"
             value={summary?.total_products?.toLocaleString('es-CL') ?? (loading ? '...' : '0')}
-            helper={latestConsolidado?.file_name ?? 'Ejecuta extraccion_limpieza.py para actualizar'}
+            helper={latestConsolidado ? 'Base consolidada disponible' : 'Ejecuta extraccion_limpieza.py para actualizar'}
           />
           <MetricCard
             label="Supermercado CBA más barato"
@@ -701,9 +706,16 @@ export default function App() {
 
         <SectionCard
           title="Resumen CBA por supermercado"
-          description="Costo estimado para los productos de la Canasta Básica de Alimentos que el pipeline logró encontrar. La columna de ítems muestra ejemplos concretos cubiertos por cada supermercado."
+          description="Costo estimado para los ítems CBA detectados. Si la diferencia entre supermercados parece demasiado alta, revisa abajo los productos que más explican el costo: ahí se ven posibles matches débiles o formatos poco comparables."
         >
           <DataTable columns={cbaColumns} rows={cba?.resumen_supermercado ?? []} />
+        </SectionCard>
+
+        <SectionCard
+          title="Por qué cambia tanto el costo CBA"
+          description="Estos son los ítems con mayor costo usado en el cálculo. Sirven para auditar si el producto detectado realmente corresponde al ítem CBA."
+        >
+          <DataTable columns={cbaDriverColumns} rows={cba?.cost_drivers ?? []} />
         </SectionCard>
 
         <div className="grid gap-8 xl:grid-cols-2">

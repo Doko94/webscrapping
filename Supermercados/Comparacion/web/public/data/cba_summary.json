@@ -1352,5 +1352,115 @@
       ],
       "covered_items_count": 74
     }
+  ],
+  "cost_drivers": [
+    {
+      "supermarket": "jumbo",
+      "cba_name": "Torta 15 o 20 personas",
+      "name": "Torta Selva Negra Vegana 10 Porciones",
+      "brand": "Cuisine & Co",
+      "price_num": 16990.0,
+      "estimated_month_cost": 16990.0,
+      "detail_url": "https://www.jumbo.cl/torta-selva-negra-vegana-v3-1968434/p"
+    },
+    {
+      "supermarket": "jumbo",
+      "cba_name": "Bebida energizante",
+      "name": "Jabón Corporal Dove Energizante 547 ml",
+      "brand": "Dove",
+      "price_num": 10493.0,
+      "estimated_month_cost": 10493.0,
+      "detail_url": "https://www.jumbo.cl/gel-de-ducha-glow-2038558/p"
+    },
+    {
+      "supermarket": "unimarc",
+      "cba_name": "Pollo entero",
+      "name": "Pollo entero Ariztía con menudencias (1.5 a 2.5 Kg)",
+      "brand": "Ariztia",
+      "price_num": 9225.0,
+      "estimated_month_cost": 9225.0,
+      "detail_url": "https://www.unimarc.cl/pollo-entero-c-menudencia-ariztia-1-8-a-2-2kg/p"
+    },
+    {
+      "supermarket": "jumbo",
+      "cba_name": "Pollo asado entero",
+      "name": "Trutro Corto de Pollo Asado 1 kg",
+      "brand": "Cuisine & Co",
+      "price_num": 8390.0,
+      "estimated_month_cost": 8390.0,
+      "detail_url": "https://www.jumbo.cl/trutro-corto-de-pollo-asado-jumbo-ready-1-kg/p"
+    },
+    {
+      "supermarket": "jumbo",
+      "cba_name": "Completo",
+      "name": "Pan de Completo Sin Gluten 400 g",
+      "brand": "NoGlut",
+      "price_num": 4990.0,
+      "estimated_month_cost": 4990.0,
+      "detail_url": "https://www.jumbo.cl/pan-de-completo-sin-gluten-400grs-1954558/p"
+    },
+    {
+      "supermarket": "unimarc",
+      "cba_name": "Torta 15 o 20 personas",
+      "name": "Torta turrón de alicante El Lobo 150 gr",
+      "brand": "El Lobo",
+      "price_num": 4990.0,
+      "estimated_month_cost": 4990.0,
+      "detail_url": "https://www.unimarc.cl/torta-turron-de-alicante-el-lobo-150-gr/p"
+    },
+    {
+      "supermarket": "unimarc",
+      "cba_name": "Leche en polvo entera instantánea",
+      "name": "Leche en polvo Colun entera instantánea 400 g",
+      "brand": "Colun",
+      "price_num": 3850.0,
+      "estimated_month_cost": 3850.0,
+      "detail_url": "https://www.unimarc.cl/leche-polvo-inst-entera-colun-400-gr/p"
+    },
+    {
+      "supermarket": "jumbo",
+      "cba_name": "Leche en polvo entera instantánea",
+      "name": "Leche en Polvo Svelty Descremada 300 g",
+      "brand": "Nestlé",
+      "price_num": 3750.0,
+      "estimated_month_cost": 3750.0,
+      "detail_url": "https://www.jumbo.cl/leche-en-polvo-svelty-descremada-300g-2009952/p"
+    },
+    {
+      "supermarket": "jumbo",
+      "cba_name": "Carne molida",
+      "name": "Carne Molida Ariztía Trutro Pavo 400 g",
+      "brand": "Ariztía",
+      "price_num": 3690.0,
+      "estimated_month_cost": 3690.0,
+      "detail_url": "https://www.jumbo.cl/carne-molida-trutro-pavo-400-g/p"
+    },
+    {
+      "supermarket": "jumbo",
+      "cba_name": "Pollo entero",
+      "name": "Pollo Entero Fresco",
+      "brand": "Super Pollo",
+      "price_num": 3690.0,
+      "estimated_month_cost": 3690.0,
+      "detail_url": "https://www.jumbo.cl/pollo-entero-fresc-2057878-kg/p"
+    },
+    {
+      "supermarket": "jumbo",
+      "cba_name": "Té corriente (según establecimiento) - para desayuno",
+      "name": "Mix Desayuno La Poruña 250 g",
+      "brand": "La Poruña",
+      "price_num": 3640.0,
+      "estimated_month_cost": 3640.0,
+      "detail_url": "https://www.jumbo.cl/mix-desayuno-la-poruna-250-g/p"
+    },
+    {
+      "supermarket": "unimarc",
+      "cba_name": "Empanada de horno",
+      "name": "Empanada pino Satira premium 1 un",
+      "brand": "Satira",
+      "price_num": 3150.0,
+      "estimated_month_cost": 3150.0,
+      "detail_url": "https://www.unimarc.cl/empanada-pino-premium-satira-un/p"
+    }
   ]
 }

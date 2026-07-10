@@ -92,11 +92,42 @@ def build_cba_items_by_supermarket() -> list[dict[str, Any]]:
     return sorted(rows, key=lambda row: row["supermarket"])
 
 
+def build_cba_cost_drivers(limit: int = 12) -> list[dict[str, Any]]:
+    if not CBA_ITEM_MATCHES_PATH.exists():
+        return []
+
+    df = pd.read_csv(CBA_ITEM_MATCHES_PATH, sep=";", encoding="utf-8-sig", low_memory=False)
+    required_cols = {"supermarket", "cba_name", "name", "estimated_month_cost"}
+    if df.empty or not required_cols.issubset(df.columns):
+        return []
+
+    df = df.copy()
+    df["estimated_month_cost"] = pd.to_numeric(df["estimated_month_cost"], errors="coerce")
+    df = df.dropna(subset=["estimated_month_cost"])
+    df = df.sort_values("estimated_month_cost")
+
+    best_by_market_item = df.groupby(["supermarket", "cba_name"], as_index=False).first()
+    drivers = best_by_market_item.sort_values("estimated_month_cost", ascending=False).head(limit)
+
+    cols = [
+        "supermarket",
+        "cba_name",
+        "name",
+        "brand",
+        "price_num",
+        "estimated_month_cost",
+        "detail_url",
+    ]
+    existing_cols = [col for col in cols if col in drivers.columns]
+    return clean_records(drivers[existing_cols])
+
+
 def main() -> None:
     WEB_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
     cba_data = cba_summary()
     cba_data["items_by_supermarket"] = build_cba_items_by_supermarket()
+    cba_data["cost_drivers"] = build_cba_cost_drivers()
 
     write_json("health.json", get_health())
     write_json("metadata.json", get_metadata())

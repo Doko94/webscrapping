@@ -7,17 +7,17 @@ function renderValue(value) {
 export default function DataTable({ columns, rows, emptyMessage = 'Sin datos disponibles.' }) {
   if (!rows?.length) {
     return (
-      <div className="rounded-2xl border border-dashed border-slate-300 bg-slate-50 p-8 text-center text-sm text-muted">
+      <div className="rounded-2xl border border-dashed border-[#d9c7ca] bg-[#fbf7f4] p-8 text-center text-sm text-muted">
         {emptyMessage}
       </div>
     )
   }
 
   return (
-    <div className="overflow-hidden rounded-2xl border border-slate-200">
+    <div className="overflow-hidden rounded-2xl border border-[#ead9d7]">
       <div className="overflow-x-auto">
-        <table className="min-w-full divide-y divide-slate-200 text-sm">
-          <thead className="bg-slate-50">
+        <table className="min-w-full divide-y divide-[#ead9d7] text-sm">
+          <thead className="bg-[#fbf0ed]">
             <tr>
               {columns.map((column) => (
                 <th key={column.key} className="whitespace-nowrap px-4 py-3 text-left font-semibold text-slate-700">
@@ -26,7 +26,7 @@ export default function DataTable({ columns, rows, emptyMessage = 'Sin datos dis
               ))}
             </tr>
           </thead>
-          <tbody className="divide-y divide-slate-100 bg-white">
+          <tbody className="divide-y divide-[#f1e2df] bg-white">
             {rows.map((row, index) => (
               <tr key={`${row.sku ?? row.name ?? row.supermarket ?? 'row'}-${index}`} className="hover:bg-slate-50">
                 {columns.map((column) => (
@@ -42,4 +42,3 @@ export default function DataTable({ columns, rows, emptyMessage = 'Sin datos dis
     </div>
   )
 }
-

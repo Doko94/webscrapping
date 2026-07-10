@@ -4,18 +4,21 @@ export default {
   theme: {
     extend: {
       colors: {
-        ink: '#0f172a',
-        muted: '#64748b',
+        ink: '#17263a',
+        muted: '#6c5b7b',
         panel: '#ffffff',
-        soft: '#f8fafc',
-        brand: '#16a34a',
-        brandDark: '#15803d',
+        soft: '#fbf7f4',
+        brand: '#c06c84',
+        brandDark: '#8f4b62',
+        accent: '#f67280',
+        warm: '#f8b195',
+        plum: '#6c5b7b',
+        ocean: '#355c7d',
       },
       boxShadow: {
-        soft: '0 18px 45px rgba(15, 23, 42, 0.08)',
+        soft: '0 18px 45px rgba(53, 92, 125, 0.11)',
       },
     },
   },
   plugins: [],
 }
-
