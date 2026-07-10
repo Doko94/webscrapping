@@ -4,6 +4,7 @@ import { Search, ShoppingCart, Sparkles, TrendingDown } from 'lucide-react'
 import {
   compareProduct,
   getCbaSummary,
+  getDataMode,
   getEconomicScenario,
   getHealth,
   getMetadata,
@@ -101,6 +102,8 @@ export default function App() {
   const bestCbaMarket = cba?.resumen_supermercado?.[0]
   const bestEconomic = economic?.total_por_supermercado?.[0]
   const bestPremium = premium?.total_por_supermercado?.[0]
+  const dataModeLabel = getDataMode() === 'static' ? 'Datos estáticos' : 'API'
+  const dataSourceLabel = getDataMode() === 'static' ? 'Datos leídos desde JSON estático' : 'Datos leídos desde FastAPI'
 
   const productColumns = useMemo(
     () => [
@@ -162,8 +165,8 @@ export default function App() {
               </p>
             </div>
             <div className="rounded-3xl bg-white/15 p-5 backdrop-blur">
-              <p className="text-sm text-emerald-50">Estado API</p>
-              <p className="mt-1 text-2xl font-bold">{health?.status === 'ok' ? 'Conectada' : 'Pendiente'}</p>
+              <p className="text-sm text-emerald-50">Fuente de datos</p>
+              <p className="mt-1 text-2xl font-bold">{health?.status === 'ok' ? dataModeLabel : 'Pendiente'}</p>
               <p className="mt-2 text-sm text-emerald-50">
                 Consolidado: {health?.consolidado_rows?.toLocaleString('es-CL') ?? '—'} filas
               </p>
@@ -208,7 +211,7 @@ export default function App() {
           action={
             <div className="flex items-center gap-2 text-sm text-muted">
               <ShoppingCart className="h-4 w-4" />
-              Datos leídos desde FastAPI
+              {dataSourceLabel}
             </div>
           }
         >
@@ -291,4 +294,3 @@ export default function App() {
     </main>
   )
 }
-

@@ -240,18 +240,17 @@ npm install
 npm run dev
 ```
 
-### Publicar en Netlify
+### Publicar en Netlify sin instalar Node.js localmente
 
-Netlify sirve muy bien el frontend React, pero no levanta FastAPI como servidor permanente. Para publicar una primera versión sin backend, el proyecto incluye un modo estático.
+Netlify puede instalar Node.js y ejecutar el build en sus servidores. En el PC local solo necesitas generar los JSON estáticos desde los CSV actuales y hacer push al repo.
 
-Primero genera archivos JSON desde los CSV actuales:
+Desde la raíz del repositorio:
 
 ```powershell
-cd "Supermercados\Comparacion\src\api"
-python export_static_data.py
+python Supermercados/Comparacion/scripts/export_static_web_data.py
 ```
 
-Esto crea:
+Esto crea o actualiza:
 
 ```text
 Supermercados/Comparacion/web/public/data/
@@ -265,37 +264,26 @@ metadata.json
 products_summary.json
 products_index.json
 cba_summary.json
+cart_summary.json
 scenarios_economic.json
 scenarios_premium.json
 ```
 
-Luego instala y construye el frontend:
-
-```powershell
-cd "Supermercados\Comparacion\web"
-npm install
-npm run build
-```
-
-La carpeta que Netlify debe publicar es:
+Luego haces commit y push. Netlify lee el archivo `netlify.toml` de la raíz del repo y queda configurado con:
 
 ```text
-Supermercados/Comparacion/web/dist
-```
-
-El archivo `web/netlify.toml` ya deja configurado:
-
-```text
+base directory: Supermercados/Comparacion/web
 build command: npm run build
 publish directory: dist
 VITE_DATA_MODE: static
 ```
 
-En Netlify puedes subir/publicar la carpeta `web` como proyecto. Para cada actualización de datos:
+Flujo recomendado para cada actualización:
 
-1. Ejecuta nuevamente los scripts Python que generan CSV.
-2. Ejecuta `python export_static_data.py`.
-3. Vuelve a desplegar la web.
+1. Ejecuta los scripts Python que actualizan los CSV.
+2. Ejecuta `python Supermercados/Comparacion/scripts/export_static_web_data.py`.
+3. Haz commit y push.
+4. Espera el deploy automático de Netlify.
 
 ---
 

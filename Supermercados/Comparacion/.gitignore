@@ -11,3 +11,5 @@ web/.vite/
 .env
 .env.local
 
+# Netlify reads the repository-root netlify.toml.
+/netlify.toml

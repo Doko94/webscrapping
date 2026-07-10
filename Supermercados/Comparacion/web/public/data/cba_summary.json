@@ -1,0 +1,1111 @@
+{
+  "resumen_supermercado": [
+    {
+      "supermarket": "lider",
+      "cba_items_cubiertos": 74,
+      "costo_total_cba_detectada": 23398.0,
+      "cba_items_totales": 79,
+      "cobertura_pct": 93.67,
+      "cobertura_pct_fmt": "93,67%"
+    },
+    {
+      "supermarket": "unimarc",
+      "cba_items_cubiertos": 74,
+      "costo_total_cba_detectada": 73585.0,
+      "cba_items_totales": 79,
+      "cobertura_pct": 93.67,
+      "cobertura_pct_fmt": "93,67%"
+    },
+    {
+      "supermarket": "jumbo",
+      "cba_items_cubiertos": 77,
+      "costo_total_cba_detectada": 110424.0,
+      "cba_items_totales": 79,
+      "cobertura_pct": 97.47,
+      "cobertura_pct_fmt": "97,47%"
+    }
+  ],
+  "canasta_optima": [
+    {
+      "cba_name": "Chocolate",
+      "cba_unit": "G",
+      "cba_daily_qty": 0.9,
+      "cba_month_qty_std": 27.0,
+      "supermarket": "unimarc",
+      "name": "Chocolate pouch M&M con maní 141.8 g CHOCOLATE POUCH M&M 141.8 GR, CON MANI",
+      "brand": "M&m",
+      "price_num": 0.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 0.0,
+      "coverage_status": "matched",
+      "detail_url": "https://www.unimarc.cl/chocolate-pouch-m-m-141-8-gr-con-mani/p"
+    },
+    {
+      "cba_name": "Galleta no dulce",
+      "cba_unit": "G",
+      "cba_daily_qty": 0.5,
+      "cba_month_qty_std": 15.0,
+      "supermarket": "unimarc",
+      "name": "Cóctel de vino Gato selección dulce rosé botella 1.5 L",
+      "brand": "Gato",
+      "price_num": 0.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 0.0,
+      "coverage_status": "matched",
+      "detail_url": "https://www.unimarc.cl/coctel-de-vino-rose-dulce-gato-1-5lt-bot/p"
+    },
+    {
+      "cba_name": "Galleta dulce",
+      "cba_unit": "G",
+      "cba_daily_qty": 1.1,
+      "cba_month_qty_std": 33.0,
+      "supermarket": "unimarc",
+      "name": "Cóctel de vino Gato selección dulce rosé botella 1.5 L",
+      "brand": "Gato",
+      "price_num": 0.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 0.0,
+      "coverage_status": "matched",
+      "detail_url": "https://www.unimarc.cl/coctel-de-vino-rose-dulce-gato-1-5lt-bot/p"
+    },
+    {
+      "cba_name": "Maní salado",
+      "cba_unit": "G",
+      "cba_daily_qty": 0.4,
+      "cba_month_qty_std": 12.0,
+      "supermarket": "unimarc",
+      "name": "Chocolate pouch M&M con maní 141.8 g CHOCOLATE POUCH M&M 141.8 GR, CON MANI",
+      "brand": "M&m",
+      "price_num": 0.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 0.0,
+      "coverage_status": "matched",
+      "detail_url": "https://www.unimarc.cl/chocolate-pouch-m-m-141-8-gr-con-mani/p"
+    },
+    {
+      "cba_name": "Plato de fondo - para almuerzo",
+      "cba_unit": "G",
+      "cba_daily_qty": 0.8,
+      "cba_month_qty_std": 24.0,
+      "supermarket": "unimarc",
+      "name": "Plato bambú Kido 1un (diseño al azar) PLATO BAMBU KIDO",
+      "brand": "Kido",
+      "price_num": 0.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 0.0,
+      "coverage_status": "matched",
+      "detail_url": "https://www.unimarc.cl/plato-bambu-kido/p"
+    },
+    {
+      "cba_name": "Sucedáneo de café",
+      "cba_unit": "G",
+      "cba_daily_qty": 1.0,
+      "cba_month_qty_std": 30.0,
+      "supermarket": "unimarc",
+      "name": "Iniciador de Fuego Café Quincho 32 Un.",
+      "brand": "Quincho",
+      "price_num": 0.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 0.0,
+      "coverage_status": "matched",
+      "detail_url": "https://www.unimarc.cl/iniciador-de-fuego-cafe-quincho-32-un/p"
+    },
+    {
+      "cba_name": "Leche líquida entera",
+      "cba_unit": "CC",
+      "cba_daily_qty": 73.7,
+      "cba_month_qty_std": 2211.0,
+      "supermarket": "lider",
+      "name": "Alfajor Relleno De Dulce De Leche, 180 g",
+      "brand": "Loncoleche",
+      "price_num": 22.0,
+      "size_std": null,
+      "unit_family": null,
+      "estimated_month_cost": 22.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/pasteleria/00780400000342"
+    },
+    {
+      "cba_name": "Te para preparar",
+      "cba_unit": "G",
+      "cba_daily_qty": 1.8,
+      "cba_month_qty_std": 54.0,
+      "supermarket": "lider",
+      "name": "Te Classic Sustentable 40 Bolsas, 72 g",
+      "brand": "Livean",
+      "price_num": 25.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 25.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/cafe-te-y-hierbas/00780242000862"
+    },
+    {
+      "cba_name": "Néctar líquido",
+      "cba_unit": "CC",
+      "cba_daily_qty": 0.1,
+      "cba_month_qty_std": 3.0,
+      "supermarket": "lider",
+      "name": "Néctar Tuttifrutilla Caja, 200 ml",
+      "brand": "Vivo",
+      "price_num": 30.0,
+      "size_std": null,
+      "unit_family": null,
+      "estimated_month_cost": 30.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/jugos-colacion/00780281001199"
+    },
+    {
+      "cba_name": "Manzana",
+      "cba_unit": "G",
+      "cba_daily_qty": 51.1,
+      "cba_month_qty_std": 1533.0,
+      "supermarket": "lider",
+      "name": "Nectar Manzana, 0.2 L",
+      "brand": "Zuko",
+      "price_num": 30.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 30.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/refrigerados/00780281000659"
+    },
+    {
+      "cba_name": "Jugo líquido",
+      "cba_unit": "CC",
+      "cba_daily_qty": 4.5,
+      "cba_month_qty_std": 135.0,
+      "supermarket": "lider",
+      "name": "Jugo Colación Sabor Naranja Caja, 200 cc",
+      "brand": "Cuisine & Co",
+      "price_num": 30.0,
+      "size_std": null,
+      "unit_family": null,
+      "estimated_month_cost": 30.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/jugos/00780281000675"
+    },
+    {
+      "cba_name": "Colación o menú del día o almuerzo ejecutivo",
+      "cba_unit": "G",
+      "cba_daily_qty": 4.5,
+      "cba_month_qty_std": 135.0,
+      "supermarket": "lider",
+      "name": "Jugo Colación Sabor Naranja Caja, 200 cc",
+      "brand": "Mckay",
+      "price_num": 30.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 30.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/jugos/00780281000675"
+    },
+    {
+      "cba_name": "Limón",
+      "cba_unit": "G",
+      "cba_daily_qty": 15.7,
+      "cba_month_qty_std": 471.0,
+      "supermarket": "lider",
+      "name": "Toallitas Desinfectantes Limón Bolsa Resellable, 50 Un",
+      "brand": "Pelayo",
+      "price_num": 40.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 40.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/desinfeccion/00780460354243"
+    },
+    {
+      "cba_name": "Pan corriente sin envasar",
+      "cba_unit": "G",
+      "cba_daily_qty": 151.2,
+      "cba_month_qty_std": 4536.0,
+      "supermarket": "lider",
+      "name": "Pan De Molde Blanco Especial Brioche 1 Un, 400 g",
+      "brand": "Collico",
+      "price_num": 42.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 42.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/panaderia-envasada/00780346800512"
+    },
+    {
+      "cba_name": "Queso crema",
+      "cba_unit": "G",
+      "cba_daily_qty": 0.3,
+      "cba_month_qty_std": 9.0,
+      "supermarket": "lider",
+      "name": "Ramitas Queso, 160 g",
+      "brand": "Gourmet",
+      "price_num": 48.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 48.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/snacks-y-picoteo/00780200002005"
+    },
+    {
+      "cba_name": "Aliado (jamón queso) o Barros Jarpa - para once",
+      "cba_unit": "G",
+      "cba_daily_qty": 0.0,
+      "cba_month_qty_std": 0.0,
+      "supermarket": "lider",
+      "name": "Ramitas Queso, 160 g",
+      "brand": "Selz",
+      "price_num": 48.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 48.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/snacks-y-picoteo/00780200002005"
+    },
+    {
+      "cba_name": "Queso Gouda",
+      "cba_unit": "G",
+      "cba_daily_qty": 4.3,
+      "cba_month_qty_std": 129.0,
+      "supermarket": "lider",
+      "name": "Ramitas Queso, 160 g",
+      "brand": "Buka",
+      "price_num": 48.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 48.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/snacks-y-picoteo/00780200002005"
+    },
+    {
+      "cba_name": "Avena",
+      "cba_unit": "G",
+      "cba_daily_qty": 5.1,
+      "cba_month_qty_std": 153.0,
+      "supermarket": "lider",
+      "name": "Yoghurt Batido Con Avena, 155 g",
+      "brand": "Soprole",
+      "price_num": 50.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 50.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/yoghurt/00780290000431"
+    },
+    {
+      "cba_name": "Entrada (ensalada o sopa) - para almuerzo",
+      "cba_unit": "G",
+      "cba_daily_qty": 0.0,
+      "cba_month_qty_std": 0.0,
+      "supermarket": "lider",
+      "name": "Sopa de Caracolitos con Verduras (5 Porciones) Sobre, 76 g",
+      "brand": "Naturezza",
+      "price_num": 55.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 55.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/alimentos-instantaneos/00780263000373"
+    },
+    {
+      "cba_name": "Pechuga de pollo",
+      "cba_unit": "G",
+      "cba_daily_qty": 4.7,
+      "cba_month_qty_std": 141.0,
+      "supermarket": "lider",
+      "name": "Sopa Sabor Pollo con Verduras y Fideos (5 Porciones) Sobre, 73 g",
+      "brand": "Naturezza",
+      "price_num": 58.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 58.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/alimentos-instantaneos/00780263000372"
+    },
+    {
+      "cba_name": "Trutro de pollo",
+      "cba_unit": "G",
+      "cba_daily_qty": 15.3,
+      "cba_month_qty_std": 459.0,
+      "supermarket": "lider",
+      "name": "Sopa Sabor Pollo con Verduras y Fideos (5 Porciones) Sobre, 73 g",
+      "brand": "Naturezza",
+      "price_num": 58.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 58.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/alimentos-instantaneos/00780263000372"
+    },
+    {
+      "cba_name": "Salchicha y vienesa de ave",
+      "cba_unit": "G",
+      "cba_daily_qty": 2.3,
+      "cba_month_qty_std": 69.0,
+      "supermarket": "lider",
+      "name": "Sopa Sabor Pollo con Verduras y Fideos (5 Porciones) Sobre, 73 g",
+      "brand": "Naturezza",
+      "price_num": 58.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 58.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/alimentos-instantaneos/00780263000372"
+    },
+    {
+      "cba_name": "Agua mineral",
+      "cba_unit": "CC",
+      "cba_daily_qty": 9.4,
+      "cba_month_qty_std": 282.0,
+      "supermarket": "lider",
+      "name": "Toallitas Húmedas 99,9% Agua Purificada, 50 Un",
+      "brand": "Livean",
+      "price_num": 59.0,
+      "size_std": null,
+      "unit_family": null,
+      "estimated_month_cost": 59.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/panales-y-toallas-humedas/00079919240934"
+    },
+    {
+      "cba_name": "Arroz",
+      "cba_unit": "G",
+      "cba_daily_qty": 22.2,
+      "cba_month_qty_std": 666.0,
+      "supermarket": "lider",
+      "name": "Galletas de Arroz Sabor Manzana, 50 g",
+      "brand": "Natur",
+      "price_num": 59.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 59.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/alimentacion-y-lactancia/00040000622663"
+    },
+    {
+      "cba_name": "Azúcar",
+      "cba_unit": "G",
+      "cba_daily_qty": 28.8,
+      "cba_month_qty_std": 864.0,
+      "supermarket": "lider",
+      "name": "Yoghurt Batido Light & Free sin Azúcar Sabor Vainilla Pote, 115 g",
+      "brand": "Soprole",
+      "price_num": 60.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 60.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/yoghurt/00780295501100"
+    },
+    {
+      "cba_name": "Pate",
+      "cba_unit": "G",
+      "cba_daily_qty": 2.9,
+      "cba_month_qty_std": 87.0,
+      "supermarket": "lider",
+      "name": "Paté Ternera Embutido Untable, 125 g",
+      "brand": "Fundo Rio Alegre",
+      "price_num": 70.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 70.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/fiambres-y-embutidos/00780190700430"
+    },
+    {
+      "cba_name": "Jamón de cerdo",
+      "cba_unit": "G",
+      "cba_daily_qty": 9.4,
+      "cba_month_qty_std": 282.0,
+      "supermarket": "lider",
+      "name": "Paté De Jamón Untable, 125 g",
+      "brand": "Selz",
+      "price_num": 70.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 70.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/fiambres-y-embutidos/00780190700440"
+    },
+    {
+      "cba_name": "Surtido en conserva",
+      "cba_unit": "G",
+      "cba_daily_qty": 0.3,
+      "cba_month_qty_std": 9.0,
+      "supermarket": "lider",
+      "name": "Servilletas Mesa Producto Surtido 32x32 cm, 20 Un",
+      "brand": "Maggi",
+      "price_num": 80.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 80.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/papeles/00780650022412"
+    },
+    {
+      "cba_name": "Plátano",
+      "cba_unit": "G",
+      "cba_daily_qty": 110.2,
+      "cba_month_qty_std": 3306.0,
+      "supermarket": "lider",
+      "name": "Leche Plátano Caja, 200 ml",
+      "brand": "Zuko",
+      "price_num": 80.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 80.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/leche/00780291000104"
+    },
+    {
+      "cba_name": "Choclo congelado",
+      "cba_unit": "G",
+      "cba_daily_qty": 5.7,
+      "cba_month_qty_std": 171.0,
+      "supermarket": "lider",
+      "name": "Crema de Choclo (5 Porciones) Sobre, 79 g",
+      "brand": "Gourmet",
+      "price_num": 84.0,
+      "size_std": null,
+      "unit_family": "mass",
+      "estimated_month_cost": 84.0,
+      "coverage_status": "matched",
+      "detail_url": "https://super.lider.cl/ip/alimentos-instantaneos/00780295000457"
+    }
+  ],
+  "cobertura": [
+    {
+      "cba_name": "Queso crema",
+      "candidatos_detectados": 1738,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Chocolate",
+      "candidatos_detectados": 1494,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Salchicha y vienesa de ave",
+      "candidatos_detectados": 1071,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Aliado (jamón queso) o Barros Jarpa - para once",
+      "candidatos_detectados": 1047,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Bebida gaseosa tradicional",
+      "candidatos_detectados": 1040,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Leche líquida entera",
+      "candidatos_detectados": 1016,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Pechuga de pollo",
+      "candidatos_detectados": 928,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Queso Gouda",
+      "candidatos_detectados": 842,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Trutro de pollo",
+      "candidatos_detectados": 839,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Azúcar",
+      "candidatos_detectados": 693,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Espiral",
+      "candidatos_detectados": 665,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Pan corriente sin envasar",
+      "candidatos_detectados": 655,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Sucedáneo de café",
+      "candidatos_detectados": 583,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Tostadas (palta o mantequilla o mermelada o mezcla de estas) - para desayuno",
+      "candidatos_detectados": 553,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Galleta dulce",
+      "candidatos_detectados": 541,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Galleta no dulce",
+      "candidatos_detectados": 541,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Agua mineral",
+      "candidatos_detectados": 499,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Salsa de tomate",
+      "candidatos_detectados": 492,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Asiento",
+      "candidatos_detectados": 479,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Helado familiar un sabor",
+      "candidatos_detectados": 463,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Limón",
+      "candidatos_detectados": 436,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Manzana",
+      "candidatos_detectados": 414,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Aceite vegetal combinado o puro",
+      "candidatos_detectados": 389,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Arroz",
+      "candidatos_detectados": 373,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Surtido en conserva",
+      "candidatos_detectados": 321,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Te para preparar",
+      "candidatos_detectados": 312,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Jugo líquido",
+      "candidatos_detectados": 305,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Pulpa de cerdo",
+      "candidatos_detectados": 290,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Choclo congelado",
+      "candidatos_detectados": 263,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Chuleta de cerdo centro o vetada",
+      "candidatos_detectados": 254,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Costillar de cerdo",
+      "candidatos_detectados": 249,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Yogurt",
+      "candidatos_detectados": 249,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Néctar líquido",
+      "candidatos_detectados": 245,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Mantequilla con sal",
+      "candidatos_detectados": 242,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Entrada (ensalada o sopa) - para almuerzo",
+      "candidatos_detectados": 231,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Avena",
+      "candidatos_detectados": 228,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Jamón de cerdo",
+      "candidatos_detectados": 226,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Postre - para almuerzo",
+      "candidatos_detectados": 219,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Maní salado",
+      "candidatos_detectados": 216,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Harina de trigo",
+      "candidatos_detectados": 211,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Carne de pavo molida",
+      "candidatos_detectados": 179,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Tomate",
+      "candidatos_detectados": 170,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Papas fritas",
+      "candidatos_detectados": 149,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Caramelo",
+      "candidatos_detectados": 138,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Torta 15 o 20 personas",
+      "candidatos_detectados": 138,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Salchicha y vienesa tradicional",
+      "candidatos_detectados": 130,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Plátano",
+      "candidatos_detectados": 126,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Refresco isotónico",
+      "candidatos_detectados": 110,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Pulpa de cordero fresco o refrigerado",
+      "candidatos_detectados": 107,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Cebolla nueva",
+      "candidatos_detectados": 97,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Leche en polvo entera instantánea",
+      "candidatos_detectados": 96,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Margarina",
+      "candidatos_detectados": 87,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Huevo de gallina",
+      "candidatos_detectados": 84,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Zanahoria",
+      "candidatos_detectados": 70,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Carne molida",
+      "candidatos_detectados": 67,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Merluza fresca o refrigerada",
+      "candidatos_detectados": 67,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Choritos frescos o refrigerados en su concha",
+      "candidatos_detectados": 66,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Zapallo",
+      "candidatos_detectados": 60,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Papa de guarda",
+      "candidatos_detectados": 59,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Quesillo y queso fresco con sal",
+      "candidatos_detectados": 55,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Lechuga",
+      "candidatos_detectados": 50,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Longaniza",
+      "candidatos_detectados": 45,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Pate",
+      "candidatos_detectados": 41,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Biscochos dulces y medialunas - para desayuno",
+      "candidatos_detectados": 33,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Jurel en conserva",
+      "candidatos_detectados": 30,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Colación o menú del día o almuerzo ejecutivo",
+      "candidatos_detectados": 29,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Plato de fondo - para almuerzo",
+      "candidatos_detectados": 29,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Palta",
+      "candidatos_detectados": 28,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Poroto",
+      "candidatos_detectados": 22,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Empanada de horno",
+      "candidatos_detectados": 21,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Completo",
+      "candidatos_detectados": 18,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Pollo entero",
+      "candidatos_detectados": 10,
+      "supermercados_detectados": 3,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Promoción de comida rápida",
+      "candidatos_detectados": 36,
+      "supermercados_detectados": 2,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Bebida energizante",
+      "candidatos_detectados": 4,
+      "supermercados_detectados": 2,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Lenteja",
+      "candidatos_detectados": 4,
+      "supermercados_detectados": 2,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Pollo asado entero",
+      "candidatos_detectados": 3,
+      "supermercados_detectados": 1,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Prepizza familiar",
+      "candidatos_detectados": 1,
+      "supermercados_detectados": 1,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Té corriente (según establecimiento) - para desayuno",
+      "candidatos_detectados": 1,
+      "supermercados_detectados": 1,
+      "tiene_match": 1,
+      "estado": "cubierto"
+    },
+    {
+      "cba_name": "Refresco en polvo",
+      "candidatos_detectados": 0,
+      "supermercados_detectados": 0,
+      "tiene_match": 0,
+      "estado": "faltante"
+    }
+  ],
+  "ahorro_supermercado": [
+    {
+      "supermarket": "lider",
+      "cba_items_cubiertos": 74,
+      "costo_total_cba_detectada": 23398.0,
+      "cba_items_totales": 79,
+      "cobertura_pct": 93.67,
+      "cobertura_pct_fmt": "93,67%",
+      "costo_canasta_optima": 36482.0,
+      "sobrecosto_vs_optima": -13084.0,
+      "sobrecosto_pct_vs_optima": -35.86,
+      "sobrecosto_pct_vs_optima_fmt": "-35,86%"
+    },
+    {
+      "supermarket": "unimarc",
+      "cba_items_cubiertos": 74,
+      "costo_total_cba_detectada": 73585.0,
+      "cba_items_totales": 79,
+      "cobertura_pct": 93.67,
+      "cobertura_pct_fmt": "93,67%",
+      "costo_canasta_optima": 36482.0,
+      "sobrecosto_vs_optima": 37103.0,
+      "sobrecosto_pct_vs_optima": 101.7,
+      "sobrecosto_pct_vs_optima_fmt": "101,70%"
+    },
+    {
+      "supermarket": "jumbo",
+      "cba_items_cubiertos": 77,
+      "costo_total_cba_detectada": 110424.0,
+      "cba_items_totales": 79,
+      "cobertura_pct": 97.47,
+      "cobertura_pct_fmt": "97,47%",
+      "costo_canasta_optima": 36482.0,
+      "sobrecosto_vs_optima": 73942.0,
+      "sobrecosto_pct_vs_optima": 202.68,
+      "sobrecosto_pct_vs_optima_fmt": "202,68%"
+    }
+  ],
+  "ranking_supermercados": [
+    {
+      "supermarket": "lider",
+      "cba_items_cubiertos": 74,
+      "costo_total_cba_detectada": 23398.0,
+      "cba_items_totales": 79,
+      "cobertura_pct": 93.67,
+      "cobertura_pct_fmt": "93,67%",
+      "ranking": 1,
+      "ahorro_vs_mas_barato": 0.0,
+      "ahorro_pct_vs_mas_barato": 0.0,
+      "ahorro_pct_vs_mas_barato_fmt": "0,00%"
+    },
+    {
+      "supermarket": "unimarc",
+      "cba_items_cubiertos": 74,
+      "costo_total_cba_detectada": 73585.0,
+      "cba_items_totales": 79,
+      "cobertura_pct": 93.67,
+      "cobertura_pct_fmt": "93,67%",
+      "ranking": 2,
+      "ahorro_vs_mas_barato": 50187.0,
+      "ahorro_pct_vs_mas_barato": 214.49,
+      "ahorro_pct_vs_mas_barato_fmt": "214,49%"
+    },
+    {
+      "supermarket": "jumbo",
+      "cba_items_cubiertos": 77,
+      "costo_total_cba_detectada": 110424.0,
+      "cba_items_totales": 79,
+      "cobertura_pct": 97.47,
+      "cobertura_pct_fmt": "97,47%",
+      "ranking": 3,
+      "ahorro_vs_mas_barato": 87026.0,
+      "ahorro_pct_vs_mas_barato": 371.94,
+      "ahorro_pct_vs_mas_barato_fmt": "371,94%"
+    }
+  ]
+}

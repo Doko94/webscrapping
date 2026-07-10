@@ -1,0 +1,122 @@
+{
+  "files": {
+    "consolidado": {
+      "key": "consolidado",
+      "exists": true,
+      "path": "C:\\Users\\fvergram\\OneDrive - NTT DATA EMEAL\\Desktop\\webscrapping\\Supermercados\\Comparacion\\src\\output\\consolidado\\supermercados_consolidado_20260706_120433.csv",
+      "file_name": "supermercados_consolidado_20260706_120433.csv",
+      "rows": 35889,
+      "updated_at": "2026-07-06T16:04:34.286855936"
+    },
+    "productos_baratos": {
+      "key": "productos_baratos",
+      "exists": true,
+      "path": "C:\\Users\\fvergram\\OneDrive - NTT DATA EMEAL\\Desktop\\webscrapping\\Supermercados\\Comparacion\\src\\output\\consolidado\\productos_baratos_20260706_120458.csv",
+      "file_name": "productos_baratos_20260706_120458.csv",
+      "rows": 191,
+      "updated_at": "2026-07-06T16:04:58.696066141"
+    },
+    "cba_resumen": {
+      "key": "cba_resumen",
+      "exists": true,
+      "path": "C:\\Users\\fvergram\\OneDrive - NTT DATA EMEAL\\Desktop\\webscrapping\\Supermercados\\Comparacion\\src\\output\\cba\\cba_resumen_supermercado.csv",
+      "file_name": "cba_resumen_supermercado.csv",
+      "rows": 3,
+      "updated_at": "2026-07-06T16:23:34.429254293"
+    },
+    "cba_optima": {
+      "key": "cba_optima",
+      "exists": true,
+      "path": "C:\\Users\\fvergram\\OneDrive - NTT DATA EMEAL\\Desktop\\webscrapping\\Supermercados\\Comparacion\\src\\output\\cba\\cba_canasta_optima.csv",
+      "file_name": "cba_canasta_optima.csv",
+      "rows": 78,
+      "updated_at": "2026-07-06T16:23:34.440033197"
+    },
+    "cba_cobertura": {
+      "key": "cba_cobertura",
+      "exists": true,
+      "path": "C:\\Users\\fvergram\\OneDrive - NTT DATA EMEAL\\Desktop\\webscrapping\\Supermercados\\Comparacion\\src\\output\\cba\\cba_cobertura.csv",
+      "file_name": "cba_cobertura.csv",
+      "rows": 79,
+      "updated_at": "2026-07-06T16:23:34.440033197"
+    },
+    "cba_ahorro": {
+      "key": "cba_ahorro",
+      "exists": true,
+      "path": "C:\\Users\\fvergram\\OneDrive - NTT DATA EMEAL\\Desktop\\webscrapping\\Supermercados\\Comparacion\\src\\output\\cba\\ahorro\\cba_ahorro_supermercado.csv",
+      "file_name": "cba_ahorro_supermercado.csv",
+      "rows": 3,
+      "updated_at": "2026-07-06T16:32:42.288036108"
+    },
+    "cba_ranking": {
+      "key": "cba_ranking",
+      "exists": true,
+      "path": "C:\\Users\\fvergram\\OneDrive - NTT DATA EMEAL\\Desktop\\webscrapping\\Supermercados\\Comparacion\\src\\output\\cba\\ahorro\\cba_ranking_supermercados.csv",
+      "file_name": "cba_ranking_supermercados.csv",
+      "rows": 3,
+      "updated_at": "2026-07-06T16:32:42.288036108"
+    },
+    "cart_summary": {
+      "key": "cart_summary",
+      "exists": true,
+      "path": "C:\\Users\\fvergram\\OneDrive - NTT DATA EMEAL\\Desktop\\webscrapping\\Supermercados\\Comparacion\\src\\output\\carrito_comparado\\carrito_resumen_ejecutivo.csv",
+      "file_name": "carrito_resumen_ejecutivo.csv",
+      "rows": 8,
+      "updated_at": "2026-07-06T16:10:01.527054786"
+    },
+    "cart_total": {
+      "key": "cart_total",
+      "exists": true,
+      "path": "C:\\Users\\fvergram\\OneDrive - NTT DATA EMEAL\\Desktop\\webscrapping\\Supermercados\\Comparacion\\src\\output\\carrito_comparado\\carrito_totales_ejecutivos.csv",
+      "file_name": "carrito_totales_ejecutivos.csv",
+      "rows": 1,
+      "updated_at": "2026-07-06T16:10:01.530809402"
+    },
+    "economic_total": {
+      "key": "economic_total",
+      "exists": true,
+      "path": "C:\\Users\\fvergram\\OneDrive - NTT DATA EMEAL\\Desktop\\webscrapping\\Supermercados\\Comparacion\\src\\output\\cba_escenario1_economico\\cba_econ_total_por_supermercado.csv",
+      "file_name": "cba_econ_total_por_supermercado.csv",
+      "rows": 3,
+      "updated_at": "2026-03-25T00:00:05.796441793"
+    },
+    "economic_summary": {
+      "key": "economic_summary",
+      "exists": true,
+      "path": "C:\\Users\\fvergram\\OneDrive - NTT DATA EMEAL\\Desktop\\webscrapping\\Supermercados\\Comparacion\\src\\output\\cba_escenario1_economico\\cba_econ_resumen_final.csv",
+      "file_name": "cba_econ_resumen_final.csv",
+      "rows": 36,
+      "updated_at": "2026-03-25T00:00:05.793414354"
+    },
+    "premium_total": {
+      "key": "premium_total",
+      "exists": true,
+      "path": "C:\\Users\\fvergram\\OneDrive - NTT DATA EMEAL\\Desktop\\webscrapping\\Supermercados\\Comparacion\\src\\output\\cba_escenario_premium\\cba_premium_total_por_supermercado.csv",
+      "file_name": "cba_premium_total_por_supermercado.csv",
+      "rows": 3,
+      "updated_at": "2026-03-26T00:24:41.192588806"
+    },
+    "premium_summary": {
+      "key": "premium_summary",
+      "exists": true,
+      "path": "C:\\Users\\fvergram\\OneDrive - NTT DATA EMEAL\\Desktop\\webscrapping\\Supermercados\\Comparacion\\src\\output\\cba_escenario_premium\\cba_premium_resumen_final.csv",
+      "file_name": "cba_premium_resumen_final.csv",
+      "rows": 11,
+      "updated_at": "2026-03-26T00:24:41.189941645"
+    },
+    "official_cba": {
+      "key": "official_cba",
+      "exists": true,
+      "path": "C:\\Users\\fvergram\\OneDrive - NTT DATA EMEAL\\Desktop\\webscrapping\\Supermercados\\Comparacion\\src\\output\\out_cba\\cba_anexo1_diciembre2025.csv",
+      "file_name": "cba_anexo1_diciembre2025.csv",
+      "rows": 79,
+      "updated_at": "2026-07-07T15:40:25.507978677"
+    }
+  },
+  "supermarkets": [
+    "jumbo",
+    "lider",
+    "unimarc"
+  ],
+  "categories": []
+}

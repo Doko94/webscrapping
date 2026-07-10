@@ -1,0 +1,24 @@
+{
+  "total_products": 35889,
+  "supermarkets": [
+    {
+      "supermarket": "jumbo",
+      "products": 13461
+    },
+    {
+      "supermarket": "lider",
+      "products": 12331
+    },
+    {
+      "supermarket": "unimarc",
+      "products": 10097
+    }
+  ],
+  "categories": [
+    {
+      "category_std": null,
+      "products": 35889
+    }
+  ],
+  "offers": 15969
+}
