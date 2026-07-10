@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
-import { Search, ShoppingCart, Sparkles, TrendingDown } from 'lucide-react'
+import { Search, ShoppingCart, TrendingDown } from 'lucide-react'
 
 import {
   compareProduct,
@@ -28,6 +28,41 @@ function formatCurrency(value) {
 
 function Pill({ children }) {
   return <span className="rounded-full bg-emerald-50 px-3 py-1 text-xs font-semibold text-emerald-700">{children}</span>
+}
+
+function Muted({ children }) {
+  return <span className="text-slate-400">{children}</span>
+}
+
+function formatBrand(value) {
+  return value ? String(value) : <Muted>No informada</Muted>
+}
+
+function formatItemsCoverage(found, total, formattedPct) {
+  if (found === null || found === undefined || total === null || total === undefined) return '—'
+  return `${Number(found).toLocaleString('es-CL')} de ${Number(total).toLocaleString('es-CL')} (${formattedPct ?? '—'})`
+}
+
+function ItemList({ items = [], limit = 8 }) {
+  if (!items.length) return <Muted>Sin detalle disponible</Muted>
+
+  const visible = items.slice(0, limit)
+  const remaining = items.length - visible.length
+
+  return (
+    <div className="flex max-w-[520px] flex-wrap gap-1.5">
+      {visible.map((item) => (
+        <span key={item} className="rounded-md bg-slate-100 px-2 py-1 text-xs text-slate-700">
+          {item}
+        </span>
+      ))}
+      {remaining > 0 ? (
+        <span className="rounded-md bg-slate-200 px-2 py-1 text-xs font-semibold text-slate-700">
+          +{remaining}
+        </span>
+      ) : null}
+    </div>
+  )
 }
 
 export default function App() {
@@ -104,11 +139,22 @@ export default function App() {
   const bestPremium = premium?.total_por_supermercado?.[0]
   const dataModeLabel = getDataMode() === 'static' ? 'Datos estáticos' : 'API'
   const dataSourceLabel = getDataMode() === 'static' ? 'Datos leídos desde JSON estático' : 'Datos leídos desde FastAPI'
+  const cbaItemsByMarket = useMemo(() => {
+    const entries = cba?.items_by_supermarket ?? []
+    return Object.fromEntries(entries.map((item) => [item.supermarket, item.covered_items ?? []]))
+  }, [cba])
+
+  function scenarioItemsForMarket(dataset, supermarket) {
+    const priceKey = `price_${supermarket}`
+    return (dataset?.resumen_final ?? [])
+      .filter((item) => item[priceKey] !== null && item[priceKey] !== undefined && item[priceKey] !== '')
+      .map((item) => item.cba_name)
+  }
 
   const productColumns = useMemo(
     () => [
       { key: 'name', label: 'Producto' },
-      { key: 'brand', label: 'Marca' },
+      { key: 'brand', label: 'Marca', render: formatBrand },
       { key: 'supermarket', label: 'Supermercado', render: (value) => <Pill>{value}</Pill> },
       { key: 'price', label: 'Precio', render: formatCurrency },
       { key: 'discount_price', label: 'Oferta', render: formatCurrency },
@@ -117,34 +163,59 @@ export default function App() {
     [],
   )
 
-  const marketColumns = [
-    { key: 'supermarket', label: 'Supermercado', render: (value) => <Pill>{value}</Pill> },
-    { key: 'products', label: 'Productos' },
-  ]
-
   const cbaColumns = [
     { key: 'supermarket', label: 'Supermercado', render: (value) => <Pill>{value}</Pill> },
-    { key: 'cba_items_cubiertos', label: 'Ítems cubiertos' },
     { key: 'costo_total_cba_detectada', label: 'Costo detectado', render: formatCurrency },
-    { key: 'cobertura_pct_fmt', label: 'Cobertura' },
-  ]
-
-  const scenarioColumns = [
-    { key: 'supermarket', label: 'Supermercado', render: (value) => <Pill>{value}</Pill> },
-    { key: 'productos_encontrados', label: 'Productos' },
-    { key: 'cobertura_pct_fmt', label: 'Cobertura' },
+    {
+      key: 'cba_items_cubiertos',
+      label: 'Cobertura CBA',
+      render: (_value, row) => formatItemsCoverage(row.cba_items_cubiertos, row.cba_items_totales, row.cobertura_pct_fmt),
+    },
+    {
+      key: 'covered_items',
+      label: 'Ítems cubiertos',
+      render: (_value, row) => <ItemList items={cbaItemsByMarket[row.supermarket] ?? []} />,
+    },
   ]
 
   const economicColumns = [
-    ...scenarioColumns.slice(0, 1),
-    { key: 'total_cba_economica', label: 'Total económico', render: formatCurrency },
-    ...scenarioColumns.slice(1),
+    { key: 'supermarket', label: 'Supermercado', render: (value) => <Pill>{value}</Pill> },
+    { key: 'ranking_economico', label: 'Ranking' },
+    { key: 'total_cba_economica', label: 'Total estimado', render: formatCurrency },
+    {
+      key: 'productos_encontrados',
+      label: 'Cobertura',
+      render: (_value, row) => formatItemsCoverage(row.productos_encontrados, row.productos_cba_objetivo, row.cobertura_pct_fmt),
+    },
+    {
+      key: 'items_considerados',
+      label: 'Ítems considerados',
+      render: (_value, row) => <ItemList items={scenarioItemsForMarket(economic, row.supermarket)} limit={6} />,
+    },
   ]
 
   const premiumColumns = [
-    ...scenarioColumns.slice(0, 1),
-    { key: 'total_cba_premium', label: 'Total premium', render: formatCurrency },
-    ...scenarioColumns.slice(1),
+    { key: 'supermarket', label: 'Supermercado', render: (value) => <Pill>{value}</Pill> },
+    { key: 'ranking_premium', label: 'Ranking' },
+    { key: 'total_cba_premium', label: 'Total estimado', render: formatCurrency },
+    {
+      key: 'productos_encontrados',
+      label: 'Cobertura',
+      render: (_value, row) => formatItemsCoverage(row.productos_encontrados, row.productos_cba_objetivo, row.cobertura_pct_fmt),
+    },
+    {
+      key: 'items_considerados',
+      label: 'Ítems considerados',
+      render: (_value, row) => <ItemList items={scenarioItemsForMarket(premium, row.supermarket)} limit={6} />,
+    },
+  ]
+
+  const scenarioDetailColumns = [
+    { key: 'cba_name', label: 'Ítem CBA' },
+    { key: 'best_name', label: 'Producto elegido' },
+    { key: 'best_brand', label: 'Marca', render: formatBrand },
+    { key: 'best_supermarket', label: 'Mejor supermercado', render: (value) => <Pill>{value}</Pill> },
+    { key: 'best_price_num', label: 'Precio', render: formatCurrency },
   ]
 
   return (
@@ -153,10 +224,6 @@ export default function App() {
         <div className="mx-auto max-w-7xl">
           <div className="flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
             <div className="max-w-3xl">
-              <div className="mb-4 inline-flex items-center gap-2 rounded-full bg-white/15 px-4 py-2 text-sm font-medium backdrop-blur">
-                <Sparkles className="h-4 w-4" />
-                Versión 1 · Datos desde CSV generados por Python
-              </div>
               <h1 className="text-4xl font-black tracking-tight sm:text-5xl">
                 Comparador de precios de supermercados
               </h1>
@@ -207,7 +274,7 @@ export default function App() {
 
         <SectionCard
           title="Buscador de productos"
-          description="Busca dentro del consolidado y compara resultados por supermercado."
+          description="Busca productos, precios y supermercado. En Lider la marca no viene informada desde el archivo de origen."
           action={
             <div className="flex items-center gap-2 text-sm text-muted">
               <ShoppingCart className="h-4 w-4" />
@@ -267,27 +334,43 @@ export default function App() {
           ) : null}
         </SectionCard>
 
-        <div className="grid gap-8 xl:grid-cols-[0.8fr_1.2fr]">
-          <SectionCard title="Productos por supermercado" description="Distribución actual del consolidado.">
-            <DataTable columns={marketColumns} rows={summary?.supermarkets ?? []} />
-          </SectionCard>
-
-          <SectionCard title="Resumen CBA por supermercado" description="Costo estimado y cobertura detectada.">
-            <DataTable columns={cbaColumns} rows={cba?.resumen_supermercado ?? []} />
-          </SectionCard>
-        </div>
+        <SectionCard
+          title="Resumen CBA por supermercado"
+          description="Costo estimado para los productos de la Canasta Básica de Alimentos que el pipeline logró encontrar. La columna de ítems muestra ejemplos concretos cubiertos por cada supermercado."
+        >
+          <DataTable columns={cbaColumns} rows={cba?.resumen_supermercado ?? []} />
+        </SectionCard>
 
         <div className="grid gap-8 xl:grid-cols-2">
           <SectionCard
             title="Escenario económico"
-            description="Ranking usando criterio de precio económico."
+            description="Selecciona el menor precio detectado por ítem CBA. La cobertura indica cuántos ítems de la canasta entraron al cálculo."
             action={<TrendingDown className="h-5 w-5 text-emerald-600" />}
           >
             <DataTable columns={economicColumns} rows={economic?.total_por_supermercado ?? []} />
           </SectionCard>
 
-          <SectionCard title="Escenario premium" description="Ranking usando criterio de match/marca y precio.">
+          <SectionCard
+            title="Escenario premium"
+            description="Prioriza productos con mejor calce y atributos de marca/formato. La cobertura baja significa que el criterio fue más estricto."
+          >
             <DataTable columns={premiumColumns} rows={premium?.total_por_supermercado ?? []} />
+          </SectionCard>
+        </div>
+
+        <div className="grid gap-8 xl:grid-cols-2">
+          <SectionCard
+            title="Productos elegidos en escenario económico"
+            description="Producto concreto usado como referencia para cada ítem CBA encontrado."
+          >
+            <DataTable columns={scenarioDetailColumns} rows={economic?.resumen_final ?? []} />
+          </SectionCard>
+
+          <SectionCard
+            title="Productos elegidos en escenario premium"
+            description="Selección premium disponible; por ahora cubre menos ítems que el escenario económico."
+          >
+            <DataTable columns={scenarioDetailColumns} rows={premium?.resumen_final ?? []} />
           </SectionCard>
         </div>
       </div>
