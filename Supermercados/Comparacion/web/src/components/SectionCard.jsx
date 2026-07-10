@@ -1,6 +1,6 @@
 export default function SectionCard({ title, description, children, action }) {
   return (
-    <section className="rounded-3xl border border-[#ead9d7] bg-white/95 p-5 shadow-soft">
+    <section className="rounded-3xl border border-[#ead9d7] bg-white/95 p-4 shadow-soft sm:p-5">
       <div className="mb-5 flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
         <div>
           <h2 className="text-xl font-bold text-ink">{title}</h2>

@@ -161,29 +161,33 @@ function ItemList({ items = [], limit = 8 }) {
   const remaining = items.length - visible.length
 
   return (
-    <div className="flex max-w-[520px] flex-wrap gap-1.5">
-      {visible.map((item) => (
-        <span key={item} className="rounded-md bg-slate-100 px-2 py-1 text-xs text-slate-700">
-          {item}
-        </span>
-      ))}
-      {remaining > 0 ? (
-        <button
-          type="button"
-          onClick={() => setExpanded(true)}
-          className="rounded-md bg-emerald-100 px-2 py-1 text-xs font-semibold text-emerald-800 transition hover:bg-emerald-200"
-        >
-          Ver {remaining} más
-        </button>
-      ) : expanded && items.length > limit ? (
-        <button
-          type="button"
-          onClick={() => setExpanded(false)}
-          className="rounded-md bg-slate-200 px-2 py-1 text-xs font-semibold text-slate-700 transition hover:bg-slate-300"
-        >
-          Ver menos
-        </button>
-      ) : null}
+    <div className="max-w-full">
+      <div className={expanded ? 'grid max-h-56 gap-1.5 overflow-y-auto pr-1 sm:flex sm:max-h-none sm:flex-wrap sm:overflow-visible sm:pr-0' : 'flex flex-wrap gap-1.5'}>
+        {visible.map((item) => (
+          <span key={item} className="rounded-md bg-slate-100 px-2 py-1 text-xs leading-snug text-slate-700">
+            {item}
+          </span>
+        ))}
+      </div>
+      <div className="mt-2">
+        {remaining > 0 ? (
+          <button
+            type="button"
+            onClick={() => setExpanded(true)}
+            className="rounded-md bg-emerald-100 px-2 py-1 text-xs font-semibold text-emerald-800 transition hover:bg-emerald-200"
+          >
+            Ver {remaining} más
+          </button>
+        ) : expanded && items.length > limit ? (
+          <button
+            type="button"
+            onClick={() => setExpanded(false)}
+            className="rounded-md bg-slate-200 px-2 py-1 text-xs font-semibold text-slate-700 transition hover:bg-slate-300"
+          >
+            Ver menos
+          </button>
+        ) : null}
+      </div>
     </div>
   )
 }
@@ -383,7 +387,7 @@ export default function App() {
 
   const productColumns = useMemo(
     () => [
-      { key: 'name', label: 'Producto' },
+      { key: 'name', label: 'Producto', primary: true },
       { key: 'brand', label: 'Marca', render: formatBrand },
       { key: 'supermarket', label: 'Supermercado', render: (value) => <Pill>{value}</Pill> },
       { key: 'price', label: 'Precio', render: formatCurrency },
@@ -408,7 +412,7 @@ export default function App() {
   )
 
   const cbaColumns = [
-    { key: 'supermarket', label: 'Supermercado', render: (value) => <Pill>{value}</Pill> },
+    { key: 'supermarket', label: 'Supermercado', primary: true, render: (value) => <Pill>{value}</Pill> },
     { key: 'costo_total_cba_detectada', label: 'Costo detectado', render: formatCurrency },
     {
       key: 'cba_items_cubiertos',
@@ -418,12 +422,13 @@ export default function App() {
     {
       key: 'covered_items',
       label: 'Ítems cubiertos',
+      compact: false,
       render: (_value, row) => <ItemList items={cbaItemsByMarket[row.supermarket] ?? []} />,
     },
   ]
 
   const economicColumns = [
-    { key: 'supermarket', label: 'Supermercado', render: (value) => <Pill>{value}</Pill> },
+    { key: 'supermarket', label: 'Supermercado', primary: true, render: (value) => <Pill>{value}</Pill> },
     { key: 'ranking_economico', label: 'Ranking' },
     { key: 'total_cba_economica', label: 'Total estimado', render: formatCurrency },
     {
@@ -434,12 +439,13 @@ export default function App() {
     {
       key: 'items_considerados',
       label: 'Ítems considerados',
-      render: (_value, row) => <ItemList items={scenarioItemsForMarket(economic, row.supermarket)} limit={6} />,
+      compact: false,
+      render: (_value, row) => <ItemList items={scenarioItemsForMarket(economic, row.supermarket)} limit={3} />,
     },
   ]
 
   const premiumColumns = [
-    { key: 'supermarket', label: 'Supermercado', render: (value) => <Pill>{value}</Pill> },
+    { key: 'supermarket', label: 'Supermercado', primary: true, render: (value) => <Pill>{value}</Pill> },
     { key: 'ranking_premium', label: 'Ranking' },
     { key: 'total_cba_premium', label: 'Total estimado', render: formatCurrency },
     {
@@ -450,33 +456,34 @@ export default function App() {
     {
       key: 'items_considerados',
       label: 'Ítems considerados',
-      render: (_value, row) => <ItemList items={scenarioItemsForMarket(premium, row.supermarket)} limit={6} />,
+      compact: false,
+      render: (_value, row) => <ItemList items={scenarioItemsForMarket(premium, row.supermarket)} limit={3} />,
     },
   ]
 
   const scenarioDetailColumns = [
-    { key: 'cba_name', label: 'Ítem CBA' },
-    { key: 'best_name', label: 'Producto elegido' },
-    { key: 'best_brand', label: 'Marca', render: formatBrand },
+    { key: 'cba_name', label: 'Ítem CBA', primary: true },
+    { key: 'best_name', label: 'Producto elegido', compact: false },
     { key: 'best_supermarket', label: 'Mejor supermercado', render: (value) => <Pill>{value}</Pill> },
     { key: 'best_price_num', label: 'Precio', render: formatCurrency },
+    { key: 'best_brand', label: 'Marca', render: formatBrand, mobile: false },
   ]
 
   const cbaDriverColumns = [
+    { key: 'cba_name', label: 'Ítem CBA', primary: true },
     { key: 'supermarket', label: 'Supermercado', render: (value) => <Pill>{value}</Pill> },
-    { key: 'cba_name', label: 'Ítem CBA' },
     { key: 'estimated_month_cost', label: 'Costo usado', render: formatCurrency },
-    { key: 'name', label: 'Producto detectado' },
-    { key: 'brand', label: 'Marca', render: formatBrand },
+    { key: 'name', label: 'Producto detectado', compact: false },
+    { key: 'brand', label: 'Marca', render: formatBrand, mobile: false },
   ]
 
   return (
     <main className="min-h-screen bg-soft text-ink">
-      <section className="bg-gradient-to-br from-ocean via-plum to-brand px-4 py-10 text-white sm:px-6 lg:px-8">
+      <section className="bg-gradient-to-br from-ocean via-plum to-brand px-4 py-8 text-white sm:px-6 lg:px-8">
         <div className="mx-auto max-w-7xl">
           <div className="flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
             <div className="max-w-3xl">
-              <h1 className="text-4xl font-black tracking-tight sm:text-5xl">
+              <h1 className="text-3xl font-black tracking-tight sm:text-5xl">
                 Comparador de precios de supermercados
               </h1>
             </div>
@@ -491,7 +498,7 @@ export default function App() {
         </div>
       </section>
 
-      <div className="mx-auto max-w-7xl space-y-8 px-4 py-8 sm:px-6 lg:px-8">
+      <div className="mx-auto max-w-7xl space-y-6 px-3 py-6 sm:space-y-8 sm:px-6 sm:py-8 lg:px-8">
         {error ? (
           <div className="rounded-2xl border border-red-200 bg-red-50 p-4 text-sm text-red-700">
             {error}
