@@ -210,6 +210,10 @@ export default function App() {
     setCartRows((rows) => rows.filter((row) => row.query.toLowerCase() !== term.toLowerCase()))
   }
 
+  function clearCartResults() {
+    setCartRows([])
+  }
+
   async function buildCart(event) {
     event?.preventDefault()
     const items = parseCartText(cartText).map(parseCartLine)
@@ -367,14 +371,25 @@ export default function App() {
                   </button>
                 ))}
               </div>
-              <button
-                type="submit"
-                disabled={cartLoading}
-                className="inline-flex w-full items-center justify-center gap-2 rounded-2xl bg-brand px-5 py-3 font-bold text-white transition hover:bg-brandDark disabled:cursor-not-allowed disabled:opacity-60 sm:w-auto"
-              >
-                <ShoppingCart className="h-4 w-4" />
-                {cartLoading ? 'Comparando...' : 'Comparar carrito'}
-              </button>
+              <div className="flex flex-col gap-2 sm:flex-row">
+                <button
+                  type="submit"
+                  disabled={cartLoading}
+                  className="inline-flex w-full items-center justify-center gap-2 rounded-2xl bg-brand px-5 py-3 font-bold text-white transition hover:bg-brandDark disabled:cursor-not-allowed disabled:opacity-60 sm:w-auto"
+                >
+                  <ShoppingCart className="h-4 w-4" />
+                  {cartLoading ? 'Comparando...' : 'Comparar carrito'}
+                </button>
+                <button
+                  type="button"
+                  onClick={clearCartResults}
+                  disabled={!cartRows.length || cartLoading}
+                  className="inline-flex w-full items-center justify-center gap-2 rounded-2xl border border-slate-300 bg-white px-5 py-3 font-bold text-slate-700 transition hover:border-brand hover:text-brand disabled:cursor-not-allowed disabled:opacity-50 sm:w-auto"
+                >
+                  <Trash2 className="h-4 w-4" />
+                  Limpiar resultados
+                </button>
+              </div>
             </div>
 
             <div className="overflow-hidden rounded-2xl border border-slate-200 bg-white">
