@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { ShoppingCart, Trash2 } from 'lucide-react'
+import { ExternalLink, ShoppingCart, Trash2 } from 'lucide-react'
 
 import {
   getCbaSummary,
@@ -78,6 +78,10 @@ function extractProductSize(product) {
   if (fromContent) return fromContent
 
   return null
+}
+
+function getProductLink(product) {
+  return product?.detail_url ?? product?.link ?? product?.url ?? product?.product_url ?? null
 }
 
 function parseCartLine(value) {
@@ -381,6 +385,7 @@ export default function App() {
                         {supermarketNames.map((supermarket) => {
                           const option = row.markets?.[supermarket]
                           const product = option?.product
+                          const productLink = getProductLink(product)
                           const isLowest = row.cheapestMarket === supermarket
 
                           return (
@@ -416,6 +421,22 @@ export default function App() {
                                   {option.comparable ? (
                                     <p className="mt-1 text-slate-400">Precio envase: {formatCurrency(product.price)}</p>
                                   ) : null}
+                                  <p className="mt-1 flex flex-wrap items-center gap-1 text-slate-500">
+                                    <span className="font-semibold text-slate-600">Link:</span>
+                                    {productLink ? (
+                                      <a
+                                        href={productLink}
+                                        target="_blank"
+                                        rel="noreferrer"
+                                        className="inline-flex items-center gap-1 font-semibold text-brand underline-offset-2 hover:text-brandDark hover:underline"
+                                      >
+                                        Ver producto
+                                        <ExternalLink className="h-3 w-3" />
+                                      </a>
+                                    ) : (
+                                      <span>No disponible</span>
+                                    )}
+                                  </p>
                                 </div>
                               ) : (
                                 <p className="mt-2 text-sm text-slate-400">Sin resultado</p>
