@@ -25,23 +25,6 @@ function priceNumber(value) {
   return Number.isNaN(parsed) ? Number.POSITIVE_INFINITY : parsed
 }
 
-function listPriceNumber(product) {
-  const listPrice = priceNumber(product?.list_price)
-  if (Number.isFinite(listPrice) && listPrice > 0) return listPrice
-  return priceNumber(product?.price)
-}
-
-function referencePriceNumber(product) {
-  const detectedPrice = priceNumber(product?.price)
-  const listPrice = priceNumber(product?.list_price)
-
-  if (!Number.isFinite(detectedPrice) || detectedPrice <= 0) return listPrice
-  if (!Number.isFinite(listPrice) || listPrice <= 0) return detectedPrice
-
-  const ratio = detectedPrice / listPrice
-  return ratio <= 0.25 ? listPrice : detectedPrice
-}
-
 function normalizeText(value) {
   return String(value ?? '')
     .normalize('NFD')
@@ -125,8 +108,7 @@ function productMatchesQuery(product, query) {
 }
 
 function estimateComparablePrice(product, targetSize) {
-  const productPrice = referencePriceNumber(product)
-  const detectedPrice = priceNumber(product?.price)
+  const productPrice = priceNumber(product?.price)
   const listPrice = priceNumber(product?.list_price)
   const productSize = extractProductSize(product)
 
@@ -134,10 +116,7 @@ function estimateComparablePrice(product, targetSize) {
     return {
       productSize,
       estimatedPrice: Number.POSITIVE_INFINITY,
-      detectedPrice,
       listPrice,
-      estimatedDetectedPrice: Number.POSITIVE_INFINITY,
-      estimatedListPrice: Number.POSITIVE_INFINITY,
       comparable: false,
     }
   }
@@ -146,10 +125,7 @@ function estimateComparablePrice(product, targetSize) {
     return {
       productSize,
       estimatedPrice: productPrice,
-      detectedPrice,
       listPrice,
-      estimatedDetectedPrice: detectedPrice,
-      estimatedListPrice: listPrice,
       comparable: false,
     }
   }
@@ -157,10 +133,7 @@ function estimateComparablePrice(product, targetSize) {
   return {
     productSize,
     estimatedPrice: productPrice * (targetSize.amount / productSize.amount),
-    detectedPrice,
     listPrice,
-    estimatedDetectedPrice: Number.isFinite(detectedPrice) ? detectedPrice * (targetSize.amount / productSize.amount) : Number.POSITIVE_INFINITY,
-    estimatedListPrice: Number.isFinite(listPrice) ? listPrice * (targetSize.amount / productSize.amount) : Number.POSITIVE_INFINITY,
     comparable: true,
   }
 }
@@ -431,7 +404,7 @@ export default function App() {
                                 {product ? (
                                   <div className="text-right">
                                     <p className="font-black text-ink">
-                                      {option.comparable ? formatCurrency(option.estimatedPrice) : formatCurrency(referencePriceNumber(product))}
+                                      {option.comparable ? formatCurrency(option.estimatedPrice) : formatCurrency(product.price)}
                                     </p>
                                     {isLowest ? (
                                       <span className="mt-1 inline-flex rounded-full bg-emerald-900 px-2 py-0.5 text-[11px] font-bold text-white">
@@ -445,25 +418,12 @@ export default function App() {
                                 <div className="mt-2 text-xs text-slate-600">
                                   <p className="font-medium text-slate-700">{product.name}</p>
                                   <p className="mt-1">
-                                    {option.comparable
-                                      ? `Estimado para ${formatSize(row.targetSize)} · envase ${formatSize(option.productSize)}`
-                                      : `Envase ${formatSize(option.productSize)} · sin equivalencia`}
+                                    Envase: {formatSize(option.productSize)}
                                   </p>
-                                  <p className="mt-1 text-slate-400">Precio usado envase: {formatCurrency(referencePriceNumber(product))}</p>
-                                  {Number.isFinite(option.listPrice) && option.listPrice !== referencePriceNumber(product) ? (
+                                  <p className="mt-1 text-slate-400">Precio producto: {formatCurrency(product.price)}</p>
+                                  {Number.isFinite(option.listPrice) && option.listPrice !== priceNumber(product.price) ? (
                                     <p className="mt-1 text-slate-400">
-                                      Precio lista informado: {formatCurrency(option.listPrice)}
-                                      {option.comparable && Number.isFinite(option.estimatedListPrice)
-                                        ? ` · estimado ${formatCurrency(option.estimatedListPrice)}`
-                                        : ''}
-                                    </p>
-                                  ) : null}
-                                  {Number.isFinite(option.detectedPrice) && option.detectedPrice !== referencePriceNumber(product) ? (
-                                    <p className="mt-1 text-slate-400">
-                                      Precio detectado/oferta: {formatCurrency(option.detectedPrice)}
-                                      {option.comparable && Number.isFinite(option.estimatedDetectedPrice)
-                                        ? ` · estimado ${formatCurrency(option.estimatedDetectedPrice)}`
-                                        : ''}
+                                      Precio lista: {formatCurrency(option.listPrice)}
                                     </p>
                                   ) : null}
                                   <p className="mt-1 flex flex-wrap items-center gap-1 text-slate-500">
