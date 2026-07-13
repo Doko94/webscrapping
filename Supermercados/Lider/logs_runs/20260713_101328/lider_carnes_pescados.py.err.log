@@ -1,0 +1,56 @@
+Traceback (most recent call last):
+  File "C:\Python\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Python\Lib\asyncio\base_events.py", line 721, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\fvergram\OneDrive - NTT DATA EMEAL\Desktop\webscrapping\Supermercados\Lider\src\categorias\lider_carnes_pescados.py", line 833, in main
+    rows, blocked = await scrape_subcategory(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\fvergram\OneDrive - NTT DATA EMEAL\Desktop\webscrapping\Supermercados\Lider\src\categorias\lider_carnes_pescados.py", line 710, in scrape_subcategory
+    page = await context.new_page()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\playwright\async_api\_generated.py", line 12880, in new_page
+    return mapping.from_impl(await self._impl_obj.new_page())
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\playwright\_impl\_browser_context.py", line 331, in new_page
+    return from_channel(await self._channel.send("newPage", None))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Python\Lib\site-packages\playwright\_impl\_connection.py", line 557, in wrap_api_call
+    return await cb()
+           ^^^^^^^^^^
+  File "C:\Python\Lib\site-packages\playwright\_impl\_connection.py", line 123, in _inner_send
+    done, _ = await asyncio.wait(
+              ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Python\Lib\asyncio\tasks.py", line 451, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python\Lib\asyncio\tasks.py", line 537, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\fvergram\OneDrive - NTT DATA EMEAL\Desktop\webscrapping\Supermercados\Lider\src\categorias\lider_carnes_pescados.py", line 870, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "C:\Python\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Python\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt

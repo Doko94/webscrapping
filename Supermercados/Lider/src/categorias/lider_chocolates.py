@@ -11,6 +11,7 @@ from typing import Dict, List, Optional, Tuple
 from urllib.parse import urljoin
 
 from playwright.async_api import async_playwright, Browser, BrowserContext, Page
+from cached_subcategories import load_cached_product_rows, load_cached_subcategories
 
 
 OUTPUT_DIR = Path(os.getenv("SCRAPER_OUTPUT_DIR", "output/chocolates"))
@@ -623,7 +624,12 @@ async def main():
             slow_mo=0
         )
 
-        subcats = await discover_subcategories(browser)
+        try:
+            subcats = await discover_subcategories(browser)
+        except Exception as exc:
+            print(f"[WARN] No se pudieron descubrir subcategorías online: {exc}")
+            subcats = load_cached_subcategories(OUTPUT_DIR, CATEGORY_NAME, globals().get("CATEGORY_LANDING"))
+            print(f"[WARN] Usando {len(subcats)} subcategorías cacheadas desde {OUTPUT_DIR}")
 
         if not subcats:
             raise RuntimeError("No se pudieron descubrir subcategorías para Chocolates")
@@ -659,6 +665,10 @@ async def main():
         for r in all_rows:
             dedup[(r.get("sku"), r.get("subcat_name"))] = r
         out_rows = list(dedup.values())
+        if not out_rows:
+            print("[WARN] La corrida termino sin productos nuevos; se reutilizara el ultimo CSV no vacio.")
+            out_rows = load_cached_product_rows(OUTPUT_DIR)
+
 
         ts = datetime.now().strftime("%Y%m%d_%H%M%S")
         out_csv = OUTPUT_DIR / f"{OUT_PREFIX}_{ts}.csv"

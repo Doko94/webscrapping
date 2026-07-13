@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "C:\Users\fvergram\OneDrive - NTT DATA EMEAL\Desktop\webscrapping\Supermercados\Lider\src\categorias\lider_chocolates.py", line 674, in <module>
+    asyncio.run(main())
+    ~~~~~~~~~~~^^^^^^^^
+  File "C:\Python\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "C:\Python\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Python\Lib\asyncio\base_events.py", line 721, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\fvergram\OneDrive - NTT DATA EMEAL\Desktop\webscrapping\Supermercados\Lider\src\categorias\lider_chocolates.py", line 626, in main
+    subcats = await discover_subcategories(browser)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fvergram\OneDrive - NTT DATA EMEAL\Desktop\webscrapping\Supermercados\Lider\src\categorias\lider_chocolates.py", line 214, in discover_subcategories
+    raise RuntimeError("Landing de Chocolates bloqueada por anti-bot")
+RuntimeError: Landing de Chocolates bloqueada por anti-bot

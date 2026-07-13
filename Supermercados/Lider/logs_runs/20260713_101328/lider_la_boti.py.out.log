@@ -1,0 +1,16 @@
+[WARN] No se pudieron descubrir subcategorías online: No pude abrir el menú de Categorías
+[WARN] Usando 48 subcategorías cacheadas desde output\la_boti
+\n[1/48] Scrape: [Vinos y Espumantes 3x] Combina 3 Espumantes
+[BLOCKED] [Vinos y Espumantes 3x] Combina 3 Espumantes -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9sYS1ib3RpL3Zpbm9zLXktZXNwdW1hbnRlcy0zeC9jb21iaW5hLTMtZXNwdW1hbnRlcy82MDMzODAwOF83NzU5Njk5MF80MjMyMTI3NQ==&uuid=5bb6cd31-7ec6-11f1-8d02-bb411f5329cd&vid=&g=b
+  bloqueado por anti-bot
+\n[2/48] Scrape: [Vinos y Espumantes 3x] Combina 3x 27.990
+[BLOCKED] [Vinos y Espumantes 3x] Combina 3x 27.990 -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9sYS1ib3RpL3Zpbm9zLXktZXNwdW1hbnRlcy0zeC9jb21iaW5hLTN4LTI3OTkwLzYwMzM4MDA4Xzc3NTk2OTkwXzQxNjQ0Njc4&uuid=6a077e53-7ec6-11f1-bbd6-cc86eb3b4d16&vid=&g=b
+  bloqueado por anti-bot
+\n[3/48] Scrape: [Vinos y Espumantes 3x] Combina 3x 24.990
+[BLOCKED] [Vinos y Espumantes 3x] Combina 3x 24.990 -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9sYS1ib3RpL3Zpbm9zLXktZXNwdW1hbnRlcy0zeC9jb21iaW5hLTN4LTI0OTkwLzYwMzM4MDA4Xzc3NTk2OTkwXzk1NDQ3OTIz&uuid=7ab0d18d-7ec6-11f1-b352-a567da779ad3&vid=&g=b
+  bloqueado por anti-bot
+\nDemasiados bloqueos consecutivos. Se detiene el scraping.
+[WARN] La corrida termin? sin productos nuevos; se reutilizar? el ?ltimo CSV no vac?o.
+[WARN] Productos reutilizados desde cache: C:\Users\fvergram\OneDrive - NTT DATA EMEAL\Desktop\webscrapping\Supermercados\Lider\output\la_boti\lider_la_boti_20260317_231459.csv (1154 filas)
+\nTotal filas: 1154
+CSV generado: output\la_boti\lider_la_boti_20260713_102405.csv

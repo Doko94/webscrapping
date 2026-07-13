@@ -1,0 +1,14 @@
+[WARN] No se pudieron descubrir subcategorías online: No pude abrir el menú de Categorías
+[WARN] Usando 29 subcategorías cacheadas desde output\bebidas_y_snacks
+\n[1/29] Scrape: [Bebidas] Regulares
+[BLOCKED] [Bebidas] Regulares -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9iZWJpZGFzLXktc25hY2tzL2JlYmlkYXMvcmVndWxhcmVzLzEzOTAxMDIyXzU2NjU3MDc3XzkzMDI5MDA2&uuid=29f9630d-7ec5-11f1-8acb-d1c41ca339bb&vid=&g=b
+  bloqueado por anti-bot
+\n[2/29] Scrape: [Bebidas] Light y Zero
+[BLOCKED] [Bebidas] Light y Zero -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9iZWJpZGFzLXktc25hY2tzL2JlYmlkYXMvbGlnaHQteS16ZXJvLzEzOTAxMDIyXzU2NjU3MDc3XzM2OTE0ODUy&uuid=3b2f4fa5-7ec5-11f1-bd7e-ece2225ba4a4&vid=&g=b
+  bloqueado por anti-bot
+\n[3/29] Scrape: [Bebidas] Individuales
+[BLOCKED] [Bebidas] Individuales -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9iZWJpZGFzLXktc25hY2tzL2JlYmlkYXMvaW5kaXZpZHVhbGVzLzEzOTAxMDIyXzU2NjU3MDc3XzM3NjU1NzE3&uuid=492d243d-7ec5-11f1-8c99-64996adf0bdf&vid=&g=b
+  bloqueado por anti-bot
+\nDemasiados bloqueos consecutivos. Se detiene el scraping.
+\nTotal filas: 0
+CSV generado: output\bebidas_y_snacks\lider_bebidas_y_snacks_20260713_101532.csv

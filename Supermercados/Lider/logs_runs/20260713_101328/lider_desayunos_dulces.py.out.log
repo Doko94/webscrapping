@@ -1,0 +1,14 @@
+[WARN] No se pudieron descubrir subcategorías online: No pude abrir el menú de Categorías
+[WARN] Usando 32 subcategorías cacheadas desde output\desayunos_y_dulces
+\n[1/32] Scrape: [Café Té y Hierbas] Café Instantáneo
+[BLOCKED] [Café Té y Hierbas] Café Instantáneo -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9kZXNheXVub3MteS1kdWxjZXMvY2FmZS10ZS15LWhpZXJiYXMvY2FmZS1pbnN0YW50YW5lby8yMzQ4MzExNl8xMTg5NDgwNV8xNzMyNDkyNg==&uuid=916a92b7-7ec5-11f1-ad81-f359f46ebda5&vid=&g=b
+  bloqueado por anti-bot
+\n[2/32] Scrape: [Café Té y Hierbas] Café en Grano y Molido
+[BLOCKED] [Café Té y Hierbas] Café en Grano y Molido -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9kZXNheXVub3MteS1kdWxjZXMvY2FmZS10ZS15LWhpZXJiYXMvY2FmZS1lbi1ncmFuby15LW1vbGlkby8yMzQ4MzExNl8xMTg5NDgwNV85MzYyOTI4Nw==&uuid=a308b738-7ec5-11f1-bdba-8d66986a828f&vid=&g=b
+  bloqueado por anti-bot
+\n[3/32] Scrape: [Café Té y Hierbas] Cápsulas de Café
+[BLOCKED] [Café Té y Hierbas] Cápsulas de Café -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9kZXNheXVub3MteS1kdWxjZXMvY2FmZS10ZS15LWhpZXJiYXMvY2Fwc3VsYXMtZGUtY2FmZS8yMzQ4MzExNl8xMTg5NDgwNV8yMDY1NDMyMg==&uuid=b346801e-7ec5-11f1-b3b9-c00fbd9c0354&vid=&g=b
+  bloqueado por anti-bot
+\nDemasiados bloqueos consecutivos. Se detiene el scraping.
+\nTotal filas: 0
+CSV generado: output\desayunos_y_dulces\lider_desayunos_y_dulces_20260713_101829.csv

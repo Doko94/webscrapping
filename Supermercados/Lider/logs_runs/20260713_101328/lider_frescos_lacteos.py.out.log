@@ -1,0 +1,14 @@
+[WARN] No se pudieron descubrir subcategorías online: No pude abrir el menú de Categorías
+[WARN] Usando 59 subcategorías cacheadas desde output\frescos_y_lacteos
+\n[1/59] Scrape: [Fiambres y Embutidos] Jamón de Pavo y Pollo
+[BLOCKED] [Fiambres y Embutidos] Jamón de Pavo y Pollo -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9mcmVzY29zLXktbGFjdGVvcy9maWFtYnJlcy15LWVtYnV0aWRvcy9qYW1vbi1kZS1wYXZvLXktcG9sbG8vNDU2NjkxMDVfMjIxOTYwMDNfNjMxMDY4Nzk=&uuid=ebed7397-7ec5-11f1-b543-4522c00405bb&vid=&g=b
+  bloqueado por anti-bot
+\n[2/59] Scrape: [Fiambres y Embutidos] Jamón de Cerdo
+[BLOCKED] [Fiambres y Embutidos] Jamón de Cerdo -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9mcmVzY29zLXktbGFjdGVvcy9maWFtYnJlcy15LWVtYnV0aWRvcy9qYW1vbi1kZS1jZXJkby80NTY2OTEwNV8yMjE5NjAwM180ODE1NDYwNg==&uuid=fd2b449a-7ec5-11f1-9a25-151701778aea&vid=&g=b
+  bloqueado por anti-bot
+\n[3/59] Scrape: [Fiambres y Embutidos] Mortadela y Otros
+[BLOCKED] [Fiambres y Embutidos] Mortadela y Otros -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9mcmVzY29zLXktbGFjdGVvcy9maWFtYnJlcy15LWVtYnV0aWRvcy9tb3J0YWRlbGEteS1vdHJvcy80NTY2OTEwNV8yMjE5NjAwM184NTYyOTIxMg==&uuid=0a330834-7ec6-11f1-b787-a5f1d359cd30&vid=&g=b
+  bloqueado por anti-bot
+\nDemasiados bloqueos consecutivos. Se detiene el scraping.
+\nTotal filas: 0
+CSV generado: output\frescos_y_lacteos\lider_frescos_y_lacteos_20260713_102057.csv

@@ -1,0 +1,19 @@
+[WARN] No se pudieron descubrir subcategorías online: Home de Lider bloqueado por anti-bot
+[WARN] Usando 23 subcategorías cacheadas desde output\higiene_cuidado_personal
+
+[1/23] Scrape: [Protectores solares] Bloqueadores solares y after sun
+[BLOCKED] [Protectores solares] Bloqueadores solares y after sun -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9oaWdpZW5lLXktY3VpZGFkby1wZXJzb25hbC9wcm90ZWN0b3Jlcy1zb2xhcmVzL2Jsb3F1ZWFkb3Jlcy1zb2xhcmVzLXktYWZ0ZXItc3VuLzcyMzg3NDcyXzQ3MjMyODUyXzE5MDA3MTcy&uuid=3aab6663-7ec6-11f1-b72a-44529b710168&vid=&g=b
+  bloqueado por anti-bot
+
+[2/23] Scrape: [Protectores solares] Pasta Dental
+[BLOCKED] [Protectores solares] Pasta Dental -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9oaWdpZW5lLXktY3VpZGFkby1wZXJzb25hbC9jdWlkYWRvLWJ1Y2FsL3Bhc3RhLWRlbnRhbC83MjM4NzQ3Ml84ODczMzA0OV83MTc1ODc5Nw==&uuid=45a2e187-7ec6-11f1-8058-72d24df72e3d&vid=&g=b
+  bloqueado por anti-bot
+
+[3/23] Scrape: [Protectores solares] Cepillo Dental
+[BLOCKED] [Protectores solares] Cepillo Dental -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9oaWdpZW5lLXktY3VpZGFkby1wZXJzb25hbC9jdWlkYWRvLWJ1Y2FsL2NlcGlsbG8tZGVudGFsLzcyMzg3NDcyXzg4NzMzMDQ5Xzg2NTI0Nzkw&uuid=4ef8ea46-7ec6-11f1-9293-8539035d7a0f&vid=&g=b
+  bloqueado por anti-bot
+
+Demasiados bloqueos consecutivos. Se detiene el scraping.
+
+Total filas: 0
+CSV generado: output\higiene_cuidado_personal\lider_higiene_cuidado_personal_20260713_102245.csv

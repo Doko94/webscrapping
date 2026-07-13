@@ -1,0 +1,14 @@
+[WARN] No se pudieron descubrir subcategorías online: No pude abrir el menú de Categorías
+[WARN] Usando 39 subcategorías cacheadas desde output\despensa
+\n[1/39] Scrape: [Pastas y Salsas] Pastas Cortas
+[BLOCKED] [Pastas y Salsas] Pastas Cortas -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9kZXNwZW5zYS9wYXN0YXMteS1zYWxzYXMvcGFzdGFzLWNvcnRhcy80NjU4OTA0MF81OTYxNTEzOV8xNTMxMjkwNg==&uuid=c2695cf3-7ec5-11f1-bf76-5cc749a15c13&vid=&g=b
+  bloqueado por anti-bot
+\n[2/39] Scrape: [Pastas y Salsas] Pastas Largas
+[BLOCKED] [Pastas y Salsas] Pastas Largas -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9kZXNwZW5zYS9wYXN0YXMteS1zYWxzYXMvcGFzdGFzLWxhcmdhcy80NjU4OTA0MF81OTYxNTEzOV8zODU0NDQ0Mg==&uuid=cfdf3d69-7ec5-11f1-a57a-ebd1dfd6f05b&vid=&g=b
+  bloqueado por anti-bot
+\n[3/39] Scrape: [Pastas y Salsas] Lasañas y Rellenos
+[BLOCKED] [Pastas y Salsas] Lasañas y Rellenos -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9kZXNwZW5zYS9wYXN0YXMteS1zYWxzYXMvbGFzYW5hcy15LXJlbGxlbm9zLzQ2NTg5MDQwXzU5NjE1MTM5XzUzMTE0NDU2&uuid=ddab8d77-7ec5-11f1-b18f-c98c078f8a0f&vid=&g=b
+  bloqueado por anti-bot
+\nDemasiados bloqueos consecutivos. Se detiene el scraping.
+\nTotal filas: 0
+CSV generado: output\despensa\lider_despensa_20260713_101941.csv

@@ -1,0 +1,19 @@
+[WARN] No se pudieron descubrir subcategorías online: Home de Lider bloqueado por anti-bot
+[WARN] Usando 23 subcategorías cacheadas desde output\colaciones
+
+[1/23] Scrape: [Fruta Colación] Compotas
+[BLOCKED] [Fruta Colación] Compotas -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9jb2xhY2lvbmVzL2ZydXRhLWNvbGFjaW9uL2NvbXBvdGFzLzQ5ODU4MjIxXzgyMTQ3OTQxXzY5MDM0MTY0&uuid=724f2827-7ec5-11f1-b5c4-ad325df40003&vid=&g=b
+  bloqueado por anti-bot
+
+[2/23] Scrape: [Fruta Colación] Fruta Picada
+[BLOCKED] [Fruta Colación] Fruta Picada -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9jb2xhY2lvbmVzL2ZydXRhLWNvbGFjaW9uL2ZydXRhLXBpY2FkYS80OTg1ODIyMV84MjE0Nzk0MV80OTQ4NTk3NA==&uuid=7aba65f6-7ec5-11f1-90a7-ed8e65302d48&vid=&g=b
+  bloqueado por anti-bot
+
+[3/23] Scrape: [Fruta Colación] Barritas Proteina y Veganas
+[BLOCKED] [Fruta Colación] Barritas Proteina y Veganas -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9jb2xhY2lvbmVzL2JhcnJpdGFzLXktY2VyZWFsZXMvYmFycml0YXMtcHJvdGVpbmEteS12ZWdhbmFzLzQ5ODU4MjIxXzcxMDA4MzE3XzY0MzgxNjE0&uuid=83e43620-7ec5-11f1-873e-050cc4952a7d&vid=&g=b
+  bloqueado por anti-bot
+
+Demasiados bloqueos consecutivos. Se detiene el scraping.
+
+Total filas: 0
+CSV generado: output\colaciones\lider_colaciones_20260713_101704.csv
