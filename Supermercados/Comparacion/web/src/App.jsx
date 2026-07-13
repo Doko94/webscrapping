@@ -115,6 +115,7 @@ function estimateComparablePrice(product, targetSize) {
   if (!Number.isFinite(productPrice)) {
     return {
       productSize,
+      productPrice,
       estimatedPrice: Number.POSITIVE_INFINITY,
       listPrice,
       comparable: false,
@@ -124,6 +125,7 @@ function estimateComparablePrice(product, targetSize) {
   if (!targetSize || !productSize || targetSize.family !== productSize.family || productSize.amount <= 0) {
     return {
       productSize,
+      productPrice,
       estimatedPrice: productPrice,
       listPrice,
       comparable: false,
@@ -132,6 +134,7 @@ function estimateComparablePrice(product, targetSize) {
 
   return {
     productSize,
+    productPrice,
     estimatedPrice: productPrice * (targetSize.amount / productSize.amount),
     listPrice,
     comparable: true,
@@ -236,7 +239,7 @@ export default function App() {
                 options = options.filter((option) => option.comparable)
               }
 
-              options = options.sort((a, b) => a.estimatedPrice - b.estimatedPrice)
+              options = options.sort((a, b) => a.productPrice - b.productPrice)
 
               return [supermarket, options[0] ?? null]
             }),
@@ -247,7 +250,7 @@ export default function App() {
             .map(([supermarket, option]) => ({
               supermarket,
               product: option.product,
-              price: option.estimatedPrice,
+              price: option.productPrice,
             }))
             .filter((itemPrice) => Number.isFinite(itemPrice.price))
 
@@ -281,7 +284,7 @@ export default function App() {
     const prices = cartRows
       .map((row) => row.markets?.[supermarket])
       .filter(Boolean)
-      .map((option) => option.estimatedPrice)
+      .map((option) => option.productPrice)
       .filter((price) => Number.isFinite(price))
 
     return {
@@ -404,7 +407,7 @@ export default function App() {
                                 {product ? (
                                   <div className="text-right">
                                     <p className="font-black text-ink">
-                                      {option.comparable ? formatCurrency(option.estimatedPrice) : formatCurrency(product.price)}
+                                      {formatCurrency(option.productPrice)}
                                     </p>
                                     {isLowest ? (
                                       <span className="mt-1 inline-flex rounded-full bg-emerald-900 px-2 py-0.5 text-[11px] font-bold text-white">
@@ -420,7 +423,6 @@ export default function App() {
                                   <p className="mt-1">
                                     Envase: {formatSize(option.productSize)}
                                   </p>
-                                  <p className="mt-1 text-slate-400">Precio producto: {formatCurrency(product.price)}</p>
                                   {Number.isFinite(option.listPrice) && option.listPrice !== priceNumber(product.price) ? (
                                     <p className="mt-1 text-slate-400">
                                       Precio lista: {formatCurrency(option.listPrice)}
