@@ -62,7 +62,7 @@ def products_summary():
 
 @app.get("/products/search")
 def products_search(
-    q: str = Query(..., min_length=1, description="Texto a buscar, por ejemplo 'leche'"),
+    q: str = Query("", description="Texto a buscar, por ejemplo 'leche'. Vacio devuelve el consolidado limitado."),
     supermarket: str | None = Query(None, description="Filtro opcional: jumbo, lider o unimarc"),
     limit: int = Query(30, ge=1, le=100),
 ):

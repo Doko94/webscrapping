@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { ExternalLink, ShoppingCart, Trash2 } from 'lucide-react'
+import { ExternalLink, Plus, Search, ShoppingCart, Trash2 } from 'lucide-react'
 
 import {
   getCbaSummary,
@@ -187,6 +187,10 @@ export default function App() {
   const [cartText, setCartText] = useState('arroz basmati 1 kg\nleche entera 1 L\naceite vegetal 1 L')
   const [cartRows, setCartRows] = useState([])
   const [cartLoading, setCartLoading] = useState(false)
+  const [productQuery, setProductQuery] = useState('')
+  const [productMarket, setProductMarket] = useState('')
+  const [productRows, setProductRows] = useState([])
+  const [productLoading, setProductLoading] = useState(false)
   const [error, setError] = useState('')
 
   useEffect(() => {
@@ -211,6 +215,22 @@ export default function App() {
     loadInitialData()
   }, [])
 
+  useEffect(() => {
+    loadProducts('', '')
+  }, [])
+
+  async function loadProducts(query = productQuery, supermarket = productMarket) {
+    try {
+      setProductLoading(true)
+      const result = await searchProducts(query, supermarket, 80)
+      setProductRows(result.items ?? [])
+    } catch (err) {
+      setError(err.message)
+    } finally {
+      setProductLoading(false)
+    }
+  }
+
   function removeCartTerm(term) {
     const nextItems = parseCartText(cartText).filter((item) => item.toLowerCase() !== term.toLowerCase())
     setCartText(nextItems.join('\n'))
@@ -219,6 +239,23 @@ export default function App() {
 
   function clearCartResults() {
     setCartRows([])
+  }
+
+  function addProductToCart(product) {
+    const productName = String(product?.name ?? '').trim()
+    if (!productName) return
+
+    const nextItems = parseCartText(cartText)
+    if (!nextItems.some((item) => normalizeText(item) === normalizeText(productName))) {
+      nextItems.push(productName)
+      setCartText(nextItems.join('\n'))
+    }
+    setCartRows([])
+  }
+
+  function searchProductList(event) {
+    event?.preventDefault()
+    loadProducts(productQuery, productMarket)
   }
 
   async function buildCart(event) {
@@ -510,6 +547,121 @@ export default function App() {
               </div>
             </div>
           </form>
+        </SectionCard>
+
+        <SectionCard
+          title="Productos consolidados"
+          description="Explora la base consolidada de supermercados y agrega productos directamente al carrito para comparar tu compra."
+        >
+          <form onSubmit={searchProductList} className="mb-4 grid gap-3 lg:grid-cols-[1fr_220px_auto]">
+            <label className="relative">
+              <Search className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-400" />
+              <input
+                value={productQuery}
+                onChange={(event) => setProductQuery(event.target.value)}
+                className="h-12 w-full rounded-2xl border border-slate-300 bg-white pl-11 pr-4 text-sm outline-none transition focus:border-emerald-500 focus:ring-4 focus:ring-emerald-100"
+                placeholder="Buscar producto, marca o categoría..."
+              />
+            </label>
+            <select
+              value={productMarket}
+              onChange={(event) => setProductMarket(event.target.value)}
+              className="h-12 rounded-2xl border border-slate-300 bg-white px-4 text-sm font-semibold capitalize text-slate-700 outline-none transition focus:border-emerald-500 focus:ring-4 focus:ring-emerald-100"
+            >
+              <option value="">Todos</option>
+              {supermarketNames.map((supermarket) => (
+                <option key={supermarket} value={supermarket}>
+                  {supermarket}
+                </option>
+              ))}
+            </select>
+            <button
+              type="submit"
+              disabled={productLoading}
+              className="inline-flex h-12 items-center justify-center gap-2 rounded-2xl bg-ocean px-5 font-bold text-white transition hover:bg-plum disabled:cursor-not-allowed disabled:opacity-60"
+            >
+              <Search className="h-4 w-4" />
+              {productLoading ? 'Buscando...' : 'Buscar'}
+            </button>
+          </form>
+
+          <div className="mb-3 flex items-center justify-between gap-3 text-sm text-muted">
+            <span>{productRows.length.toLocaleString('es-CL')} productos visibles</span>
+            <button
+              type="button"
+              onClick={() => {
+                setProductQuery('')
+                setProductMarket('')
+                loadProducts('', '')
+              }}
+              className="font-bold text-brand transition hover:text-brandDark"
+            >
+              Ver todos
+            </button>
+          </div>
+
+          {productRows.length ? (
+            <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">
+              {productRows.map((product, index) => {
+                const productLink = getProductLink(product)
+                const listPrice = priceNumber(product.list_price)
+                const currentPrice = priceNumber(product.price)
+                const hasListPrice = Number.isFinite(listPrice) && listPrice !== currentPrice
+
+                return (
+                  <article
+                    key={`${product.sku ?? product.name ?? 'product'}-${index}`}
+                    className="flex min-h-[190px] flex-col justify-between rounded-2xl border border-slate-200 bg-white p-4 shadow-soft"
+                  >
+                    <div>
+                      <div className="mb-3 flex items-start justify-between gap-3">
+                        <span className="rounded-full bg-[#fbf0ed] px-3 py-1 text-xs font-bold capitalize text-plum">
+                          {product.supermarket ?? 'sin supermercado'}
+                        </span>
+                        <p className="text-right text-lg font-black text-ink">
+                          {formatCurrency(product.price)}
+                        </p>
+                      </div>
+                      <h3 className="text-sm font-bold leading-snug text-ink">{product.name}</h3>
+                      <div className="mt-2 space-y-1 text-xs text-slate-500">
+                        <p>{product.brand || 'Marca no informada'}</p>
+                        {product.net_content || product.unit ? (
+                          <p>Formato: {[product.net_content, product.unit].filter(Boolean).join(' ')}</p>
+                        ) : null}
+                        {hasListPrice ? <p>Precio lista: {formatCurrency(listPrice)}</p> : null}
+                      </div>
+                    </div>
+
+                    <div className="mt-4 flex flex-wrap items-center gap-2">
+                      <button
+                        type="button"
+                        onClick={() => addProductToCart(product)}
+                        className="inline-flex items-center gap-2 rounded-xl bg-brand px-3 py-2 text-sm font-bold text-white transition hover:bg-brandDark"
+                      >
+                        <Plus className="h-4 w-4" />
+                        Agregar
+                      </button>
+                      {productLink ? (
+                        <a
+                          href={productLink}
+                          target="_blank"
+                          rel="noreferrer"
+                          className="inline-flex items-center gap-1 rounded-xl border border-slate-200 px-3 py-2 text-sm font-bold text-slate-600 transition hover:border-brand hover:text-brand"
+                        >
+                          Ver producto
+                          <ExternalLink className="h-3.5 w-3.5" />
+                        </a>
+                      ) : null}
+                    </div>
+                  </article>
+                )
+              })}
+            </div>
+          ) : (
+            <div className="rounded-2xl border border-dashed border-[#d9c7ca] bg-[#fbf7f4] p-8 text-center text-sm text-muted">
+              {productLoading ? 'Cargando productos...' : 'No hay productos para mostrar.'}
+            </div>
+          )}
         </SectionCard>
       </div>
     </main>

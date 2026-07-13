@@ -112,7 +112,7 @@ def search_products(
     limit: int = 30,
 ) -> list[dict[str, Any]]:
     df = load_dataset("consolidado")
-    if df.empty or not query.strip():
+    if df.empty:
         return []
 
     filtered = df.copy()
