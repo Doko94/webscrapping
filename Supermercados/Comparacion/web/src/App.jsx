@@ -166,6 +166,54 @@ function parseCartText(value) {
 
 const PRODUCT_COLUMN_MARKETS = ['jumbo', 'unimarc', 'lider']
 
+const MARKET_BRANDS = {
+  jumbo: {
+    name: 'Jumbo',
+    logo: 'https://www.jumbo.cl/ce0bf5ec7263d616cad0.svg',
+  },
+  unimarc: {
+    name: 'Unimarc',
+    logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1c/Unimarc_logo.svg',
+  },
+  lider: {
+    name: 'Lider',
+    logo: 'https://i5.walmartimages.com/dfw/63fd9f59-d262/67b16aa4-b90c-4967-b084-ac9d9f16991c/v1/chile-lider-logo.svg',
+  },
+}
+
+function getMarketBrand(market) {
+  const key = normalizeText(market)
+  return MARKET_BRANDS[key] ?? { name: market ?? '—', logo: null }
+}
+
+function MarketLogo({ market, className = 'h-7 max-w-[88px]' }) {
+  const brand = getMarketBrand(market)
+  if (!brand.logo) return null
+
+  return (
+    <img
+      src={brand.logo}
+      alt={`Logo ${brand.name}`}
+      className={`shrink-0 object-contain ${className}`}
+      loading="lazy"
+      onError={(event) => {
+        event.currentTarget.style.display = 'none'
+      }}
+    />
+  )
+}
+
+function MarketLabel({ market, className = '', logoClassName = '' }) {
+  const brand = getMarketBrand(market)
+
+  return (
+    <span className={`inline-flex min-w-0 items-center gap-2 ${className}`}>
+      <MarketLogo market={market} className={logoClassName || 'h-7 max-w-[88px]'} />
+      <span className="truncate capitalize">{brand.name}</span>
+    </span>
+  )
+}
+
 function RecommendationCard({ label, market, amount, helper, tone = 'default' }) {
   const toneClass = tone === 'primary' ? 'border-brand bg-[#fff3f0]' : 'border-[#ead9d7] bg-white/90'
 
@@ -173,7 +221,11 @@ function RecommendationCard({ label, market, amount, helper, tone = 'default' })
     <article className={`rounded-2xl border p-5 shadow-soft ${toneClass}`}>
       <p className="text-sm font-semibold text-plum">{label}</p>
       <div className="mt-3 flex items-end justify-between gap-3">
-        <p className="text-3xl font-black capitalize tracking-tight text-ink">{market ?? '—'}</p>
+        <MarketLabel
+          market={market}
+          className="text-3xl font-black tracking-tight text-ink"
+          logoClassName="h-10 max-w-[110px] rounded-lg bg-white p-1 shadow-sm"
+        />
         <p className="text-lg font-bold text-brand">{amount ?? '—'}</p>
       </div>
       {helper ? <p className="mt-3 text-sm leading-relaxed text-muted">{helper}</p> : null}
@@ -476,7 +528,11 @@ export default function App() {
                               }`}
                             >
                               <div className="flex items-start justify-between gap-3">
-                                <p className="font-bold capitalize text-ink">{supermarket}</p>
+                                <MarketLabel
+                                  market={supermarket}
+                                  className="font-bold text-ink"
+                                  logoClassName="h-6 max-w-[78px]"
+                                />
                                 {product ? (
                                   <div className="text-right">
                                     <p className="font-black text-ink">
@@ -547,7 +603,11 @@ export default function App() {
                               isLowestTotal ? 'bg-emerald-800 text-white ring-1 ring-emerald-950' : 'bg-white text-slate-700'
                             }`}
                           >
-                            <span className="font-bold capitalize">{item.supermarket}</span>
+                            <MarketLabel
+                              market={item.supermarket}
+                              className="font-bold"
+                              logoClassName={`h-5 max-w-[72px] ${isLowestTotal ? 'rounded bg-white p-0.5' : ''}`}
+                            />
                             <span className="text-right">
                               <span className="block font-black">{item.found ? formatCurrency(item.total) : '—'}</span>
                               <span className="text-xs">{item.found} de {item.expected} productos</span>
@@ -609,7 +669,11 @@ export default function App() {
                 return (
                   <section key={supermarket} className="rounded-2xl border border-slate-200 bg-[#fbf7f4] p-3">
                     <div className="mb-3 flex items-center justify-between gap-3 px-1">
-                      <h3 className="text-lg font-black capitalize text-ink">{supermarket}</h3>
+                      <MarketLabel
+                        market={supermarket}
+                        className="text-lg font-black text-ink"
+                        logoClassName="h-8 max-w-[104px] rounded-lg bg-white p-1 shadow-sm"
+                      />
                       <span className="rounded-full bg-white px-3 py-1 text-xs font-bold text-muted">
                         {products.length.toLocaleString('es-CL')} visibles
                       </span>
