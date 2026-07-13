@@ -11,12 +11,13 @@ from typing import List, Optional, Tuple
 
 from playwright.async_api import async_playwright, Browser, BrowserContext, Page
 from cached_subcategories import load_cached_product_rows, load_cached_subcategories
+from lider_api_capture import capture_product_response_rows
 
 
 OUTPUT_DIR = Path(os.getenv("SCRAPER_OUTPUT_DIR", "output/colaciones"))
 BASE = "https://super.lider.cl"
 
-HEADLESS = True
+HEADLESS = os.getenv("LIDER_HEADLESS", "1").strip().lower() not in {"0", "false", "no"}
 DEBUG = True
 OUT_PREFIX = "lider_colaciones"
 
@@ -730,6 +731,37 @@ async def scrape_subcategory(browser: Browser, group: str, name: str, url: str) 
     page = await context.new_page()
 
     try:
+        json_rows, source_json_url = await capture_product_response_rows(page, url, BASE)
+        await dismiss_possible_popups(page)
+
+        if await is_blocked(page):
+            if DEBUG:
+                print(f"[BLOCKED] [{group}] {name} -> {page.url}")
+            return [], True
+
+        if json_rows:
+            if DEBUG:
+                print(f"[JSON] [{group}] {name}: {len(json_rows)} productos desde API")
+            out = []
+            seen = set()
+            for r in json_rows:
+                sku = r.get("sku")
+                if not sku or sku in seen:
+                    continue
+                seen.add(sku)
+                rr = dict(r)
+                rr.update(
+                    {
+                        "subcat_name": f"{group} > {name}",
+                        "subcat_url": page.url,
+                        "source_json_url": source_json_url,
+                        "page_num": 1,
+                        "extracted_at": now_iso(),
+                    }
+                )
+                out.append(rr)
+            return out, False
+
         await page.goto(url, wait_until="domcontentloaded", timeout=120000)
         await dismiss_possible_popups(page)
         await page.wait_for_timeout(2500)
@@ -907,6 +939,8 @@ async def main():
         if not out_rows:
             print("[WARN] La corrida termino sin productos nuevos; se reutilizara el ultimo CSV no vacio.")
             out_rows = load_cached_product_rows(OUTPUT_DIR)
+        if not out_rows:
+            raise RuntimeError("No se obtuvieron productos frescos. El sitio pudo estar bloqueado o sin respuestas de productos.")
 
 
         ts = datetime.now().strftime("%Y%m%d_%H%M%S")

@@ -15,7 +15,7 @@ from cached_subcategories import load_cached_product_rows, load_cached_subcatego
 OUTPUT_DIR = Path(os.getenv("SCRAPER_OUTPUT_DIR", "output/frutas_y_verduras"))
 BASE = "https://super.lider.cl"
 
-HEADLESS = True
+HEADLESS = os.getenv("LIDER_HEADLESS", "1").strip().lower() not in {"0", "false", "no"}
 DEBUG = True
 OUT_PREFIX = "lider_frutas_y_verduras"
 
@@ -889,6 +889,8 @@ async def main():
         if not out_rows:
             print("[WARN] La corrida termino sin productos nuevos; se reutilizara el ultimo CSV no vacio.")
             out_rows = load_cached_product_rows(OUTPUT_DIR)
+        if not out_rows:
+            raise RuntimeError("No se obtuvieron productos frescos. El sitio pudo estar bloqueado o sin respuestas de productos.")
 
 
         ts = datetime.now().strftime("%Y%m%d_%H%M%S")

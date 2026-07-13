@@ -1,4 +1,5 @@
 import csv
+import os
 from pathlib import Path
 from typing import List
 
@@ -83,6 +84,10 @@ def load_cached_subcategories(output_dir: Path, category_name: str, category_lan
 
 def load_cached_product_rows(output_dir: Path) -> List[dict]:
     """Return rows from the newest non-empty CSV in a category output folder."""
+    if os.getenv("LIDER_ALLOW_PRODUCT_CACHE", "0").strip().lower() not in {"1", "true", "yes", "si"}:
+        print("[WARN] Cache de productos desactivado. Define LIDER_ALLOW_PRODUCT_CACHE=1 solo si aceptas datos historicos.")
+        return []
+
     output_path = _resolve_output_dir(output_dir)
     if not output_path.exists():
         return []
