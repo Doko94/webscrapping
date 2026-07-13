@@ -179,7 +179,7 @@ const MARKET_BRANDS = {
   },
   lider: {
     name: 'Lider',
-    logo: 'https://i5.walmartimages.com/dfw/63fd9f59-d262/67b16aa4-b90c-4967-b084-ac9d9f16991c/v1/chile-lider-logo.svg',
+    symbol: 'liderSpark',
   },
 }
 
@@ -190,8 +190,33 @@ function getMarketBrand(market) {
 
 function MarketLogo({ market, className = 'h-7 max-w-[88px]' }) {
   const brand = getMarketBrand(market)
-  const logos = [brand.logo, ...(brand.fallbackLogos ?? [])].filter(Boolean)
   const [logoIndex, setLogoIndex] = useState(0)
+
+  if (brand.symbol === 'liderSpark') {
+    return (
+      <svg
+        viewBox="0 0 64 64"
+        className={`shrink-0 ${className}`}
+        aria-label={`Logo ${brand.name}`}
+        role="img"
+      >
+        {[0, 60, 120, 180, 240, 300].map((angle) => (
+          <rect
+            key={angle}
+            x="28"
+            y="6"
+            width="8"
+            height="22"
+            rx="4"
+            fill="#ffc220"
+            transform={`rotate(${angle} 32 32)`}
+          />
+        ))}
+      </svg>
+    )
+  }
+
+  const logos = [brand.logo, ...(brand.fallbackLogos ?? [])].filter(Boolean)
   const logo = logos[logoIndex]
 
   if (!logo) return null
