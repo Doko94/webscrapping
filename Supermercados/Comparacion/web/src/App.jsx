@@ -25,6 +25,12 @@ function priceNumber(value) {
   return Number.isNaN(parsed) ? Number.POSITIVE_INFINITY : parsed
 }
 
+function listPriceNumber(product) {
+  const listPrice = priceNumber(product?.list_price)
+  if (Number.isFinite(listPrice) && listPrice > 0) return listPrice
+  return priceNumber(product?.price)
+}
+
 function normalizeText(value) {
   return String(value ?? '')
     .normalize('NFD')
@@ -108,13 +114,16 @@ function productMatchesQuery(product, query) {
 }
 
 function estimateComparablePrice(product, targetSize) {
-  const productPrice = priceNumber(product?.price)
+  const productPrice = listPriceNumber(product)
+  const detectedPrice = priceNumber(product?.price)
   const productSize = extractProductSize(product)
 
   if (!Number.isFinite(productPrice)) {
     return {
       productSize,
       estimatedPrice: Number.POSITIVE_INFINITY,
+      detectedPrice,
+      estimatedDetectedPrice: Number.POSITIVE_INFINITY,
       comparable: false,
     }
   }
@@ -123,6 +132,8 @@ function estimateComparablePrice(product, targetSize) {
     return {
       productSize,
       estimatedPrice: productPrice,
+      detectedPrice,
+      estimatedDetectedPrice: detectedPrice,
       comparable: false,
     }
   }
@@ -130,6 +141,8 @@ function estimateComparablePrice(product, targetSize) {
   return {
     productSize,
     estimatedPrice: productPrice * (targetSize.amount / productSize.amount),
+    detectedPrice,
+    estimatedDetectedPrice: Number.isFinite(detectedPrice) ? detectedPrice * (targetSize.amount / productSize.amount) : Number.POSITIVE_INFINITY,
     comparable: true,
   }
 }
@@ -400,7 +413,7 @@ export default function App() {
                                 {product ? (
                                   <div className="text-right">
                                     <p className="font-black text-ink">
-                                      {option.comparable ? formatCurrency(option.estimatedPrice) : formatCurrency(product.price)}
+                                      {option.comparable ? formatCurrency(option.estimatedPrice) : formatCurrency(listPriceNumber(product))}
                                     </p>
                                     {isLowest ? (
                                       <span className="mt-1 inline-flex rounded-full bg-emerald-900 px-2 py-0.5 text-[11px] font-bold text-white">
@@ -418,8 +431,14 @@ export default function App() {
                                       ? `Estimado para ${formatSize(row.targetSize)} · envase ${formatSize(option.productSize)}`
                                       : `Envase ${formatSize(option.productSize)} · sin equivalencia`}
                                   </p>
-                                  {option.comparable ? (
-                                    <p className="mt-1 text-slate-400">Precio envase: {formatCurrency(product.price)}</p>
+                                  <p className="mt-1 text-slate-400">Precio lista envase: {formatCurrency(listPriceNumber(product))}</p>
+                                  {Number.isFinite(option.detectedPrice) && option.detectedPrice !== listPriceNumber(product) ? (
+                                    <p className="mt-1 text-slate-400">
+                                      Precio detectado/oferta: {formatCurrency(option.detectedPrice)}
+                                      {option.comparable && Number.isFinite(option.estimatedDetectedPrice)
+                                        ? ` · estimado ${formatCurrency(option.estimatedDetectedPrice)}`
+                                        : ''}
+                                    </p>
                                   ) : null}
                                   <p className="mt-1 flex flex-wrap items-center gap-1 text-slate-500">
                                     <span className="font-semibold text-slate-600">Link:</span>

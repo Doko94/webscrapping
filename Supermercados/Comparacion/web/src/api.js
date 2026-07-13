@@ -36,6 +36,12 @@ function priceNumber(value) {
   return Number.isNaN(parsed) ? Number.POSITIVE_INFINITY : parsed
 }
 
+function listPriceNumber(item) {
+  const listPrice = priceNumber(item?.list_price)
+  if (Number.isFinite(listPrice) && listPrice > 0) return listPrice
+  return priceNumber(item?.price)
+}
+
 async function getProductsIndex() {
   if (!productsIndexCache) {
     productsIndexCache = await requestStatic('products_index.json')
@@ -85,7 +91,7 @@ export async function searchProducts(query, supermarket = '', limit = 30) {
 
         return haystack.includes(normalizedQuery)
       })
-      .sort((a, b) => priceNumber(a.price) - priceNumber(b.price))
+      .sort((a, b) => listPriceNumber(a) - listPriceNumber(b))
       .slice(0, limit)
 
     return { query, items }
