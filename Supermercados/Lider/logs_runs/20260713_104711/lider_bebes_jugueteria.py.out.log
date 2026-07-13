@@ -1,0 +1,18 @@
+[WARN] No se pudieron descubrir subcategorías online: Home de Lider bloqueado por anti-bot
+[WARN] Usando 33 subcategorías cacheadas desde output\mundo_bebe_jugueteria
+
+[1/33] Scrape: [Pañales y Toallas Húmedas] Pañales
+[BLOCKED] [Pañales y Toallas Húmedas] Pañales -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9tdW5kby1iZWJlLXktanVndWV0ZXJpYS9wYW5hbGVzLXktdG9hbGxhcy1odW1lZGFzL3BhbmFsZXMvMTE3ODA0ODRfMTI2NzExNzBfODI2NDk3NzY=&uuid=bfa0a2c0-7ec9-11f1-ba51-ed8e65302d48&vid=&g=b
+  bloqueado por anti-bot
+
+[2/33] Scrape: [Pañales y Toallas Húmedas] Toallas Húmedas
+[BLOCKED] [Pañales y Toallas Húmedas] Toallas Húmedas -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9tdW5kby1iZWJlLXktanVndWV0ZXJpYS9wYW5hbGVzLXktdG9hbGxhcy1odW1lZGFzL3RvYWxsYXMtaHVtZWRhcy8xMTc4MDQ4NF8xMjY3MTE3MF82MjUxODg5MA==&uuid=cf1ad3b3-7ec9-11f1-a8f7-8780b64ddf18&vid=&g=b
+  bloqueado por anti-bot
+
+[3/33] Scrape: [Pañales y Toallas Húmedas] Colados Picados y Aceites
+[BLOCKED] [Pañales y Toallas Húmedas] Colados Picados y Aceites -> https://super.lider.cl/blocked?url=L2Jyb3dzZS9tdW5kby1iZWJlLXktanVndWV0ZXJpYS9hbGltZW50YWNpb24teS1sYWN0YW5jaWEvY29sYWRvcy1waWNhZG9zLXktYWNlaXRlcy8xMTc4MDQ4NF8yMzU4NjgyMl81NDA1MTQxNQ==&uuid=dbc4fd25-7ec9-11f1-a36e-0e74b8cf1562&vid=&g=b
+  bloqueado por anti-bot
+
+Demasiados bloqueos consecutivos. Se detiene el scraping.
+[WARN] La corrida termino sin productos nuevos; se reutilizara el ultimo CSV no vacio.
+[WARN] Cache de productos desactivado. Define LIDER_ALLOW_PRODUCT_CACHE=1 solo si aceptas datos historicos.

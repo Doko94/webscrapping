@@ -11,6 +11,7 @@ from urllib.parse import urljoin
 
 from playwright.async_api import async_playwright, Browser, BrowserContext, Page
 from cached_subcategories import load_cached_product_rows, load_cached_subcategories
+from lider_manual_challenge import wait_for_manual_unblock
 
 OUTPUT_DIR = Path(os.getenv("SCRAPER_OUTPUT_DIR", "output/frescos_y_lacteos"))
 BASE = "https://super.lider.cl"
@@ -753,9 +754,12 @@ async def scrape_subcategory(browser: Browser, group: str, name: str, url: str) 
 
         captures = await capture_product_responses(page, url)
         if await is_blocked(page):
-            if DEBUG:
-                print(f"[BLOCKED] [{group}] {name} -> {page.url}")
-            return [], True
+            if await wait_for_manual_unblock(page, f"{group} > {name}"):
+                await dismiss_possible_popups(page)
+            else:
+                if DEBUG:
+                    print(f"[BLOCKED] [{group}] {name} -> {page.url}")
+                return [], True
 
         best_capture = pick_best_capture(captures)
 
