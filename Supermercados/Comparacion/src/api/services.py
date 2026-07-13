@@ -97,6 +97,15 @@ def product_summary() -> dict[str, Any]:
     return summary
 
 
+def search_tokens(value: str) -> list[str]:
+    stop_words = {"de", "del", "la", "las", "el", "los", "y"}
+    return [
+        token
+        for token in normalize_text(value).split()
+        if len(token) > 1 and token not in stop_words
+    ]
+
+
 def search_products(
     query: str,
     supermarket: str | None = None,
@@ -116,9 +125,13 @@ def search_products(
         return []
 
     normalized_query = normalize_text(query)
-    mask = pd.Series(False, index=filtered.index)
-    for col in cols:
-        mask = mask | filtered[col].astype(str).str.lower().str.contains(normalized_query, na=False, regex=False)
+    query_tokens = search_tokens(query)
+    haystack = filtered[cols].fillna("").astype(str).agg(" ".join, axis=1).map(normalize_text)
+
+    if query_tokens:
+        mask = haystack.map(lambda value: all(token in value for token in query_tokens))
+    else:
+        mask = haystack.str.contains(normalized_query, na=False, regex=False)
 
     filtered = filtered[mask].copy()
     if filtered.empty:

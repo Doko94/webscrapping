@@ -31,6 +31,14 @@ function normalizeText(value) {
     .trim()
 }
 
+function searchTokens(value) {
+  const stopWords = new Set(['de', 'del', 'la', 'las', 'el', 'los', 'y'])
+  return normalizeText(value)
+    .split(/\s+/)
+    .map((token) => token.trim())
+    .filter((token) => token.length > 1 && !stopWords.has(token))
+}
+
 function priceNumber(value) {
   const parsed = Number(String(value ?? '').replace(/\./g, '').replace(',', '.'))
   return Number.isNaN(parsed) ? Number.POSITIVE_INFINITY : parsed
@@ -65,6 +73,7 @@ export function getProductSummary() {
 export async function searchProducts(query, supermarket = '', limit = 30) {
   if (DATA_MODE === 'static') {
     const normalizedQuery = normalizeText(query)
+    const queryTokens = searchTokens(query)
     const normalizedMarket = normalizeText(supermarket)
     const rows = await getProductsIndex()
 
@@ -82,6 +91,10 @@ export async function searchProducts(query, supermarket = '', limit = 30) {
         ]
           .map(normalizeText)
           .join(' ')
+
+        if (queryTokens.length) {
+          return queryTokens.every((token) => haystack.includes(token))
+        }
 
         return haystack.includes(normalizedQuery)
       })

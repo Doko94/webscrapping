@@ -33,6 +33,14 @@ function normalizeText(value) {
     .trim()
 }
 
+function searchTokens(value) {
+  const stopWords = new Set(['de', 'del', 'la', 'las', 'el', 'los', 'y'])
+  return normalizeText(value)
+    .split(/\s+/)
+    .map((token) => token.trim())
+    .filter((token) => token.length > 1 && !stopWords.has(token))
+}
+
 function normalizeUnit(unit) {
   const clean = normalizeText(unit).replace(/\./g, '')
   if (['kg', 'kilo', 'kilos'].includes(clean)) return { family: 'mass', unit: 'kg', factor: 1000 }
@@ -101,10 +109,9 @@ function parseCartLine(value) {
 
 function productMatchesQuery(product, query) {
   const haystack = normalizeText(product?.name)
-  return normalizeText(query)
-    .split(/\s+/)
-    .filter(Boolean)
-    .every((token) => haystack.includes(token))
+  const tokens = searchTokens(query)
+  if (!tokens.length) return haystack.includes(normalizeText(query))
+  return tokens.every((token) => haystack.includes(token))
 }
 
 function estimateComparablePrice(product, targetSize) {
