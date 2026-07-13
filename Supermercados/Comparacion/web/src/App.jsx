@@ -130,10 +130,6 @@ function estimateComparablePrice(product, targetSize) {
   }
 }
 
-function Muted({ children }) {
-  return <span className="text-slate-400">{children}</span>
-}
-
 function formatItemsCoverage(found, total, formattedPct) {
   if (found === null || found === undefined || total === null || total === undefined) return '—'
   return `${Number(found).toLocaleString('es-CL')} de ${Number(total).toLocaleString('es-CL')} (${formattedPct ?? '—'})`
@@ -337,10 +333,10 @@ export default function App() {
 
         <SectionCard
           title="Armar carrito y comparar"
-          description="Ingresa tu lista de compra con formato objetivo. La tabla estima precios comparables por supermercado y destaca la alternativa más conveniente para cada producto."
+          description="Ingresa tu lista de compra con formato objetivo. La vista estima precios comparables por supermercado y destaca la alternativa más conveniente para cada producto."
         >
-          <form onSubmit={buildCart} className="grid gap-4 lg:grid-cols-[minmax(280px,0.8fr)_1.2fr]">
-            <div className="space-y-3">
+          <form onSubmit={buildCart} className="space-y-4">
+            <div className="max-w-3xl space-y-3">
               <textarea
                 value={cartText}
                 onChange={(event) => setCartText(event.target.value)}
@@ -370,8 +366,8 @@ export default function App() {
               </button>
             </div>
 
-            <div className="overflow-hidden rounded-2xl border border-slate-200">
-              <div className="divide-y divide-slate-100 bg-white md:hidden">
+            <div className="overflow-hidden rounded-2xl border border-slate-200 bg-white">
+              <div className="divide-y divide-slate-100">
                 {cartRows.length ? (
                   cartRows.map((row) => (
                     <article key={`${row.query}-mobile`} className="p-4">
@@ -381,7 +377,7 @@ export default function App() {
                           Objetivo: {row.targetSize ? formatSize(row.targetSize) : 'sin formato'}
                         </p>
                       </div>
-                      <div className="space-y-2">
+                      <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-3">
                         {supermarketNames.map((supermarket) => {
                           const option = row.markets?.[supermarket]
                           const product = option?.product
@@ -391,7 +387,7 @@ export default function App() {
                             <div
                               key={supermarket}
                               className={`rounded-xl border p-3 ${
-                                isLowest ? 'border-emerald-200 bg-emerald-50' : 'border-slate-200 bg-white'
+                                isLowest ? 'border-emerald-700 bg-emerald-100' : 'border-slate-200 bg-white'
                               }`}
                             >
                               <div className="flex items-start justify-between gap-3">
@@ -402,7 +398,7 @@ export default function App() {
                                       {option.comparable ? formatCurrency(option.estimatedPrice) : formatCurrency(product.price)}
                                     </p>
                                     {isLowest ? (
-                                      <span className="mt-1 inline-flex rounded-full bg-emerald-600 px-2 py-0.5 text-[11px] font-bold text-white">
+                                      <span className="mt-1 inline-flex rounded-full bg-emerald-900 px-2 py-0.5 text-[11px] font-bold text-white">
                                         menor
                                       </span>
                                     ) : null}
@@ -439,7 +435,7 @@ export default function App() {
                 {cartRows.length ? (
                   <div className="bg-[#fbf0ed] p-4">
                     <p className="mb-3 font-bold text-ink">Total productos encontrados</p>
-                    <div className="space-y-2">
+                    <div className="grid gap-2 md:grid-cols-3">
                       {cartTotals.map((item) => {
                         const isLowestTotal = item.found === item.expected && item.total === lowestCartTotal
 
@@ -447,7 +443,7 @@ export default function App() {
                           <div
                             key={item.supermarket}
                             className={`flex items-center justify-between rounded-xl px-3 py-2 ${
-                              isLowestTotal ? 'bg-emerald-100 text-emerald-950' : 'bg-white text-slate-700'
+                              isLowestTotal ? 'bg-emerald-800 text-white ring-1 ring-emerald-950' : 'bg-white text-slate-700'
                             }`}
                           >
                             <span className="font-bold capitalize">{item.supermarket}</span>
@@ -461,106 +457,6 @@ export default function App() {
                     </div>
                   </div>
                 ) : null}
-              </div>
-
-              <div className="overflow-x-auto">
-                <table className="hidden min-w-full divide-y divide-slate-200 text-sm md:table">
-                  <thead className="bg-slate-50">
-                    <tr>
-                      <th className="whitespace-nowrap px-4 py-3 text-left font-semibold text-slate-700">Producto buscado</th>
-                      {supermarketNames.map((supermarket) => (
-                        <th key={supermarket} className="whitespace-nowrap px-4 py-3 text-left font-semibold capitalize text-slate-700">
-                          {supermarket}
-                        </th>
-                      ))}
-                    </tr>
-                  </thead>
-                  <tbody className="divide-y divide-slate-100 bg-white">
-                    {cartRows.length ? (
-                      cartRows.map((row) => (
-                        <tr key={row.query}>
-                          <td className="px-4 py-3 align-top">
-                            <p className="font-semibold text-ink">{row.searchTerm}</p>
-                            <p className="mt-1 text-xs text-slate-500">
-                              Objetivo: {row.targetSize ? formatSize(row.targetSize) : 'sin formato'}
-                            </p>
-                          </td>
-                          {supermarketNames.map((supermarket) => {
-                            const option = row.markets?.[supermarket]
-                            const product = option?.product
-                            const isLowest = row.cheapestMarket === supermarket
-
-                            return (
-                              <td
-                                key={supermarket}
-                                className={`min-w-[230px] px-4 py-3 align-top ${
-                                  isLowest ? 'bg-emerald-50 text-emerald-950' : 'text-slate-700'
-                                }`}
-                              >
-                                {product ? (
-                                  <div>
-                                    <div className="flex items-center gap-2">
-                                      <span className="font-bold">
-                                        {option.comparable ? formatCurrency(option.estimatedPrice) : formatCurrency(product.price)}
-                                      </span>
-                                      {isLowest ? (
-                                        <span className="rounded-full bg-emerald-600 px-2 py-0.5 text-[11px] font-bold text-white">
-                                          menor
-                                        </span>
-                                      ) : null}
-                                    </div>
-                                    <p className="mt-1 text-xs font-medium text-slate-500">
-                                      {option.comparable
-                                        ? `Estimado para ${formatSize(row.targetSize)} · envase ${formatSize(option.productSize)}`
-                                        : `Envase ${formatSize(option.productSize)} · sin equivalencia`}
-                                    </p>
-                                    {option.comparable ? (
-                                      <p className="mt-1 text-xs text-slate-400">Precio envase: {formatCurrency(product.price)}</p>
-                                    ) : null}
-                                    <p className="mt-1 max-w-[260px] text-xs leading-snug">{product.name}</p>
-                                    <p className="mt-1 text-xs text-slate-400">{product.brand || 'Marca no informada'}</p>
-                                  </div>
-                                ) : (
-                                  <Muted>Sin resultado</Muted>
-                                )}
-                              </td>
-                            )
-                          })}
-                        </tr>
-                      ))
-                    ) : (
-                      <tr>
-                        <td colSpan={supermarketNames.length + 1} className="px-4 py-8 text-center text-muted">
-                          Presiona “Comparar carrito” para ver precios por supermercado.
-                        </td>
-                      </tr>
-                    )}
-                  </tbody>
-                  {cartRows.length ? (
-                    <tfoot className="bg-slate-50">
-                      <tr>
-                        <td className="px-4 py-3 font-bold text-ink">Total productos encontrados</td>
-                        {cartTotals.map((item) => {
-                          const isLowestTotal = item.found === item.expected && item.total === lowestCartTotal
-
-                          return (
-                            <td
-                              key={item.supermarket}
-                              className={`px-4 py-3 font-bold ${
-                                isLowestTotal ? 'bg-emerald-100 text-emerald-950' : 'text-slate-700'
-                              }`}
-                            >
-                              <div>{item.found ? formatCurrency(item.total) : '—'}</div>
-                              <div className="mt-1 text-xs font-medium text-slate-500">
-                                {item.found} de {item.expected} productos
-                              </div>
-                            </td>
-                          )
-                        })}
-                      </tr>
-                    </tfoot>
-                  ) : null}
-                </table>
               </div>
             </div>
           </form>
