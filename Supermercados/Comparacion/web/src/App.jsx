@@ -165,11 +165,13 @@ function parseCartText(value) {
 }
 
 const PRODUCT_COLUMN_MARKETS = ['jumbo', 'unimarc', 'lider']
+const MOBILE_PRODUCT_STEP = 6
 
 const MARKET_BRANDS = {
   jumbo: {
     name: 'Jumbo',
-    logo: 'https://www.jumbo.cl/ce0bf5ec7263d616cad0.svg',
+    logo: 'https://banner2.cleanpng.com/20180817/iqr/kisspng-brand-logo-supermarket-jumbo-lder-5b776c04b08db1.9090378715345530927232.jpg',
+    fallbackLogos: ['https://www.jumbo.cl/ce0bf5ec7263d616cad0.svg'],
   },
   unimarc: {
     name: 'Unimarc',
@@ -188,16 +190,24 @@ function getMarketBrand(market) {
 
 function MarketLogo({ market, className = 'h-7 max-w-[88px]' }) {
   const brand = getMarketBrand(market)
-  if (!brand.logo) return null
+  const logos = [brand.logo, ...(brand.fallbackLogos ?? [])].filter(Boolean)
+  const [logoIndex, setLogoIndex] = useState(0)
+  const logo = logos[logoIndex]
+
+  if (!logo) return null
 
   return (
     <img
-      src={brand.logo}
+      src={logo}
       alt={`Logo ${brand.name}`}
       className={`shrink-0 object-contain ${className}`}
       loading="lazy"
       onError={(event) => {
-        event.currentTarget.style.display = 'none'
+        if (logoIndex < logos.length - 1) {
+          setLogoIndex((currentIndex) => currentIndex + 1)
+        } else {
+          event.currentTarget.style.display = 'none'
+        }
       }}
     />
   )
@@ -208,9 +218,63 @@ function MarketLabel({ market, className = '', logoClassName = '' }) {
 
   return (
     <span className={`inline-flex min-w-0 items-center gap-2 ${className}`}>
-      <MarketLogo market={market} className={logoClassName || 'h-7 max-w-[88px]'} />
+      {logoClassName === 'hidden' ? null : (
+        <MarketLogo market={market} className={logoClassName || 'h-7 max-w-[88px]'} />
+      )}
       <span className="truncate capitalize">{brand.name}</span>
     </span>
+  )
+}
+
+function ProductCard({ product, supermarket, onAdd }) {
+  const productLink = getProductLink(product)
+  const listPrice = priceNumber(product.list_price)
+  const currentPrice = priceNumber(product.price)
+  const hasListPrice = Number.isFinite(listPrice) && listPrice !== currentPrice
+
+  return (
+    <article className="flex min-h-[180px] flex-col justify-between rounded-xl border border-slate-200 bg-white p-4 shadow-soft">
+      <div>
+        <div className="mb-3 flex items-start justify-between gap-3">
+          <span className="rounded-full bg-[#fbf0ed] px-3 py-1 text-xs font-bold capitalize text-plum">
+            {supermarket}
+          </span>
+          <p className="text-right text-lg font-black text-ink">
+            {formatCurrency(product.price)}
+          </p>
+        </div>
+        <h4 className="text-sm font-bold leading-snug text-ink">{product.name}</h4>
+        <div className="mt-2 space-y-1 text-xs text-slate-500">
+          <p>{product.brand || 'Marca no informada'}</p>
+          {product.net_content || product.unit ? (
+            <p>Formato: {[product.net_content, product.unit].filter(Boolean).join(' ')}</p>
+          ) : null}
+          {hasListPrice ? <p>Precio lista: {formatCurrency(listPrice)}</p> : null}
+        </div>
+      </div>
+
+      <div className="mt-4 flex flex-wrap items-center gap-2">
+        <button
+          type="button"
+          onClick={() => onAdd(product)}
+          className="inline-flex items-center gap-2 rounded-xl bg-brand px-3 py-2 text-sm font-bold text-white transition hover:bg-brandDark"
+        >
+          <Plus className="h-4 w-4" />
+          Agregar
+        </button>
+        {productLink ? (
+          <a
+            href={productLink}
+            target="_blank"
+            rel="noreferrer"
+            className="inline-flex items-center gap-1 rounded-xl border border-slate-200 px-3 py-2 text-sm font-bold text-slate-600 transition hover:border-brand hover:text-brand"
+          >
+            Ver producto
+            <ExternalLink className="h-3.5 w-3.5" />
+          </a>
+        ) : null}
+      </div>
+    </article>
   )
 }
 
@@ -243,6 +307,8 @@ export default function App() {
   const [cartLoading, setCartLoading] = useState(false)
   const [productQuery, setProductQuery] = useState('')
   const [productGroups, setProductGroups] = useState({})
+  const [activeProductMarket, setActiveProductMarket] = useState(PRODUCT_COLUMN_MARKETS[0])
+  const [mobileProductLimit, setMobileProductLimit] = useState(MOBILE_PRODUCT_STEP)
   const [productLoading, setProductLoading] = useState(false)
   const [error, setError] = useState('')
 
@@ -317,6 +383,7 @@ export default function App() {
 
   function searchProductList(event) {
     event?.preventDefault()
+    setMobileProductLimit(MOBILE_PRODUCT_STEP)
     loadProducts(productQuery)
   }
 
@@ -393,6 +460,8 @@ export default function App() {
     (total, supermarket) => total + (productGroups[supermarket]?.length ?? 0),
     0,
   )
+  const activeProductRows = productGroups[activeProductMarket] ?? []
+  const activeMobileProductRows = activeProductRows.slice(0, mobileProductLimit)
   const cartItems = parseCartText(cartText)
   const cartTotals = supermarketNames.map((supermarket) => {
     const prices = cartRows
@@ -653,6 +722,7 @@ export default function App() {
               type="button"
               onClick={() => {
                 setProductQuery('')
+                setMobileProductLimit(MOBILE_PRODUCT_STEP)
                 loadProducts('')
               }}
               className="font-bold text-brand transition hover:text-brandDark"
@@ -662,89 +732,116 @@ export default function App() {
           </div>
 
           {productVisibleCount ? (
-            <div className="grid gap-4 lg:grid-cols-3">
-              {PRODUCT_COLUMN_MARKETS.map((supermarket) => {
-                const products = productGroups[supermarket] ?? []
+            <>
+              <div className="mb-4 grid grid-cols-3 gap-2 lg:hidden">
+                {PRODUCT_COLUMN_MARKETS.map((supermarket) => {
+                  const isActive = activeProductMarket === supermarket
+                  const products = productGroups[supermarket] ?? []
 
-                return (
-                  <section key={supermarket} className="rounded-2xl border border-slate-200 bg-[#fbf7f4] p-3">
-                    <div className="mb-3 flex items-center justify-between gap-3 px-1">
+                  return (
+                    <button
+                      key={supermarket}
+                      type="button"
+                      onClick={() => {
+                        setActiveProductMarket(supermarket)
+                        setMobileProductLimit(MOBILE_PRODUCT_STEP)
+                      }}
+                      className={`rounded-2xl border px-2 py-3 text-center transition ${
+                        isActive
+                          ? 'border-brand bg-[#fbf0ed] text-ink shadow-soft'
+                          : 'border-slate-200 bg-white text-muted'
+                      }`}
+                    >
                       <MarketLabel
                         market={supermarket}
-                        className="text-lg font-black text-ink"
-                        logoClassName="h-8 max-w-[104px] rounded-lg bg-white p-1 shadow-sm"
+                        className="justify-center text-sm font-black"
+                        logoClassName="hidden"
                       />
-                      <span className="rounded-full bg-white px-3 py-1 text-xs font-bold text-muted">
+                      <span className="mt-1 block text-[11px] font-bold">
                         {products.length.toLocaleString('es-CL')} visibles
                       </span>
-                    </div>
+                    </button>
+                  )
+                })}
+              </div>
 
-                    {products.length ? (
-                      <div className="space-y-3">
-                        {products.map((product, index) => {
-                          const productLink = getProductLink(product)
-                          const listPrice = priceNumber(product.list_price)
-                          const currentPrice = priceNumber(product.price)
-                          const hasListPrice = Number.isFinite(listPrice) && listPrice !== currentPrice
+              <section className="rounded-2xl border border-slate-200 bg-[#fbf7f4] p-3 lg:hidden">
+                <div className="mb-3 flex items-center justify-between gap-3 px-1">
+                  <MarketLabel
+                    market={activeProductMarket}
+                    className="text-lg font-black text-ink"
+                    logoClassName="h-8 max-w-[104px] rounded-lg bg-white p-1 shadow-sm"
+                  />
+                  <span className="rounded-full bg-white px-3 py-1 text-xs font-bold text-muted">
+                    {activeProductRows.length.toLocaleString('es-CL')} visibles
+                  </span>
+                </div>
 
-                          return (
-                            <article
+                {activeProductRows.length ? (
+                  <div className="space-y-3">
+                    {activeMobileProductRows.map((product, index) => (
+                      <ProductCard
+                        key={`${product.sku ?? product.name ?? 'product'}-${activeProductMarket}-${index}`}
+                        product={product}
+                        supermarket={activeProductMarket}
+                        onAdd={addProductToCart}
+                      />
+                    ))}
+                    {activeProductRows.length > activeMobileProductRows.length ? (
+                      <button
+                        type="button"
+                        onClick={() => setMobileProductLimit((currentLimit) => currentLimit + MOBILE_PRODUCT_STEP)}
+                        className="w-full rounded-xl border border-brand bg-white px-4 py-3 text-sm font-black text-brand transition hover:bg-[#fbf0ed]"
+                      >
+                        Ver más productos
+                      </button>
+                    ) : null}
+                  </div>
+                ) : (
+                  <div className="rounded-xl border border-dashed border-[#d9c7ca] bg-white p-6 text-center text-sm text-muted">
+                    Sin productos para esta búsqueda.
+                  </div>
+                )}
+              </section>
+
+              <div className="hidden gap-4 lg:grid lg:grid-cols-3">
+                {PRODUCT_COLUMN_MARKETS.map((supermarket) => {
+                  const products = productGroups[supermarket] ?? []
+
+                  return (
+                    <section key={supermarket} className="rounded-2xl border border-slate-200 bg-[#fbf7f4] p-3">
+                      <div className="mb-3 flex items-center justify-between gap-3 px-1">
+                        <MarketLabel
+                          market={supermarket}
+                          className="text-lg font-black text-ink"
+                          logoClassName="h-8 max-w-[104px] rounded-lg bg-white p-1 shadow-sm"
+                        />
+                        <span className="rounded-full bg-white px-3 py-1 text-xs font-bold text-muted">
+                          {products.length.toLocaleString('es-CL')} visibles
+                        </span>
+                      </div>
+
+                      {products.length ? (
+                        <div className="space-y-3">
+                          {products.map((product, index) => (
+                            <ProductCard
                               key={`${product.sku ?? product.name ?? 'product'}-${supermarket}-${index}`}
-                              className="flex min-h-[180px] flex-col justify-between rounded-xl border border-slate-200 bg-white p-4 shadow-soft"
-                            >
-                              <div>
-                                <div className="mb-3 flex items-start justify-between gap-3">
-                                  <span className="rounded-full bg-[#fbf0ed] px-3 py-1 text-xs font-bold capitalize text-plum">
-                                    {supermarket}
-                                  </span>
-                                  <p className="text-right text-lg font-black text-ink">
-                                    {formatCurrency(product.price)}
-                                  </p>
-                                </div>
-                                <h4 className="text-sm font-bold leading-snug text-ink">{product.name}</h4>
-                                <div className="mt-2 space-y-1 text-xs text-slate-500">
-                                  <p>{product.brand || 'Marca no informada'}</p>
-                                  {product.net_content || product.unit ? (
-                                    <p>Formato: {[product.net_content, product.unit].filter(Boolean).join(' ')}</p>
-                                  ) : null}
-                                  {hasListPrice ? <p>Precio lista: {formatCurrency(listPrice)}</p> : null}
-                                </div>
-                              </div>
-
-                              <div className="mt-4 flex flex-wrap items-center gap-2">
-                                <button
-                                  type="button"
-                                  onClick={() => addProductToCart(product)}
-                                  className="inline-flex items-center gap-2 rounded-xl bg-brand px-3 py-2 text-sm font-bold text-white transition hover:bg-brandDark"
-                                >
-                                  <Plus className="h-4 w-4" />
-                                  Agregar
-                                </button>
-                                {productLink ? (
-                                  <a
-                                    href={productLink}
-                                    target="_blank"
-                                    rel="noreferrer"
-                                    className="inline-flex items-center gap-1 rounded-xl border border-slate-200 px-3 py-2 text-sm font-bold text-slate-600 transition hover:border-brand hover:text-brand"
-                                  >
-                                    Ver producto
-                                    <ExternalLink className="h-3.5 w-3.5" />
-                                  </a>
-                                ) : null}
-                              </div>
-                            </article>
-                          )
-                        })}
-                      </div>
-                    ) : (
-                      <div className="rounded-xl border border-dashed border-[#d9c7ca] bg-white p-6 text-center text-sm text-muted">
-                        Sin productos para esta búsqueda.
-                      </div>
-                    )}
-                  </section>
-                )
-              })}
-            </div>
+                              product={product}
+                              supermarket={supermarket}
+                              onAdd={addProductToCart}
+                            />
+                          ))}
+                        </div>
+                      ) : (
+                        <div className="rounded-xl border border-dashed border-[#d9c7ca] bg-white p-6 text-center text-sm text-muted">
+                          Sin productos para esta búsqueda.
+                        </div>
+                      )}
+                    </section>
+                  )
+                })}
+              </div>
+            </>
           ) : (
             <div className="rounded-2xl border border-dashed border-[#d9c7ca] bg-[#fbf7f4] p-8 text-center text-sm text-muted">
               {productLoading ? 'Cargando productos...' : 'No hay productos para mostrar.'}
