@@ -125,9 +125,11 @@ def search_products(
         return []
 
     if "price" in filtered.columns:
-        filtered["price_num"] = to_numeric(filtered["list_price"]) if "list_price" in filtered.columns else pd.NA
-        fallback_price = to_numeric(filtered["price"])
-        filtered["price_num"] = filtered["price_num"].where(filtered["price_num"].notna() & (filtered["price_num"] > 0), fallback_price)
+        detected_price = to_numeric(filtered["price"])
+        list_price = to_numeric(filtered["list_price"]) if "list_price" in filtered.columns else pd.Series(pd.NA, index=filtered.index)
+        ratio = detected_price / list_price
+        use_list_price = detected_price.isna() | (detected_price <= 0) | ((list_price > 0) & (ratio <= 0.25))
+        filtered["price_num"] = detected_price.where(~use_list_price, list_price)
         filtered = filtered.sort_values(["price_num", "name"], na_position="last")
 
     visible_cols = [
@@ -165,9 +167,11 @@ def compare_product(query: str, limit_per_market: int = 5) -> dict[str, Any]:
 
     match_df = pd.DataFrame(matches)
     if "price" in match_df.columns:
-        match_df["price_num"] = to_numeric(match_df["list_price"]) if "list_price" in match_df.columns else pd.NA
-        fallback_price = to_numeric(match_df["price"])
-        match_df["price_num"] = match_df["price_num"].where(match_df["price_num"].notna() & (match_df["price_num"] > 0), fallback_price)
+        detected_price = to_numeric(match_df["price"])
+        list_price = to_numeric(match_df["list_price"]) if "list_price" in match_df.columns else pd.Series(pd.NA, index=match_df.index)
+        ratio = detected_price / list_price
+        use_list_price = detected_price.isna() | (detected_price <= 0) | ((list_price > 0) & (ratio <= 0.25))
+        match_df["price_num"] = detected_price.where(~use_list_price, list_price)
         match_df = match_df.sort_values(["supermarket", "price_num"], na_position="last")
 
     markets = []

@@ -36,10 +36,15 @@ function priceNumber(value) {
   return Number.isNaN(parsed) ? Number.POSITIVE_INFINITY : parsed
 }
 
-function listPriceNumber(item) {
+function referencePriceNumber(item) {
+  const detectedPrice = priceNumber(item?.price)
   const listPrice = priceNumber(item?.list_price)
-  if (Number.isFinite(listPrice) && listPrice > 0) return listPrice
-  return priceNumber(item?.price)
+
+  if (!Number.isFinite(detectedPrice) || detectedPrice <= 0) return listPrice
+  if (!Number.isFinite(listPrice) || listPrice <= 0) return detectedPrice
+
+  const ratio = detectedPrice / listPrice
+  return ratio <= 0.25 ? listPrice : detectedPrice
 }
 
 async function getProductsIndex() {
@@ -91,7 +96,7 @@ export async function searchProducts(query, supermarket = '', limit = 30) {
 
         return haystack.includes(normalizedQuery)
       })
-      .sort((a, b) => listPriceNumber(a) - listPriceNumber(b))
+      .sort((a, b) => referencePriceNumber(a) - referencePriceNumber(b))
       .slice(0, limit)
 
     return { query, items }
