@@ -139,6 +139,7 @@ def search_products(
 
     if "price" in filtered.columns:
         filtered["price_num"] = to_numeric(filtered["price"])
+        filtered.loc[filtered["price_num"] <= 0, "price_num"] = pd.NA
         filtered = filtered.sort_values(["price_num", "name"], na_position="last")
 
     visible_cols = [
